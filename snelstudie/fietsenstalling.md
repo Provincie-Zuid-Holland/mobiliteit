@@ -8,7 +8,7 @@ menu: |
 ---
 # Efficiënt gebruik fietsenstallingen
 
-Test of deze wijziging echt werkt versie 2
+Test of deze wijziging echt werkt versie 3. 
 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
