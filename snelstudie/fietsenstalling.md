@@ -172,7 +172,3 @@ Hoe krijgen we mensen op de deelfiets?
 ## Achtergrond info en links:
 - [Wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)
 - ...
-
-<br>
-> [!NOTE]
-> Test van note: Useful information that users should know, even when skimming content.
