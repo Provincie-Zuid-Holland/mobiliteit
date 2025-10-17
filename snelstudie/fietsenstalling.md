@@ -83,7 +83,7 @@ Aan de hand van het gebruikersprofiel hebben we grofweg 5 categorieën van gebru
   </tr>
   <tr>
     <td>Natransport</td>
-    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld worden deze fietsen 3,5 keer per week gebruikt (bron: [https://kennis.zuid-holland.nl/treingebruik-deelfiets/](https://kennis.zuid-holland.nl/treingebruik-deelfiets/) ).</td>
+    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld worden deze fietsen 3,5 keer per week gebruikt (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
     <td>3,5 x 24 = 84</td>
   </tr>
    <tr>
@@ -98,7 +98,7 @@ Aan de hand van het gebruikersprofiel hebben we grofweg 5 categorieën van gebru
   </tr>
     <tr>
     <td>Wisselfiets</td>
-    <td>[Wisselfietsen](https://kennis.zuid-holland.nl/wisselfiets/) zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de Wisselfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de Wisselfiets voor het laatste stukje van de reis gebruikt.</td>
+    <td>(<a href="https://kennis.zuid-holland.nl/wisselfiets/">Wisselfietsen</a> zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de Wisselfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de Wisselfiets voor het laatste stukje van de reis gebruikt.</td>
     <td>1</td>
   </tr>
 </table>
