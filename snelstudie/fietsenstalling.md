@@ -34,7 +34,7 @@ Voor meer informatie en meedoen: mail projectleider Igor Koster: Igor Koster I.K
 ## 2. De efficiëntie van fietsenstallingen 
 Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 1. Hoeveel ruimte een fiets inneemt
-2. Hoe lang (hoeveel uur) de fiets daar staat voor hij weer een rit maakt
+2. Hoe lang (hoeveel dagen) de fiets daar staat voor hij weer een rit maakt
 
 Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar mooi studie daarover.
 
@@ -74,37 +74,50 @@ Aan de hand van het gebruikersprofiel hebben we grofweg 5 categorieën van gebru
   <tr>
     <th style="min-width: 20%;">Categorie</th>
     <th >Omschrijving</th>
-    <th style="min-width: 15%;">Uren</th>
+    <th style="min-width: 10%;">Dagen</th>
+    <th style="min-width: 10%;">Rendement (ritten / dag)</th>
+
   </tr>
   <tr>
     <td>Voortransport</td>
     <td>Dit zijn gebruikers die hun privé fiets stallen bij het station in hun woonplaats, bijvoorbeeld als ze daarna met de trein naar werk of opleiding gaan.</td>
-    <td>10</td>
+    <td>1 dag</td>
+    <td>1</td>
+
   </tr>
   <tr>
     <td>Natransport</td>
     <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld worden deze fietsen 3,5 keer per week gebruikt (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
-    <td>3,5 x 24 = 84</td>
+    <td>3,5 dag</td>
+    <td>1/3</td>
+
   </tr>
    <tr>
     <td>OV-fiets</td>
     <td>Gebruikers die de OV-fiets pakken. OV-fietsen overnachten meestal op het station</td>
-    <td>14 (?)</td>
+    <td>1 tot 0,5</td>
+    <td>1 a 2</td>
+
   </tr>
    <tr>
     <td>Deelfietsen (anders dan OV-fiets)</td>
     <td>Gebruikers van andere type deelfietsen dan de ov-fiets, bijvoorbeeld van DonkeyRepublic.</td>
     <td>kort (?hoe lang)</td>
+    <td>1 a 2</td>
+
   </tr>
     <tr>
     <td>Wisselfiets</td>
     <td>(<a href="https://kennis.zuid-holland.nl/wisselfiets/">Wisselfietsen</a> zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de Wisselfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de Wisselfiets voor het laatste stukje van de reis gebruikt.</td>
-    <td>1</td>
+    <td>1 uur</td>
+    <td>3 - 15</td>
+
   </tr>
 </table>
 
 
 En nu blijkt dat de gemiddelde stallingsduur voor verschillende typen gebruik enorm varieert. En daarmee dus ook het rendement. 
+Het varieert van een heel slecht rendement voor 'tweede fietsjes' van 0,3 tot de wisselfiets die heel veel reizigers per dag kan accomoderen.
 
 Een simpele rekensom leert ons dat wanneer zo’n tweede fiets vervangen wordt door een deelfiets, die idealiter zo veel mogelijk gebruikt wordt, dit veel parkeerruimte kan schelen.   
 Enkele vormen van deelfietsen zijn er natuurlijk al beschikbaar, denk aan de OV-fiets of deelfietsen van DonkeyRebuplic of Felix. Echter zijn deze vaak nog niet aantrekkelijk genoeg om mensen van hun tweede fiets af te krijgen. De kosten zijn te hoog, het gemak te laag en de beschikbaarheid te onzeker. 
