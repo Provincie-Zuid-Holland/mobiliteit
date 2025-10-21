@@ -4,28 +4,17 @@
 {% endif %}
 
 {% capture blok %}
-  {% if include.img %}
-    <!-- Blok mét afbeelding -->
-    <div class="item single-block"{{ style }}>
-      <div class="item-left">
-        <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
-      </div>
-      <div class="item-right">
-        {% if include.title %}
-          <h2>{{ include.title }}</h2>
-        {% endif %}
-        <p>{{ include.text | markdownify }}</p>
-      </div>
+  <div class="item single-block"{{ style }}>
+    <div class="item-left">
+      <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
     </div>
-  {% else %}
-    <!-- Blok zónder afbeelding -->
-    <div class="item" style="background-color: #efcc36;"> <!-- geel -->
+    <div class="item-right">
       {% if include.title %}
         <h2>{{ include.title }}</h2>
       {% endif %}
-      <p>{{ include.text | markdownify }}</p>
+      <p>{{ include.text }}</p>
     </div>
-  {% endif %}
+  </div>
 {% endcapture %}
 
 {% if include.url %}

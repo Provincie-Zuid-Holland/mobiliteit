@@ -1,0 +1,37 @@
+{% assign style = '' %}
+{% if include.bg %}
+  {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
+{% endif %}
+
+{% capture blok %}
+   {% if include.img %}
+    <!-- Blok mét afbeelding -->
+    <div class="item single-block"{{ style }}>
+      <div class="item-left">
+        <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
+      </div>
+      <div class="item-right">
+        {% if include.title %}
+          <h2>{{ include.title }}</h2>
+        {% endif %}
+        <p>{{ include.text | markdownify }}</p>
+      </div>
+    </div>
+  {% else %}
+    <!-- Blok zónder afbeelding -->
+    <div class="item single-block no-image" style="background-color: #ffeb3b;"> <!-- geel -->
+      {% if include.title %}
+        <h2>{{ include.title }}</h2>
+      {% endif %}
+      <p>{{ include.text | markdownify }}</p>
+    </div>
+  {% endif %}
+{% endcapture %}
+
+{% if include.url %}
+  <a href="{{ include.url }}" class="item-link" style="text-decoration: none; color: inherit;">
+    {{ blok }}
+  </a>
+{% else %}
+  {{ blok }}
+{% endif %}
