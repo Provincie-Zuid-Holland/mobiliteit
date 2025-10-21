@@ -1,5 +1,5 @@
 ---
-layout: lijst
+layout: pzh
 title: Snelstudielijst
 header_image: \mobiliteit\img\zandmotorstrand.jpg
 menu: |
