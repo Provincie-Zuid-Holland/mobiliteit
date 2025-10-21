@@ -208,7 +208,7 @@ Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen
 {% include blok.html
    img="img/deelfiets_vaker_trein.jpg"
    title="Meer weten?"
-   text="Klik voor meer informatie over dit onderwerp. [link wisselfiets(https://kennis.zuid-holland.nl/wisselfiets/)]" %}
+   text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
 ## Bronnen
 
 Bronnen die interessant zouden zijn:
