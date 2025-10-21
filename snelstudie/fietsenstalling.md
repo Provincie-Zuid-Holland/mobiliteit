@@ -53,20 +53,16 @@ Rendement = (1 reiziger) / (aantal uur dat de fiets gestald staat)
 
 ## 3. Een analyse van de gebruikers en hun fiets
 ### Soorten fietsen
-Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet electrische) fietsen die vaak de rekken passen (maar niet altijd als zeeen kratje of bijvoorbeeld breed stuur hebben). Het aantal e-bikes neemt heel snel toe. Die komen meestal niet in de rekken terecht omdat het niet past. Buitenmodelfietsen zoals bakfietsen en fatbikes zien we ook steeds meer.
+Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet electrische) fietsen die vaak de rekken passen (maar niet altijd als ze een kratje of bijvoorbeeld breed stuur hebben). Het aantal e-bikes neemt heel snel toe. Die komen meestal niet in de rekken terecht omdat het niet past. Buitenmodelfietsen zoals bakfietsen en fatbikes zien we ook steeds meer.
 
-Echter geeft de duur van het stallen nog geen goed beeld van het type voorziening dat nodig is. Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
+Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
 
 
 {% include blok.html
    img="img/Figuurtypefietsen.jpg"
-   title="Verschilend ruimtebeslag?"
-   text="Verschillende soorten fietsen " %}
+   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen." %}
 
 
-<br>
-![iguur2](img\Figuurtypefietsen.jpg)
-<BR>
 Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit (bron: [https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ).  
 
 

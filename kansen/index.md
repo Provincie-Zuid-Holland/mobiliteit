@@ -1,5 +1,5 @@
 ---
-layout: lijst
+layout: pzh
 title: Kansen voor bereikbaarheid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
