@@ -125,7 +125,7 @@ Aan de andere kant van het spectrum zit de deelfiets. Die staat maar kort stil t
 Hoe dan ook. Een simpele rekensom leert ons dat wanneer zo’n tweede fiets (in de plaats waar mensen werken of studeren) vervangen wordt door een deelfiets, er veel meer fietsers naar en van het station kunnen fietsen zonder de stalling te hoeven uitbreiden.
 
 {% include blok.html
-   img="img\antwerpen-deelfietsen.jpg"
+   img="img\eindhoven.jpg"
    text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen [blijkt uit recent onderzoek](https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven/). Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets." %}
 
 
@@ -173,7 +173,7 @@ In Rotterdam is de samenwerking tussen de partijen slecht doordat er te weinig d
 
 
 
-4. ## Waar liggen de mogelijkheden, en hoe worden deze optimaal benut?
+## 4. Waar liggen de mogelijkheden, en hoe worden deze optimaal benut?
 
 Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aantal mogelijkheden. Deze mogelijkheden zou je grofweg in kunnen delen in twee categorieën. Als eerste de mogelijkheden om de efficiëntie te verbeteren door anders om te gaan met het stallen van fietsen. Ten tweede door meer in te zetten op het gebruik van deelfietsen. De deelfiets staat immers veel minder lang stil in de stalling en kan hierdoor dus meer mensen bedienen dan een normale fiets. Hierdoor zijn er minder individuele fietsen nodig in de stallingen. 
 
