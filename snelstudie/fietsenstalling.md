@@ -48,7 +48,7 @@ Een goede benadering is om hier naar te kijken als een "kosten baten analyse". V
 <div class="tekstblok">
 Rendement = (1 reiziger) / (aantal dagen dat de fiets gestald staat)
 </div>
-Het rendement drukken we daarmee uit in de eenheid aantal reizigers dat een rit van en naar het station maakt per etmaal.
+Het rendement drukken we daarmee uit in de eenheid: aantal reizigers per etmaal (dat een rit van en naar het station maakt).
 
 
 ## 3. Een analyse van de gebruikers en hun fiets
@@ -60,14 +60,14 @@ Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bik
 
 {% include blok.html
    img="img/Figuurtypefietsen.jpg"
-   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen." %}
+   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ). " %}
 
 
- Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ).  
+  
 
 
 ### Typen gebruik
-Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat toet er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, dit betekent dat deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in NEderland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost de overheid en de provincies veel geld. Laen we kijken of het slimmer kan. 
+Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat tot er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, dit betekent dat deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in NEderland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost de overheid en de provincies veel geld. Laen we kijken of het slimmer kan. 
 
 **Gebruikersprofiel stallingsduur**  
 We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebruik hebben we gekeken naar de geschatte  stallingsduur tussen twee ritten. 
@@ -118,11 +118,13 @@ We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebrui
 </table>
 
 
-En nu blijkt dat de gemiddelde stallingsduur voor verschillende typen gebruik enorm varieert. En daarmee dus ook het rendement. 
-Het varieert van een heel slecht rendement voor 'tweede fietsjes' van 0,3 tot de wisselfiets die heel veel reizigers per dag kan accomoderen.
+Uit de tabel blijkt - wat velen wellicht aan aanvoelden - Dat het stallen van een 'tweede fietsje'in de plaats waar je werkt of een opleing volgt, voor de maatschappij een zeer inefficiente, dure zaak is.  Die fietsjes staan gemiddedeld 3,5 dag stilstaan totdat ze weer een rit maken. Dat komt ondat mensen lang iet iedere dag naar kantoor gaan. Soms met de auto gaan, wel een ziek zijn of op vakantie gaan. Veel mensen stallen ook een 'tweede' of 'derde' fietsje op stations waar ze niet vaak komen. Bijvoorbeeld in de plaats waar hun ouders wonen.
 
-Een simpele rekensom leert ons dat wanneer zo’n tweede fiets vervangen wordt door een deelfiets, die idealiter zo veel mogelijk gebruikt wordt, dit veel parkeerruimte kan schelen.   
-Enkele vormen van deelfietsen zijn er natuurlijk al beschikbaar, denk aan de OV-fiets of deelfietsen van DonkeyRebuplic of Felix. Echter zijn deze vaak nog niet aantrekkelijk genoeg om mensen van hun tweede fiets af te krijgen. De kosten zijn te hoog, het gemak te laag en de beschikbaarheid te onzeker. 
+Aan de andere kant van het spectrum zit de deelfiets. Die staat maar kort stil tussen twee ritten doordat hij van 'baasje wisselt'. Het concept [wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/) spant de kroon met een rendement dat theoretisch naar oneindig gaat. Dit enorme rendement is niet eenvoudig te realiseren omdat het vraagt dat mensen van huis naar het station ook een deelfiets nemen (in plaats van hun eigen fiets). Zie  [wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/) voor een uitleg van het concept.
+
+Hoe dan ook. Een simpele rekensom leert ons dat wanneer zo’n tweede fiets (in de plaats waar mensen werken of studeren) vervangen wordt door een deelfiets, er veel meer fietsers naar en van het station kunnen fietsen zonder de stalling te hoeven uitbreiden.
+
+Enkele vormen van deelfietsen zijn er natuurlijk al beschikbaar, denk aan de OV-fiets of deelfietsen van DonkeyRebuplic of Felix. Echter zijn deze vaak nog niet aantrekkelijk genoeg om mensen van hun tweede fiets af te krijgen. De kosten zijn te hoog, het gemak te laag en de beschikbaarheid te onzeker. In het volgende hoofdstuk kijken we welke barrieres er zijn om mensen meer van deelfietsen gebruik te laten maken en hoe we hen wllicht daartoe toech kunnen veleiden.
 
 NOG TE BEANTWOORDEN:
 
@@ -134,9 +136,9 @@ Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
 
 
 
-## 3. Aanbieders en gebruikers 
+## 3. Aanbieders van stallingsruimte (NS , ProRail, gemeenten) 
 
-Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer en de gebruikers van de fietsenstallingen. 
+Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer van de fietsenstallingen. 
 
 Fietsenstallingen in Nederland hebben ieder hun eigen gebruiksintentie. Waar in de ene stalling fietsers na 24 uur moeten betalen voor het stallen van hun fiets is dit in andere stallingen na 28 dagen, of is de stalling volledig gratis. Dit zorgt ook voor een ander gebruikerspatroon van deze stallingen. 
 
@@ -165,7 +167,7 @@ In Rotterdam is de samenwerking tussen de partijen slecht doordat er te weinig d
 
 Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aantal mogelijkheden. Deze mogelijkheden zou je grofweg in kunnen delen in twee categorieën. Als eerste de mogelijkheden om de efficiëntie te verbeteren door anders om te gaan met het stallen van fietsen. Ten tweede door meer in te zetten op het gebruik van deelfietsen. De deelfiets staat immers veel minder lang stil in de stalling en kan hierdoor dus meer mensen bedienen dan een normale fiets. Hierdoor zijn er minder individuele fietsen nodig in de stallingen. 
 
-1. **Anders omgaan met het stallen van fietse**n
+1. **Anders omgaan met het stallen van fietsen**
 
    Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Wanneer men de efficiëntie van de stalling wil verhogen is het van belang om het aantal weesfietsen te reduceren en het langdurig stallen van fietsen moeilijk te maken.   
      
