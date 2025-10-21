@@ -1,5 +1,5 @@
 ---
-layout: lijst
+layout: pzh
 title: Bereikbaarheid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
