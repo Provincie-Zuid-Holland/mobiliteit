@@ -56,8 +56,17 @@ Rendement = (1 reiziger) / (aantal uur dat de fiets gestald staat)
 Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet electrische) fietsen die vaak de rekken passen (maar niet altijd als zeeen kratje of bijvoorbeeld breed stuur hebben). Het aantal e-bikes neemt heel snel toe. Die komen meestal niet in de rekken terecht omdat het niet past. Buitenmodelfietsen zoals bakfietsen en fatbikes zien we ook steeds meer.
 
 Echter geeft de duur van het stallen nog geen goed beeld van het type voorziening dat nodig is. Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
-![iguur2](img\Figuurtypefietsen.jpg)
 
+
+{% include blok.html
+   img="img/Figuurtypefietsen.jpg"
+   title="Verschilend ruimtebeslag?"
+   text="Verschillende soorten fietsen " %}
+
+
+<br>
+![iguur2](img\Figuurtypefietsen.jpg)
+<BR>
 Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit (bron: [https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ).  
 
 
@@ -87,7 +96,7 @@ Aan de hand van het gebruikersprofiel hebben we grofweg 5 categorieën van gebru
   </tr>
   <tr>
     <td>Natransport</td>
-    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld worden deze fietsen 3,5 keer per week gebruikt (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
+    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat er weer een rit gemaakt wordt (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
     <td>3,5 dag</td>
     <td>1/3</td>
 
@@ -200,6 +209,10 @@ Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aan
 
 Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen te verhogen en daarmee de investeringskosten te verlagen?
 
+{% include blok.html
+   img="img/deelfiets_vaker_trein.jpg"
+   title="Meer weten?"
+   text="Klik voor meer informatie over dit onderwerp." %}
 ## Bronnen
 
 Bronnen die interessant zouden zijn:

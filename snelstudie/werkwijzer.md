@@ -18,8 +18,7 @@ We streven naar vernieuwende oplossingen voor grote maatschappelijke uitdagingen
 Snelstudies moeten voldoen aan de volgende criteria:
 - Actueel zijn
 - Aansluiten op de ambitie 'Bereikbaar Zuid-Holland' (en/of andere ambities)
-- Innovatief en vernieuwend zijn
-- Voldoende impact hebben in de provincie
+- Innovatief zijn en voldoende impact kunnen hebben in de provincie
 - Leiden tot realiseerbare oplossingen voor inwoners van Zuid-Holland
 
 ## Hoe werkt een Snelstudie?
@@ -31,7 +30,7 @@ Naast het kernteam zijn er ook externe of interne deskundigen die bijdragen via 
 ### Fasering
 - **Kick-off:** Doel en vraagstelling vaststellen, plan van aanpak maken.
 - **Onderzoek:** Informatie verzamelen via interviews, deskresearch, brainstorms, etc.
-- **Concept-rapport:** Resultaten en advies opstellen.
+- **Concept-rapport:** Resultaten en advies opstellen. De rapportage is online en openbaar.
 - **Review:** Deskundigen geven feedback, die verwerkt wordt in het definitieve rapport.
 - **Presentatie:** Rapport wordt toegelicht aan belanghebbenden en gepubliceerd.
 
