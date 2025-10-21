@@ -12,7 +12,7 @@
       {% if include.title %}
         <h2>{{ include.title }}</h2>
       {% endif %}
-      <p>{{ include.text }}</p>
+      <p>{{ include.text| markdownify }}</p>
     </div>
   </div>
 {% endcapture %}
