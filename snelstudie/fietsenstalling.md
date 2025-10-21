@@ -18,7 +18,7 @@ Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als la
 Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen efficiënter kunnen benutten zodat we er minder bij hoeven te bouwen. Deze studie is relevant omdat de ruimtelijke puzzel enorm is in Zuid-Holland en in het bijzonder bij OV-knooppunten en stadcentra is de ruimte erg schaars. Grote hoeveelheden fietsen zorgen hier voor problemen en daarmee (investerings)kosten terwijl we de fiets-trein combinatie natuurlijk wel volop willen faciliteren. De hoofdvraag is: 
 
 
-**Hoe kunnen fietsenstallingen (op stations) efficiënter benut worden zodat stallen  kosten-efficiënter worden en de combinatie fiets-trein aantrekkelijker wordt?**
+**Hoe kunnen fietsenstallingen (op stations) efficiënter benut worden zodat stallen kosten-efficiënter wordt en de combinatie fiets-trein aantrekkelijker wordt?**
 
 ### Deelvragen:
 - Welke type gebruikers van stallingen zijn er (korte vs lange duur) (normaal vs speciale fietsen)?
@@ -38,7 +38,7 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 
 Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar mooi studie daarover.
 
-Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en dat we daarop wellicht ook kunnen sturen
+Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
 ### Rendement - zo kort mogelijk stallen
@@ -46,9 +46,9 @@ Door het vergroten van de efficiëntie van fietsenstallingen zullen meer mensen 
 
 Een goede benadering is om hier naar te kijken als een "kosten baten analyse". Van een fiets die gestald wordt op het station zijn de baten dat er één reiziger geholpen is om een goede reis per fiets+ov te maken. De "maatschappelijke kosten" zijn de tijd dat de fiets schaarse ruimte inneemt totdat hij weer opgehaald wordt. We delen de baten door de kosten voor het het redement van de stalling:
 <div class="tekstblok">
-Rendement = (1 reiziger) / (aantal uur dat de fiets gestald staat)
+Rendement = (1 reiziger) / (aantal dagen dat de fiets gestald staat)
 </div>
-
+Het rendement drukken we daarmee uit in de eenheid aantal reizigers dat een rit van en naar het station maakt per etmaal.
 
 
 ## 3. Een analyse van de gebruikers en hun fiets
@@ -67,13 +67,10 @@ Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bik
 
 
 ### Typen gebruik
-
-Fietsenstallingen in Nederland hebben ieder hun eigen gebruiksintentie. Waar in de ene stalling fietsers na 24 uur moeten betalen voor het stallen van hun fiets is dit in andere stallingen na 28 dagen, of is de stalling volledig gratis. Dit zorgt ook voor een ander gebruikerspatroon van deze stallingen. 
-
-Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Dit is in principe geen probleem. Echter, wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, betekent dit dat deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat er grote ruime stallingen ontwikkeld moeten worden op veelal dure en kostbare locaties. Dit kost de overheid en de provincies veel geld, wat ook anders gebruikt kan worden. 
+Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat toet er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, dit betekent dat deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in NEderland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost de overheid en de provincies veel geld. Laen we kijken of het slimmer kan. 
 
 **Gebruikersprofiel stallingsduur**  
-Aan de hand van het gebruikersprofiel hebben we grofweg 5 categorieën van gebruikers geïdentificeerd. Binnen ieder van deze categorieën hebben we gekeken naar de geschatte relatieve stallingsduur. Hieruit komt het volgende naar boven. 
+We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebruik hebben we gekeken naar de geschatte  stallingsduur tussen twee ritten. 
 
 <table class="table-container">
   <tr>
@@ -140,6 +137,8 @@ Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
 ## 3. Aanbieders en gebruikers 
 
 Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer en de gebruikers van de fietsenstallingen. 
+
+Fietsenstallingen in Nederland hebben ieder hun eigen gebruiksintentie. Waar in de ene stalling fietsers na 24 uur moeten betalen voor het stallen van hun fiets is dit in andere stallingen na 28 dagen, of is de stalling volledig gratis. Dit zorgt ook voor een ander gebruikerspatroon van deze stallingen. 
 
 **Wie is de aanbieder?**
 
@@ -211,7 +210,6 @@ Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
 {% include blok2.html
-   title="test"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
  {% include blok2.html
