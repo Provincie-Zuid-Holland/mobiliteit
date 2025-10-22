@@ -5,13 +5,24 @@ header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
     <a href="index.html">overzicht van snelstudies</a>
 ---
-## Wat is een Snelstudie?
+# Snelstudies | Meedoen | wat  het is | hoe het wwerkt
 
 Een Snelstudie is een kort en intensief onderzoek waarin we toekomstperspectieven verkennen en vertalen naar keuzes die overheden in Zuid-Holland nú al kunnen maken. Snelstudies zijn onderdeel van [Kennis Zuid-Holland](https://kennis.zuid-holland.nl).Bekijk de [lijst met eerder uitgevoerde snelstudies](snelstudies).
 
 <p>Het doel is om creativiteit en goede ideeën los te maken, snel relevante informatie op te halen, en samen innovatieve oplossingen te ontwikkelen. Een Snelstudie duurt doorgaans 2 tot 3 maanden. Iedereen kan onderwerpen aandragen en meedoen.</p>
 
-## Doel van een Snelstudie
+
+## Meedoen aan de snelstudie
+Iedereen kan bijdragen: als teamlid, deskundige, reviewer of door input te leveren. Teamleden kijken met een frisse blik naar het vraagstuk en leren van anderen. Je kunt ook deelnemen door middel van een interview, brainstorm of review.
+
+Om het proces te stroomlijnen hebben we een viertal opties om deel te nemen. Maar als je zelf een heel ander idee hebt hoe je bij kunt dragen horen we dat natuurlijk graag!  
+- **Een interview** Heb je veel kennis over het onderwerp en informatie die we zeker mee moeten nemen, dan heeft een interview onze voorkeur. 
+- **Workshop** In korte tijd brain je met anderen over het onderwerp
+- **Feedback op de draft reportage geven** Wil je wel betrokken zijn en input kunnen geven op het eindresultaat. Wanneer het draft report er staat sturen wij deze uit naar experts en geïnteresseerden voor feedback. 
+- **Doorverwijzen naar andere documenten en experts** Ken jij experts op dit onderwerp of ben je reports tegengekomen die we zeker mee moeten nemen. Laat het ons weten dan kunnen wij de kennis van deze experts en studies nog meenemen. 
+
+
+# Meer informatie over snelstudies
 We streven naar vernieuwende oplossingen voor grote maatschappelijke uitdagingen in Zuid-Holland. Het maakt daarbij niet uit welke organisatie aan zet is — de focus ligt op de provincie als geheel. De thema’s zijn divers, maar altijd verbonden aan bereikbaarheid en andere provinciale ambities. Daarnaast stimuleren we samenwerking tussen organisaties en versterken we de innovatiekracht van Zuid-Holland.
 
 ## Criteria voor een Snelstudie
@@ -35,9 +46,16 @@ Naast het kernteam zijn er ook externe of interne deskundigen die bijdragen via 
 - **Presentatie:** Rapport wordt toegelicht aan belanghebbenden en gepubliceerd.
 
 
-## Wie kunnen meedoen?
+## Meedoen aan de snelstudie
 
-Iedereen kan bijdragen: als teamlid, deskundige, reviewer of door input te leveren. Teamleden kijken met een frisse blik naar het vraagstuk en leren van anderen. Je kunt ook gevraagd worden voor een interview, brainstorm of review, afhankelijk van je kennis en ervaring.
+Iedereen kan bijdragen: als teamlid, deskundige, reviewer of door input te leveren. Teamleden kijken met een frisse blik naar het vraagstuk en leren van anderen. Je kunt ook deelnemen door middel van een interview, brainstorm of review.
+
+Om het proces te stroomlijnen hebben we een viertal opties om deel te nemen. Maar als je zelf een heel ander idee hebt hoe je bij kunt dragen horen we dat natuurlijk graag!  
+- **Een interview** Heb je veel kennis over het onderwerp en informatie die we zeker mee moeten nemen, dan heeft een interview onze voorkeur. 
+- **Workshop** In korte tijd brain je met anderen over het onderwerp
+- **Feedback op de draft reportage geven** Wil je wel betrokken zijn en input kunnen geven op het eindresultaat. Wanneer het draft report er staat sturen wij deze uit naar experts en geïnteresseerden voor feedback. 
+- **Doorverwijzen naar andere documenten en experts** Ken jij experts op dit onderwerp of ben je reports tegengekomen die we zeker mee moeten nemen. Laat het ons weten dan kunnen wij de kennis van deze experts en studies nog meenemen. 
+
 
 ## Na de Snelstudie
 
@@ -73,8 +91,3 @@ Een Snelstudie is tijdelijk. Na de presentatie wordt het team ontbonden. Vervolg
 - Selecteer reviewers in een vroeg stadium
 - Creëer draagvlak via interviews en communicatie
 <br>
-
-{% include blok.html
-   img="img/deelfiets_vaker_trein.jpg"
-   title="Meer weten?"
-   text="Klik voor meer informatie over dit onderwerp." %}
