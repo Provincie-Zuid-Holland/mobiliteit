@@ -40,9 +40,9 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
 
 {% include blok2.html
    img="img\fietesnstallingvandetoekomst.png"
-   title=""Rapport Fietsenstalling van de toekomst"
+   title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen. " %}
+   text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
@@ -132,7 +132,7 @@ Hoe dan ook. Een simpele rekensom leert ons dat wanneer zo’n tweede fiets (in 
 
 {% include blok.html
    img="img\eindhoven.jpg"
-   text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen [blijkt uit recent onderzoek](https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven/). Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets." %}
+   text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen [blijkt uit recent onderzoek](https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven/). Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets.<details> <summary>Introductie</summary> De studie wil vooral bijdragen aan de discussie hoe we de fietsparkeeropgave zo ruimtelijk efficiënt mogelijk kunnen organiseren. Hier kan een stedelijk deelfietsensysteem een meerwaarde zijn. Deelfietsen zorgen namelijk voor de optimalisatie van de beschikbare ruimte door de rotatie van een deelfiets</details>" %}
 
 
 
