@@ -126,6 +126,14 @@ We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebrui
 
 Uit de tabel blijkt - wat velen wellicht aan aanvoelden - Dat het stallen van een 'tweede fietsje'in de plaats waar je werkt of een opleing volgt, voor de maatschappij een zeer inefficiente, dure zaak is.  Die fietsjes staan gemiddedeld 3,5 dag stilstaan totdat ze weer een rit maken. Dat komt ondat mensen lang iet iedere dag naar kantoor gaan. Soms met de auto gaan, wel een ziek zijn of op vakantie gaan. Veel mensen stallen ook een 'tweede' of 'derde' fietsje op stations waar ze niet vaak komen. Bijvoorbeeld in de plaats waar hun ouders wonen.
 
+{% include blok.html
+   img="img\kimrapport.png"
+   title="Waar zouden we zijn zonder de fiets en de trein?"
+   text="Er is flinke stallingdruk door fietsen die op het station klaar staan, voor vervoer naar werk, opleiding of een andere activiteit. Deze fietsen staan ongeveer vier keer zo lang achtereen gestald in een stationsstalling dan fietsen die worden gebruikt voor vervoer tussen huis en station en ze zorgen samen voor minimaal 45% van de stallingsdruk bezien over alle stations in Nederland." 
+   url="https://www.kimnet.nl/publicaties/rapporten/2018/07/12/waar-zouden-we-zijn-zonder-de-fiets-en-de-trein"%}
+
+
+
 Aan de andere kant van het spectrum zit de deelfiets. Die staat maar kort stil tussen twee ritten doordat hij van 'baasje wisselt'. Het concept [wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/) spant de kroon met een rendement dat theoretisch naar oneindig gaat. Dit enorme rendement is niet eenvoudig te realiseren omdat het vraagt dat mensen van huis naar het station ook een deelfiets nemen (in plaats van hun eigen fiets). Zie  [wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/) voor een uitleg van het concept.
 
 Hoe dan ook. Een simpele rekensom leert ons dat wanneer zo’n tweede fiets (in de plaats waar mensen werken of studeren) vervangen wordt door een deelfiets, er veel meer fietsers naar en van het station kunnen fietsen zonder de stalling te hoeven uitbreiden.
@@ -152,7 +160,7 @@ Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
 
 
 
-## 3. Aanbieders van stallingsruimte (NS , ProRail, gemeenten) 
+## 3. Organisatie van fietsenstallingen bij stations (NS , ProRail, gemeenten) 
 
 Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer van de fietsenstallingen. 
 
@@ -172,26 +180,24 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
    1. De gemeente is dan weer verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente deze op te halen. Hiervoor moet de NS dus een goede communicatie met de gemeente onderhouden. 
 
 
-<img src=" "  width="100%">
 
 {% include blok.html
    img="img\Figuurbeheerfietsenstalling.jpg"
-   title="Orgaisatie van stallingen"
+   title="Organisatie van stallingen"
    text="Door deze drieledige taakverdeling is coördinatie tussen deze partijen van groot belang" %}
 
 
-
-
-
-## 4. Rendement verhogen door stallingsduur te verkorten - opties
-
-...
+<br>
 
 {% include blok.html
-   img="img\kimrapport.png"
-   title="Waar zouden we zijn zonder de fiets en de trein?"
-   text="Er is flinke stallingdruk door fietsen die op het station klaar staan, voor vervoer naar werk, opleiding of een andere activiteit. Deze fietsen staan ongeveer vier keer zo lang achtereen gestald in een stationsstalling dan fietsen die worden gebruikt voor vervoer tussen huis en station en ze zorgen samen voor minimaal 45% van de stallingsdruk bezien over alle stations in Nederland." 
-   url="https://www.kimnet.nl/publicaties/rapporten/2018/07/12/waar-zouden-we-zijn-zonder-de-fiets-en-de-trein"%}
+   img="snelstudie\img\rapportIrene.png"
+   title="Pedel tot platform"
+   text="...Mooie masterscriptie TU Delft ....." %}
+
+
+## 4. Hoe verkorten we de stallingsduur en verhogen zo het rendement?
+
+...
 
 
 
@@ -225,11 +231,29 @@ Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aan
 
          Factoren die een rol kunnen spelen voor succes van zo’n deelfietssyteem zijn de tariefstelling, betrouwbaarheid en kwaliteit, en vertrouwbaarheid van de aanbieder. Waarbij het succes volgens [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf) hem met name zit in de schaal en dichtheid van het systeem, de kosten voor de eindgebruiker, de zekerheid van een goed onderhouden fiets, een actieve herverdeling en de adoptie van het systeem door de lokale overheid om vertrouwen te creëren bij de eindgebruiker.
 
-## 	5\. Waarom is dit er nog niet? 
+## 	5 Barrieres om over te stappen van 'tweede' fietsje op deelfiets 
+
+!!! zullen we hier lijstje met iconen doen en dan de barrieres in tekst rechts?
+
+{% include blok.html
+   img="https://freesvg.org/img/1526536070.png"
+   title="Te duur bij frequent ebruik"
+   text="...Een OV-fiets kost .. per keer. Mensen gebruiken dit nauwelijks om dagelijks mee te reizen, tenzij de werkgever betaald ....." %}
+
+{% include blok.html
+   img="https://upload.wikimedia.org/wikipedia/commons/0/04/Bike_icon.png"
+   title="Lastig steeds een andere fiets"
+   text="... ....." %}
+
 
 - Kosten   
 - Ongemak van telkens een andere fiets  
 - Er is te weinig *incentive* voor de gebruiker. Zolang er capaciteit is en dit gratis is, zien mensen geen heil in het aanpassen van hun mobiliteitgewoontes. 
+
+
+## 6 Brainstorm opties om de overstap op deelfiets aantrekkelijk te maken
+...
+...
 
   ## 6\. De rol van de  overheden
 
