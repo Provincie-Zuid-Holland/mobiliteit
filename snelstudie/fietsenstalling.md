@@ -38,6 +38,12 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 
 Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar mooi studie daarover.
 
+{% include blok2.html
+   img="img\fietesnstallingvandetoekomst.png"
+   titel=Fietsenstalling van de toekomst""
+   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen. " %}
+
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
