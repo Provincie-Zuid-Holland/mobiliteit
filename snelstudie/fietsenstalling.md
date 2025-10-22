@@ -38,7 +38,7 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 
 Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar Movaris studie daarover.
 
-{% include blok2.html
+{% include blok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
@@ -95,7 +95,7 @@ We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebrui
   </tr>
   <tr>
     <td>Natransport</td>
-    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat er weer een rit gemaakt wordt (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
+    <td>Dit zijn gebruikers die een tweede of zelfs derde fiets stallen op een station van bestemming, bijvoorbeeld in de plaats waar ze werken. Deze fietsen overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat er weer een rit gemaakt wordt. Dat is 4 keer zo lang vergeleken met een fiets die wordt gebruikt tussen woning en station (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
     <td>3,5 dag</td>
     <td>1/3</td>
 
@@ -132,7 +132,7 @@ Hoe dan ook. Een simpele rekensom leert ons dat wanneer zo’n tweede fiets (in 
 
 {% include blok.html
    img="img\eindhoven.jpg"
-   text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen [blijkt uit recent onderzoek](https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven/). Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets.<details> <summary>Introductie</summary> De studie wil vooral bijdragen aan de discussie hoe we de fietsparkeeropgave zo ruimtelijk efficiënt mogelijk kunnen organiseren. Hier kan een stedelijk deelfietsensysteem een meerwaarde zijn. Deelfietsen zorgen namelijk voor de optimalisatie van de beschikbare ruimte door de rotatie van een deelfiets</details>" %}
+   text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen [blijkt uit recent onderzoek](https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven/). Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets.<details>De studie wil vooral bijdragen aan de discussie hoe we de fietsparkeeropgave zo ruimtelijk efficiënt mogelijk kunnen organiseren. Hier kan een stedelijk deelfietsensysteem een meerwaarde zijn. Deelfietsen zorgen namelijk voor de optimalisatie van de beschikbare ruimte door de rotatie van een deelfiets</details>" %}
 
 
 
@@ -180,6 +180,14 @@ In Rotterdam is de samenwerking tussen de partijen slecht doordat er te weinig d
 
 
 ## 4. Waar liggen de mogelijkheden, en hoe worden deze optimaal benut?
+
+{% include blok.html
+   img="img\kimrapport.png"
+   title="Waar zouden we zijn zonder de fiets en de trein?"
+   text="Er is flinke stallingdruk door fietsen die op het station klaar staan, voor vervoer naar werk, opleiding of een andere activiteit. Deze fietsen staan ongeveer vier keer zo lang achtereen gestald in een stationsstalling dan fietsen die worden gebruikt voor vervoer tussen huis en station en ze zorgen samen voor minimaal 45% van de stallingsdruk bezien over alle stations in Nederland." 
+   url="https://www.kimnet.nl/publicaties/rapporten/2018/07/12/waar-zouden-we-zijn-zonder-de-fiets-en-de-trein"%}
+
+
 
 Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aantal mogelijkheden. Deze mogelijkheden zou je grofweg in kunnen delen in twee categorieën. Als eerste de mogelijkheden om de efficiëntie te verbeteren door anders om te gaan met het stallen van fietsen. Ten tweede door meer in te zetten op het gebruik van deelfietsen. De deelfiets staat immers veel minder lang stil in de stalling en kan hierdoor dus meer mensen bedienen dan een normale fiets. Hierdoor zijn er minder individuele fietsen nodig in de stallingen. 
 
@@ -239,6 +247,9 @@ Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen
 ## Bronnen
 
 Bronnen die interessant zouden zijn:
+
+
+
 
 - [https://www.researchgate.net/publication/374006429\_Trends\_in\_access\_and\_egress\_transportation\_to\_and\_from\_train\_stations\_in\_The\_Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
 - [https://activetravelstudies.org/article/id/1392/](https://activetravelstudies.org/article/id/1392/)  
