@@ -40,7 +40,7 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
 
 {% include blok2.html
    img="img\fietesnstallingvandetoekomst.png"
-   title=Rapport Fietsenstalling van de toekomst""
+   title=""Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen. " %}
 
