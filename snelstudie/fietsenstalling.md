@@ -172,14 +172,20 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
    1. De gemeente is dan weer verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente deze op te halen. Hiervoor moet de NS dus een goede communicatie met de gemeente onderhouden. 
 
 
-<img src="img\Figuurbeheerfietsenstalling.jpg "  width="100%">
-Door deze drieledige taakverdeling is coördinatie tussen deze partijen van groot belang. Echter blijkt juist dit een heikel punt. Bij veel stations is deze samenwerking beperkt, al zijn er enkele voorbeelden waar het wel goed gaat. Een factor van belang voor de kwaliteit van de samenwerking tussen deze drie partijen, is de druk op de beschikbare ruimte binnen de specifieke stalling. Een mooi voorbeeld hiervan is het verschil tussen de stallingen in Rotterdam en Delft. 
+<img src=" "  width="100%">
 
-In Rotterdam is de samenwerking tussen de partijen slecht doordat er te weinig druk is om het te verbeteren. De stalling is groot genoeg voor alle fietsen waardoor er geen ruimtegebrek ontstaat en er dus weinig druk is om de stalling efficiënt te beheren. Dit terwijl die druk er in Delft juist wel is. Hier is de stallingsruimte beperkt tegenover het aantal gebruikers dat voor een nauwe samenwerking vraagt om te zorgen dat weesfietsen op tijd weggehaald worden en de efficiëntie van de stalling zo hoog mogelijk te houden. 
+{% include blok.html
+   img="img\Figuurbeheerfietsenstalling.jpg"
+   title="Orgaisatie van stallingen"
+   text="Door deze drieledige taakverdeling is coördinatie tussen deze partijen van groot belang" %}
 
 
 
-## 4. Waar liggen de mogelijkheden, en hoe worden deze optimaal benut?
+
+
+## 4. Rendement verhogen door stallingsduur te verkorten - opties
+
+...
 
 {% include blok.html
    img="img\kimrapport.png"
