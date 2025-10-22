@@ -36,11 +36,11 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 1. Hoeveel ruimte een fiets inneemt
 2. Hoe lang (hoeveel dagen) de fiets daar staat voor hij weer een rit maakt
 
-Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar mooi studie daarover.
+Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar Movaris studie daarover.
 
 {% include blok2.html
    img="img\fietesnstallingvandetoekomst.png"
-   titel=Fietsenstalling van de toekomst""
+   title=Rapport Fietsenstalling van de toekomst""
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen. " %}
 
