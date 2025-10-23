@@ -7,11 +7,11 @@ menu: |
    <a href="snelstudies.html">andere snelstudies</a>
 ---
 # Testpagina kop 1
-Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste schakel van hun reis. Dat is goed nieuws want deze mensen reizen niet per auto over volle wegen. Het zorgt echter wel voor overvolle fietsenstallingen en pleinen bij stations. Bij (stations)fietsenstallingen geldt, net als bij andere infra, dat beter benutten veel minder kost dan bijbouwen.
+Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste.
 ## Test kop 2
-Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen efficiënter kunnen benutten zodat we er minder bij hoeven te bouwen. Deze studie is relevant omdat de ruimtelijke puzzel enorm is in Zuid-Holland en in het bijzonder bij OV-knooppunten en stadcentra is de ruimte erg schaars. Grote hoeveelheden fietsen zorgen hier voor problemen en daarmee (investerings)kosten terwijl we de fiets-trein combinatie natuurlijk wel volop willen faciliteren.
+Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten.
 ### Test kop 3
-Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen
+Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. 
 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
@@ -50,11 +50,10 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 {% include blok3.html
-   img="img\fietesnstallingvandetoekomst.png"
    bg="#beb1a7"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een NIET klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 

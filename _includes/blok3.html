@@ -3,23 +3,31 @@
   {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
 {% endif %}
 
-<div class="item single-block"{{ style }}>
-  {% if include.url %}
-    <a href="{{ include.url }}" class="item-link" style="display: block; text-decoration: none; color: inherit;">
-  {% endif %}
-
+{% if include.url %}
+<a href="{{ include.url }}" class="item-link">
+  <div class="item">
     <div class="item-left">
-      <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
+      <img src="{{ include.image }}">
     </div>
+    <div class="item-right">
+      <h2>{{ include.title }}</h2>
+      <p>{{ include.text | markdownify }}</p>
+    </div>
+  </div>
+</a>
 
+{% else %}
+<div class="item single-block"{{ style }}>
+    <div class="item-left">
+      <img src="{{ include.img }}">
+    </div>
     <div class="item-right">
       {% if include.title %}
         <h2>{{ include.title }}</h2>
       {% endif %}
-      <p>{{ include.text | markdownify }}</p>
+      <p>{{ include.text| markdownify }}</p>
     </div>
+  </div>
 
-  {% if include.url %}
-    </a>
-  {% endif %}
-</div>
+
+
