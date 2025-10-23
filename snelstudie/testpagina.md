@@ -1,21 +1,24 @@
 ---
 layout: pzh
-title: fietsenstallingen
+title: testpagina
 header_image: img\Fietsenstalling-Den-Haag.jpg
 menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
 ---
-# Efficiënt gebruik fietsenstallingen
-
+# Testpagina kop 1
+Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste schakel van hun reis. Dat is goed nieuws want deze mensen reizen niet per auto over volle wegen. Het zorgt echter wel voor overvolle fietsenstallingen en pleinen bij stations. Bij (stations)fietsenstallingen geldt, net als bij andere infra, dat beter benutten veel minder kost dan bijbouwen.
+## Test kop 2
+Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen efficiënter kunnen benutten zodat we er minder bij hoeven te bouwen. Deze studie is relevant omdat de ruimtelijke puzzel enorm is in Zuid-Holland en in het bijzonder bij OV-knooppunten en stadcentra is de ruimte erg schaars. Grote hoeveelheden fietsen zorgen hier voor problemen en daarmee (investerings)kosten terwijl we de fiets-trein combinatie natuurlijk wel volop willen faciliteren.
+### Test kop 3
+Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen
 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
- 
-</div>
-Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste schakel van hun reis. Dat is goed nieuws want deze mensen reizen niet per auto over volle wegen. Het zorgt echter wel voor overvolle fietsenstallingen en pleinen bij stations. Bij (stations)fietsenstallingen geldt, net als bij andere infra, dat beter benutten veel minder kost dan bijbouwen. De uitdaging is veel fietsers te faciliteren die per fiets aankomen of vertrekken, en tevens te zorgen dat deze fietsen zo kort mogelijk stilstaan op het station.
+ </div>
+ De uitdaging is veel fietsers te faciliteren die per fiets aankomen of vertrekken, en tevens te zorgen dat deze fietsen zo kort mogelijk stilstaan op het station.
 
-Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. In deze snelstudie kijken we hoe we stations stallingen efficiënter kunnen benutten zodat we er minder bij hoeven te bouwen. Deze studie is relevant omdat de ruimtelijke puzzel enorm is in Zuid-Holland en in het bijzonder bij OV-knooppunten en stadcentra is de ruimte erg schaars. Grote hoeveelheden fietsen zorgen hier voor problemen en daarmee (investerings)kosten terwijl we de fiets-trein combinatie natuurlijk wel volop willen faciliteren. De hoofdvraag is: 
+ De hoofdvraag is: 
 
 
 **Hoe kunnen fietsenstallingen (op stations) efficiënter benut worden zodat stallen kosten-efficiënter wordt en de combinatie fiets-trein aantrekkelijker wordt?**
@@ -42,19 +45,28 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+
+Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
+
+{% include blok.html
+   img="img\fietesnstallingvandetoekomst.png"
+   bg="#beb1a7"
+   title="Rapport Fietsenstalling van de toekomst"
+   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   text="Dit is een klikbaar blok met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
-### Rendement - zo kort mogelijk stallen
-Door het vergroten van de efficiëntie van fietsenstallingen zullen meer mensen van en naar het station kunnen fietsen (en hun fiets daar stallen), zonder dat er een investering in fysieke uitbreiding nodig is. De efficiëntie kun je vergroten door de stallingsduur per fiets te verkleinen. Dit zorgt voor een grotere doorloop, waardoor een fietsparkeerplek sneller vrijkomt voor een volgende gebruiker. 
 
-Een goede benadering is om hier naar te kijken als een "kosten baten analyse". Van een fiets die gestald wordt op het station zijn de baten dat er één reiziger geholpen is om een goede reis per fiets+ov te maken. De "maatschappelijke kosten" zijn de tijd dat de fiets schaarse ruimte inneemt totdat hij weer opgehaald wordt. We delen de baten door de kosten voor het het redement van de stalling:
-<div class="tekstblok">
-Rendement = (1 reiziger) / (aantal dagen dat de fiets gestald staat)
-</div>
-Het rendement drukken we daarmee uit in de eenheid: aantal reizigers per etmaal (dat een rit van en naar het station maakt).
+{% include blok2.html
+   img="img\fietesnstallingvandetoekomst.png"
+   title="Rapport Fietsenstalling van de toekomst"
+   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   text="Dit is een klikbaar blok2. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+
+Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
 ## 3. Een analyse van de gebruikers en hun fiets
@@ -190,7 +202,7 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 <br>
 
 {% include blok.html
-   img="img\rapportIrene.png"
+   img="snelstudie\img\rapportIrene.png"
    title="Pedel tot platform"
    text="...Mooie masterscriptie TU Delft ....." %}
 

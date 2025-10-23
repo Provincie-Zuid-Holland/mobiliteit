@@ -18,9 +18,7 @@
 {% endcapture %}
 
 {% if include.url %}
-  <a href="{{ include.url }}" class="item-link" style="text-decoration: none; color: inherit;">
-    {{ blok }}
-  </a>
+  <a href="{{ include.url }}" class="item-link" style="text-decoration: none; color: inherit;">{{ blok }}</a>
 {% else %}
   {{ blok }}
 {% endif %}
