@@ -12,9 +12,8 @@ Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan 
 
 
 
-
 ## nog een test
-
+abc
  
  {% include blok3.html
    img="img\fietesnstallingvandetoekomst.png"
@@ -37,6 +36,12 @@ en nu blok 4 zonder url
    title="Rapport Fietsenstalling van de toekomst"
    text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
+blok 4 zonder title
+
+{% include blok4.html
+   img="img\fietesnstallingvandetoekomst.png"
+   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 
 Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste.

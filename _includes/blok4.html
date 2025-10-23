@@ -1,19 +1,18 @@
-{% if include.url %}
-    <div class="item-list">
-    <a href="{{ include.url }}" class="item-link">
-    <div class="item">
-        <div class="item-left">
-        <img src="{{ include.img }}">
-        </div>
-        <div class="item-right">
+<div class="item-list">
+<a href="{{ include.url }}" class="item-link">
+<div class="item">
+    <div class="item-left">
+    <img src="{{ include.img }}">
+    </div>
+    <div class="item-right">
+      {% if include.title %}
         <h2>{{ include.title }}</h2>
-        <p>{{ include.text }}</p>
-        </div>
+      {% endif %}
+    <p>{{ include.text }}</p>
     </div>
-    </a>
-    </div>
-{% else %}
-    bla bla bla
-{% endif %}
+</div>
+</a>
+</div>
+
 
 
