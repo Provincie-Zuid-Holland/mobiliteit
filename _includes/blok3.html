@@ -1,34 +1,15 @@
-{% assign style = '' %}
-{% if include.bg %}
-  {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
-{% endif %}
-
-{% if include.url %}
 <a href="{{ include.url }}" class="item-link">
   <div class="item">
-    <div class="item-left">
-      <img src="{{ include.image }}">
-    </div>
-    <div class="item-right">
-      <h2>{{ include.title }}</h2>
-      <p>{{ include.text | markdownify }}</p>
-    </div>
-  </div>
-</a>
-
-{% else %}
-<div class="item single-block"{{ style }}>
     <div class="item-left">
       <img src="{{ include.img }}">
     </div>
     <div class="item-right">
-      {% if include.title %}
-        <h2>{{ include.title }}</h2>
-      {% endif %}
-      <p>{{ include.text| markdownify }}</p>
+      <h2>{{ include.title }}</h2>
+      <p>{{ include.text }}</p>
     </div>
   </div>
-{% endif %}
+</a>
+
 
 
 

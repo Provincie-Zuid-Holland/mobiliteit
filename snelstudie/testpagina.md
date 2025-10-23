@@ -52,7 +52,7 @@ Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende 
 {% include blok3.html
    bg="#beb1a7"
    title="Rapport Fietsenstalling van de toekomst"
-   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   img="img\fietesnstallingvandetoekomst.png"
    text="Dit is een NIET klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
