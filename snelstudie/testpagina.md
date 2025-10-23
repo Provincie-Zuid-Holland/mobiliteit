@@ -1,12 +1,35 @@
 ---
 layout: pzh
 title: testpagina
-header_image: img\Fietsenstalling-Den-Haag.jpg
+header_image: \mobiliteit\img\zandmotorstrand.jpg
 menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
 ---
-# Testpagina kop 1
+# Snelstudies TEst
+
+Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken. Meer informatie [over snelstudies](werkwijzer).
+
+<div class="item-list">
+  {% for item in site.data.items %}
+    {% include item.html item=item %}
+  {% endfor %}
+</div>
+
+
+## nog een test
+<div class="item-list">
+ 
+    {% include item.html 
+       item.img="img\fietesnstallingvandetoekomst.png"
+   item.title="Rapport Fietsenstalling van de toekomst"
+   item.url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   item.text="Dit is een klikbaar item. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+    
+
+</div>
+
+
 Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste.
 ## Test kop 2
 Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten.
