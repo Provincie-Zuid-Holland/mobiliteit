@@ -106,11 +106,11 @@ Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende 
 
 
 
-{% include blok2.html
+{% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok2. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
@@ -323,10 +323,10 @@ Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen
    title="Meer weten?"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
-{% include blok2.html
+{% include blok.html
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
- {% include blok2.html
+ {% include blok.html
    img="img/deelfiets_vaker_trein.jpg"
    title="Meer weten?"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}  

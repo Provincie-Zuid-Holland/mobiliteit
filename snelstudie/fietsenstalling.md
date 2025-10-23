@@ -264,10 +264,10 @@ Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen
    title="Meer weten?"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
-{% include blok2.html
+{% include blok.html
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
- {% include blok2.html
+ {% include blok.html
    img="img/deelfiets_vaker_trein.jpg"
    title="Meer weten?"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}  
