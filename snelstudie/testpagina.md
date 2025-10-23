@@ -15,30 +15,32 @@ Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan 
 ## nog een test
 abc
  
- {% include blok3.html
+ {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
+   text="Dit is een klikbaar klikblok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
-en nu door naar blok 4
+   klikblok zonder titel
 
-{% include blok4.html
+   
+ {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
+   text="Dit is een klikbaar klikblok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
-en nu blok 4 zonder url
+en nu door naar blok
+ zonder url
 
-{% include blok4.html
+{% include blok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
-blok 4 zonder title
+blok  zonder title
 
-{% include blok4.html
+{% include blok.html
    img="img\fietesnstallingvandetoekomst.png"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
@@ -53,6 +55,18 @@ Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  </div>
+
+
+test  van tekstblok
+
+{% include tekstblok.html
+   bg="#beb1a7"
+   title="test van tekstblok "
+   text="Dit is een NIET klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+
+
+
+
  De uitdaging is veel fietsers te faciliteren die per fiets aankomen of vertrekken, en tevens te zorgen dat deze fietsen zo kort mogelijk stilstaan op het station.
 
  De hoofdvraag is: 

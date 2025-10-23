@@ -3,7 +3,6 @@
   {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
 {% endif %}
 
-{% capture blok %}
   <div class="item single-block"{{ style }}>
     <div class="item-left">
       <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
@@ -15,10 +14,4 @@
       <p>{{ include.text| markdownify }}</p>
     </div>
   </div>
-{% endcapture %}
 
-{% if include.url %}
-  <a href="{{ include.url }}" class="item-link" style="text-decoration: none; color: inherit;">{{ blok }}</a>
-{% else %}
-  {{ blok }}
-{% endif %}
