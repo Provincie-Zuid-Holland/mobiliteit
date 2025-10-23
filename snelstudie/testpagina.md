@@ -10,11 +10,7 @@ menu: |
 
 Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken. Meer informatie [over snelstudies](werkwijzer).
 
-<div class="item-list">
-  {% for item in site.data.items %}
-    {% include item.html item=item %}
-  {% endfor %}
-</div>
+
 
 
 ## nog een test
@@ -26,6 +22,20 @@ Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan 
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
+en nu door naar blok 4
+
+{% include blok4.html
+   img="img\fietesnstallingvandetoekomst.png"
+   title="Rapport Fietsenstalling van de toekomst"
+   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
+   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
+
+en nu blok 4 zonder url
+
+{% include blok4.html
+   img="img\fietesnstallingvandetoekomst.png"
+   title="Rapport Fietsenstalling van de toekomst"
+   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 
 
