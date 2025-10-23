@@ -41,20 +41,20 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 
 Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk inder ruimte innemen dan buiten model fietsen. !Hier linken naar Movaris studie daarover.
 
-{% include blok.html
+{% include blok3.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
-{% include blok.html
+{% include blok3.html
    img="img\fietesnstallingvandetoekomst.png"
    bg="#beb1a7"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
@@ -71,7 +71,7 @@ Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende 
 
 ## 3. Een analyse van de gebruikers en hun fiets
 ### Soorten fietsen
-Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet electrische) fietsen die vaak de rekken passen (maar niet altijd als ze een kratje of bijvoorbeeld breed stuur hebben). Het aantal e-bikes neemt heel snel toe. Die komen meestal niet in de rekken terecht omdat het niet past. Buitenmodelfietsen zoals bakfietsen en fatbikes zien we ook steeds meer.
+
 
 Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
 
