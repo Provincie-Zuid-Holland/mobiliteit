@@ -36,14 +36,14 @@ en nu door naar blok
 {% include blok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
-   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
+   text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 blok  zonder title
 
 {% include blok.html
    img="img\fietesnstallingvandetoekomst.png"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar blok3. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
+   text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 
 Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste.
@@ -62,7 +62,7 @@ test  van tekstblok
 {% include tekstblok.html
    bg="#beb1a7"
    title="test van tekstblok "
-   text="Dit is een NIET klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een NIET klikbaar blok met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 
 
@@ -96,11 +96,11 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
-{% include blok3.html
+{% include blok.html
    bg="#beb1a7"
    title="Rapport Fietsenstalling van de toekomst"
    img="img\fietesnstallingvandetoekomst.png"
-   text="Dit is een NIET klikbaar blok3 met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een NIET klikbaar blok met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
