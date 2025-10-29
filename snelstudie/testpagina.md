@@ -6,14 +6,10 @@ menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
 ---
-# Snelstudies TEst
+# Snelstudies Test
+## kop 2
+### kop 3
 
-Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken. Meer informatie [over snelstudies](werkwijzer).
-
-
-
-## nog een test
-abc
  
  {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
@@ -46,11 +42,7 @@ blok  zonder title
    text="Dit is een klikbaar blok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 
-Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste.
-## Test kop 2
-Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten.
-### Test kop 3
-Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen zijn in de tijd die de fiets stilstaat tussen 2 ritten. 
+
 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
@@ -62,8 +54,15 @@ test  van tekstblok
 {% include tekstblok.html
    bg="#beb1a7"
    title="test van tekstblok "
-   text="Dit is een NIET klikbaar blok met bg=. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Dit is een tekstblok met titel." %}
 
+
+{% include tekstblok.html
+   bg="#beb1a7"
+   text="Dit is een tekstblok zonder titel." %}
+
+{% include tekstblok.html
+   text="Dit is een tekstblok zonder titel en kleurcode." %}
 
 
 
