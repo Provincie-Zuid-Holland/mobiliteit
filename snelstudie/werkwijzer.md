@@ -7,7 +7,7 @@ menu: |
 ---
 # Snelstudies | Meedoen | wat  het is | hoe het wwerkt
 
-Een Snelstudie is een kort en intensief onderzoek waarin we toekomstperspectieven verkennen en vertalen naar keuzes die overheden in Zuid-Holland nú al kunnen maken. Snelstudies zijn onderdeel van [Kennis Zuid-Holland](https://kennis.zuid-holland.nl).Bekijk de [lijst met eerder uitgevoerde snelstudies](snelstudies).
+Een Snelstudie is een kort en intensief onderzoek waarin we toekomstperspectieven verkennen en vertalen naar keuzes die overheden in Zuid-Holland nú al kunnen maken. Snelstudies zijn onderdeel van [Kennis Zuid-Holland](https://kennis.zuid-holland.nl).Bekijk de [lijst met eerder uitgevoerde snelstudies](index.html).
 
 <p>Het doel is om creativiteit en goede ideeën los te maken, snel relevante informatie op te halen, en samen innovatieve oplossingen te ontwikkelen. Een Snelstudie duurt doorgaans 2 tot 3 maanden. Iedereen kan onderwerpen aandragen en meedoen.</p>
 
