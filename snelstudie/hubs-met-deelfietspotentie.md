@@ -11,7 +11,7 @@ In het algemeen zijn deelfietsen een goede toevoeging aan een hub, zodat mensen 
 
 De kans op succesvolle deelfietsen op een hub wordt beïnvloed door verschillende aspecten. Deze checklist categoriseert deze aspecten in vier groepen en geeft aanbevelingen om deze te vertalen voor locaties waar deelfietsen worden overwogen.
 
-Bij deze studie hoort een [kaart met hubs en hun deelfietspotentie](https://provincie-zuid-holland.github.io/mobiliteit/kaart?haltes=1) waar het merendeel van de hier besproken aspecten zijn berekend voor elke trein, bus-, tram- en metrohalte in Provincie Zuid-Holland.
+Bij deze studie hoort een [kaart met hubs en hun deelfietspotentie](https://provincie-zuid-holland.github.io/mobiliteit/kaart?haltes=1&regio=gem&ov=l) waar het merendeel van de hier besproken aspecten zijn berekend voor elke trein, bus-, tram- en metrohalte in Provincie Zuid-Holland.
 
 
 ## 1. Fietspotentieel

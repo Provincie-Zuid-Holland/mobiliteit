@@ -60,7 +60,7 @@ test  van tekstblok
 {% include tekstblok.html
    bg="#beb1a7"
    text="Dit is een tekstblok zonder titel." %}
-
+....
 {% include tekstblok.html
    text="Dit is een tekstblok zonder titel en kleurcode." %}
 

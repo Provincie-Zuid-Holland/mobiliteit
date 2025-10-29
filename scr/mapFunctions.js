@@ -62,11 +62,10 @@ function gemKleur(str) {
 }
 
 function tekenGemeentes() {
-  console.log('Instellingen');
-  console.log(Instellingen);
+  console.log('Instellingen bij start tekenGemeentes:',Instellingen);
   if (Instellingen['gemFill'] != null ) {gemFill = Instellingen['gemFill'] } else {gemFill= 0.2}
   if (Instellingen['gemOpacity'] != null ) {gemOpacity = Instellingen['gemOpacity'] } else {gemOpacity= 0.1}
-  if (Instellingen['regio'] = 'deelfiets' ) {gemFill =0.3 ;gemOpacity= 0.2}
+  if (Instellingen['regio'] == 'deelfiets' ) {gemFill =0.3 ;gemOpacity= 0.2}
 
   L.geoJSON(gemeentes, {
       style: function(feature) {

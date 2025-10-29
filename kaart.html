@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+<!--URL parameter
+regio : gem , c/{else} = concessies
+ov /p:
+live  :
+haltes:
+par   :
+@     : coordinaten centrum of pointer
+i     : c=click 
+-->
+ <!DOCTYPE html>
 <html>
 <head>
   <meta name="robots" content="noindex">
@@ -17,7 +26,7 @@
 <script src="scr/mapFunctions.js"></script>
 <script>
   console.log("start js")
-  var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9 } //nog nalopen##
+  var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9 } //globale vars voor kaarten; 
   var mapOptions = { center: [51.95, 4.584], zoom: 10 }
   var map = new L.map('map', mapOptions);  createMap(); 
 
@@ -28,6 +37,7 @@
           script.onload = () => { Instellingen[scriptje]   = 1;  } // zodat main de onload kan controleren                        
           document.body.appendChild(script);
   }
+
   const urlParams = new URLSearchParams(window.location.search);  // URL parameters inlezen en overlays laden
   if (urlParams.get('regio')) {   //gemeentekaart loaden
     console.log("url par regio is: ");
