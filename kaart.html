@@ -27,6 +27,7 @@ i     : c=click
 <script>
   console.log("start js")
   var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9 } //globale vars voor kaarten; 
+  Instellingen.legenda ={ logo: true } // logo: true
   var mapOptions = { center: [51.95, 4.584], zoom: 10 }
   var map = new L.map('map', mapOptions);  createMap(); 
 
@@ -37,8 +38,8 @@ i     : c=click
           script.onload = () => { Instellingen[scriptje]   = 1;  } // zodat main de onload kan controleren                        
           document.body.appendChild(script);
   }
-
-  const urlParams = new URLSearchParams(window.location.search);  // URL parameters inlezen en overlays laden
+// *** Eerst URL parameters inlezen en overlays laden
+  const urlParams = new URLSearchParams(window.location.search);  
   if (urlParams.get('regio')) {   //gemeentekaart loaden
     console.log("url par regio is: ");
     console.log(urlParams.get('regio'))
@@ -60,32 +61,29 @@ i     : c=click
     if (myArray[2] !=null) {mapOptions['zoom'] =  Number(myArray[2])}
     if (myArray[3] !=null) {Instellingen["pointer"]=myArray[3]}
   }
-  
+ 
+  // *** Hier gaat het verder als overlays geladen zijn 
   function windowGeladen() {
     console.log("window geladen, instellingen: ");
     console.log(Instellingen)
     if (Instellingen['regio'] ){ 
       console.log("teken gemeentes!!!"); tekenGemeentes(); 
-      var properties ={ logo: true } // logo: true
-      if (Instellingen.regio == 'gem' ) { properties.html = regioLegenda; } else { properties.html = concessieLegenda;properties.titel = 'OV concessies';properties.minWidth='300px' }
-        maakLegenda(properties);      // Creating a map object
+      if (Instellingen.regio == 'gem' ) { Instellingen.legenda.html = regioLegenda; } else { Instellingen.legenda.html = concessieLegenda;Instellingen.legenda.titel = 'OV concessies';Instellingen.legenda.minWidth='300px' }
     }
-
 
     if (Instellingen['ov'] ||Instellingen['p']  ){ plotOVLijnen(ovLijnen); }
     if (Instellingen.p == 'oranje' || Instellingen.p == 'os') {  mapOptions = { center: [51.95, 4.584], zoom: 10 };  console.log("start plot donkeys");  plotOVDonkeys(mapDonkeys); }
     if (Instellingen.p == 'os' ) {console.log("start plot suggesties");  plotSuggesties(deelfietsSuggesties);}
-    if (Instellingen.haltes) {console.log("start plot haltes");  
-    labels =["latlon", "haltenaam", "ov-niveau", "id-gtfs", "cbs-vrk500", "pc4", "woonplaats", "gemeente", "rank-1.5km", "rank-3km", "fiets-score", "fiets-rank-1.5km", "fiets-rank-3km", "nearby-fiets-rank1-1.5km", "nearby-fiets-rank1-3km", "ov-score", "ov-rank-1.5km", "ov-rank-3km", "nearby-ov-rank1-1.5km", "nearby-ov-rank1-3km"]
-    console.log("start plot haltes");  plotHaltesArray(haltes);;}
+    if (Instellingen.haltes) {
+      console.log("start plot haltes");  
+      labels =["latlon", "haltenaam", "ov-niveau", "id-gtfs", "cbs-vrk500", "pc4", "woonplaats", "gemeente", "rank-1.5km", "rank-3km", "fiets-score", "fiets-rank-1.5km", "fiets-rank-3km", "nearby-fiets-rank1-1.5km", "nearby-fiets-rank1-3km", "ov-score", "ov-rank-1.5km", "ov-rank-3km", "nearby-ov-rank1-1.5km", "nearby-ov-rank1-3km"]
+      console.log("start plot haltes");  plotHaltesArray(haltes);;}
+
     if (Instellingen.par ){ 
       console.log("vierantstatistiek plotten")
-      if (Instellingen.par == null) {kolom = 10; } else { kolom = parseInt(Instellingen.par) } // bepaal kolom die kleur bepaard
+      kolom = parseInt(Instellingen.par) // bepaal kolom die kleur bepaald
       plotVierkanten4(vkdata,kolom,0); //vulling doet
-      console.log("Legenda plotten")
-      var properties ={ logo: true } // logo: true
-      ontwerpLegenda(properties,kolom) //nog fixen
-    }
+      }
 
     if (Instellingen['live']  ){ 
       leg ='Aantal bij Hub<br>';
@@ -93,20 +91,19 @@ i     : c=click
         strx  = verloopLeg[i];
         leg += '<i style=" opacity: 0.8; background-color:' + verloopRoodGroen[i] + '; text-align: center"></i><span>'+strx +'</span><BR>' ;
         }
-      var properties ={ logo: true } 
-      properties.titel = "Donkey beschikbaarheid"
-      properties.minWidth = '300px'
-      properties.html = leg
-      maakLegenda(properties);
+      Instellingen.par.titel = "Donkey beschikbaarheid"
+      Instellingen.par.minWidth = '300px'
+      Instellingen.par.html = leg
       getInfo();
        }
+    if (Instellingen["pointer"] !=null) {plaatsPointer();}
+    if (Instellingen["click"] ==1) {map.on('click', onMapClick);}
+    console.log("Start legenda plotten")
+    if (Instellingen.par ){ ontwerpLegenda(Instellingen.legenda,kolom)} else { maakLegenda(Instellingen.legenda);} 
 
-  }
+    }
   window.onload = windowGeladen;
  
-  if (Instellingen["pointer"] !=null) {plaatsPointer();}
-  if (Instellingen["click"] ==1) {map.on('click', onMapClick);}
-
   </script>
  </body>
 </html>
