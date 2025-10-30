@@ -5,7 +5,9 @@ live  :
 haltes:
 par   :
 @     : coordinaten centrum of pointer
+zoom  : zoom factor
 i     : c=click 
+pointer: marker met tekst op scher,
 -->
  <!DOCTYPE html>
 <html>
@@ -28,8 +30,7 @@ i     : c=click
   console.log("start js")
   var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9 } //globale vars voor kaarten; 
   Instellingen.legenda ={ logo: true } // logo: true
-  var mapOptions = { center: [51.95, 4.584], zoom: 10 }
-  var map = new L.map('map', mapOptions);  createMap(); 
+
 
   function loadScript(scriptje) {
       const script = document.createElement('script');
@@ -38,22 +39,23 @@ i     : c=click
           script.onload = () => { Instellingen[scriptje]   = 1;  } // zodat main de onload kan controleren                        
           document.body.appendChild(script);
   }
-// *** Eerst URL parameters inlezen en overlays laden
+// *** Eerst URL parameters inlezen 
   const urlParams = new URLSearchParams(window.location.search);  
-  if (urlParams.get('regio')) {   //gemeentekaart loaden
-    console.log("url par regio is: ");
-    console.log(urlParams.get('regio'))
-    Instellingen.regio=urlParams.get('regio'); loadScript('data/gemeentesZH'); loadScript('data/gemDat') }
-  if (urlParams.get('ov') || urlParams.get('p') ){ //ov lijnen en deelmob loaden
-    loadScript('data/deelmdata');  Instellingen.ov=urlParams.get('ov'); Instellingen.p=urlParams.get('p'); }
-  if (urlParams.get('live')  ){ //load api
-    loadScript('scr/api'); Instellingen.live=urlParams.get('live'); }
-    if (urlParams.get('haltes')  ){ // haltes deelm potentie 
-      loadScript('data/haltesa'); Instellingen.haltes=urlParams.get('haltes'); }    
-  if (urlParams.get('par')  ){ //load vierkant
-    loadScript('scr/vierkant'); loadScript('scr/mapFunctions'); loadScript('data/vkdata4'); Instellingen.par=urlParams.get('par'); }
-  const urlC = urlParams.get('@')  //mapcenter + pointer
-  if (urlParams.get('i') == 'c') {  Instellingen["click"]=1;   } // edit functie : click geeft coordinaten
+  if (urlParams.toString() === "") {   Instellingen.kaart = "home";
+    } else {      // Voeg alle URL parameters toe aan Instellingen
+    for (const [key, value] of urlParams.entries()) {
+      let val = value;
+      // optioneel: typeherkenning
+      //if (val === "true") val = true;
+      //else if (val === "false") val = false;
+      //else if (!isNaN(val) && val.trim() !== "") val = Number(val);
+      Instellingen[key] = val;
+    }
+  }
+  console.log("Instellingen: ",Instellingen);
+  var mapOptions = { center: [51.95, 4.584], zoom: 10 }
+  if (urlParams.get('zoom') != null ){ mapOptions.zoom=urlParams.get('zoom')}
+  const urlC = urlParams.get('@')  //mapcenter aanpassen + plek pointer
   if (urlC != null ){
     console.log(urlC)
     const myArray = urlC.split(",");
@@ -61,6 +63,15 @@ i     : c=click
     if (myArray[2] !=null) {mapOptions['zoom'] =  Number(myArray[2])}
     if (myArray[3] !=null) {Instellingen["pointer"]=myArray[3]}
   }
+  var map = new L.map('map', mapOptions);  createMap(); 
+
+  if (urlParams.get('regio')) {  loadScript('data/gemeentesZH'); loadScript('data/gemDat') }  //gemeentekaart loaden;
+  if (urlParams.get('ov') || urlParams.get('p') ){  loadScript('data/deelmdata');   }         //ov lijnen en deelmob loaden
+  if (urlParams.get('live')  ){   loadScript('scr/api');  }                                   //load api
+  if (urlParams.get('haltes')  ){ loadScript('data/haltesa');  }                              // haltes deelm potentie   
+  if (urlParams.get('par')  ){  loadScript('scr/vierkant'); loadScript('data/vkdata4');  }    //load vierkant
+
+
  
   // *** Hier gaat het verder als overlays geladen zijn 
   function windowGeladen() {
@@ -91,13 +102,13 @@ i     : c=click
         strx  = verloopLeg[i];
         leg += '<i style=" opacity: 0.8; background-color:' + verloopRoodGroen[i] + '; text-align: center"></i><span>'+strx +'</span><BR>' ;
         }
-      Instellingen.par.titel = "Donkey beschikbaarheid"
-      Instellingen.par.minWidth = '300px'
-      Instellingen.par.html = leg
+      Instellingen.legenda.titel = "Donkey beschikbaarheid"
+      //Instellingen.legend.minWidth = '300px'
+      //Instellingen.legend.html = leg
       getInfo();
        }
     if (Instellingen["pointer"] !=null) {plaatsPointer();}
-    if (Instellingen["click"] ==1) {map.on('click', onMapClick);}
+    if (Instellingen["i"] =='c') {map.on('click', onMapClick);}
     console.log("Start legenda plotten")
     if (Instellingen.par ){ ontwerpLegenda(Instellingen.legenda,kolom)} else { maakLegenda(Instellingen.legenda);} 
 
