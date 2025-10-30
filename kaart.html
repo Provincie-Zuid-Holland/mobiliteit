@@ -36,13 +36,12 @@ pointer: marker met tekst op scher,
       const script = document.createElement('script');
           script.src = `${scriptje}.js`; // Dynamische bestandsnaam
           script.type = 'text/javascript';
-          script.onload = () => { Instellingen[scriptje]   = 1;  } // zodat main de onload kan controleren                        
           document.body.appendChild(script);
   }
 // *** Eerst URL parameters inlezen 
   const urlParams = new URLSearchParams(window.location.search);  
-  if (urlParams.toString() === "") {   Instellingen.kaart = "home";
-    } else {      // Voeg alle URL parameters toe aan Instellingen
+  if (urlParams.toString() === "") { Instellingen.kaart = "home";   } 
+    else {      // Voeg alle URL parameters toe aan Instellingen
     for (const [key, value] of urlParams.entries()) {
       let val = value;
       // optioneel: typeherkenning
@@ -65,12 +64,14 @@ pointer: marker met tekst op scher,
   }
   var map = new L.map('map', mapOptions);  createMap(); 
 
-  if (urlParams.get('regio')) {  loadScript('data/gemeentesZH'); loadScript('data/gemDat') }  //gemeentekaart loaden;
-  if (urlParams.get('ov') || urlParams.get('p') ){  loadScript('data/deelmdata');   }         //ov lijnen en deelmob loaden
+  if (Instellingen.kaart=='home') {Instellingen.regio='gem';Instellingen.ov='l'}
+
+
+  if (Instellingen.regio) {  loadScript('data/gemeentesZH'); loadScript('data/gemDat') }  //gemeentekaart loaden;
+  if (Instellingen.ov || urlParams.get('p') ){  loadScript('data/deelmdata');   }         //ov lijnen en deelmob loaden
   if (urlParams.get('live')  ){   loadScript('scr/api');  }                                   //load api
   if (urlParams.get('haltes')  ){ loadScript('data/haltesa');  }                              // haltes deelm potentie   
   if (urlParams.get('par')  ){  loadScript('scr/vierkant'); loadScript('data/vkdata4');  }    //load vierkant
-
 
  
   // *** Hier gaat het verder als overlays geladen zijn 
@@ -109,6 +110,8 @@ pointer: marker met tekst op scher,
        }
     if (Instellingen["pointer"] !=null) {plaatsPointer();}
     if (Instellingen["i"] =='c') {map.on('click', onMapClick);}
+    Instellingen.legenda.link='x'  // zet een link naar kaarten.html
+    if (Instellingen.haltes) {Instellingen.legenda.html='<br>ov-core en fiets-score van haltes<br> (groote en kleur stip)';Instellingen.legenda.titel=' Score van ov haltes'}
     console.log("Start legenda plotten")
     if (Instellingen.par ){ ontwerpLegenda(Instellingen.legenda,kolom)} else { maakLegenda(Instellingen.legenda);} 
 

@@ -17,6 +17,7 @@ function maakLegenda(properties){  // logo // titel // html // positie
   legendHTML+= '<span id="legendContent">'
   if (properties['html'] != null) {legendHTML +=properties['html'] ;}
   if (properties['meer'] != null) {legendHTML += '<BR><details><summary>info & instellingen</summary>' + properties['meer'] + '</details>' ;}
+   if (properties['link'] != null) {legendHTML += '<BR><a href="kaarten.html" target="_blank">toelichting & meer kaarten</a> ' ;}
 
   legendHTML+= '</span>'
   
