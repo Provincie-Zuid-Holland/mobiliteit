@@ -36,9 +36,9 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 1. Hoeveel ruimte een fiets inneemt
 2. Hoe lang (hoeveel dagen) de fiets daar staat voor hij weer een rit maakt
 
-Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen. !Hier linken naar Movaris studie daarover.
+Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen.
 
-{% include blok.html
+{% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
@@ -50,7 +50,7 @@ Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende 
 ### Rendement - zo kort mogelijk stallen
 Door het vergroten van de efficiëntie van fietsenstallingen zullen meer mensen van en naar het station kunnen fietsen (en hun fiets daar stallen), zonder dat er een investering in fysieke uitbreiding nodig is. De efficiëntie kun je vergroten door de stallingsduur per fiets te verkleinen. Dit zorgt voor een grotere doorloop, waardoor een fietsparkeerplek sneller vrijkomt voor een volgende gebruiker. 
 
-Een goede benadering is om hier naar te kijken als een "kosten baten analyse". Van een fiets die gestald wordt op het station zijn de baten dat er één reiziger geholpen is om een goede reis per fiets+ov te maken. De "maatschappelijke kosten" zijn de tijd dat de fiets schaarse ruimte inneemt totdat hij weer opgehaald wordt. We delen de baten door de kosten voor het het redement van de stalling:
+Een goede benadering is om hier naar te kijken als een "maatschappelijke kosten baten analyse". Van een fiets die gestald wordt op het station zijn de baten dat er één reiziger geholpen is om een goede reis per fiets + ov te maken. De "maatschappelijke kosten" zijn de tijd dat de fiets schaarse ruimte inneemt totdat hij weer opgehaald wordt. We delen de baten door de kosten voor het het redement van de stalling:
 <div class="tekstblok">
 Rendement = (1 reiziger) / (aantal dagen dat de fiets gestald staat)
 </div>
@@ -72,7 +72,7 @@ Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bik
 
 
 ### Typen gebruik
-Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat tot er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in Nederland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost de overheid en de provincies veel geld. Laten we kijken of het slimmer kan. 
+Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat tot er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in Nederland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost overheiden veel geld (de provincie betaalt regelmatig mee). Laten we kijken of het slimmer kan. 
 
 **Gebruikersprofiel stallingsduur**  
 We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebruik hebben we gekeken naar de geschatte  stallingsduur tussen twee ritten. 
@@ -125,7 +125,7 @@ We hebben de gebruikers in vijf categorieën ingedeeld. Binnen ieder type gebrui
 
 Uit de tabel blijkt - wat velen wellicht aan aanvoelden - Dat het stallen van een 'tweede fietsje'in de plaats waar je werkt of een opleing volgt, voor de maatschappij een zeer inefficiente, dure zaak is.  Die fietsjes staan gemiddedeld 3,5 dag stil totdat ze weer een rit maken. Dat komt omdat mensen lang niet iedere dag naar kantoor gaan, soms met de auto gaan, wel eens ziek zijn, of op vakantie gaan. Veel mensen stallen daarnaast ook een 'tweede' of 'derde' fietsje op stations waar ze niet vaak komen. Bijvoorbeeld in de plaats waar hun ouders wonen.
 
-{% include blok.html
+{% include klikblok.html
    img="img\kimrapport.png"
    title="Waar zouden we zijn zonder de fiets en de trein?"
    text="Er is flinke stallingdruk door fietsen die op het station klaar staan, voor vervoer naar werk, opleiding of een andere activiteit. Deze fietsen staan ongeveer vier keer zo lang achtereen gestald in een stationsstalling dan fietsen die worden gebruikt voor vervoer tussen huis en station en ze zorgen samen voor minimaal 45% van de stallingsdruk bezien over alle stations in Nederland." 
@@ -191,7 +191,7 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 {% include blok.html
    img="img\rapportIrene.png"
    title="Pedel tot platform"
-   text="...Mooie masterscriptie TU Delft ....." %}
+   text="...Mooie masterscriptie TU Delft ..LINK TOEVOEGEN..." %}
 
 
 ## 4. Hoe verkorten we de stallingsduur en verhogen zo het rendement?
