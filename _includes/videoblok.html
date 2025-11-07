@@ -1,0 +1,111 @@
+<div class="videoblok">
+  <a href="{{ include.url }}" class="videoblok-link">
+    <div class="videoblok-inner">
+      <div class="videoblok-left">
+        <div class="video-container">
+          <iframe
+            src="https://www.youtube.com/embed/{{ include.video }}"
+            frameborder="0"
+            allowfullscreen
+            loading="lazy">
+          </iframe>
+        </div>
+      </div>
+      <div class="videoblok-right">
+        {% if include.title %}
+          <h2>{{ include.title }}</h2>
+        {% endif %}
+        <p>{{ include.text | markdownify }}</p>
+      </div>
+    </div>
+  </a>
+</div>
+
+<style>
+.videoblok {
+  margin: 1.5em 0;
+}
+
+.videoblok-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.videoblok-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  background: #f9f9f9;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.videoblok-inner:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+/* Video links */
+.videoblok-left {
+  flex: 1 1 40%;
+  min-width: 280px;
+  position: relative;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 verhouding */
+  background: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Tekst rechts */
+.videoblok-right {
+  flex: 1 1 60%;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.videoblok-right h2 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 1.4em;
+  line-height: 1.2;
+}
+
+.videoblok-right p {
+  margin: 0;
+  color: #444;
+  line-height: 1.5;
+}
+
+/* Responsive gedrag */
+@media (max-width: 700px) {
+  .videoblok-inner {
+    flex-direction: column;
+  }
+  .videoblok-left, .videoblok-right {
+    flex: 1 1 100%;
+  }
+  .videoblok-right {
+    padding: 1em;
+  }
+}
+</style>
+
+
+
+

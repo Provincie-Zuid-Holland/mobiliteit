@@ -57,6 +57,15 @@ test  van tekstblok
    text="Dit is een tekstblok met titel." %}
 
 
+{% include videoblok.html
+  video="HFgbAw92CGulizLd"
+  title="Trein & Fiets: de perfecte match"
+  text="Bekijk hoe deze combinatie werkt in de praktijk bij de TU Delft."
+  url="https://www.tudelft.nl/citg/onderwijs/student-stories/trein-fiets-de-perfecte-match"
+%}
+
+
+
 {% include tekstblok.html
    bg="#beb1a7"
    text="Dit is een tekstblok zonder titel." %}

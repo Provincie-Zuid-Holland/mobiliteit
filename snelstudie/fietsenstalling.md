@@ -42,7 +42,7 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
    img="img\fietesnstallingvandetoekomst.png"
    title="Rapport Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %}
+   text="Een mooie studie van oa Movaris over fietsenstallingen en de diversiteit in type fietsen. " %}
 
 Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
@@ -188,10 +188,16 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 
 <br>
 
-{% include blok.html
+{% include klikblok.html
    img="img\rapportIrene.png"
-   title="Pedel tot platform"
-   text="...Mooie masterscriptie TU Delft ..LINK TOEVOEGEN..." %}
+   title="Pedel to platform"
+   url="https://repository.tudelft.nl/record/uuid:5b98405c-4ed2-4023-89f1-0fcd5f066849"
+   text="Mooie masterscriptie van Irene Bosman aan de TU Delft '... investigates the operational efficiency of bicycle parking facilities at railway stations, with the aim of bridging the gap between infrastructure design and the evolving demands of users, such as ... fluctuating commuting patterns.....  showing that a high turnover relative to parking pressure rate indicates greater operational efficiency" %}
+
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2sYm-d0E3Y?si=Xhu-10l87Lr_QDdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## 4. Hoe verkorten we de stallingsduur en verhogen zo het rendement?
