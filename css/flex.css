@@ -70,6 +70,17 @@
   overflow: hidden;
 }
 
+.item-breed {
+  flex: 1;
+  min-width: 150px;
+  padding: 10px;
+  background-color: #f8f8f8; /* er stond inherit;  */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
 .item-left img {
   max-width: 100%;
   height: auto;

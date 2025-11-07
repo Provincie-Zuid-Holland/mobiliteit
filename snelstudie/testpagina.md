@@ -57,17 +57,12 @@ test  van tekstblok
    text="Dit is een tekstblok met titel." %}
 
 
-{% include videoblok.html
-  video="HFgbAw92CGulizLd"
-  title="Trein & Fiets: de perfecte match"
-  text="Bekijk hoe deze combinatie werkt in de praktijk bij de TU Delft."
-  url="https://www.tudelft.nl/citg/onderwijs/student-stories/trein-fiets-de-perfecte-match"
-%}
 
-nog een poging voor video blok:
 
-<div class="item single-block"{{ style }}>
-    <div class="item-left">
+ poging voor video blok:
+
+<div class="item single-block">
+    <div class="item-breed">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/D2sYm-d0E3Y?si=Xhu-10l87Lr_QDdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="item-right">
