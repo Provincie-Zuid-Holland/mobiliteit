@@ -61,17 +61,7 @@ test  van tekstblok
 
  poging voor video blok:
 
-<div class="item single-block">
-    <div class="item-breed">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/D2sYm-d0E3Y?si=Xhu-10l87Lr_QDdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-    <div class="item-right">
-      {% if include.title %}
-        <h2>Titel </h2>
-      {% endif %}
-      <p>tekst ...... tekst</p>
-    </div>
-  </div>
+<
  en nog een
 
 <div class="item single-block"{{ style }}>
