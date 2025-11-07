@@ -20,11 +20,6 @@ menu: |
    klikblok zonder titel
 
    
- {% include klikblok.html
-   img="img\fietesnstallingvandetoekomst.png"
-   title="Rapport Fietsenstalling van de toekomst"
-   url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Dit is een klikbaar klikblok. Een mooie studie van oa Movaris over het ruimtelijke vraagstuk rondom fietsenstallingen en de diversiteit in type fietsen." %} 
 
 en nu door naar blok
  zonder url
@@ -43,6 +38,27 @@ blok  zonder title
 
 
 
+<div class="item">
+    <div class="item-left">
+    <img src="{{ include.img }}">
+    </div>
+    <div class="item-right">
+      <h2>include.title</h2>    
+      <p>include.text ...   tekst</p>
+    </div>
+</div>
+
+bla bla
+
+<div class="item">
+    <div class="item-left">
+    <img src="{{ include.img }}">
+    </div>
+    <div class="item-right">
+      <h2>include.title</h2>    
+      <p>include.text ...   tekst</p>
+    </div>
+</div>
 
 <div class="tekstblok">
   Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.

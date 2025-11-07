@@ -193,13 +193,14 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 
 
 <br>
+<div class="item-list">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2sYm-d0E3Y?si=Xhu-10l87Lr_QDdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 ## 4. Aanbevelingen: Hoe verkorten we de stallingsduur?
- Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. 
-...
+ Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Hieronder een aantal denkrichtingen. (Alle ▶ kun je uitklappen door te klikken).
+
 <details><summary>4.1 Reduceren van aantal weesfietsen  / te lang gestalde fietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan zijn daarom zeer ongewenst. Om weesfietsen snel te verwijderen is het nodig om goed bij te kunnen houden welke fietsen er al lang staan en of deze fietsen geen weesfietsen zijn. Denk hierbij aan het gebruik van bonnen, barcodes, kaarten of tags. In veel stelling wordt electronisch al bijgehouden hoe lang een fiets staat. Ook het aanpassen van de regegeving rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten kunnen weesfietsen vroegtijdig verwijderd worden, wat ruimte oplevert voor reguliere gebruikers.</details>
 <details><summary>4.2 Beprijzen lang stallen</summary>Hiernaast kan het verhinderen van het langdurig stallen van een fiets bereikt worden door het financieel minder aantrekkelijk te maken je fiets lang te laten staan. Dit zal er ook direct voor zorgen dat het voor mensen met een tweede fiets minder aantrekkelijk wordt om deze in de stalling te plaatsen. Echter lost dit vaak niet direct het probleem op, maar zorgt het eerder voor een verschuiving van het probleem. In plaats van de fiets in de betaalde stalling te parkeren zal deze nu ergens anders komen te staan. 
 </details>
@@ -223,30 +224,37 @@ Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aan
 ## 5. De overstap van 'tweede' fietsje op deelfiets
 De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarintegen staat juist kort stil doordat ze van 'baasje wissellen' In dit hoofdstuk kijken we hoe we mensen kunnen laten overstappen van de 'slechtste' categorie op de 'beste'. Dus van 'tweede' fietsje op deelfiets.
 
-### 	 Barrieres 
+### 	 barrières 
 
-!!! zullen we hier lijstje met iconen doen en dan de barrieres in tekst rechts?
-
-{% include blok.html
-   img="https://freesvg.org/img/1526536070.png"
-   title="Te duur bij frequent gebruik"
-   text="...Een OV-fiets kost .. per keer. Mensen gebruiken dit nauwelijks om dagelijks mee te reizen, tenzij de werkgever betaald ....." %}
-
-{% include blok.html
-   img="https://upload.wikimedia.org/wikipedia/commons/0/04/Bike_icon.png"
-   title="Lastig steeds een andere fiets"
-   text="... ....." %}
+Allereerst duiken we in de barrières om deze overstap te maken:
 
 
-- Kosten   
-- Ongemak van telkens een andere fiets  
-- Er is te weinig *incentive* voor de gebruiker. Zolang er capaciteit is en dit gratis is, zien mensen geen heil in het aanpassen van hun mobiliteitgewoontes. 
+<details><summary>Deelfiets te duur bij frequent gebruik</summary>
+..Een OV-fiets kost .. per keer. Mensen gebruiken dit nauwelijks om dagelijks mee te reizen, tenzij de werkgever betaald .....</details>
+
+<details><summary>Met je eigen fietsje weet je waar je aan toe bent</summary>
+..Ongemak van telkens een andere fiets  ..</details>
+
+
+<details><summary>Een deelfiets is te ingewikkeld</summary>
+.....</details>
+
+
+<details><summary>Ik weet niet zeker of er altijd eentje klaar staat</summary>
+.....</details>
+
+
+<details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
+Zolang er capaciteit is en dit gratis is, zien mensen geen heil in het aanpassen van hun mobiliteitgewoontes.</details>
+
 
 
 
 2. **Inzetten op deelfietsen**  
      
-   Een deelfiets kan ervoor zorgen dat dezelfde fietsenstalling veel meer gebruikers van een fiets kan voorzien. Hierbij zijn er verschillende categorieën te identificeren die elk hun eigen doelgroep bedienen. Zoals beschreven in [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf). kun je de deelfiets grofweg indelen in de volgende categorieën.  
+   Een deelfiets kan ervoor zorgen dat dezelfde fietsenstalling veel meer gebruikers van een fiets kan voorzien. Hierbij zijn er verschillende categorieën te identificeren die elk hun eigen doelgroep bedienen. 
+<details><summary>Zoals beschreven in [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf). kun je de deelfiets grofweg indelen in de volgende categorieën.</summary>
+.....
        
    1. Back to one  
       Deze fietsen worden vanuit een centraal punt gehuurd en keren hier ook weer naartoe terug. Denk hierbij aan bijvoorbeeld de OV-fiets.
@@ -261,23 +269,16 @@ De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebru
 
          Factoren die een rol kunnen spelen voor succes van zo’n deelfietssyteem zijn de tariefstelling, betrouwbaarheid en kwaliteit, en vertrouwbaarheid van de aanbieder. Waarbij het succes volgens [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf) hem met name zit in de schaal en dichtheid van het systeem, de kosten voor de eindgebruiker, de zekerheid van een goed onderhouden fiets, een actieve herverdeling en de adoptie van het systeem door de lokale overheid om vertrouwen te creëren bij de eindgebruiker.
 
+</details> 
 
 
-### Brainstorm opties om de overstap op deelfiets aantrekkelijk te maken
-...
-...
-
-  ## 6\. De rol van de  overheden
 
 
-6. Aanbevelingen
-
-Welke mogelijkheden hebben de overheden om de efficiëntie van fietsenstallingen te verhogen en daarmee de investeringskosten te verlagen?
-
-{% include blok.html
-   img="img/deelfiets_vaker_trein.jpg"
-   title="Meer weten?"
-   text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
+{% include klikblok.html
+   img="https://kennis.zuid-holland.nl/wp-content/uploads/2024/06/15048-1024x683.jpg"
+   title="Wisselfiets"
+   url="https://kennis.zuid-holland.nl/wisselfiets/"
+   text="Wisselfietsen zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de Wisselfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de Wisselfiets voor het laatste stukje van de reis gebruikt. Op die manier staat de wisselfiets ’s nachts nabij de woning van de eerste groep en overdag bij de bestemming van de tweede groep (werk of opleiding). Grote voordeel: De wisselfiets staat nauwelijks stil op het station." %}
    <br>
 {% include blok.html
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
