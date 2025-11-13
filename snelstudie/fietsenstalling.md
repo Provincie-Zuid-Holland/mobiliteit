@@ -25,7 +25,7 @@ Het blijkt dat er voor verschillende doelgroepen van stallers grote verschillen 
 2. Een analyse van de gebruikers en hun fiets
 3. Organisatie van fietsenstallingen bij stations (NS , ProRail, gemeenten) !! moet dit wel als Hoofdstuk?!
 4. Aanbevelingen: Hoe verkorten we de stallingsduur en verhogen zo het rendement?
-5. Uitwerking overstap van 'tweede' fietsje op deelfiets
+5. Uitwerking overstap van 'tweede fietsje' op deelfiets
 
 
 ## 1. De efficiëntie van fietsenstallingen 
@@ -195,8 +195,8 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 <br>
 <div class="item-list">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2sYm-d0E3Y?si=Xhu-10l87Lr_QDdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+</div>
+<br>
 
 ## 4. Aanbevelingen: Hoe verkorten we de stallingsduur?
  Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Hieronder een aantal denkrichtingen. (Alle ▶ kun je uitklappen door te klikken).
@@ -214,12 +214,11 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 </summary>Hierbij sturen we niet op de tijd dat de fiets ers staat maar toch op het type fiets omdat het ruimtebeslag een stuk slechter is.
 .</details>
 <details><summary>Er mogen alleen nog maar deelfietsen de stalling in
-</summary>Een rigoreuze maatregelel, die op korte termijn niet heel realistisch is, maar die wel voor een enorme verlichting van de stallingsdruk zou opleveren.  Tussenvoermen zijn: Meer ruimte voor deelfietsen op de beste plekken.
-.</details>
-
+</summary>Een rigoreuze maatregelel, die op korte termijn niet heel realistisch is, maar die wel voor een enorme verlichting van de stallingsdruk zou opleveren.  Tussenvoermen zijn: Meer ruimte voor deelfietsen op de beste plekken.</details>
+<br>
 
 Om de efficiëntie en stallingsduur van gebruikers te verbeteren zijn er een aantal mogelijkheden. Deze mogelijkheden zou je grofweg in kunnen delen in twee categorieën. Als eerste de mogelijkheden om de efficiëntie te verbeteren door anders om te gaan met het stallen van fietsen. Ten tweede door meer in te zetten op het gebruik van deelfietsen. De deelfiets staat immers veel minder lang stil in de stalling en kan hierdoor dus meer mensen bedienen dan een normale fiets. Hierdoor zijn er minder individuele fietsen nodig in de stallingen. We besteden er een apart hoofdstuk aan.
-
+<br>
 
 ## 5. De overstap van 'tweede' fietsje op deelfiets
 De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarintegen staat juist kort stil doordat ze van 'baasje wissellen' In dit hoofdstuk kijken we hoe we mensen kunnen laten overstappen van de 'slechtste' categorie op de 'beste'. Dus van 'tweede' fietsje op deelfiets.
@@ -287,6 +286,8 @@ Zolang er capaciteit is en dit gratis is, zien mensen geen heil in het aanpassen
    img="img/deelfiets_vaker_trein.jpg"
    title="Meer weten?"
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}  
+
+<br>
 
 
 ## Bronnen

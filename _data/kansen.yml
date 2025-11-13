@@ -19,24 +19,26 @@
   image: img/busstationleiden.jpg
   description: Het busvervoer staat onder druk door de grote overheidsbijdrage die nodig is om het systeem draaiende te houden. 
 
-- title: 5. Deelmobiliteit & publiek vervoer
+- title: 5. Deelmobiliteit & publiek vervoer & hubs
   url: https://kennis.zuid-holland.nl/treingebruik-deelfiets/
   image: /mobiliteit/snelstudie/img/deelfiets_vaker_trein.jpg
   description: Als we op onze bestemming net zo makkelijk een fiets zouden kunnen pakken als thuis  bijvoorbeeld met deelfietsen op meer stations  dan groeit het gebruik van de trein 33 procent en daalt het gebruik van de auto 5 procent in Nederland. Dat geldt voor alle verplaatsingen van in totaal 10 kilometer en meer.
 
-- title: 6. Duurzaam & schoon vervoer (goederen & personen)
+- title: 6. Goede infrastructuur voor personenauto's en vrachtwagens / functionerende provinciale infrastructuur
+  url: https://kennis.zuid-holland.nl/ov/
+  image: img/slim-onderhoud.png
+  description: Goede infrastructuur moet goed onderhouden worden. Daar gaat veel tijd en geld inzitten. Dat moeten we slim doen. Zuid-Holland wil in 2050 circulair zijn, dus reststromen volledig opnieuw benutten. Oók op het gebied van infrastructuur. Duurzame infra en circulariteit zorgt ervoor dat we ons milieu schoner achterlaten voor volgende generaties en we minder afhankelijk worden van grondstoffen, ook uit andere landen.
+
+
+- title: 7. Duurzaam & schoon vervoer (goederen & personen)
   url: https://kennis.zuid-holland.nl/onderzoeken/snelstudie-hoe-verleiden-we-reizigers-om-slimmer-dan-met-een-auto-te-reizen/
   image: img/schip.jpg
   description: In deze snelstudie staan een groot aantal maatregelen om mensen aan te zetten slimmer te reizen dan met een auto. Vervolgens zijn de gerangschikt op urgentie en kansrijkheid. (2020)
 
 
-- title: 7. Slimme technologie (smart mobility)
+- title: 8. Slimme technologie (smart mobility)
   url: https://kennis.zuid-holland.nl/kansen-voor-mobiliteit/
   image: img/smart-mobility.jpg
   description: Smart mobility kan helpen om mobiliteit aantrekkelijker, duurzamer, efficiënter, schoner, toegankelijker én veiliger te maken. Het gaat over het samenbrengen én sturen van vraag en aanbod in de mobiliteit (diensten, verkeer, systemen). 
 
-- title: 8. Goed functionerende provinciale infrastructuur
-  url: https://kennis.zuid-holland.nl/ov/
-  image: img/slim-onderhoud.png
-  description: Goede infrastructuur moet goed onderhouden worden. Daar gaat veel tijd en geld inzitten. Dat moeten we slim doen. Zuid-Holland wil in 2050 circulair zijn, dus reststromen volledig opnieuw benutten. Oók op het gebied van infrastructuur. Duurzame infra en circulariteit zorgt ervoor dat we ons milieu schoner achterlaten voor volgende generaties en we minder afhankelijk worden van grondstoffen, ook uit andere landen.
 
