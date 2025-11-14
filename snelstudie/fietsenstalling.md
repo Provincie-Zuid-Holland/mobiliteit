@@ -250,6 +250,41 @@ Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Is de d
 <details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
 Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mensen hun mobiliteitsgewoontes is een moeilijke stap en zolang de huidige optie (een tweede fiets) werkt en het alternatief te duur is (de ov-fiets), is de conclusie simpel. De gebruiker zal niet van gedrag veranderen. </details>
 
+## 6. De grote partijen aan zet 
+
+Als we echt mogelijkheden willen  benutten en de efficiëntie van stallingen willen verbeteren dan zijn er drie grote partijen die een rol spelen bij het beheer van de fietsenstallingen, namelijk de NS, ProRail en de gemeente. Hiernaast zullen we ook de provincie als vierde partij benoemen. De provincie speelt geen rol in het dagelijks beheer van de stallingen maar kan wel ondersteunen in beleid en het realiseren van deelfietsen.
+
+1. De rol van de NS  
+   1. De NS is verantwoordelijk voor de exploitatie van de stallingen. Dit houdt onder andere in het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van fietsen.  
+
+2. De rol van Prorail  
+   1. ProRail installeert de rekken en sensoren in de fietsenstallingen. Hierdoor heeft ProRail ook de beschikking over de data van fietsenstallingen. Echter wordt deze data maar beperkt gedeeld met andere partijen zoals de NS en de gemeente. Wat onderzoek naar de daadwerkelijke efficiëntie van fietsenstallingen beperkt.
+
+3. De rol van de gemeente   
+   1. De gemeente is dan weer verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente deze op te halen. Hiervoor moet de NS dus een goede communicatie met de gemeente onderhouden. 
+
+
+4.	De rol van de provincie
+      1. De provincie is niet verantwoordelijk voor het beheer van de stallingen maar houdt zich daarentegen wel bezig met mobiliteitsbeleid in de regio waaronder het realiseren van deelfiets (mobiliteit). 
+<br>
+
+Om te zorgen dat deze partijen gezamenlijk de efficientie van fietsenstallingen kunnen verbeteren kan men denken aan de volgende mogelijkheden: 
+
+<details><summary>Inzetten op data en kennis</summary>
+
+Op dit moment is er nog geen totaalbeeld van het aandeel fietsen op stations die tweede fietsen zijn, hoeveel zwerffietsen er staan en wanneer dit problematisch wordt voor de andere reizigers. De provincie kan inzetten op het beter vergaren van data door middel van monitoring en handhaving. 
+Daarnaast is er ook onvoldoende kennis over de gebruikers van tweede fietsen of wie zijn of haar fiets achterlaat als zwerffiets. Door gebruikersprofielen op te bouwen kunnen deze groepen doelgerichter worden benaderd met acties om hun stallingsgewoontes aan te passen.</details>
+
+<details><summary>Investeren in een deelfietsensysteem</summary>
+
+Back to one → i.c.m met een abonnementsvorm waardoor de kosten niet te hoog worden bij frequent gebruik.
+Back to many of freefloating → actieve herverdeling van fietsen met voldoende aanbod bij de stations om beschikbaarheid te garanderen. Hierdoor blijft het systeem van deelfietsen betrouwbaar voor de ov-reizigers.</details>
+
+<details><summary>Inzetten op snel te bereiken doelgroepen</summary>
+Adoption of innovation theorie → bereik eerst de groepen die het makkelijkste meegaan in gedragsverandering. Dat kunnen intrinsiek gemotiveerden gebruikers zijn of mensen die gevoeliger zijn voor prijsprikkels of beloningsbeleid.</details>
+
+<details><summary>Focus op bestemmingsstations</summary>
+Bestemmingsstations, daar waar veel mensen uit de trein stappen om naar hun werk of studie te gaan, zijn de plekken waar veel reizigers een tweede fiets hebben staan. Deze fietsen zijn het minst efficiënt gestald, zeker als ze alleen op dinsdag en donderdag gebruikt worden. Hier valt dus de grootste winst te behalen. Daarnaast liggen hier ook kansen om met bedrijven icm NS businesscard of Shuttel etc deals te sluiten voor zakelijke gebruikers.</details>
 
 
 
@@ -257,6 +292,8 @@ Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te ze
      
    Een deelfiets kan ervoor zorgen dat dezelfde fietsenstalling veel meer gebruikers van een fiets kan voorzien. Hierbij zijn er verschillende categorieën te identificeren die elk hun eigen doelgroep bedienen. 
 <details><summary>Zoals beschreven in [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf). kun je de deelfiets grofweg indelen in de volgende categorieën.</summary>
+   
+
 .....
        
    1. Back to one  
