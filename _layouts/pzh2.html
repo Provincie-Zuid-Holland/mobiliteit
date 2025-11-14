@@ -34,8 +34,11 @@
       </a>
     </div>
   {% endif %}
-  {% if include.formheader %}
-    {{ include.formheader }}
+  {% if page.formheader %}
+   <div style="height: 350px; overflow: hidden;" id="topI">
+   <img src="{{ page.header_image }}" alt="Zuid-Holland"  style="margin-top: -500px;">
+  </div>
+    
   {% else %}
     <div class="topImage" id="topI">
     <img src="{{ page.header_image }}" alt="Zuid-Holland" width="100%" height="auto" >
