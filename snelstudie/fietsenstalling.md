@@ -1,7 +1,6 @@
 ---
-layout: pzh2
+layout: pzh
 title: fietsenstallingen
-formheader: <div style="height: 256px; overflow: hidden;" id="topI"> <img src="snelstudie\img\Fietsenstalling-Den-Haag.jpg" alt="Zuid-Holland"  style="margin-top: -500px;"></div>
 header_image: img\Fietsenstalling-Den-Haag.jpg
 menu: |
    <a href="werkwijzer.html">toelichting</a>
