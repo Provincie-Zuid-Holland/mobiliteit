@@ -345,7 +345,7 @@ Bronnen die interessant zouden zijn:
 - [https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)   
 - [https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1](https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1) 
 
-Brainstorm
+Brainstorm.
 
 **Benutten mogelijkheden**
 
