@@ -1,5 +1,5 @@
 ---
-layout: pzh
+layout: pzh2
 title: fietsenstallingen
 header_image: img\Fietsenstalling-Den-Haag.jpg
 menu: |
