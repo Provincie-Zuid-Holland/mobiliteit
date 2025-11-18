@@ -76,6 +76,13 @@ Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de p
 In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opgezet zijn is veel te vinden over de status van korte ketens. Maar ook waar de huidige problematiek ziet. Hieronder hebben we enkele van deze bevindingen onder elkaar gezet. 
 
  {% include klikblok.html
+   img="img\Public-Food_good-food_logo.png"
+   title="Public food"
+   url="https://publicfood.org/"
+   text="Gezond eten is voor ons allemaal een eerste levensbehoefte, geen luxe. Public Food is een organisatie voor voedselrechtvaardigheid. Naast agenderen runt de organisatie [Mensa Mensa](https://mensa-mensa.nl/), een basisvoorziening voor betaalbaar goed eten in Rotterdam Zuid" %} 
+ <br>
+
+ {% include klikblok.html
    img="img\tuinvanholland.jpg"
    title="enzovoort"
    url="https://www.detuinvanholland.nl/"
@@ -85,7 +92,7 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
    img="img\oogstwinkel.avif"
    title="Oogst; de nieuwe boerenwinkel"
    url="https://www.oogst.shop/"
-   text="Bij Oogst vind je het allerbeste van dichtbij: lokale producten van regeneratieve boeren en ambachtelijke makers - vol van smaak en karakter. Winkes in Haarlem, Leiden, Woerden en Montfoort" %}
+   text="Bij Oogst vind je het allerbeste van dichtbij: lokale producten van regeneratieve boeren en ambachtelijke makers - vol van smaak en karakter. Er zijn winkels in Haarlem, Leiden, Woerden en Montfoort. De winkels zijn winkels waar je zelf naar binnen kunt en kunt afrekenen met een app" %}
    <br>
   {% include klikblok.html
    img="img\korteketenwinkel.jpg"
