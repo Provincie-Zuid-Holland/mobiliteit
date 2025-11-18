@@ -76,7 +76,7 @@ Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de p
 In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opgezet zijn is veel te vinden over de status van korte ketens. Maar ook waar de huidige problematiek ziet. Hieronder hebben we enkele van deze bevindingen onder elkaar gezet. 
 
  {% include klikblok.html
-   img="img\tuinvanholland.jpg
+   img="img\tuinvanholland.jpg"
    title="enzovoort"
    url="https://www.detuinvanholland.nl/"
    text="Een hedendaagse gezonde, seizoensgebonden en duurzame Nederlandse keuken voor iedereen. Dat is het doel van De Tuin van Holland. Samen met een brede coalitie van chefs, boeren, artsen en ketenpartners werken we daar naar toe. Want één ding is inmiddels wel duidelijk: structurele oplossingen vragen inzet van de hele keten – van de boer tot in de keuken. Met hoogwaardige producten uit de regio dragen we bij aan de gezondheid van de agrarische sector, van onze bodem, ons water én van onszelf." %} 
@@ -95,7 +95,7 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
    <br>
  
   {% include klikblok.html
-   img="img\tuinvanholland.jpg
+   img="img\tuinvanholland.jpg"
    title="enzovoort"
    url="https://www.detuinvanholland.nl/"
    text="...." %} 
