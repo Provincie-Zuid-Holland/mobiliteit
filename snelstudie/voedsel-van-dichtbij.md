@@ -71,13 +71,31 @@ Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de p
   </tr>
 </table>
 
-## 2. De huidige consensus
+## 2. Initiatieven die er al zijn
 
 In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opgezet zijn is veel te vinden over de status van korte ketens. Maar ook waar de huidige problematiek ziet. Hieronder hebben we enkele van deze bevindingen onder elkaar gezet. 
 
-Kijken hoe we de literatuur terug willen laten komen!
 
-## 3. De praktijk 
+{% include klikblok.html
+   img="img\oogstwinkel.avif"
+   title="Oogst; de nieuwe boerenwinkel"
+   url="https://www.oogst.shop/"
+   text="Bij Oogst vind je het allerbeste van dichtbij: lokale producten van regeneratieve boeren en ambachtelijke makers - vol van smaak en karakter. Winkes in Haarlem, Leiden, Woerden en Montfoort" %}
+   <br>
+  {% include klikblok.html
+   img="img\korteketenwinkel.jpg"
+   title="Korte ketens in Noor-Holland"
+   url="https://www.boerenbusinessinbalans.nl/de-korte-keten/"
+   text="In korte ketens hebben boeren en burgers de prijs en kwaliteit van hun voedsel meer in eigen hand. Ook is er meer ruimte voor boeren, burgers, instellingen, bedrijven en overheden om hun eigen initiatieven te ontplooien en samen te werken (coöperaties). In Noord-Holland wordt er ontzettend veel lekker en voedzaam eten geproduceerd. Een groot deel hiervan wordt naar het buitenland geëxporteerd, terwijl een deel van het voedsel dat in Noord-Holland wordt gegeten juist weer wordt geïmporteerd. Dit kan efficiënter!" %} 
+   <br>
+  {% include klikblok.html
+   img="img\korteketenwinkel.jpg"
+   title="enzovoort"
+   url="https://www.boerenbusinessinbalans.nl/de-korte-keten/"
+   text="......" %} 
+
+
+## 3. Barrieres in de praktijk 
 Waar lopen nu de producenten tegenaan als het om de logistiek gaat? Uit een onderzoek [Agrarische afzet via korte ketens in Noord Holland] (https://edepot.wur.nl/549320) komen drie problemen naar voren: 
 
 1. De periode van inefficiënte levering duurt te lang. Ieder nieuw initiatief wil graag zelf zijn levering in de hand houden, zoals elke startup het liefst alles zelf wil doen.  
@@ -94,6 +112,8 @@ Dan gaan we nu focus op Zuid Holland richten. In de samenvattende studie [Agrari
 Invoegen Eigen Tabel in anonieme vorm!!
 
 In dit korte Marktonderzoek wordt geconcludeerd voor de logistiek in twee richtingen. Richting A is een groeimodel; maak een platform dat naadloos aansluit op de huidige inkoopsystemen van ziekenhuizen etc., waardoor je eenmaal vastgeklikt vrij snel de markt kan opvoeren. Richting B is een reproductiemodel: waarbij je een klein ecosysteem bouwt met eigen platform en logistiek, wat je heel regionaal houdt. Groei is niet het doel, maar volwassenheid van het systeem. Wanneer het plafond bereikt is stop je met groeien. En start je op andere plek weer een nieuw ecosysteem.
+
+
 
 ### 3.2 Horeca, Catering en Supermarkten 
 [Zijn horeca, catering en supermarkten geïnteresseerd in producten uit de regio?] (https://research.wur.nl/en/publications/korteketenproducten-in-nederland-zijn-horeca-catering-en-supermar/) In dit onderzoek wordt geschetst wat nodig is om korte keten- landbouw te professionaliseren, bezien vanuit de afnemers. Hun conclusie is dat supermarkten de belangrijkste afzetpartij zijn voor korte keten producten, gevolgd door horeca, en boerderijwinkels. Deze partijen hebben allen beperkt beleid specifiek voor korte ketens. 
