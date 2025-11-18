@@ -29,8 +29,37 @@ Het reisgedrag van mensen veranderen is niet eenvoudig. Samen met [Zuid-Holland 
 Door de veranderingen op het gebied van mobiliteit, wonen, energie en werken dienen zich kansen aan voor veilige, gezonde, slimme en duurzame mobiliteit die de provincie samen met andere overheden en maatschappelijke partners graag benut.  
 
 <div class="tekstblok">
-Bovenstaande is een vrije vertaling van het beleid van de Provincie. Hieronder vind je meer info & links. Ook naar de officieel vastgestelde beleidsteksten (omgevingsbeleid).
+Bovenstaande is de ambitie de Provincie. Hieronder vind je meer info over de bijbehorende beleidskeuzes & links. Ook naar de officieel vastgestelde beleidsteksten (omgevingsbeleid).
 </div>
+
+## Beleidskeuze: 2.1.1 Stimuleren duurzaam, veilig en slim personenvervoer
+
+De provincie wil dat iedereen zijn bestemming kan bereiken op makkelijke, snelle, veilige en duurzame wijze. De provincie streeft daarbij naar een toekomstbestendig Zuid-Holland. Dat betekent dat ze meer gaat prioriteren op gezondheid, kwaliteit en veiligheid van de leefomgeving. Hierbij heeft de provincie steeds meer oog voor verschillen in de behoeften binnen gebieden en van doelgroepen.
+
+Door groei van de bevolking en economie wordt het steeds drukker. Bovendien moet er de komende jaren veel onderhoud aan wegen en bruggen gedaan worden wat voor hinder gaat zorgen. De provincie zet zich – samen met andere overheden – in om deze overlast en de files te minimaliseren, bijvoorbeeld in het samenwerkingsverband Zuid-Holland Bereikbaar.
+### Kracht van nabijheid
+Met voorzieningen en werk dichtbij hoeven bewoners minder ver te reizen, lopen ze vaker, fietsen ze meer, pakken ze vaker het OV en verbetert hun bereikbaarheid. Daarom zet provincie in op nabijheid van wonen, werken, voorzieningen en goed openbaar vervoer.  De provincie streeft ernaar dat woningbouw, voorzieningen, werk en bereikbaarheid in samenhang worden ontwikkeld en werkt daarbij gebiedsgericht.
+### lopen, fietsen, ov, deelmobiliteit en privé auto (STOMP)
+In Zuid-Holland worden veel woningen gebouwd. De provincie geeft lopen en fietsen vanaf de ontwerpfase een prominente rol, omdat actieve mobiliteit weinig ruimte per verplaatsing inneemt. Door de snelle opkomst van de elektrische fiets gaan meer mensen vaker en verder fietsen en de provincie stimuleert dat graag verder.  De provincie hanteert daarbij het STOMP-principe, waarbij ze mobiliteit zoveel mogelijk faciliteert in de volgorde: Stappen (lopen), Trappen (fietsen), Openbaar vervoer, deelMobiliteit en tot slot de Privéauto. Zo maken zij duurzame en ruimte-efficiënte verplaatsingen vanzelfsprekend. Terwijl de meeste mensen thuis een fiets hebben, ontbreekt de mogelijkheid om te fietsen meestal na een reis met het openbaar vervoer. Daarom zet de provincie in op deelfietsen voor het laatste stukje van een reis.
+
+Het reisgedrag van mensen veranderen is niet eenvoudig. Samen met Zuid-Holland Bereikbaar doet de provincie daar haar uiterste best voor, maar uiteindelijk kiest iedereen zelf hoe hij of zij reist. Daarom blijft het belangrijk dat ook de auto een goede en vlotte optie is. Met de toenemende druk op ons wegennet moeten we knelpunten blijven aanpakken en, waar dat nodig is, aanvullende infrastructuur realiseren. Dat vraagt om slimme keuzes, nieuwe toepassingen zoals hybride modellen tussen eigen auto en OV maar ultimo ook extra ruimte voor mobiliteit in een al volle provincie. Maar zonder dat, geen grootschalige woningbouw en geen gezonde economische groei.
+
+### verkeersveiligheid
+De provincie vindt ieder verkeersslachtoffer er één te veel en streeft naar elk jaar minder verkeersslachtoffers en nul verkeersslachtoffers in 2050. De provincie werkt samen met andere organisaties aan een veilige infrastructuur en stimuleert verkeersveilig gedrag door middel van educatie en voorlichting. De provincie onderhoudt contact met politie en het Openbaar Ministerie (OM) over adequate handhaving. 
+{smart en schoner}
+Ruimte en middelen voor nieuwe infrastructuur zijn beperkt. De provincie kijkt daarom naar de mogelijkheden van nieuwe, digitale en innovatieve (data-)oplossingen om (vaar)wegen en fietspaden en openbaar vervoer beter te benutten en om mobiliteit schoner te krijgen bijvoorbeeld door faciliteiten voor elektrisch laden te verbeteren.
+
+## Beleidskeuze 2.1.2:  Adequaat en duurzaam aanbod openbaar vervoer
+Zuid-Holland streeft naar een toekomstbestendig Zuid-Holland met goed openbaar vervoer. De provincie realiseert, samen met de MRDH, een adequaat aanbod van openbaar vervoer zonder uitstoot van schadelijke stoffen zoals CO2 en stikstof. De provincie wil dat dit snel, frequent, betrouwbaar, beschikbaar en betaalbaar is. Adequaat ov maakt samen met lopen, de fiets en deelvervoer een reis van deur tot deur mogelijk. 
+
+## Beleidskeuze 2.1.3. Duurzaam en efficiënt goederenvervoer
+Het vervoer van goederen dient zo efficiënt, effectief en schoon mogelijk plaats te vinden en bij te dragen aan de bereikbaarheid, economische ontwikkeling en leefbaarheid. De provincie zet in op een toekomstbestendig Zuid-Holland. Dit betekent dat de provincie een beweging naar een toekomstbestendige economie nastreeft met een betere leefomgevingskwaliteit en gezondheid. Ze geeft voorrang aan een duurzame, digitale en inclusieve economie, met borging van maatschappelijke meerwaarde. Daarom moeten de schaarse ruimte en infrastructuur effectiever gebruikt worden. 
+
+## Beleidskeuze 2.1.4. Voorbereiding (provinciale) infrastructuurprojecten en bijdragen aan projecten van anderen 
+Om ervoor te zorgen dat de provincie Zuid-Holland voor iedereen bereikbaar is en blijft op een duurzame en veilige manier verbetert de provincie bestaande infrastructuur en legt waar nodig ook nieuwe provinciale infrastructuur aan. Of een infrastructurele ingreep passend en nodig is, wordt bepaald door onderzoek te doen naar oorzaken en mogelijke maatregelen. Hierbij wordt integraal gekeken of lopen, fietsen, OV en deelvervoer ook een bijdrage aan de oplossing kunnen leveren. Ook wordt nadrukkelijk gekeken of bestaande infrastructuur beter kan worden benut. De fysieke en financiële ruimte zijn immers beperkt. Daarnaast draagt de provincie bij aan projecten van andere overheden door middel van advisering en/of een financiële bijdrage. Verkeersveilige infrastructuur, duurzaamheid, gezondheid en circulariteit zijn standaard elementen in de voorbereiding van projecten.   
+
+## Beleidskeuze 2.1.5. Realisatie provinciale infrastructuurprojecten 
+Om de bereikbaarheid op peil te houden verbetert de provincie bestaande infrastructuur en legt nieuwe infrastructuur aan. Deze projecten worden gerealiseerd op basis van een besluit waarin de inhoudelijke scope, planning en het financiële kader zijn vastgelegd. 
 
 ### Meer info & links
 - [Ambitie 2. Bereikbaar Zuid-Holland (vigerend)](https://omgevingsbeleid.zuid-holland.nl/omgevingsvisie/ambities/44d0fb02-3625-464b-8c20-40947626a184). Vanuit de (vigerende) ambitie bereikbaarheid kan doorgeklikt worden naar ondeliggende doelen, keuzes en maatregelen.

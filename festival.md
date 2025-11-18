@@ -13,5 +13,26 @@ Save-the-date: Je kunt maar beter vooruitkijken en dit festival (inloop 13:00) i
 - Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag)
 - circa 16:30 sluiten we af met een feestelijke borrel tot 18 uur.
 
+## Sessies (onder voorbehoud)
+Vorig jaar waren er ruim 20 inspirerende sessies in zeven paralelle tracs. We nodigen iedereen uit om met voorstellen voor sessies te komen. Mogelijke sessies voor de festival-2026-editie:
+- Bereikaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden.
+- Woningbouwplannen en de nabijheid van werken, leren en voozieningen
+- Lopen op de kaart
+- Zuid-Holland: Ga gewoon fietsen!
+- Openbaarvervoer
+- Deelfietsen next step
+- Kansen voor bereikbaarheid (overzichts-studie)
+- [Carpoolen met Nabogo](https://nabogo.com/nl/) door Tobias van Muijden 
+- [Meerijden met Automaatje van de ANWB](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje)
+- Open reisinformatie met Stefan de Koning van [OpenGeo](https://opengeo.nl/)
+- Slim Laden voor Iedereen: Van de markt tot netcongestie 
+- Rotterdamse haven - innovatie van mobiliteit
+- Zero-emissie zones en schone stadslogistiek - Regionale Agenda Zero Emisse Stadslogistiek (RAZES)
+- Brede welvaart in de gemeente
+- verkeersveiligheid
+- jouw sessie.... Meld je aan!
+
+
 {% include tekstblok.html
    text="Binnenkort verschijnt hier meer informatie en een link naar de aanmeldpagina." %}
+<br>
