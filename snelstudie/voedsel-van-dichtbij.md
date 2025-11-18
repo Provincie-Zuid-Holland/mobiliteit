@@ -26,7 +26,50 @@ We streven naar concrete aanbevelingen voor de lange én korte termijn. Om zo te
 
 Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de producenten en de klanten in een gebied? Dat blijkt in de praktijk niet erg eenvoudig te zijn. Laten we maar eens kijken naar een aantal mogelijkheden. Van eenvoudig naar complex.  
 
-Tabel hier invoegen!
+<table class="table-container">
+  <tr>
+    <th style="min-width: 30%;">Eenvoudig naar Complex</th>
+    <th style="min-width: 40%;">Omschrijving</th>
+    <th style="min-width: 30%;">Barrieres</th>
+    
+
+  </tr>
+  <tr>
+    <td>Poortverkoop</td>
+    <td>Eén producent en een serie klanten, die langs de producent rijden. </td>
+    <td>Biedt waarschijnlijk zelden een volledig verdienmodel </td>
+    
+
+  </tr>
+  <tr>
+    <td>Grote Klant</td>
+    <td>Eén producent en een grote klant. </td>
+    <td>Oogt eenvoudig, maar is waarschijnlijk zelden een volledig verdienmodel voor producent </td>
+    
+
+  </tr>
+   <tr>
+    <td>Diverse klanten</td>
+    <td>Producent met verschillende klanten. </td>
+    <td>Producent is veel tijd kwijt aan reizen. </td>
+    
+
+  </tr>
+   <tr>
+    <td> </td>
+    <td>Eén klant met vele producenten.</td>
+    <td>Dit zorgt dat coördinatie bij de klant lastig wordt.</td>
+    
+
+  </tr>
+    <tr>
+    <td></td>
+    <td>Vele producenten en vele klanten </td>
+    <td>Gebruik van hubs en het gaat steeds meer lijken op een grootschalige reguliere landbouw </td>
+    
+
+  </tr>
+</table>
 
 ## 2. De huidige consensus
 
