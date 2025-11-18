@@ -1,7 +1,7 @@
 ---
 layout: pzh
 title: Voedsel van dichtbij
-header_image: /mobiliteit/img/Pontje.jpg
+header_image: /mobiliteit/snelstudie/img/voedselsysteem.jpg
 menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
@@ -10,7 +10,7 @@ menu: |
 
 
 <div class="tekstblok">
-  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie is net gestart en gaan we in oktober 2025 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie is net gestart en gaan we in december 2025 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  
 </div>
 <br>
@@ -134,10 +134,10 @@ We gaven al aan dat dit alles niet goedkoop is. Maar het stimuleren van korte ke
 - [De Tuin van Holland](https://www.detuinvanholland.nl/)
 - [Rotterdam de boer op!](https://www.rotterdamdeboerop.nl/)
 - [Oogst, de zelf-service boerenwinkel](https://www.oogst.shop/)
-- [ Hoeve Biesland](https://hoevebiesland.nl/)
+- [Hoeve Biesland](https://hoevebiesland.nl/)
 
 <div class="tekstblok">
-Voor meer informatie en meedoen: mail projectleider Igor Koster: i.koster@student.tue.nl of ra.haverman@pzh.nl
+Voor meer informatie en meedoen: mail projectleider Igor Koster: I.Koster-2@student.tudelft.nl of ra.haverman@pzh.nl
 </div>
 <br>
 Hier gaan we de publicatie opbouwen. Doe je mee?
