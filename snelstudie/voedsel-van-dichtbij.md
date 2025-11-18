@@ -10,7 +10,7 @@ menu: |
 
 
 <div class="tekstblok">
-  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie is net gestart en gaan we in december 2025 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie gaan we in december 2025 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  
 </div>
 <br>
@@ -75,7 +75,12 @@ Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de p
 
 In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opgezet zijn is veel te vinden over de status van korte ketens. Maar ook waar de huidige problematiek ziet. Hieronder hebben we enkele van deze bevindingen onder elkaar gezet. 
 
-
+ {% include klikblok.html
+   img="img\tuinvanholland.jpg
+   title="enzovoort"
+   url="https://www.detuinvanholland.nl/"
+   text="Een hedendaagse gezonde, seizoensgebonden en duurzame Nederlandse keuken voor iedereen. Dat is het doel van De Tuin van Holland. Samen met een brede coalitie van chefs, boeren, artsen en ketenpartners werken we daar naar toe. Want één ding is inmiddels wel duidelijk: structurele oplossingen vragen inzet van de hele keten – van de boer tot in de keuken. Met hoogwaardige producten uit de regio dragen we bij aan de gezondheid van de agrarische sector, van onze bodem, ons water én van onszelf." %} 
+ <br>
 {% include klikblok.html
    img="img\oogstwinkel.avif"
    title="Oogst; de nieuwe boerenwinkel"
@@ -84,19 +89,20 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
    <br>
   {% include klikblok.html
    img="img\korteketenwinkel.jpg"
-   title="Korte ketens in Noor-Holland"
+   title="Korte ketens in Noord-Holland"
    url="https://www.boerenbusinessinbalans.nl/de-korte-keten/"
    text="In korte ketens hebben boeren en burgers de prijs en kwaliteit van hun voedsel meer in eigen hand. Ook is er meer ruimte voor boeren, burgers, instellingen, bedrijven en overheden om hun eigen initiatieven te ontplooien en samen te werken (coöperaties). In Noord-Holland wordt er ontzettend veel lekker en voedzaam eten geproduceerd. Een groot deel hiervan wordt naar het buitenland geëxporteerd, terwijl een deel van het voedsel dat in Noord-Holland wordt gegeten juist weer wordt geïmporteerd. Dit kan efficiënter!" %} 
    <br>
+ 
   {% include klikblok.html
-   img="img\korteketenwinkel.jpg"
+   img="img\tuinvanholland.jpg
    title="enzovoort"
-   url="https://www.boerenbusinessinbalans.nl/de-korte-keten/"
-   text="......" %} 
+   url="https://www.detuinvanholland.nl/"
+   text="...." %} 
 
 
 ## 3. Barrieres in de praktijk 
-Waar lopen nu de producenten tegenaan als het om de logistiek gaat? Uit een onderzoek [Agrarische afzet via korte ketens in Noord Holland] (https://edepot.wur.nl/549320) komen drie problemen naar voren: 
+Waar lopen nu de producenten tegenaan als het om de logistiek gaat? Uit een onderzoek [Agrarische afzet via korte ketens in Noord Holland](https://edepot.wur.nl/549320) komen drie problemen naar voren: 
 
 1. De periode van inefficiënte levering duurt te lang. Ieder nieuw initiatief wil graag zelf zijn levering in de hand houden, zoals elke startup het liefst alles zelf wil doen.  
 
@@ -107,7 +113,7 @@ Waar lopen nu de producenten tegenaan als het om de logistiek gaat? Uit een onde
 Het tweede en derde probleem – het gebrek aan overzicht in de regio, en het vinden van het juiste moment om op te schalen – lijken nog wat complexer dan de vraag of je je logistiek wel of niet moet uitbesteden. Het gaat hier dus om het combineren van verschillende (data)stromen.  
 
 ### 3.1 Zuid-Holland
-Dan gaan we nu focus op Zuid Holland richten. In de samenvattende studie [Agrarische afzet via korte ketens in Zuid-Holland] (https://edepot.wur.nl/549324). Er zijn een aantal initiatieven bekeken. We pakken hier de beter gedocumenteerde; BEUKK werkt met voedselhubs en bestaande logistieke partijen. Lastig is hier dat de samenwerking met regionale partijen nog een vertrouwenskwestie is en dat het initiatief nog sterk op subsidies leeft. Dan Rechtstreex; is viermaal gevraagd door grote cateraars. Maar er zijn geen criteria in de aanbesteding en er is geen controle. Het is daardoor dus ook niet gebeurd. Het initiatief erkent dat de commerciële en de schaal- kant moeilijk is. Op 9 oktober 2025 is dit project overigens failliet gegaan door de te hoge, oplopende verliezen, ondanks de ideële doelstelling. Hoewel het bedrijf stappen zette om de financiële tekorten op te lossen, ontbrak het aan perspectief om binnen een afzienbare termijn rendabel te worden. Dit laat zien hoe moeilijk het is van korte ketens een blijvend succes te maken. Groene Hart Coöperatie; transport wordt hier gezien als een belemmering- er moet iets met logistieke hubs gebeuren. Dit moet langdurig worden gesubsidieerd. Boeregoed, tot slot, is nog erg klein, maar wil wel graag samenwerking o.a. aangaan met andere regionale voedselaanbieders.  
+Dan gaan we nu focus op Zuid Holland richten. In de samenvattende studie [Agrarische afzet via korte ketens in Zuid-Holland](https://edepot.wur.nl/549324). Er zijn een aantal initiatieven bekeken. We pakken hier de beter gedocumenteerde; BEUKK werkt met voedselhubs en bestaande logistieke partijen. Lastig is hier dat de samenwerking met regionale partijen nog een vertrouwenskwestie is en dat het initiatief nog sterk op subsidies leeft. Dan Rechtstreex; is viermaal gevraagd door grote cateraars. Maar er zijn geen criteria in de aanbesteding en er is geen controle. Het is daardoor dus ook niet gebeurd. Het initiatief erkent dat de commerciële en de schaal- kant moeilijk is. Op 9 oktober 2025 is dit project overigens failliet gegaan door de te hoge, oplopende verliezen, ondanks de ideële doelstelling. Hoewel het bedrijf stappen zette om de financiële tekorten op te lossen, ontbrak het aan perspectief om binnen een afzienbare termijn rendabel te worden. Dit laat zien hoe moeilijk het is van korte ketens een blijvend succes te maken. Groene Hart Coöperatie; transport wordt hier gezien als een belemmering- er moet iets met logistieke hubs gebeuren. Dit moet langdurig worden gesubsidieerd. Boeregoed, tot slot, is nog erg klein, maar wil wel graag samenwerking o.a. aangaan met andere regionale voedselaanbieders.  
 
 Invoegen Eigen Tabel in anonieme vorm!!
 
@@ -116,7 +122,7 @@ In dit korte Marktonderzoek wordt geconcludeerd voor de logistiek in twee richti
 
 
 ### 3.2 Horeca, Catering en Supermarkten 
-[Zijn horeca, catering en supermarkten geïnteresseerd in producten uit de regio?] (https://research.wur.nl/en/publications/korteketenproducten-in-nederland-zijn-horeca-catering-en-supermar/) In dit onderzoek wordt geschetst wat nodig is om korte keten- landbouw te professionaliseren, bezien vanuit de afnemers. Hun conclusie is dat supermarkten de belangrijkste afzetpartij zijn voor korte keten producten, gevolgd door horeca, en boerderijwinkels. Deze partijen hebben allen beperkt beleid specifiek voor korte ketens. 
+[Zijn horeca, catering en supermarkten geïnteresseerd in producten uit de regio?](https://research.wur.nl/en/publications/korteketenproducten-in-nederland-zijn-horeca-catering-en-supermar/) In dit onderzoek wordt geschetst wat nodig is om korte keten- landbouw te professionaliseren, bezien vanuit de afnemers. Hun conclusie is dat supermarkten de belangrijkste afzetpartij zijn voor korte keten producten, gevolgd door horeca, en boerderijwinkels. Deze partijen hebben allen beperkt beleid specifiek voor korte ketens. 
 
 In veel gevallen is het korte keten beleid bij grote bedrijven in de horeca en detailhandel onderdeel van het duurzaamheidsbeleid. Dat betekent dat producenten van lokale producten moeten voldoen aan certificering, kwaliteit en voedselveiligheid. Als korte keten-beleid onder inkoop valt, zal er scherp op prijs worden onderhandeld, en de vraag is dan of producenten dankzij korte ketens meer verdienen. Vooral bij restaurants, cateringorganisaties of speciaalzaken zijn lokale producten uit de korte keten vaak een middel om zich te onderscheiden ten opzichte van de grote bedrijven en formules. Hier zijn de relaties tussen afnemer en toeleverancier vaak persoonlijke relaties. Het neemt echter niet weg dat ook hier kwaliteit, voedselveiligheid en soms certificering nodig is, maar de procedures zijn minder formeel dan bij de grotere bedrijven. Dit alles vraagt ten opzichte van de huidige praktijk nog wel een behoorlijke professionaliseringsslag. De auteurs zien die in drie  stappen;  
 
