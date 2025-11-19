@@ -2,9 +2,6 @@
 layout: pzh
 title: fietsenstallingen
 header_image: img\Fietsenstalling-Den-Haag.jpg
-menu: |
-   <a href="werkwijzer.html">toelichting</a>
-   <a href="snelstudies.html">andere snelstudies</a>
 ---
 # Efficiënt gebruik fietsenstallingen
 

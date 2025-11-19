@@ -1,11 +1,13 @@
 ---
-layout: pzh
-title: testpagina
-header_image: \mobiliteit\img\zandmotorstrand.jpg
+layout: pzh2
+title: fietsenstallingen
+formheader: -500px
+header_image: img\Fietsenstalling-Den-Haag.jpg
 menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
 ---
+
 # Snelstudies Test
 ## kop 2
 ### kop 3
