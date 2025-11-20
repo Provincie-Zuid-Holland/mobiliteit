@@ -84,16 +84,18 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
 
  {% include klikblok.html
    img="img\tuinvanholland.jpg"
-   title="enzovoort"
+   title="Tuin van Holland"
    url="https://www.detuinvanholland.nl/"
    text="Een hedendaagse gezonde, seizoensgebonden en duurzame Nederlandse keuken voor iedereen. Dat is het doel van De Tuin van Holland. Samen met een brede coalitie van chefs, boeren, artsen en ketenpartners werken we daar naar toe. Want één ding is inmiddels wel duidelijk: structurele oplossingen vragen inzet van de hele keten – van de boer tot in de keuken. Met hoogwaardige producten uit de regio dragen we bij aan de gezondheid van de agrarische sector, van onze bodem, ons water én van onszelf." %} 
  <br>
+ 
 {% include klikblok.html
    img="img\oogstwinkel.avif"
    title="Oogst; de nieuwe boerenwinkel"
    url="https://www.oogst.shop/"
    text="Bij Oogst vind je het allerbeste van dichtbij: lokale producten van regeneratieve boeren en ambachtelijke makers - vol van smaak en karakter. Er zijn winkels in Haarlem, Leiden, Woerden en Montfoort. De winkels zijn winkels waar je zelf naar binnen kunt en kunt afrekenen met een app" %}
    <br>
+   
   {% include klikblok.html
    img="img\korteketenwinkel.jpg"
    title="Korte ketens in Noord-Holland"
@@ -103,11 +105,50 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
  
   {% include klikblok.html
    img="img\tuinvanholland.jpg"
-   title="enzovoort"
-   url="https://www.detuinvanholland.nl/"
-   text="...." %} 
+   title="Beukk"
+   url="https://www.beukk.com/"
+   text="BEUKK is hét platform dat boeren, makers, voedselgemeenschappen, hubs en afnemers verbindt in een eerlijke, transparante en efficiënte boerenketen – lokaal én landelijk. Wij zijn geen nieuwe marktpartij, maar een onafhankelijke facilitator. Met slimme technologie en data, logistieke koppelingen en menselijke samenwerking zorgen we dat de korte keten écht werkt: van boer tot bord, met behoud van regionale identiteit en eigenaarschap." %}
+   <br>
 
+   {% include klikblok.html
+   img="img\tuinvanholland.jpg"
+   title="Groene Hart Cooperatie"
+   url="https://www.groenehartstreekproducten.nl/"
+   text="Het doel van de Coöperatie is om producten uit de streek weer goed verkrijgbaar te maken en het karakteristieke landschap van het Groene Hart te behouden. Door producten met het Groene Hart logo te kopen zorg je ervoor dat de producten uit onze eigen regio goed verkrijgbaar zijn, net zoals vroeger. Ook zorg je ervoor dat de boeren een eerlijke prijs krijgen,waardoor zij goed voor de dieren en de natuur kunnen zorgen. En dat deze boeren natuurlijk overheerlijke ambachtelijke producten blijven maken, waar je van kunt genieten! Zo puur mogelijk en vol van smaak." %} 
+   <br> 
+   
+   {% include klikblok.html
+   img="img\tuinvanholland.jpg"
+   title="Boeregoed"
+   url="https://www.boeregoed.nl/stichting-boeregoed/"
+   text="De stichting ondersteunt deelnemers in lokale, korte ketens door het samen ontwikkelen en overdragen van kennis, kunde en ervaring en het ontwikkelen van innovatieve ketenmodellen met een gelijkwaardige, eerlijke waardeverdeling tussen partijen. Voorts wil de stichting de meerwaarde uitdragen van gezonde en duurzame voeding en van kansen voor zoveel mogelijk mensen op een zinvolle deelname in arbeid en samenleving, alsook participatie van burgers en consumenten bij de stichting stimuleren. 
+ " %} 
+   <br> 
 
+   {% include klikblok.html
+   img="img\tuinvanholland.jpg"
+   title="Rotterdam de Boer op"
+   url="https://www.boeregoed.nl/stichting-boeregoed/"
+   text="Rotterdam de boer op! is een brede beweging van boeren, natuurbeschermers en ondernemers & andere organisaties in het landbouw- en voedselsysteem en wordt mede mogelijk gemaakt door de Nationale Postcode Loterij. Samen werken we aan meer biodiversiteit in het Rotterdamse ommeland, eerlijk geproduceerd eten voor de stad én een goede boterham voor groene boeren. 
+ " %} 
+   <br> 
+
+   {% include klikblok.html
+   img="img\tuinvanholland.jpg"
+   title="Rotterdam de Boer op"
+   url="https://www.rotterdamdeboerop.nl/"
+   text="Rotterdam de boer op! is een brede beweging van boeren, natuurbeschermers en ondernemers & andere organisaties in het landbouw- en voedselsysteem en wordt mede mogelijk gemaakt door de Nationale Postcode Loterij. Samen werken we aan meer biodiversiteit in het Rotterdamse ommeland, eerlijk geproduceerd eten voor de stad én een goede boterham voor groene boeren. 
+ " %} 
+
+   {% include klikblok.html
+   img="img\tuinvanholland.jpg"
+   title="Boerschappen"
+   url="https://www.boerschappen.nl/"
+   text="Samen met onze klanten en boeren werken we iedere dag aan een nieuwe voedselketen die deugt. 
+Een keten waarin écht lekkere, gezonde én verantwoorde producten de norm zijn en iedere schakel toegevoegde waarde heeft. Een keten die goed is voor jou, de natuur én de boer. 
+ " %} 
+   <br> 
+   
 ## 3. Barrieres in de praktijk 
 Waar lopen nu de producenten tegenaan als het om de logistiek gaat? Uit een onderzoek [Agrarische afzet via korte ketens in Noord Holland](https://edepot.wur.nl/549320) komen drie problemen naar voren: 
 
@@ -125,7 +166,6 @@ Dan gaan we nu focus op Zuid Holland richten. In de samenvattende studie [Agrari
 Invoegen Eigen Tabel in anonieme vorm!!
 
 In dit korte Marktonderzoek wordt geconcludeerd voor de logistiek in twee richtingen. Richting A is een groeimodel; maak een platform dat naadloos aansluit op de huidige inkoopsystemen van ziekenhuizen etc., waardoor je eenmaal vastgeklikt vrij snel de markt kan opvoeren. Richting B is een reproductiemodel: waarbij je een klein ecosysteem bouwt met eigen platform en logistiek, wat je heel regionaal houdt. Groei is niet het doel, maar volwassenheid van het systeem. Wanneer het plafond bereikt is stop je met groeien. En start je op andere plek weer een nieuw ecosysteem.
-
 
 
 ### 3.2 Horeca, Catering en Supermarkten 
@@ -148,7 +188,7 @@ Invoegen figuur!
 
 Je moet dan fors investeren in de levensvatbaarheid van de korte keten, liefst met een ontmoedigingsbeleid voor onderdelen van de reguliere landbouw. Je ziet overigens dat meer auteurs op deze lijn zitten.  Om er éen te citeren, Barbara Baarsma; “De overgang naar een beter evenwicht in wat we internationaal doen, met meer kortere, lokale voedselketens, zou een stap vooruit zijn. Nu exporteert Nederland driekwart van de hier geproduceerde landbouwproducten. En bijna driekwart van de landbouwgrond die in gebruik is voor de Nederlandse voedselconsumptie ligt in het buitenland….(https://www.volkskrant.nl/columns-opinie/barbara-baarsma-lokale-voedselketens-helpen-nederland-vooruit~b2c0779e/)
 
-## 5. De rol van de provincie
+## 5. De rol van overheden
 Van verdeelcentrum naar klant, maar de transparantie moet blijven. Hoe kan dit opgezet worden?  
 
 Belangrijk is in elk geval de balans tussen schaal en ondernemerschap. Waar zit de balans van idealistisch denken en kleine ketens tegenover daadwerkelijke logistiek. Voordat we gaan aanbevelen wat de rol van de provincie zou moeten zijn geven we eerst aan wat volgens ons nu echt niet meer nodig is. En dat is maar weer eens een platform creëren voor kennisontwikkeling en voor het met elkaar praten. Woorden genoeg, platforms te over, we weten nu echt wel waar de barrières zitten. En om die barrières op te heffen zijn daden nodig. Rond de logistiek wat ons betreft op drie terreinen. En goedkoop is het niet. 
