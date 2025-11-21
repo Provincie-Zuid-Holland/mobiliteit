@@ -255,15 +255,12 @@ Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Is de d
 <details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
 Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mensen hun mobiliteitsgewoontes is een moeilijke stap en zolang de huidige optie (een tweede fiets) werkt en het alternatief te duur is (de ov-fiets), is de conclusie simpel. De gebruiker zal niet van gedrag veranderen. </details>
 
-
+<br>
 <div class="tekstblok">
-  
- 
+**Bronnen voor meer informatie over deelfietsen**
 
-2. **Inzetten op deelfietsen**  
-     
-   Een deelfiets kan ervoor zorgen dat dezelfde fietsenstalling veel meer gebruikers van een fiets kan voorzien. Hierbij zijn er verschillende categorieën te identificeren die elk hun eigen doelgroep bedienen. 
-<details><summary>Zoals beschreven in [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf). kun je de deelfiets grofweg indelen in de volgende categorieën.</summary>
+      
+<details><summary>Zoals beschreven in <a href="https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf" target="_blank">"Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven"</a> kun je de deelfiets grofweg indelen in de volgende categorieën: (klapt uit) </summary>
    
 
    1. Back to one  
@@ -280,9 +277,12 @@ Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te ze
          Factoren die een rol kunnen spelen voor succes van zo’n deelfietssyteem zijn de tariefstelling, betrouwbaarheid en kwaliteit, en vertrouwbaarheid van de aanbieder. Waarbij het succes volgens [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf) hem met name zit in de schaal en dichtheid van het systeem, de kosten voor de eindgebruiker, de zekerheid van een goed onderhouden fiets, een actieve herverdeling en de adoptie van het systeem door de lokale overheid om vertrouwen te creëren bij de eindgebruiker.
 
 </details> 
-
-er kunnen hier ok linkjes , dummy voorbeeld <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op p....
-
+<BR>
+er kunnen hier ook linkjes , dummy voorbeeld <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op p....
+- link naar <a href="https://www.ns.nl/deur-tot-deur/ov-fiets" target="_blank">OV-fiets</a>
+- Link naar Lime 
+- Link naar Donkey.  
+- .......
 </div>
 <br>
 
