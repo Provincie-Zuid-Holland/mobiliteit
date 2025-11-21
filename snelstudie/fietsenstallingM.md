@@ -2,12 +2,15 @@
 layout: pzh
 title: fietsenstallingen
 header_image: img\Fietsenstalling-Den-Haag.jpg
+menu: |
+   <a href="werkwijzer.html">toelichting</a>
+   <a href="snelstudies.html">andere snelstudies</a>
 ---
 # Efficiënt gebruik fietsenstallingen
 
 
 <div class="tekstblok">
-  Deze snelstudie is net gestart en hopen we in november 2025 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Voor meer informatie en meedoen: mail projectleider Igor Koster: Igor Koster I.Koster-2@student.tudelft.nl of ra.haverman@pzh.nl. Hieronder bouwen we de studie in draft op. Alles kan nog veranderen. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Deze snelstudie is net gestart en hopen we in JANUARI 2026 te voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Voor meer informatie en meedoen: mail projectleider Igor Koster: Igor Koster I.Koster-2@student.tudelft.nl of ra.haverman@pzh.nl. Hieronder bouwen we de studie in draft op. Alles kan nog veranderen. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  
 </div>
 Steeds meer mensen komen met de fiets naar de trein of gebruiken de fiets als laatste schakel van hun reis. Dat is goed nieuws want deze mensen reizen niet per auto over volle wegen. Het zorgt echter wel voor overvolle fietsenstallingen en pleinen bij stations. Bij (stations)fietsenstallingen geldt, net als bij andere infra, dat beter benutten veel minder kost dan bijbouwen. De uitdaging is veel fietsers te faciliteren die per fiets aankomen of vertrekken, en tevens te zorgen dat deze fietsen zo kort mogelijk stilstaan op het station.
@@ -30,12 +33,7 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 1. Hoeveel ruimte een fiets inneemt
 2. Hoe lang (hoeveel dagen) de fiets daar staat voor hij weer een rit maakt
 
-Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen. Hoewel verreweg de meest gewone (niet elektrische) fietsen zijn die in de rekken passen (is dit niet altijd het geval, zoals bij fietsen met een kratje of een  breed stuur). Verder neemt het aantal e-bikes heel snel toe. Deze komen meestal niet in de rekken terecht omdat dit niet past. Het zelfde geldt voor de toename aan buitenmodelfietsen zoals bakfietsen en fatbikes. 
-Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek. 
-
-{% include blok.html
-   img="img/Figuurtypefietsen.jpg"
-   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ). " %}
+Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen.
 
 {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
@@ -43,7 +41,7 @@ Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bik
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Een mooie studie van oa Movaris over fietsenstallingen en de diversiteit in type fietsen. " %}
 
-Een onderbelicht aspect is echter de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we dan ook in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
+Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
 ### Rendement - zo kort mogelijk stallen
@@ -57,6 +55,18 @@ Het rendement drukken we daarmee uit in de eenheid: aantal reizigers per etmaal 
 <!-- Zou het dan niet aantal reizigers per etmaal per fietsparkeerplek moeten zijn? -->
 
 ## 2. Een analyse van de gebruikers en hun fiets
+### Soorten fietsen
+Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet elektrische) fietsen die vaak in de rekken passen (maar dit is niet altijd het geval, zoals bij fietsen met een kratje of een  breed stuur). Verder neemt het aantal e-bikes heel snel toe. Deze komen meestal niet in de rekken terecht omdat dit niet past. Het zelfde geldt voor de toename aan buitenmodelfietsen zoals bakfietsen en fatbikes. 
+Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
+
+
+{% include blok.html
+   img="img/Figuurtypefietsen.jpg"
+   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ). " %}
+
+
+  
+
 
 ### Typen gebruik
 Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat tot er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in Nederland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost overheiden veel geld (de provincie betaalt regelmatig mee). Laten we kijken of het slimmer kan. 
@@ -144,6 +154,29 @@ Welk deel daarvan zijn tweede of derde fietsen, zwerffietsen of langstallers?
 Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
  
 
+
+
+## 3. Organisatie van fietsenstallingen bij stations (NS , ProRail, gemeenten) 
+
+Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer van de fietsenstallingen. 
+
+Fietsenstallingen in Nederland hebben ieder hun eigen gebruiksintentie. Waar in de ene stalling fietsers na 24 uur moeten betalen voor het stallen van hun fiets is dit in andere stallingen na 28 dagen, of is de stalling volledig gratis. Dit zorgt ook voor een ander gebruikerspatroon van deze stallingen. 
+
+**Wie is de aanbieder?**
+
+De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegenheden bij stations is drieledig. Waarbij de NS, ProRail en de lokale gemeente alle drie een grote rol op zich nemen. 
+
+1. De rol van de NS  
+   1. De NS is verantwoordelijk voor de exploitatie van de stallingen. Dit houdt onder andere in het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van fietsen.  
+
+2. De rol van Prorail  
+   1. ProRail installeert de rekken en sensoren in de fietsenstallingen. Hierdoor heeft ProRail ook de beschikking over de data van fietsenstallingen. Echter wordt deze data maar beperkt gedeeld met andere partijen zoals de NS en de gemeente. Wat onderzoek naar de daadwerkelijke efficiëntie van fietsenstallingen beperkt.
+
+3. De rol van de gemeente   
+   1. De gemeente is dan weer verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente deze op te halen. Hiervoor moet de NS dus een goede communicatie met de gemeente onderhouden. 
+
+
+
 {% include blok.html
    img="img\Figuurbeheerfietsenstalling.jpg"
    title="Organisatie van stallingen"
@@ -165,7 +198,59 @@ Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
 </div>
 <br>
 
-## 3 De grote partijendie gaan over de statonsfietsenstallingen aan zet
+## 4. Aanbevelingen: Hoe verkorten we de stallingsduur?
+ Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Hieronder een aantal denkrichtingen. (Alle ▶ kun je uitklappen door te klikken).
+
+<details><summary>Reduceren van aantal weesfietsen  / te lang gestalde fietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan zijn daarom zeer ongewenst. Om weesfietsen snel te verwijderen is het nodig om goed bij te kunnen houden welke fietsen er al lang staan en of deze fietsen geen weesfietsen zijn. Denk hierbij aan het gebruik van bonnen, barcodes, kaarten of tags. In veel stelling wordt electronisch al bijgehouden hoe lang een fiets staat. Ook het aanpassen van de regegeving rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten kunnen weesfietsen vroegtijdig verwijderd worden, wat ruimte oplevert voor reguliere gebruikers.</details>
+<details><summary>Beprijzen lang stallen</summary>Hiernaast kan het verhinderen van het langdurig stallen van een fiets bereikt worden door het financieel minder aantrekkelijk te maken je fiets lang te laten staan. Dit zal er ook direct voor zorgen dat het voor mensen met een tweede fiets minder aantrekkelijk wordt om deze in de stalling te plaatsen. Echter lost dit vaak niet direct het probleem op, maar zorgt het eerder voor een verschuiving van het probleem. In plaats van de fiets in de betaalde stalling te parkeren zal deze nu ergens anders komen te staan. 
+</details>
+<details><summary>Segmentatie naar stallingsduur: kort beste plekken
+</summary>Door de stalling in te delen in een kort- en lang-stal gebied kan de efficientie van het mooiste stuk van de stalling enorm verbeterd worden. Veel meer mensen kunnen dan gebruik maken van de beste plekken (dicht bij de ingang, beneden rekken), terwijl de langstaller wat meer zijn best moet doen (verder lopen of bovenrek gebruiken) Menkan ook segmenteren naar woon- of bestemmings-stallers: bestemmingstallers iets verderop stallen (of bovenrek) 
+.</details>
+<details><summary>Kort stallen belonen (koffie, koeken, gratis OV-fiets of deelfiets tegoed)
+</summary>Hierbij remmen we mensen niet af om lang te stallen, maar werken we met beloningen voor goed gedrag, in dit geval dus voor kort stallen. Door kort stallen te belonen met gratis gebruik of korting korting op deelfietsen zet je mensen aan om na te denken of lang stallen wel echt nodig is. Tegelijkertijd zal het belonen in de vorm van korting/gratis ov fietsen kunnen leiden tot meer gebruik van deelmobiliteit. Maar ook andere vormen van beloningen zouden kunnen helpen bij het reduceren van langstallers.
+.</details>
+<details><summary>Strenger voor electrische fietsen en buitenformaat fietsen
+   
+</summary>Hierbij sturen we niet op de tijd dat de fiets in de stalling staat maar op de ruimte die een fiets inneemt. Hoe meer grote buitenformaat fietsen er in de stalling staan, hoe minder fietsen er over het algemeen in de stalling passen. In een ideaal scenario past iedere fiets in het fietsenrek om zo de ruimte optimaal te benutten. Het sturen op het soort fietsen in de stallingen kan dus de efficiëntie bevorderen. Wanneer mensen weten dat het voordeliger is om met een ‘normale’ fiets naar de stalling te komen, kan dit ervoor zorgen dat de huidige stijging van buitenformaat fietsen in stallingen gereduceerd kan worden. 
+
+ 
+.</details>
+<details><summary>Er mogen alleen nog maar deelfietsen de stalling in
+</summary>Een rigoreuze maatregelel, die op korte termijn niet heel realistisch is, maar die wel voor een enorme verlichting van de stallingsdruk zou opleveren. Een tussenvorm zou zijn: Meer ruimte voor deelfietsen op de beste plekken. Door de deelfietsen voordelig bij in en uitgangen van stallingen te plaatsen, ben je veel sneller in en uit de stalling wanneer je de deelfiets pakt. Dit geldt natuurlijk met name in grote stationsstallingen.  </details>
+<br>
+
+Maar naast de manieren waarop we onze fietsen stallen is er ook een andere mogelijkheid om de efficientie van fietsenstallingen te verbeteren. Namelijk het inzetten op het gebruik van deelfietsen. Zoals eerder omschreven ligt hier het rendement hoger wat betekent dat minder fietsparkeerplekken meer mensen kunnen bedienen. Met name wanneer men de gebruikers met een tweede fiets op de deelfiets kan krijgen kan dit stallingen ontlichten. 
+<br>
+
+## 5. De overstap van 'tweede' fietsje op deelfiets
+De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarintegen staat juist kort stil doordat ze van 'baasje wissellen' In dit hoofdstuk kijken we hoe we mensen kunnen laten overstappen van de 'slechtste' categorie op de 'beste'. Dus van 'tweede' fietsje op deelfiets.
+
+### 	 barrières 
+
+Allereerst duiken we in de barrières om deze overstap te maken:
+
+
+<details><summary>Deelfiets te duur bij frequent gebruik</summary>
+Het gebruik van een OV-fiets kost €4,65 per keer. Dit maakt het voor mensen te duur voor dagelijks gebruik, tenzij de werkgever betaald. Om de deelfiets dus aantrekkelijk te maken voor gebruikers moet de prijs omlaag, dit kan of door het extern financieren van zo’n systeem, wat investering vraagt vanuit de overheid. Of de deelfiets moet door meer mensen gebruikt worden waardoor de aanbieder de fiets goedkoper aan kan bieden. 
+</details>
+
+<details><summary>Met je eigen fietsje weet je waar je aan toe bent</summary>
+Met een deelfiets heb je niet direct het comfort van je eigen fiets. Van tevoren moet je hem afstellen op jouw wensen en zodra je hem parkeert (afhankelijk van het type deelfiets) heb je kans dat iemand anders hem weer meeneemt.  Dit zorgt ervoor dat mensen als het niet nodig is (naast de kosten) ook vanwege comfort toch liever hun eigen fiets gebruiken. </details>
+
+
+<details><summary>Een deelfiets is te ingewikkeld</summary>
+Iedere deelfiets werkt net weer anders en vereist vaak een account of app van een ander bedrijf. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Ieder bedrijf heeft namelijk zijn eigen systeem. Zo zitten er verschillen in de systemen van het openen en op slot zetten van een fiets tot waar je hem wel en niet neer kan zetten. Dit alles maakt dat men dan toch minder snel kiest voor een deelfiets.</details>
+
+
+<details><summary>Ik weet niet zeker of er altijd eentje klaar staat</summary>
+Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Is de deelfiets op en is er geen meer beschikbaar dan moet je alsnog een ander vervoermiddel kiezen. Hierdoor kun je niet blind vertrouwen op een deelfiets. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat er te weinig beschikbaar zijn. Ook kan het met fietsen die je voor korte tijd huurt zoals Donkey and Felix het geval zijn dat de fiets alweer door iemand anders gehuurd is en je dus een stuk moet lopen naar de dichtstbijzijnde deelfiets.</details>
+
+
+<details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
+Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mensen hun mobiliteitsgewoontes is een moeilijke stap en zolang de huidige optie (een tweede fiets) werkt en het alternatief te duur is (de ov-fiets), is de conclusie simpel. De gebruiker zal niet van gedrag veranderen. </details>
+
+## 6. De grote partijen aan zet 
 
 Als we echt mogelijkheden willen  benutten en de efficiëntie van stallingen willen verbeteren dan zijn er drie grote partijen die een rol spelen bij het beheer van de fietsenstallingen, namelijk de NS, ProRail en de gemeente. Hiernaast zullen we ook de provincie als vierde partij benoemen. De provincie speelt geen rol in het dagelijks beheer van de stallingen maar kan wel ondersteunen in beleid en het realiseren van deelfietsen.
 
@@ -203,69 +288,14 @@ Bestemmingsstations, daar waar veel mensen uit de trein stappen om naar hun werk
 
 
 
-## 4. De denkrichting (?): Hoe verkorten we de stallingsduur?
- Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Hieronder een aantal denkrichtingen. (Alle ▶ kun je uitklappen door te klikken).
-
-<details><summary>Reduceren van aantal weesfietsen  / te lang gestalde fietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan zijn daarom zeer ongewenst. Om weesfietsen snel te verwijderen is het nodig om goed bij te kunnen houden welke fietsen er al lang staan en of deze fietsen geen weesfietsen zijn. Denk hierbij aan het gebruik van bonnen, barcodes, kaarten of tags. In veel stelling wordt electronisch al bijgehouden hoe lang een fiets staat. Ook het aanpassen van de regegeving rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten kunnen weesfietsen vroegtijdig verwijderd worden, wat ruimte oplevert voor reguliere gebruikers.</details>
-<details><summary>Beprijzen lang stallen</summary>Hiernaast kan het verhinderen van het langdurig stallen van een fiets bereikt worden door het financieel minder aantrekkelijk te maken je fiets lang te laten staan. Dit zal er ook direct voor zorgen dat het voor mensen met een tweede fiets minder aantrekkelijk wordt om deze in de stalling te plaatsen. Echter lost dit vaak niet direct het probleem op, maar zorgt het eerder voor een verschuiving van het probleem. In plaats van de fiets in de betaalde stalling te parkeren zal deze nu ergens anders komen te staan. 
-</details>
-<details><summary>Segmentatie naar stallingsduur: kort beste plekken
-</summary>Door de stalling in te delen in een kort- en lang-stal gebied kan de efficientie van het mooiste stuk van de stalling enorm verbeterd worden. Veel meer mensen kunnen dan gebruik maken van de beste plekken (dicht bij de ingang, beneden rekken), terwijl de langstaller wat meer zijn best moet doen (verder lopen of bovenrek gebruiken) Menkan ook segmenteren naar woon- of bestemmings-stallers: bestemmingstallers iets verderop stallen (of bovenrek) 
-.</details>
-<details><summary>Kort stallen belonen (koffie, koeken, gratis OV-fiets of deelfiets tegoed)
-</summary>Hierbij remmen we mensen niet af om lang te stallen, maar werken we met beloningen voor goed gedrag, in dit geval dus voor kort stallen. Door kort stallen te belonen met gratis gebruik of korting korting op deelfietsen zet je mensen aan om na te denken of lang stallen wel echt nodig is. Tegelijkertijd zal het belonen in de vorm van korting/gratis ov fietsen kunnen leiden tot meer gebruik van deelmobiliteit. Maar ook andere vormen van beloningen zouden kunnen helpen bij het reduceren van langstallers.
-.</details>
-<details><summary>Strenger voor electrische fietsen en buitenformaat fietsen
-   
-</summary>Hierbij sturen we niet op de tijd dat de fiets in de stalling staat maar op de ruimte die een fiets inneemt. Hoe meer grote buitenformaat fietsen er in de stalling staan, hoe minder fietsen er over het algemeen in de stalling passen. In een ideaal scenario past iedere fiets in het fietsenrek om zo de ruimte optimaal te benutten. Het sturen op het soort fietsen in de stallingen kan dus de efficiëntie bevorderen. Wanneer mensen weten dat het voordeliger is om met een ‘normale’ fiets naar de stalling te komen, kan dit ervoor zorgen dat de huidige stijging van buitenformaat fietsen in stallingen gereduceerd kan worden. 
-
- 
-.</details>
-<details><summary>Meeste impact: De overstap van ‘tweede’ fietsje op deelfiets
-</summary>Uit de analyse blijkt dat 'tweede fietsjes het slechtste rendenment hebben. Zelfs 4 keer slechter dan een fiets aan de woon-zijde. En deelfietsen komen als 'winnar uit de bus'. Doordat deelfietsen van 'baasje wissellen'staan ze het kortst van alle categorieen gestald. Daarom .... belangrijkste aanbeveling: De overstap van ‘tweede’ fietsje op deelfiets  </details>
-<br>
-
-Omdat de De overstap van ‘tweede’ fietsje op deelfiets als aanbeveling met de meest impact is werken we dat verder uit in BLOK / H4
-<br>
-
-## 4. De overstap van 'tweede' fietsje op deelfiets
-De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarintegen staat juist kort stil doordat ze van 'baasje wissellen' In dit hoofdstuk kijken we hoe we mensen kunnen laten overstappen van de 'slechtste' categorie op de 'beste'. Dus van 'tweede' fietsje op deelfiets.
-
-### 	 barrières 
-
-Allereerst duiken we in de barrières om deze overstap te maken:
-
-
-<details><summary>Deelfiets te duur bij frequent gebruik</summary>
-Het gebruik van een OV-fiets kost €4,65 per keer. Dit maakt het voor mensen te duur voor dagelijks gebruik, tenzij de werkgever betaald. Om de deelfiets dus aantrekkelijk te maken voor gebruikers moet de prijs omlaag, dit kan of door het extern financieren van zo’n systeem, wat investering vraagt vanuit de overheid. Of de deelfiets moet door meer mensen gebruikt worden waardoor de aanbieder de fiets goedkoper aan kan bieden. 
-</details>
-
-<details><summary>Met je eigen fietsje weet je waar je aan toe bent</summary>
-Met een deelfiets heb je niet direct het comfort van je eigen fiets. Van tevoren moet je hem afstellen op jouw wensen en zodra je hem parkeert (afhankelijk van het type deelfiets) heb je kans dat iemand anders hem weer meeneemt.  Dit zorgt ervoor dat mensen als het niet nodig is (naast de kosten) ook vanwege comfort toch liever hun eigen fiets gebruiken. </details>
-
-
-<details><summary>Een deelfiets is te ingewikkeld</summary>
-Iedere deelfiets werkt net weer anders en vereist vaak een account of app van een ander bedrijf. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Ieder bedrijf heeft namelijk zijn eigen systeem. Zo zitten er verschillen in de systemen van het openen en op slot zetten van een fiets tot waar je hem wel en niet neer kan zetten. Dit alles maakt dat men dan toch minder snel kiest voor een deelfiets.</details>
-
-
-<details><summary>Ik weet niet zeker of er altijd eentje klaar staat</summary>
-Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Is de deelfiets op en is er geen meer beschikbaar dan moet je alsnog een ander vervoermiddel kiezen. Hierdoor kun je niet blind vertrouwen op een deelfiets. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat er te weinig beschikbaar zijn. Ook kan het met fietsen die je voor korte tijd huurt zoals Donkey and Felix het geval zijn dat de fiets alweer door iemand anders gehuurd is en je dus een stuk moet lopen naar de dichtstbijzijnde deelfiets.</details>
-
-
-<details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
-Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mensen hun mobiliteitsgewoontes is een moeilijke stap en zolang de huidige optie (een tweede fiets) werkt en het alternatief te duur is (de ov-fiets), is de conclusie simpel. De gebruiker zal niet van gedrag veranderen. </details>
-
-
-<div class="tekstblok">
-  
- 
-
 2. **Inzetten op deelfietsen**  
      
    Een deelfiets kan ervoor zorgen dat dezelfde fietsenstalling veel meer gebruikers van een fiets kan voorzien. Hierbij zijn er verschillende categorieën te identificeren die elk hun eigen doelgroep bedienen. 
 <details><summary>Zoals beschreven in [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf). kun je de deelfiets grofweg indelen in de volgende categorieën.</summary>
    
 
+.....
+       
    1. Back to one  
       Deze fietsen worden vanuit een centraal punt gehuurd en keren hier ook weer naartoe terug. Denk hierbij aan bijvoorbeeld de OV-fiets.
 
@@ -281,10 +311,7 @@ Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te ze
 
 </details> 
 
-er kunnen hier ok linkjes , dummy voorbeeld <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op p....
 
-</div>
-<br>
 
 
 {% include klikblok.html

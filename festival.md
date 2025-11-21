@@ -4,7 +4,8 @@ title: Festival "Dichtbij in Zuid-Holland"
 header_image: /mobiliteit/img/provinciehuis2e.jpg
 
 ---
-# Festival "Dichtbij in Zuid-Holland" 24 maart 2026 (vanaf 13 uur)
+# Festival "Dichtbij in Zuid-Holland" 
+## 24 maart 2026 (vanaf 13 uur) | provinciehuis Den Haag
 
 Met korte pitches en interactieve deelsessies blijf je ook in 2026 up-to-date. Toegang is gratis en we sluiten af met gezellige netwerkborrel.  In de ochtend vindt het ambtelijk PVVB plaats op het provinciehuis, zodat iedereen ’s middags door naar het festival kan. Wees welkom om ook in de ochtend van 24 maart je werkgroep/vergadering op het provinciehuis te organiseren. We stellen graag een zaal voor je beschikbaar.
 
