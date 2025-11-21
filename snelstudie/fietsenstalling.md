@@ -30,7 +30,12 @@ Bij de efficientie van een fietsenstalling spelen twee factoren een grote rol
 1. Hoeveel ruimte een fiets inneemt
 2. Hoe lang (hoeveel dagen) de fiets daar staat voor hij weer een rit maakt
 
-Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen.
+Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk de standaard fietsen die netjes in de rekken passen omdat die de aanmerkelijk minder ruimte innemen dan buiten model fietsen. Hoewel verreweg de meest gewone (niet elektrische) fietsen zijn die in de rekken passen (is dit niet altijd het geval, zoals bij fietsen met een kratje of een  breed stuur). Verder neemt het aantal e-bikes heel snel toe. Deze komen meestal niet in de rekken terecht omdat dit niet past. Het zelfde geldt voor de toename aan buitenmodelfietsen zoals bakfietsen en fatbikes. 
+Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek. 
+
+{% include blok.html
+   img="img/Figuurtypefietsen.jpg"
+   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ). " %}
 
 {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
@@ -38,7 +43,7 @@ Naar de ruimte-efficientie zijn veel studies gedaan. Het mooiste zijn natuurlijk
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
    text="Een mooie studie van oa Movaris over fietsenstallingen en de diversiteit in type fietsen. " %}
 
-Een onderbelicht aspect is de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
+Een onderbelicht aspect is echter de tijd dat de fiets gestald staat tot zijn volgende rit. Deze tijd varieert enorm (van minuten tot vele dagen). In deze snelstudie duiken we dan ook in het aspect van de stallingsduur omdat zal blijken dat dit van grote invloed is op het maatschappelijk rendement van de stalling en we denken dat we daarop kunnen sturen als maatschappij.
 
 
 ### Rendement - zo kort mogelijk stallen
@@ -52,18 +57,6 @@ Het rendement drukken we daarmee uit in de eenheid: aantal reizigers per etmaal 
 <!-- Zou het dan niet aantal reizigers per etmaal per fietsparkeerplek moeten zijn? -->
 
 ## 2. Een analyse van de gebruikers en hun fiets
-### Soorten fietsen
-Mensen stallen veel verschillede fietsen bij het station. Verreweg de meest zijn gewone (niet elektrische) fietsen die vaak in de rekken passen (maar dit is niet altijd het geval, zoals bij fietsen met een kratje of een  breed stuur). Verder neemt het aantal e-bikes heel snel toe. Deze komen meestal niet in de rekken terecht omdat dit niet past. Het zelfde geldt voor de toename aan buitenmodelfietsen zoals bakfietsen en fatbikes. 
-Zo neemt een bakfiets veel meer ruimte in dan een stadsfiets, en heeft een e-bike idealiter de beschikking over een laadplek.   
-
-
-{% include blok.html
-   img="img/Figuurtypefietsen.jpg"
-   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van de normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld mandjes, kinderzitjes, erg brede sturen of andere elementen waardoor ze niet in standaard (dubbellaagse) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen te accommoderen, wat ten koste kan gaan van de totale stallingscapaciteit ( [bron](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ). " %}
-
-
-  
-
 
 ### Typen gebruik
 Wanneer men een fiets stalt in de fietsenstalling neemt dit logischerwijs een plek in, in deze stalling. Waar het om gaat is hoelang de fiets daar staat tot er weer iemand op weg fietst. Uit onderzoek blijkt dat wanneer veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen plaatsen, deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in Nederland alsmaar stallingen moeten blijven bijbouwen op veelal dure en kostbare locaties. Dit kost overheiden veel geld (de provincie betaalt regelmatig mee). Laten we kijken of het slimmer kan. 
@@ -151,29 +144,6 @@ Welk deel daarvan zijn tweede of derde fietsen, zwerffietsen of langstallers?
 Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling
  
 
-
-
-## 3. Organisatie van fietsenstallingen bij stations (NS , ProRail, gemeenten) 
-
-Om een analyse te doen over hoe het gebruik van fietsenstallingen efficiënter zou kunnen is het van belang om een beeld te hebben van het beheer van de fietsenstallingen. 
-
-Fietsenstallingen in Nederland hebben ieder hun eigen gebruiksintentie. Waar in de ene stalling fietsers na 24 uur moeten betalen voor het stallen van hun fiets is dit in andere stallingen na 28 dagen, of is de stalling volledig gratis. Dit zorgt ook voor een ander gebruikerspatroon van deze stallingen. 
-
-**Wie is de aanbieder?**
-
-De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegenheden bij stations is drieledig. Waarbij de NS, ProRail en de lokale gemeente alle drie een grote rol op zich nemen. 
-
-1. De rol van de NS  
-   1. De NS is verantwoordelijk voor de exploitatie van de stallingen. Dit houdt onder andere in het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van fietsen.  
-
-2. De rol van Prorail  
-   1. ProRail installeert de rekken en sensoren in de fietsenstallingen. Hierdoor heeft ProRail ook de beschikking over de data van fietsenstallingen. Echter wordt deze data maar beperkt gedeeld met andere partijen zoals de NS en de gemeente. Wat onderzoek naar de daadwerkelijke efficiëntie van fietsenstallingen beperkt.
-
-3. De rol van de gemeente   
-   1. De gemeente is dan weer verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente deze op te halen. Hiervoor moet de NS dus een goede communicatie met de gemeente onderhouden. 
-
-
-
 {% include blok.html
    img="img\Figuurbeheerfietsenstalling.jpg"
    title="Organisatie van stallingen"
@@ -195,7 +165,7 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 </div>
 <br>
 
-## 4. Aanbevelingen: Hoe verkorten we de stallingsduur?
+## 3. Aanbevelingen: Hoe verkorten we de stallingsduur?
  Hoe we onze fietsen stallen en onder welke voorwaarden dit gebeurt, bepaalt voor een aanzienlijk deel hoe de doorlooptijd van de fietsen binnen de stalling is. Hieronder een aantal denkrichtingen. (Alle ▶ kun je uitklappen door te klikken).
 
 <details><summary>Reduceren van aantal weesfietsen  / te lang gestalde fietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan zijn daarom zeer ongewenst. Om weesfietsen snel te verwijderen is het nodig om goed bij te kunnen houden welke fietsen er al lang staan en of deze fietsen geen weesfietsen zijn. Denk hierbij aan het gebruik van bonnen, barcodes, kaarten of tags. In veel stelling wordt electronisch al bijgehouden hoe lang een fiets staat. Ook het aanpassen van de regegeving rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten kunnen weesfietsen vroegtijdig verwijderd worden, wat ruimte oplevert voor reguliere gebruikers.</details>
@@ -220,7 +190,7 @@ De verdeling van het onderhoud en beheer van de Nederlandse fiets parkeergelegen
 Maar naast de manieren waarop we onze fietsen stallen is er ook een andere mogelijkheid om de efficientie van fietsenstallingen te verbeteren. Namelijk het inzetten op het gebruik van deelfietsen. Zoals eerder omschreven ligt hier het rendement hoger wat betekent dat minder fietsparkeerplekken meer mensen kunnen bedienen. Met name wanneer men de gebruikers met een tweede fiets op de deelfiets kan krijgen kan dit stallingen ontlichten. 
 <br>
 
-## 5. De overstap van 'tweede' fietsje op deelfiets
+## 4. De overstap van 'tweede' fietsje op deelfiets
 De 'tweede' fietsjes -gestald aan de bestemmingskant maken dus zeer slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarintegen staat juist kort stil doordat ze van 'baasje wissellen' In dit hoofdstuk kijken we hoe we mensen kunnen laten overstappen van de 'slechtste' categorie op de 'beste'. Dus van 'tweede' fietsje op deelfiets.
 
 ### 	 barrières 
@@ -247,7 +217,7 @@ Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Is de d
 <details><summary>Er is te weinig *incentive* voor de gebruiker.</summary>
 Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mensen hun mobiliteitsgewoontes is een moeilijke stap en zolang de huidige optie (een tweede fiets) werkt en het alternatief te duur is (de ov-fiets), is de conclusie simpel. De gebruiker zal niet van gedrag veranderen. </details>
 
-## 6. De grote partijen aan zet 
+## 5. De grote partijen aan zet 
 
 Als we echt mogelijkheden willen  benutten en de efficiëntie van stallingen willen verbeteren dan zijn er drie grote partijen die een rol spelen bij het beheer van de fietsenstallingen, namelijk de NS, ProRail en de gemeente. Hiernaast zullen we ook de provincie als vierde partij benoemen. De provincie speelt geen rol in het dagelijks beheer van de stallingen maar kan wel ondersteunen in beleid en het realiseren van deelfietsen.
 
