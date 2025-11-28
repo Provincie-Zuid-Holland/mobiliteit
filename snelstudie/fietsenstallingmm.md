@@ -1,6 +1,6 @@
 ---
 layout: pzh
-title: fietsenstallingen versie mm
+title: fietsenstallingen versie mmx
 header_image: img\Fietsenstalling-Den-Haag.jpg
 ---
 # Naar efficiënter gebruik van stationsstallingen (mm)
