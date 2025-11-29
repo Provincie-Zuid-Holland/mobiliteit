@@ -7,7 +7,7 @@ header_image: img\OV-fietsen-gestald.jpg
 
 
 <div class="tekstblok">
-  We verwachten deze snelstudie van de provincie Zuid-Holland in december 2025 te voltooien. Het resultaat komt op deze webpagina. (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Voor meer informatie en meedoen: mail projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl0. Hieronder bouwen we de snelstudie in klad op. Alles kan nog veranderen. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Snelstudie is in review: Mail suggesties (uiterlijk 12 dec) naar projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl) . Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  
 </div>
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel van hun reis. Dat is een goede ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij (stations)fietsenstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder tijd, geld en ruimte kost dan 'bijbouwen'. De uitdaging is om meer treinreizigers die per fiets aankomen of vertrekken stallingsruimte te geven, en meteen te zorgen dat hun fietsen zo kort mogelijk stilstaan in de stationsstalling: hoe sneller ze rouleren, hoe meer plek voor anderen.
@@ -214,7 +214,7 @@ Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzien
 Omdat de overstap van ‘tweede’ fiets naar deelfiets de meest impact geeft, werken we die verder uit.
 <br>
 
-## 4. Uitwerking: overstap van 'tweede fiets' naar deelfiets
+## 5. Uitwerking: overstap van 'tweede fiets' naar deelfiets
 De 'tweede' fietsen aan de bestemmingskant maken dus slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarentegen staat juist kort stil doordat ze van 'baasje wisselen'. Hoe kun je mensen laten overstappen van de 'slechtste' categorie naar de 'beste' in de stationsstalling, dus van 'tweede' fiets naar deelfiets?
 
 ### 	 Barrières
@@ -223,20 +223,27 @@ Allereerst duiken we in de barrières voor mensen om deze overstap te maken:
 
 
 <details><summary>Deelfiets is bij frequent gebruik te duur</summary>
-Het gebruik van een OV-fiets kost 4,80 euro per keer. Dit maakt hem voor dagelijks gebruik te duur, tenzij de werkgever betaalt. Om de deelfiets aantrekkelijk te maken, moet de prijs omlaag. Dit kan door externe financiering, wat een subsidie vraagt van de overheid. Of een deelfiets moet vaker worden gebruikt, waardoor de aanbieder z'n deelfietsen goedkoper kan aanbieden.
+Het gebruik van een OV-fiets kost 4,80 euro per keer (prijs 1 jan 2026). Dit maakt hem voor dagelijks gebruik te duur, tenzij de werkgever betaalt. Om de deelfiets aantrekkelijk te maken, moet de prijs omlaag. Zeker bij frequent gebruik. Daarom pakken werknemers en mensen opweg naar hun opleiding nu meestal geen deelfiets. 
 </details>
 
 <details><summary>Met je eigen fiets weet je waar je aan toe bent</summary>
 Met een deelfiets heb je niet direct het comfort van je eigen fiets. Van tevoren moet je het zadel instellen op jouw lengte en zodra je hem parkeert (afhankelijk van het type deelfiets) heb je kans dat iemand anders hem weer meeneemt. Dit zorgt ervoor dat mensen ook vanwege comfort toch liever hun eigen fiets gebruiken. </details>
 
-<details><summary>Een deelfiets is te ingewikkeld</summary>
-Elke deelfiets werkt net weer anders en vereist per aanbieder vaak een eigen account of app. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Alle aanbieders heben namelijk eigen systemen. Zo zitten er verschillen in het openen en op slot zetten van een fiets en waar je hem wel en niet neer mag achterlaten. Dit maakt dat mensen dan toch minder snel kiezen voor een deelfiets.</details>
+<details><summary>Deelfiets zijn ingewikkeld (ook door alle verschillende soorten)</summary>
+Elke deelfiets werkt net weer anders en vereist per aanbieder vaak een eigen account of app. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Zo zitten er verschillen in het openen en op slot zetten van een fiets en waar je hem wel en niet neer mag achterlaten. Dit maakt dat mensen dan toch minder snel kiezen voor een deelfiets.</details>
 
 <details><summary>Je weet niet zeker of er altijd een deelfiets klaar staat</summary>
-Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Zijn de deelfietsen op en is er geen enkele meer beschikbaar, dan moet je alsnog ander vervoer kiezen. Hierdoor kun je niet blind vertrouwen op een deelfiets. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat ze soms op zijn. Ook kan het met fietsen die je voor korte tijd huurt, zoals Donkey Republic en Felix, zijn dat de fiets alweer door iemand anders is 'ingepikt' en je dus een stuk moet lopen naar de dichtstbijzijnde deelfiets.</details>
+Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Zijn de deelfietsen op en is er geen enkele meer beschikbaar, dan moet je alsnog ander vervoer kiezen. Hierdoor kun je niet blind vertrouwen op een deelfiets. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat ze soms op zijn. Ook kan het met fietsen die je voor korte tijd huurt, zoals Donkey Republic en Felix, zijn dat de fiets alweer door iemand anders is 'ingepikt' en je dus een stukje moet lopen naar de dichtstbijzijnde deelfiets.</details>
 
-<details><summary>Er is te weinig 'incentive' voor de gebruiker.</summary>
-Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten, zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mobiliteitsgewoontes is lastig. En zolang de tweede fiets werkt en het alternatief (OV-fiets) te duur is, is de conclusie simpel: gebruikers zullen hun gedrag niet veranderen.</details>
+<details><summary>Er is te weinig 'incentive' voor de gebruiker om over te stappen op een deelfiets.</summary>
+Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten, zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mobiliteitsgewoontes is lastig. En zolang de tweede fiets werkt en het alternatief (OV-fiets) te duur is, is de conclusie simpel: gebruikers zullen hun gedrag niet zomaar veranderen.</details>
+
+
+
+
+
+## Meer informatie & bronnen
+
 
 <br>
 <div class="tekstblok">
@@ -270,6 +277,7 @@ er kunnen hier ook linkjes , dummy voorbeeld <a href="https://kennis.zuid-hollan
 <br>
 
 
+
 {% include klikblok.html
    img="https://kennis.zuid-holland.nl/wp-content/uploads/2024/06/15048-1024x683.jpg"
    title="Wisselfiets"
@@ -279,45 +287,21 @@ er kunnen hier ook linkjes , dummy voorbeeld <a href="https://kennis.zuid-hollan
 {% include blok.html
    text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
    <br>
- {% include blok.html
+ {% include klikblok.html
    img="img/deelfiets_vaker_trein.jpg"
-   title="Meer weten?"
-   text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}  
+   url="https://kennis.zuid-holland.nl/treingebruik-deelfiets/"
+   title="Mensen nemen vaker trein bij verbeterd deelfietsaanbod"
+   text="Nederlanders fietsen veel, maar buiten hun woonplaats ligt hun fietsgebruik 2 tot 4 keer lager. Dat is logisch, want buiten je woonplaats heb je vaak geen fiets. Wanneer mensen daar toch fietsen, dan is dit meestal met een ‘tweede fiets’. Dat is een fiets die bijvoorbeeld op een station staat voor ritjes naar een bestemming waar je regelmatig heen gaat: je werk, studie, vriend(in) of familie. Een nadeel van tweede fietsen voor de samenleving is dat ze veel ruimte kosten in stationsstallingen. En voor de eigenaar is het nadeel dat je deze tweede fiets alleen kunt gebruiken in de stad waar hij staat, niet op andere plekken in Nederland waar je óók komt." %}  
 
 <br>
 
 
-## Bronnen
 
-Interessante bronnen:
-
-- [https://www.researchgate.net/publication/374006429\_Trends\_in\_access\_and\_egress\_transportation\_to\_and\_from\_train\_stations\_in\_The\_Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
-- [https://activetravelstudies.org/article/id/1392/](https://activetravelstudies.org/article/id/1392/)  
+- [Trends in access and egress transportation to and from train stations in The Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
 - [https://movares.com/projecten/fietsenstalling-van-de-toekomst/](https://movares.com/projecten/fietsenstalling-van-de-toekomst/)  
 - [https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf](https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf)  
-- [https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)   
-- [https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1](https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1) 
-
-(HIERONDER NIET GEREDIGEERD - MM)
-
-Brainstorm.
-
-**Benutten mogelijkheden**
-
-Hoe krijgen we mensen op de deelfiets?
-
-- Betere parkeerplekken (sneller van stalling bij trein)  
-  Financiële stimulans  
-  - Korting of zelfs betaling om fiets snachts thuis te parkeren en op tijd terug naar station te brengen.  
-- Breed aanbod van deelfiets locaties (niet alleen op 1 locatie maar op meerdere locatie deelfiets te gebruiken)  
-- Misschien via een abonnement werking. 
-
-1. **Anders omgaan met stallingen**  
-   - Anders omgaan met stallingen / het stallen van de fiets  
-     - 24 uur gratis, daarna betaald.  
-       - Door een financiële prikkel toe te voegen wordt het langdurig stallen van fietsen ontmoedigd. Aangezien 90% van de fietsparkeerders zijn of haar fiets korter dan 24 uur bij een station parkeert, sluit dit goed aan bij de behoefte van treinreizigers (bron: [https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations) ).  
-     - Bewaakt vs onbewaakt (schaal van grote van fietsenstallingen)
-
-## Achtergrond info en links:
+- [Factsheet Fietsparkeren bij treinstations - RWS](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)   
+- [Naar een optimale benutting van fietsenstallingen - Movares Fietscongres 2025](https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1) 
 - [Wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)
-- ...
+- [Snelstudie: ‘Zuid-Holland: Ga gewoon fietsen’](https://kennis.zuid-holland.nl/fiets/)
+- [Snelstudie: Mensen nemen vaker trein bij verbeterd deelfietsaanbod](https://kennis.zuid-holland.nl/treingebruik-deelfiets/)
