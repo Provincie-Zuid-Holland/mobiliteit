@@ -14,7 +14,7 @@ Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als
 Tussen verschillende groepen fietsenstallers bestaan grote verschillen in de duur dat hun fiets tussen twee ritten stilstaat. En dat blijkt een sleutel in het onderzoek hoe we stationsstallingen efficiënter kunnen benutten, zodat we minder ruimte bij hoeven te bouwen. Dit is relevant omdat de 'ruimtelijke puzzel' in Zuid-Holland enorm is: vooral bij knooppunten van openbaar vervoer (bus, tram, metro en trein) en binnen stadscentra is de ruimte schaars. Grote hoeveelheden fietsen zorgen daar voor problemen en daarmee hoge (investerings)kosten, terwijl we de combinatie fiets-trein-fiets natuurlijk wel volop willen aanmoedigen. De hoofdvraag is:
 
 <div class="tekstblok">
-**Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficiënter en de combinatie fiets-trein-fiets aantrekkelijker worden?**</div>
+<B>Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficiënter en de combinatie fiets-trein-fiets aantrekkelijker worden?</B></div>
 
 
 ## 1. Efficiëntie van stationsstallingen
@@ -229,18 +229,27 @@ Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Zijn de
 <details><summary>Er is te weinig 'incentive' voor de gebruiker om over te stappen op een deelfiets.</summary>
 Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten, zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mobiliteitsgewoontes is lastig. En zolang de tweede fiets werkt en het alternatief (OV-fiets) te duur is, is de conclusie simpel: gebruikers zullen hun gedrag niet zomaar veranderen.</details>
 
+### Aanbevelingen: De kansen
 
 
+DIT STUK MOET NOG NADER INGEVULD
 
 
 ## Meer informatie & bronnen
-- [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets)
-- [Donkey Republic](https://www.donkey.bike/nl)
-- [Lime](https://www.li.me/nl-nl/)
-- [Felyx](https://felyx.com/nl/)
-- [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
+- De deelfietsen [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), [Donkey Republic](https://www.donkey.bike/nl), [Lime](https://www.li.me/nl-nl/), [Felyx](https://felyx.com/nl/), [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
+
+{% include klikblok.html
+   img="img\idealedeelfiets1.jpeg"
+   title="Pleidooi voor een schaalsprong voor deelfietsgebruik in het natransport"
+   url="https://idealedeelfiets.nl/pleidooi/"
+   text="Om het deelfietsgebruik in Nederland naar een hoger niveau te tillen is er een schaalsprong nodig. Door in te zetten op een frictieloze overstap vanaf veel OV-locaties, met snelle, comfortabele en betaalbare deelfietsen die iedereen makkelijk kan huren, kan het aantal deelfietsritten vertienvoudigen van 20.000 naar 200.000 per dag. Hiervoor moeten we de juiste doelgroepen aanspreken, zoals forenzen, studenten en recreanten, en ideale deelfietsen aanbieden met voldoende beschikbaarheid, flexibiliteit en gebruiksgemak." %}
+
+
 - [Deelfiets x 10: Pleidooi voor een schaalsprong voor deelfietsgebruik in het natransport](https://idealedeelfiets.nl/)
 - [Natuurlijk Deelmobiliteit](https://natuurlijkdeelmobiliteit.nl/)
+
+   <br>
+   
 {% include klikblok.html
    img="https://kennis.zuid-holland.nl/wp-content/uploads/2024/06/15048-1024x683.jpg"
    title="Wisselfiets"
@@ -257,7 +266,7 @@ Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te ze
 - [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf)
 - [Trends in access and egress transportation to and from train stations in The Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
 - [https://movares.com/projecten/fietsenstalling-van-de-toekomst/](https://movares.com/projecten/fietsenstalling-van-de-toekomst/)  
-- [https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf](https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf)  
+- [Fietsenstalling van de toekomst (Movares).](https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf)  
 - [Factsheet Fietsparkeren bij treinstations - RWS](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)   
 - [Naar een optimale benutting van fietsenstallingen - Movares Fietscongres 2025](https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1) 
 - [Wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)
