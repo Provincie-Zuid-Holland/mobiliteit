@@ -272,13 +272,12 @@ DIT STUK MOET NOG NADER INGEVULD
    url="https://kennis.zuid-holland.nl/treingebruik-deelfiets/"
    title="Mensen nemen vaker trein bij verbeterd deelfietsaanbod"
    text="Nederlanders fietsen veel, maar buiten hun woonplaats ligt hun fietsgebruik 2 tot 4 keer lager. Dat is logisch, want buiten je woonplaats heb je vaak geen fiets. Wanneer mensen daar toch fietsen, dan is dit meestal met een ‘tweede fiets’. Dat is een fiets die bijvoorbeeld op een station staat voor ritjes naar een bestemming waar je regelmatig heen gaat: je werk, studie, vriend(in) of familie. Een nadeel van tweede fietsen voor de samenleving is dat ze veel ruimte kosten in stationsstallingen. En voor de eigenaar is het nadeel dat je deze tweede fiets alleen kunt gebruiken in de stad waar hij staat, niet op andere plekken in Nederland waar je óók komt." %}  
-<br>
 
-- [Trends in access and egress transportation to and from train stations in The Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
-- [https://movares.com/projecten/fietsenstalling-van-de-toekomst/](https://movares.com/projecten/fietsenstalling-van-de-toekomst/)  
-- [Fietsenstalling van de toekomst (Movares).](https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf)  
+- [Fietsenstalling van de toekomst (Movares)](https://movares.com/projecten/fietsenstalling-van-de-toekomst/)  
 - [Naar een optimale benutting van fietsenstallingen - Movares Fietscongres 2025](https://www.nationaalfietscongres.nl/nieuws/20250506-naar-een-optimale-benutting-van-fietsenstallingen-1) 
+- [Trends in access and egress transportation to and from train stations in The Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
+
 <div class="tekstblok">  
-Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">Laberatorium Verantwoorde Mobiliteit</a>. Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">Laboratorium Verantwoorde Mobiliteit</a>. Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
 </div>
 <br>
