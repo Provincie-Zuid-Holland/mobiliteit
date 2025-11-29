@@ -1,6 +1,6 @@
 ---
 layout: pzh
-title: efficiëntere fietsenstallingen
+title: Efficiëntere fietsenstallingen
 header_image: img\OV-fietsen-gestald.jpg
 ---
 # Naar efficiënter gebruik van stationsstallingen
@@ -8,21 +8,13 @@ header_image: img\OV-fietsen-gestald.jpg
 
 <div class="tekstblok">
   Snelstudie is in review: Mail suggesties (uiterlijk 12 dec) naar projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl) . Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
- 
 </div>
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel van hun reis. Dat is een goede ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij (stations)fietsenstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder tijd, geld en ruimte kost dan 'bijbouwen'. De uitdaging is om meer treinreizigers die per fiets aankomen of vertrekken stallingsruimte te geven, en meteen te zorgen dat hun fietsen zo kort mogelijk stilstaan in de stationsstalling: hoe sneller ze rouleren, hoe meer plek voor anderen.
 
 Tussen verschillende groepen fietsenstallers bestaan grote verschillen in de duur dat hun fiets tussen twee ritten stilstaat. En dat blijkt een sleutel in het onderzoek hoe we stationsstallingen efficiënter kunnen benutten, zodat we minder ruimte bij hoeven te bouwen. Dit is relevant omdat de 'ruimtelijke puzzel' in Zuid-Holland enorm is: vooral bij knooppunten van openbaar vervoer (bus, tram, metro en trein) en binnen stadscentra is de ruimte schaars. Grote hoeveelheden fietsen zorgen daar voor problemen en daarmee hoge (investerings)kosten, terwijl we de combinatie fiets-trein-fiets natuurlijk wel volop willen aanmoedigen. De hoofdvraag is:
 
-
-**Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficiënter en de combinatie fiets-trein-fiets aantrekkelijker worden?**
-
-### Inhoud
-1. Efficiëntie van stationsstallingen
-2. Analyse van stallinggebruikers en hun fietsen
-3. Organisatie van stationsstallingen: NS, ProRail en gemeenten
-4. Aanbevelingen: hoe verkorten we de stallingsduur en verhogen we zo het rendement?
-5. Uitwerking: overstap van 'tweede fiets' naar deelfiets
+<div class="tekstblok">
+**Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficiënter en de combinatie fiets-trein-fiets aantrekkelijker worden?**</div>
 
 
 ## 1. Efficiëntie van stationsstallingen
@@ -57,7 +49,6 @@ Het rendement drukken we daarmee uit in de eenheid: aantal reizigers per etmaal 
 
 ## 2. Analyse van stallinggebruikers en hun fietsen
 
-### Typen gebruik
 Als je een fiets stalt in een fietsenstalling, dan neemt je fiets één plek in. Waar het om gaat: hoelang staat die fiets daar totdat er weer iemand op weg fietst? Uit onderzoek blijkt dat als veel mensen ook hun tweede of soms zelfs derde fiets in zulke stallingen zetten, deze plekken voor lange tijd bezet blijven. Dit zorgt ervoor dat we in Nederland alsmaar stallingen moeten blijven bijbouwen op vaak dure locaties. Dit kost overheden veel geld (de provincie betaalt regelmatig mee). Laten we kijken of het slimmer kan. 
 
 {% include klikblok.html
@@ -243,60 +234,27 @@ Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te ze
 
 
 ## Meer informatie & bronnen
-
-
-<br>
-<div class="tekstblok">
-**Bronnen voor meer informatie over deelfietsen**
-
-      
-<details><summary>Zoals beschreven in <a href="https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf" target="_blank">"Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven"</a> kun je de deelfiets grofweg indelen in drie categorieën: (klapt uit) </summary>
-   
-
-   1. Back to one
-      Je huurt deze deelfiets op een centraal punt en brengt hem hier ook weer terug, bijvoorbeeld OV-fiets.
-
-   2. Back to many
-      Je kunt deze deelfiets op veel plekken huren en terugzetten, zoals in bepaalde fietsenrekken of fietsenstallingen, bijvoorbeeld Velo in Antwerpen. 
-
-   3. Free-floating  
-      Je kunt deze deelfiets overal achterlaten als dat maar een 'drop zone' is, bijvoorbeeld Felix. 
-
-   Naast het type deelfiets, kan je ook sturen op de ontwikkeling van een deelfietssysteem. Laat je dat volledig over aan marktpartijen, waarbij alleen drukbezochte en financieel rendabele plekken deelfietsen krijgen? Of stuur je als overheid op een maatschappelijk systeem met ook deelfietsen op minder rendabele plekken? Die tweede vraagt natuurlijk wel een structurele overheidsinvestering maar leidt ook tot significante ruimtebesparing. Je hoeft dan minder geld te investeren in fietsenstallingen maar meer in actieve mobiliteit, zoals een deelfietssysteem.
-
-   Factoren voor succes van zo’n deelfietssyteem zijn de tariefstelling, betrouwbaarheid, kwaliteit en betrouwbaarheid van de aanbieder. Waarbij het succes volgens [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf) hem vooral zit in de schaal en dichtheid van het systeem, de kosten voor de eindgebruiker, de zekerheid van een goed onderhouden fiets, een actieve herverdeling en de adoptie van het systeem door de lokale overheid om vertrouwen te creëren bij de eindgebruiker.
-
-</details> 
-<BR>
-er kunnen hier ook linkjes , dummy voorbeeld <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op p....
-- link naar <a href="https://www.ns.nl/deur-tot-deur/ov-fiets" target="_blank">OV-fiets</a>
-- Link naar Lime 
-- Link naar Donkey.  
-- .......
-</div>
-<br>
-
-
-
+- [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets)
+- [Donkey Republic](https://www.donkey.bike/nl)
+- [Lime](https://www.li.me/nl-nl/)
+- [Felyx](https://felyx.com/nl/)
+- [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
+- [Deelfiets x 10: Pleidooi voor een schaalsprong voor deelfietsgebruik in het natransport](https://idealedeelfiets.nl/)
+- [Natuurlijk Deelmobiliteit](https://natuurlijkdeelmobiliteit.nl/)
 {% include klikblok.html
    img="https://kennis.zuid-holland.nl/wp-content/uploads/2024/06/15048-1024x683.jpg"
    title="Wisselfiets"
    url="https://kennis.zuid-holland.nl/wisselfiets/"
    text="Wisselfietsen zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de Wisselfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de Wisselfiets voor het laatste stukje van de reis gebruikt. Op die manier staat de wisselfiets ’s nachts nabij de woning van de eerste groep en overdag bij de bestemming van de tweede groep (werk of opleiding). Grote voordeel: De wisselfiets staat nauwelijks stil op het station." %}
    <br>
-{% include blok.html
-   text="Klik voor meer informatie over dit onderwerp. [link wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)" %}
-   <br>
  {% include klikblok.html
    img="img/deelfiets_vaker_trein.jpg"
    url="https://kennis.zuid-holland.nl/treingebruik-deelfiets/"
    title="Mensen nemen vaker trein bij verbeterd deelfietsaanbod"
    text="Nederlanders fietsen veel, maar buiten hun woonplaats ligt hun fietsgebruik 2 tot 4 keer lager. Dat is logisch, want buiten je woonplaats heb je vaak geen fiets. Wanneer mensen daar toch fietsen, dan is dit meestal met een ‘tweede fiets’. Dat is een fiets die bijvoorbeeld op een station staat voor ritjes naar een bestemming waar je regelmatig heen gaat: je werk, studie, vriend(in) of familie. Een nadeel van tweede fietsen voor de samenleving is dat ze veel ruimte kosten in stationsstallingen. En voor de eigenaar is het nadeel dat je deze tweede fiets alleen kunt gebruiken in de stad waar hij staat, niet op andere plekken in Nederland waar je óók komt." %}  
-
 <br>
 
-
-
+- [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf)
 - [Trends in access and egress transportation to and from train stations in The Netherlands](https://www.researchgate.net/publication/374006429_Trends_in_access_and_egress_transportation_to_and_from_train_stations_in_The_Netherlands)  
 - [https://movares.com/projecten/fietsenstalling-van-de-toekomst/](https://movares.com/projecten/fietsenstalling-van-de-toekomst/)  
 - [https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf](https://movares.com/wp-content/uploads/2025/05/Fietsenstalling-van-de-toekomst-De-route-naar-de-ideale-inpandige-fietsenstalling.pdf)  
@@ -305,3 +263,7 @@ er kunnen hier ook linkjes , dummy voorbeeld <a href="https://kennis.zuid-hollan
 - [Wisselfiets](https://kennis.zuid-holland.nl/wisselfiets/)
 - [Snelstudie: ‘Zuid-Holland: Ga gewoon fietsen’](https://kennis.zuid-holland.nl/fiets/)
 - [Snelstudie: Mensen nemen vaker trein bij verbeterd deelfietsaanbod](https://kennis.zuid-holland.nl/treingebruik-deelfiets/)
+<div class="tekstblok">  
+Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">Laberatorium Verantwoorde Mobiliteit</a>. Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+</div>
+<br>
