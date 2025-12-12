@@ -108,7 +108,7 @@ Aan de andere kant van het spectrum zit de deelfiets. Die staat maar kort stil t
 
 Een simpele rekensom leert dat wanneer we zo’n tweede fiets (in de plaats waar mensen werken of studeren) kunnen vervangen door een deelfiets zoals bijvoorbeeld een OV-fiets, er veel meer fietsers van en naar het station kunnen fietsen zonder de stalling te hoeven uitbreiden. Dat blijkt ook uit onderstaande studie voor Eindhoven:
 
-{% include klikblok.html
+{% include blok.html
    img="img\eindhoven.jpg"
    text="Een [stadsbreed deelfietsensysteem in Eindhoven](https://stadszaken.nl/artikel/8214/minder-ruimte-nodig-voor-stationsstallingen-met-deelfietssysteem) kan duizenden vierkante meters aan ruimte besparen die anders nodig zou zijn voor het stallen van privéfietsen blijkt uit recent onderzoek. Vooral in het centrum en bij stations ligt het besparingspotentieel hoog. De vraag is wel wanneer inwoners bereid zijn hun privéfiets in te ruilen voor een deelfiets. De studie wil vooral bijdragen aan de discussie hoe we de fietsparkeeropgave zo ruimtelijk efficiënt mogelijk kunnen organiseren. Hier kan een stedelijk deelfietsensysteem meerwaarde bieden. Deelfietsen zorgen namelijk voor de optimalisatie van de beschikbare ruimte door de roulatie van een deelfiets"
    url = "https://natuurlijkdeelmobiliteit.nl/product/casestudie-stadsbreed-deelfietssysteem-eindhoven" %}
@@ -150,7 +150,6 @@ Als we de efficiëntie van stallingen willen verbeteren, dan spelen Verschillend
 
 Om de efficiëntie van fietsenstallingen verbeteren zullen deze partijen samen moeten werken door data en kennis te delen. Ook kunnen ze gezamelijk investeren in deelfietsensystemen ieder vanuit hun eigen rol. Daarbij is het verstandig eerst op doelgroepen te focussen die relatief makkelijk de overstap op een deelfiets kunnen maken.
 
-<br>
 ## 4. Aanbevelingen: hoe verkorten we de stallingsduur en verhogen we zo het rendement?
 Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzienlijk deel de doorlooptijd van fietsen binnen een stalling. Hieronder een aantal aanbevelingen (alle ▶ kun je uitklappen door erop te klikken).
 
@@ -174,8 +173,8 @@ defg.</details>
 
 Omdat de overstap van ‘tweede’ fiets naar deelfiets de meest impact geeft, werken we die verder uit.
 <br>
-<div class="tekstblok">
-## 5. Uitwerking: overstap van 'tweede fiets' naar deelfiets
+<div class="blok-licht-blauw">
+<H2>>Uitwerking: overstap van 'tweede fiets' naar deelfiets</H2>
 De 'tweede' fietsen aan de bestemmingskant maken dus slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarentegen staat juist kort stil doordat ze van 'baasje wisselen'. Hoe kun je mensen laten overstappen van de 'slechtste' categorie naar de 'beste' in de stationsstalling, dus van 'tweede' fiets naar deelfiets?
 
 ### 	 Barrières
@@ -213,7 +212,7 @@ defg.</details>
 defg.</details>
 
 DIT STUK MOET NOG NADER INGEVULD
-<div>
+</div>
 <br>
 
 ## Meer informatie & bronnen
