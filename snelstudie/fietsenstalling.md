@@ -7,7 +7,7 @@ header_image: img\OV-fietsen-gestald.jpg
 
 
 <div class="tekstblok">
-  Snelstudie is in review: Mail suggesties (uiterlijk 12 dec) naar projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl) . Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Snelstudie is in review: Mail suggesties (uiterlijk 9 jan) naar projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl) . Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
 </div>
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel van hun reis. Dat is een goede ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij (stations)fietsenstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder tijd, geld en ruimte kost dan 'bijbouwen'. De uitdaging is om meer treinreizigers die per fiets aankomen of vertrekken stallingsruimte te geven, en meteen te zorgen dat hun fietsen zo kort mogelijk stilstaan in de stationsstalling: hoe sneller ze rouleren, hoe meer plek voor anderen.
 
@@ -25,10 +25,10 @@ Bij de efficiëntie van een fietsenstalling spelen twee vragen:
 ### Standaardfietsen gebruiken veel minder ruimte dan 'buitenmodelfietsen'
 Naar de efficiëntie in fietsenstallingen zijn veel studies gedaan. Het mooiste zijn natuurlijk standaard fietsen die netjes in de rekken passen, omdat die fietsen aanmerkelijk minder ruimte innemen dan 'buitenmodel fietsen'. Denk daarbij aan bakfietsen, breedstuurfietsen, dikke-bandenfietsen, driewielers, fatbikes, kratfietsen en tandems. Verder groeit het aantal e-bikes snel. Deze passen niet altijd in de rekken, omdat ze vaak bredere banden en veel kabels (die kunnen blijven haken) hebben. Ook zijn e-bikes met hun accu's voor bijna iedereen te zwaar om in een bovenrek te tillen. Verder heeft een e-bike soms een laadplek nodig.
 
-{% include klikblok.html
+{% include blok.html
    img="img/Figuurtypefietsen.jpg"
-   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld brede sturen, kinderzitjes, mandjes, voorrekken of andere elementen waardoor ze niet in standaard (dubbellaags) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen kwijt te kunnen, wat ten koste kan gaan van de totale stallingscapaciteit (Klik op het blok voor de factsheet Fietsparkeren bij treinstations)" 
-   url = "https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations" %}
+   text="Op dit moment groeit het aandeel buitenmodel fietsen ten opzichte van normale stadsfietsen. Buitenmodel fietsen zijn fietsen met bijvoorbeeld brede sturen, kinderzitjes, mandjes, voorrekken of andere elementen waardoor ze niet in standaard (dubbellaags) fietsenrekken passen. Dat betekent dat in stallingen steeds meer ruimte nodig is om deze fietsen kwijt te kunnen, wat ten koste kan gaan van de totale stallingscapaciteit [zie factsheet Fietsparkeren bij treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)"%}
+   
 
 {% include klikblok.html
    img="img\fietesnstallingvandetoekomst.png"
@@ -136,17 +136,10 @@ Eventueel visualisering bezetting “gemiddelde” stationsfietsenstalling)
 
 Als we de efficiëntie van stallingen willen verbeteren, dan spelen Verschillende partijen een rol:
 
-1. ProRail  
-   1. ProRail bouwt en onderhoudt stallingen en installeert de fietsenrekken en (bezettings)sensoren. Hierdoor heeft ProRail ook data van fietsenstallingen. Deze data worden maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt.
-
-2. NS  
-   1. NS beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van (zwerf)fietsen.
-
-3. Gemeenten
-   1. Gemeenten zijn verantwoordelijk voor het weghalen van fietsen. Worden fietsen als zwerffiets gelabeld, dan dient de gemeente ze op te halen. Hiervoor moet NS dus contact onderhouden met de gemeente.
-
-4. Provincie
-   1. De provincie gaat niet over de stallingen, maar ontwikkelt wel mobiliteitsbeleid, zoals rond deelfietsen. Regelmatig financiert de provincie mee bij de bouw van fietsenstallingen.
+1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en (bezettings)sensoren. Hierdoor heeft ProRail ook data van fietsenstallingen. Deze data worden maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt.
+2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van (zwerf)fietsen.
+3. **Gemeenten** Gemeenten zijn vaak partij bij stallingen (bijvoorbeeld omdat ze grond of stallingen in eigendom hebben en/of meefinancieren) en zijn bovendien verantwoordelijk voor het weghalen van fout gestalde fietsen in de openbare ruimte.
+4. De **Provincie** financiert regelmatig mee bij de bouw van fietsenstallingen en stimuleert fietsen in het algemeen en het gebruik van deelfietsen in het bijzonder.
 <br>
 
 
@@ -164,6 +157,8 @@ Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzien
 <details><summary>Reduceren te lang gestalde en weesfietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan, zijn daarom ongewenst. Om weesfietsen snel te verwijderen, moeten we kunnen bijhouden welke fietsen er al lang staan en of dat geen weesfietsen zijn. Dat kan met bonnen, barcodes, kaarten of tags. In veel fietsenrekken wordt al elektronisch bijgehouden hoe lang een fiets er staat. Ook het aanpassen van de regels rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten, kunnen weesfietsen vroegtijdig worden verwijderd, wat ruimte oplevert voor reguliere gebruikers.</details>
 <details><summary>Beprijzen lang stallen</summary>Ook kunnen we langdurig stallen ontmoedigen door dat relatief duurder te maken. Dit zorgt er direct voor dat een tweede fiets minder aantrekkelijk wordt. Dit lost het probleem niet op, maar zorgt eerder voor een verplaatsing van het probleem: in plaats van de fiets in de betaalde stalling te zetten, zal hij nu ergens anders komen te staan.
 </details>
+<details><summary>Let op met het uitbreiden van 24 uur gratis met gratis weekend stallen: Het is een magneet voor de 2e fietsjes.</summary>
+defg.</details>
 <details><summary>Segmenteren stallingsduur: beste plekken voor kortparkeerders
 </summary>Door de stalling te splitsen in kort- en langparkeren, kan de efficiëntie van het beste stuk van de stalling enorm verbeteren. Veel meer mensen kunnen dan de beste plekken (dichtbij de ingang, benedenrekken) gebruiken, terwijl langstallers wat meer hun best moeten doen (verder lopen, bovenrek gebruiken). Je kan ook segmenteren op woon- of bestemmingsstallers: bestemmingsstallers iets verderop stallen (of bovenrek). (HOE DOE JE DAT - MM)? 
 .</details>
@@ -179,7 +174,7 @@ Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzien
 
 Omdat de overstap van ‘tweede’ fiets naar deelfiets de meest impact geeft, werken we die verder uit.
 <br>
-
+<div class="tekstblok">
 ## 5. Uitwerking: overstap van 'tweede fiets' naar deelfiets
 De 'tweede' fietsen aan de bestemmingskant maken dus slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarentegen staat juist kort stil doordat ze van 'baasje wisselen'. Hoe kun je mensen laten overstappen van de 'slechtste' categorie naar de 'beste' in de stationsstalling, dus van 'tweede' fiets naar deelfiets?
 
@@ -216,10 +211,10 @@ defg.</details>
 defg.</details>
 <details><summary>4. Maak het stallen van een 2e fietsje onaantrekklijker (maar voorkom teveel pesten van de fietser)</summary>
 defg.</details>
-<details><summary>4B. Let op met het uitbreiden van 24 uur gratis met gratis weekend stallen: Het is een magneet voor de 2e fietsjes.</summary>
-defg.</details>
-DIT STUK MOET NOG NADER INGEVULD
 
+DIT STUK MOET NOG NADER INGEVULD
+<div>
+<br>
 
 ## Meer informatie & bronnen
 - De deelfietsen [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), [Donkey Republic](https://www.donkey.bike/nl), [Lime](https://www.li.me/nl-nl/), [Felyx](https://felyx.com/nl/), [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
