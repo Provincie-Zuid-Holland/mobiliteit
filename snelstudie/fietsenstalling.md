@@ -150,7 +150,7 @@ Als we de efficiëntie van stallingen willen verbeteren, dan spelen Verschillend
 
 Om de efficiëntie van fietsenstallingen verbeteren zullen deze partijen samen moeten werken door data en kennis te delen. Ook kunnen ze gezamelijk investeren in deelfietsensystemen ieder vanuit hun eigen rol. Daarbij is het verstandig eerst op doelgroepen te focussen die relatief makkelijk de overstap op een deelfiets kunnen maken.
 
-## 4. Aanbevelingen: hoe verkorten we de stallingsduur en verhogen we zo het rendement?
+## 4. Aanbevelingen: verkorten stallingsduur en verhogen rendement?
 Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzienlijk deel de doorlooptijd van fietsen binnen een stalling. Hieronder een aantal aanbevelingen (alle ▶ kun je uitklappen door erop te klikken).
 
 <details><summary>Reduceren te lang gestalde en weesfietsen</summary>Lang gestalde fietsen drukken onevenredig zwaar op de stalling. Weesfietsen en fietsen die langer gestald staan dan toegestaan, zijn daarom ongewenst. Om weesfietsen snel te verwijderen, moeten we kunnen bijhouden welke fietsen er al lang staan en of dat geen weesfietsen zijn. Dat kan met bonnen, barcodes, kaarten of tags. In veel fietsenrekken wordt al elektronisch bijgehouden hoe lang een fiets er staat. Ook het aanpassen van de regels rond het verwijderen van fietsen kan bijdragen. Door hier dicht op te zitten, kunnen weesfietsen vroegtijdig worden verwijderd, wat ruimte oplevert voor reguliere gebruikers.</details>
@@ -169,53 +169,31 @@ defg.</details>
 .</details>
 <details><summary>Meeste impact: overstappen van ‘tweede’ fiets naar deelfiets
 </summary>Uit de analyse blijkt dat 'tweede fietsen' het slechtste rendement hebben. Zelfs vier keer slechter dan een fiets vanaf huis. En deelfietsen komen qua rendement en efficiëntie bij het stallen als 'winnaar uit de bus'. Doordat deelfietsen van 'baasje wisselen' staan ze het kortst van alle categorieën gestald. Daarom deze belangrijkste aanbeveling: de overstap van ‘tweede’ fietsje naar deelfiets. Dit creëert het hoogste rendement in de stationsstallingen.</details>
-<br>
 
-Omdat de overstap van ‘tweede’ fiets naar deelfiets de meest impact geeft, werken we die verder uit.
+Omdat de overstap van ‘tweede’ fiets naar deelfiets de meest impact geeft, werken we die in heb blauwe blok verder uit.
 <br>
 <div class="blok-licht-blauw">
-<H2>>Uitwerking: overstap van 'tweede fiets' naar deelfiets</H2>
+<H2>De overstap van 'tweede fiets' naar deelfiets</H2>
 De 'tweede' fietsen aan de bestemmingskant maken dus slecht gebruik van de ruimte doordat ze lang stilstaan. Deelfietsen daarentegen staat juist kort stil doordat ze van 'baasje wisselen'. Hoe kun je mensen laten overstappen van de 'slechtste' categorie naar de 'beste' in de stationsstalling, dus van 'tweede' fiets naar deelfiets?
 
-### 	 Barrières
+Mensen ervaren nogal wat barrières om deze overstap te maken: Een deelfiets is bij frequent gebruik te duur. Zo kost een OV-fiets 4,80 euro per keer (prijs 1 jan 2026). Dit maakt hem voor dagelijks gebruik te duur, tenzij de werkgever betaalt. Alternatieven bestaan wel: Donkey Republic heeft een Daily Rider abonnement met € 10 per maand waarvoor men iedere dag mag fietsen. Deelfiets vinden veel mensen ingewikkeld. Hoewel de OV-fiets goed ingeburgerd is, geld dat (nog) niet voor andere deelfietsen.Bovendien werkt elke deelfiets net weer anders en vereist vaak een account of app. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Zo zitten er verschillen in het openen en op slot zetten van een fiets en waar je hem wel en niet neer mag achterlaten. Met je eigen fiets weet je waar je aan toe bent, met een deelfiets is er meer onzekerheid of er wel een fiets voor je klaar staat. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat ze soms op zijn. Er is te weinig 'incentive' voor de gebruiker om over te stappen op een deelfiets zolang het eenvoudig en voordelig is om ergens een tweede fiets neer te zetten.
 
-Allereerst duiken we in de barrières voor mensen om deze overstap te maken:
+<H3>> Aanbevelingen: De kansen</H3>
 
-
-<details><summary>Deelfiets is bij frequent gebruik te duur</summary>
-Het gebruik van een OV-fiets kost 4,80 euro per keer (prijs 1 jan 2026). Dit maakt hem voor dagelijks gebruik te duur, tenzij de werkgever betaalt. Om de deelfiets aantrekkelijk te maken, moet de prijs omlaag. Zeker bij frequent gebruik. Daarom pakken werknemers en mensen opweg naar hun opleiding nu meestal geen deelfiets. 
-</details>
-
-<details><summary>Met je eigen fiets weet je waar je aan toe bent</summary>
-Met een deelfiets heb je niet direct het comfort van je eigen fiets. Van tevoren moet je het zadel instellen op jouw lengte en zodra je hem parkeert (afhankelijk van het type deelfiets) heb je kans dat iemand anders hem weer meeneemt. Dit zorgt ervoor dat mensen ook vanwege comfort toch liever hun eigen fiets gebruiken. </details>
-
-<details><summary>Deelfiets zijn ingewikkeld (ook door alle verschillende soorten)</summary>
-Elke deelfiets werkt net weer anders en vereist per aanbieder vaak een eigen account of app. Dit zorgt ervoor dat mensen niet altijd begrijpen hoe een deelfiets werkt. Zo zitten er verschillen in het openen en op slot zetten van een fiets en waar je hem wel en niet neer mag achterlaten. Dit maakt dat mensen dan toch minder snel kiezen voor een deelfiets.</details>
-
-<details><summary>Je weet niet zeker of er altijd een deelfiets klaar staat</summary>
-Deelfietsen wisselen veel van eigenaar en zijn maar beperkt beschikbaar. Zijn de deelfietsen op en is er geen enkele meer beschikbaar, dan moet je alsnog ander vervoer kiezen. Hierdoor kun je niet blind vertrouwen op een deelfiets. Zeker OV-fietsen zijn op grote stations tijdens piekuren erg populair, wat ertoe kan leiden dat ze soms op zijn. Ook kan het met fietsen die je voor korte tijd huurt, zoals Donkey Republic en Felix, zijn dat de fiets alweer door iemand anders is 'ingepikt' en je dus een stukje moet lopen naar de dichtstbijzijnde deelfiets.</details>
-
-<details><summary>Er is te weinig 'incentive' voor de gebruiker om over te stappen op een deelfiets.</summary>
-Zolang het goedkoper en aantrekkelijker is om ergens een tweede fiets neer te zetten, zullen mensen niet snel overstappen op een deelfiets. Het veranderen van mobiliteitsgewoontes is lastig. En zolang de tweede fiets werkt en het alternatief (OV-fiets) te duur is, is de conclusie simpel: gebruikers zullen hun gedrag niet zomaar veranderen.</details>
-
-### Aanbevelingen: De kansen
-
-Er liggen grote kansen om het rendement van de stalling te verbeteren door het het verbeteren van het deelfiets aanbod zodat dit aantrekklijker wordt dan het plaatsen van een 'tweede fietsje'. Zo kunnen meer mensen vanaf station naar werk of opleiding fietsen zonder dat we stallingen hoeven bij te bouwen. Maar hoe verleiden we mensen hiertoe?
+Er liggen grote kansen om het rendement van de stalling te verbeteren door mensen te laten kiezen voor een deelfiets in plaats van het neerzetten van 'tweede fietsje'. Dat gaat niet vanzelf want er moeten barrieres bij de reizigers overwonnen worden. Maar als het lukt kunnen meer mensen vanaf station naar werk of opleiding fietsen zonder dat we stallingen hoeven bij te bouwen. En dat is veel waard! Maar hoe verleiden we mensen hiertoe?
 
 <details><summary>1. Maak de deelfiets aantrekkelijk, juist voor dagelijks gebruik. Bijvoorbeeld met een lage prijs per maand</summary>
-OV-fiets heeft veel te bieden aan de forens, maar bijna niemand gebruikt OV-fiets frequent als ze het uit eigen zak moeten betalen a € 4,80 per keer (prijs januari 2026). Dan zet men snel een 2e fietsje. Een abonnement kan zorgen voor een lage prijs bij frequent gebruik. Zo heeft Donkey Republic het 'Daily Rider' abonnement voor €10 per maand. Donkey heeft dan weer weinig ruimte in de stationsstallingen en de naamsbekendheid is (nog) laag.</details>
-<details><summary>2. Focus eerst op makkelijke doelgroepen (want een deelfiets is ingewikkeld om uit te leggen)</summary>
-defg.</details>
-<details><summary>3. Focus eerst op de bestemmingstations (zoals Delft, Leiden,...), daar staan veel 'tweede fietsjes'.</summary>
-defg.</details>
+OV-fiets heeft veel te bieden aan de forens, maar bijna niemand gebruikt OV-fiets frequent als ze het uit eigen zak moeten betalen a € 4,80 per keer (prijs januari 2026). Dan zet men snel een 2e fietsje. Een abonnement kan zorgen voor een lage prijs bij frequent gebruik. Zo heeft Donkey Republic het 'Daily Rider' abonnement voor €10 per maand. Donkey heeft dan weer weinig ruimte in de stationsstallingen en de naamsbekendheid is (nog) laag. Oplossing: OV-fiets kan met een abonnemntsvorm komen. De eigenaar van de stalling (vaak ProRail) kan zorgen dat er voldoende ruimte is in de stalling voor deelfietsen met een lage prijs bij frequent gebruik omdat die het alternatief voor de 2e fietsjes zijn.</details>
+<details><summary>2. Focus eerst op makkelijke doelgroepen (want een deelfiets is ingewikkeld om uit te leggen)</summary> Het heeft vele jaren geduurd tot OV-fiets zo bekend is bij het publiek als de blauw/gele fietsjes nu zijn. Ook voor de overstap van 'tweede fietsje' op een deelfiets is een grote gedragsverandering nodig. Mensen moeten weten dat er een aantrekkelijk altenatief bestaat in de vorm van een delfiets. Mensen moeten dat vervolgens gaan willen en dan dan moet het overstap moment ook nog daadwerkelijk gerealiseerd worden. Focus daarom eerst voor doelgroepen die relatief makkelijk te converteren zijn. Denk aan mensen die nog niet zo lang werken en studenten.</details>
+<details><summary>3. Focus eerst op de bestemmingstations (zoals Delft, Leiden,...), daar staan veel 'tweede fietsjes'.</summary> Landelijk gezien wordt tenminste 45% van de stallingsdruk veroorzaakt door 'tweede fietsjes'(KIM), maar het aandeel 'tweede fietsen' scheelt nogal per station. Begin daar waar het meest te halen is: Stations met veel bestemmingsverkeer. Maar ook als in een stalling iets minder tweede fietsjes staan is de inzet nog steeds nuttig. Iedere 'tweede fiets' die voorkomen wordt creert ruimte.</details>
 <details><summary>4. Maak het stallen van een 2e fietsje onaantrekklijker (maar voorkom teveel pesten van de fietser)</summary>
-defg.</details>
+Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang stallen van fietsen ontmoedigd moeten worden. Bij de aanbevelingen hierboven is daar al op ingegaan. Aantrekkelijk maken van deelfiets moet hand in hand gaan met ontmoedigen 'tweede fietsjes', want dat de mensen de combinatie fiets + ov gebruiken willen we zeker niet ontmoedigen. Een kennismakingsaanbod voor enkele maanden gratis deelfiets proberen kan daar bij helpen.</details>
 
-DIT STUK MOET NOG NADER INGEVULD
+De provincie Zuid-Holland heeft de alfgelopen jaren al flink ingezet om deelfietsen te stimulten na een reis per ov (zie ...). Ook de komende jaren zet Zuid-Holland zich graag -samen met anderen- in om een sprong in deelfietsgebruik te realiseren. En daarmee ook ruimte te creeren voor meer fietsers rondom het station.
 </div>
 <br>
 
-## Meer informatie & bronnen
+##Bijlage: meer informatie & bronnen
 - De deelfietsen [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), [Donkey Republic](https://www.donkey.bike/nl), [Lime](https://www.li.me/nl-nl/), [Felyx](https://felyx.com/nl/), [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
 
 {% include klikblok.html
