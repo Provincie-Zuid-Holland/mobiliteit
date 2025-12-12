@@ -189,9 +189,10 @@ OV-fiets heeft veel te bieden aan de forens, maar bijna niemand gebruikt OV-fiet
 <details><summary>4. Maak het stallen van een 2e fietsje onaantrekklijker (maar voorkom teveel pesten van de fietser)</summary>
 Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang stallen van fietsen ontmoedigd moeten worden. Bij de aanbevelingen hierboven is daar al op ingegaan. Aantrekkelijk maken van deelfiets moet hand in hand gaan met ontmoedigen 'tweede fietsjes', want dat de mensen de combinatie fiets + ov gebruiken willen we zeker niet ontmoedigen. Een kennismakingsaanbod voor enkele maanden gratis deelfiets proberen kan daar bij helpen.</details>
 
-<p>De provincie Zuid-Holland heeft de alfgelopen jaren al flink ingezet om deelfietsen te stimulten na een reis per ov (zie ...). Ook de komende jaren zet Zuid-Holland zich graag -samen met anderen- in om een sprong in deelfietsgebruik te realiseren. En daarmee ook ruimte te creeren voor meer fietsers rondom het station.</p>
+<p>De provincie Zuid-Holland heeft de alfgelopen jaren al <a href="https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/deelmobiliteit-0/">flink ingezet om deelfietsen te stimuleren</a> na een reis per ov (zie ...). Ook de komende jaren zet Zuid-Holland zich graag -samen met anderen- in om een sprong in deelfietsgebruik te realiseren. En daarmee ook ruimte te creeren voor meer fietsers rondom het station.</p>
 </div>
 <br>
+
 
 ##Bijlage: meer informatie & bronnen
 - De deelfietsen [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), [Donkey Republic](https://www.donkey.bike/nl), [Lime](https://www.li.me/nl-nl/), [Felyx](https://felyx.com/nl/), [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
@@ -227,4 +228,5 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang st
 <div class="tekstblok">  
 Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">Laboratorium Verantwoorde Mobiliteit</a>. Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
 </div>
+<br>
 <br>
