@@ -157,7 +157,7 @@ Hoe we onze fietsen stallen en onder welke voorwaarden, bepaalt voor een aanzien
 <details><summary>Beprijzen lang stallen</summary>Ook kunnen we langdurig stallen ontmoedigen door dat relatief duurder te maken. Dit zorgt er direct voor dat een tweede fiets minder aantrekkelijk wordt. Dit lost het probleem niet op, maar zorgt eerder voor een verplaatsing van het probleem: in plaats van de fiets in de betaalde stalling te zetten, zal hij nu ergens anders komen te staan.
 </details>
 <details><summary>Let op met het uitbreiden van 24 uur gratis met gratis weekend stallen: Het is een magneet voor de 2e fietsjes.</summary>
-defg.</details>
+Het 24 uur's regieme voorkomt het stallen van 'tweede fietsjes' omdat mensen langer enkele etmalen achter elkaar hun fiets niet nodig hebben. Bijvoorbeeld gedurende het weekend. Door ook het weekend gratis te maken is deze bariere voor 'tweede fietsen' weggenomen.</details>
 <details><summary>Segmenteren stallingsduur: beste plekken voor kortparkeerders
 </summary>Door de stalling te splitsen in kort- en langparkeren, kan de efficiëntie van het beste stuk van de stalling enorm verbeteren. Veel meer mensen kunnen dan de beste plekken (dichtbij de ingang, benedenrekken) gebruiken, terwijl langstallers wat meer hun best moeten doen (verder lopen, bovenrek gebruiken). Dat heeft twee voordelen: Veel meer stallers kunnen hun fiets (kort) op een handige plek zetten en het lang stallen (vaak 'tweede fietsjes') wordt er een beetje mee ontmoedigd. 
 .</details>
