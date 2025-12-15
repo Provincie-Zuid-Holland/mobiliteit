@@ -14,13 +14,13 @@ Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als
 Tussen verschillende groepen fietsenstallers bestaan grote verschillen in de duur dat hun fiets tussen twee ritten stilstaat. En dat blijkt een sleutel in het onderzoek hoe we stationsstallingen efficiënter kunnen benutten, zodat we minder ruimte bij hoeven te bouwen. Dit is relevant omdat de 'ruimtelijke puzzel' in Zuid-Holland enorm is: vooral bij knooppunten van openbaar vervoer (bus, tram, metro en trein) en binnen stadscentra is de ruimte schaars. Grote hoeveelheden fietsen zorgen daar voor problemen en daarmee hoge (investerings)kosten, terwijl we de combinatie fiets-trein-fiets natuurlijk wel volop willen aanmoedigen. De hoofdvraag is:
 
 <div class="tekstblok">
-<B>Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficiënter en de combinatie fiets-trein-fiets aantrekkelijker worden?</B></div>
+<B>Hoe kunnen we stationsstallingen beter benutten zodat het stallen van fietsen kostenefficienter wordt en de combinatie fiets-trein-fiets aantrekkelijker?</B></div>
 
 
 ## 1. Efficiëntie van stationsstallingen
 Bij de efficiëntie van een fietsenstalling spelen twee vragen:
 1. Hoeveel ruimte neemt een fiets in beslag?
-2. Hoeveel dagen staat de fiets voor hij weer een rit maakt?
+2. Hoeveel dagen staat de fiets stil?
 
 ### Standaardfietsen gebruiken veel minder ruimte dan 'buitenmodelfietsen'
 Naar de efficiëntie in fietsenstallingen zijn veel studies gedaan. Het mooiste zijn natuurlijk standaard fietsen die netjes in de rekken passen, omdat die fietsen aanmerkelijk minder ruimte innemen dan 'buitenmodel fietsen'. Denk daarbij aan bakfietsen, breedstuurfietsen, dikke-bandenfietsen, driewielers, fatbikes, kratfietsen en tandems. Verder groeit het aantal e-bikes snel. Deze passen niet altijd in de rekken, omdat ze vaak bredere banden en veel kabels (die kunnen blijven haken) hebben. Ook zijn e-bikes met hun accu's voor bijna iedereen te zwaar om in een bovenrek te tillen. Verder heeft een e-bike soms een laadplek nodig.
@@ -59,7 +59,7 @@ Als je een fiets stalt in een fietsenstalling, dan neemt je fiets één plek in.
 
 
 **Gebruikersprofiel stallingsduur**  
-Het bovenstaande rapport geeft duidelijk het verschil in stallingsduur tussen *voortransport* en *natransport* aan. We hebben de gebruikers in vijf categorieën ingedeeld en op een oplopend rendement gesorteerd. Dus eerst de slechts renderende. 
+Het bovenstaande rapport geeft duidelijk het verschil in stallingsduur tussen *voortransport (van huis naar station)* en *natransport (van station naar werk of opleiding)* aan. We hebben de gebruikers in vijf categorieën ingedeeld en op een oplopend rendement gesorteerd. Dus eerst de slechts renderende. 
 
 <table class="table-container">
   <tr>
