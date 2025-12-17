@@ -38,5 +38,5 @@ Vorig jaar waren er ruim 20 inspirerende sessies in zeven paralelle tracs. We no
 
 
 {% include tekstblok.html
-   text="Binnenkort verschijnt hier meer informatie en een link naar de aanmeldpagina." %}
+   text="Meld je via onze [aanmeldpagina festival Dichtbij in Zuid-Holland](https://festivalbereikbaarzuid-holland.pzh-events.nl/page/2071562). Tot 24 maart!" %}
 <br>

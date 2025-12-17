@@ -22,6 +22,8 @@ Hierbij zal gekeken worden naar de huidige situatie van de logistieke korte kete
 
 We streven naar concrete aanbevelingen voor de lange én korte termijn. Om zo te zorgen dat lokaal voedsel straks ook echt op je bord belandt.  
 
+De meest recente versie zijn we nog in word mee bezig. Hieronder is niet actueel.
+
 ## 1. Organisatie tussen klant en leverancier
 
 Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de producenten en de klanten in een gebied? Dat blijkt in de praktijk niet erg eenvoudig te zijn. Laten we maar eens kijken naar een aantal mogelijkheden. Van eenvoudig naar complex.  
@@ -71,7 +73,7 @@ Hoe organiseer je nu op efficiënte en verantwoorde wijze de schakel tussen de p
   </tr>
 </table>
 
-## 2. Initiatieven die er al zijn
+## 2. Regionale korte-keten-partijen
 
 In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opgezet zijn is veel te vinden over de status van korte ketens. Maar ook waar de huidige problematiek ziet. Hieronder hebben we enkele van deze bevindingen onder elkaar gezet. 
 
