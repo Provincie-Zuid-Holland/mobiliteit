@@ -7,7 +7,7 @@ header_image: /mobiliteit/img/provinciehuis2e.jpg
 # Festival "Dichtbij in Zuid-Holland" 
 ## 24 maart 2026 (vanaf 13 uur) | provinciehuis Den Haag
 
-Met korte pitches en interactieve deelsessies blijf je ook in 2026 up-to-date. Toegang is gratis en we sluiten af met gezellige netwerkborrel.  In de ochtend vindt het ambtelijk PVVB plaats op het provinciehuis, zodat iedereen ’s middags door naar het festival kan. Wees welkom om ook in de ochtend van 24 maart je werkgroep/vergadering op het provinciehuis te organiseren. We stellen graag een zaal voor je beschikbaar.
+Met korte pitches en interactieve deelsessies blijf je ook in 2026 up-to-date. Toegang is gratis en we sluiten af met gezellige netwerkborrel. Wees welkom om ook in de ochtend van 24 maart je werkgroep/vergadering op het provinciehuis te organiseren. We stellen graag een zaal voor je beschikbaar.
 
 "Dichtbij in Zuid-Holland" verkent de kracht van *bereikbaarheid door nabijheid*. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport.
 
@@ -23,6 +23,7 @@ Vorig jaar waren er ruim 20 inspirerende sessies in zeven paralelle tracs. We no
 - Lopen op de kaart
 - [Zuid-Holland: Ga gewoon fietsen!](https://kennis.zuid-holland.nl/fiets/)
 - Openbaar vervoer & publieke mobiliteit
+- Toekomstperspectief Hoofdwegennet door Rijkswaterstaat
 - Deelfietsen next step
 - Kansen voor bereikbaarheid (overzichts-studie)
 - [Carpoolen met Nabogo](https://nabogo.com/nl/) door Tobias van Muijden 
@@ -34,6 +35,7 @@ Vorig jaar waren er ruim 20 inspirerende sessies in zeven paralelle tracs. We no
 - Open reisinformatie met Stefan de Koning van [OpenGeo](https://opengeo.nl/)
 - Slim Laden voor Iedereen: Van de markt tot netcongestie 
 - Rotterdamse haven - innovatie van mobiliteit
+- Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app)
 - jouw sessie.... Meld je aan!
 
 
