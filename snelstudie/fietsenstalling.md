@@ -125,15 +125,36 @@ Hoewel er al enkele vormen van deelfietsen beschikbaar zijn (denk aan de OV-fiet
 
 ## 3. Tariefstelling en organisatie van stationsstallingen
 
+Als we de efficiëntie van stallingen willen verbeteren, dan speelt tariefstelling en de rolverdeling van verschillende partijen een grote rol. Ook hebben verschillende stallingen verschillende gebruiksprofielen en bezettingsgraden door de tijd. Belangrijke vraag is ook vanaf welke tariefstelling wordt een deelfiets goedkoper dan een 2e fietsje? (teaser: eens in de 14 dagen een OV-fiets huren lijkt al duurder dan een 2e fietsje aanhouden) 
+
+
 $$ Als we de efficiëntie van stallingen willen verbeteren, dan speelt tariefstelling en de rolverdeling van verschillende partijen een grote rol
 $$ NOG UITWERKEN
 $$ Ook hebben veschillende stallingen verschillende gebruiksprofielen en vbbezettingsgraden door de tijd.
 $$ vanaf welke kosten deelfiets wordt een 2e fietsje goedkoper en sturen we daarmee verkeerde kant in
 
-1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en (bezettings)sensoren. Hierdoor heeft ProRail ook data van fietsenstallingen. Deze data worden maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt.
-2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel, het schoonhouden van de stallingen maar ook het labelen van (zwerf)fietsen.
-3. **Gemeenten** Gemeenten zijn vaak partij bij stallingen (bijvoorbeeld omdat ze grond of stallingen in eigendom hebben en/of meefinancieren) en zijn bovendien verantwoordelijk voor het weghalen van fout gestalde fietsen in de openbare ruimte.
+1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en (bezettings)sensoren. Hierdoor heeft ProRail ook data van fietsenstallingen. Deze data worden maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt. ProRail is momenteel bezig om de datavoorziening opnieuw in te richten om kwaliteit en eenduidigheid van data te verbeteren.
+2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel en het labelen van (zwerf)fietsen. NS bepaalt de tarieven (soms in overleg met anderen).
+3. **Gemeenten** spelen ook een rol bij stallingen. Gemeentes dragen vaak aardig bij aan de financiering van stallingen. Maar ook bijvoorbeeld omdat ze grond of stallingen in eigendom hebben. Daarnaast spelen ze ook een rol in de dagelijkse operatie. En zijn ze verantwoordelijk voor het weghalen van fout gestalde fietsen in de openbare ruimte. Ook reguleren gemeenten deelvervoer vaak (waarbij OV-fiets niet onder deelvervoer gerekent wordt).
 4. De **Provincie** financiert regelmatig mee bij de bouw van fietsenstallingen en stimuleert fietsen in het algemeen en het gebruik van deelfietsen in het bijzonder.
+5.	Ook **Vervoerregio’s** mengen zich vaak in discussies rond deelfietsen en fietsenstallingen. Ook onderzoeken ze soms de mogelijkheden voor gezamelijke aanbestedingen.
+Deze stakeholders zorgen ervoor dat dat de fietsenstallingen functioneren. Voor de gebruiker is het stallen vaak zelfs gratis. 
+De tariefstellingen voor het stallen van fietsen en de lengte van een eventuele 'gratis-periode' creeren een interessante speelruimte voor het beleid rondom fietsenstallingen. Nu lijken partijen vaak op hun deelbelang te optimaliseren, terwijl optimaliseren op het geheel grote (maatschappeijke) voordelen heeft.Maak je het duur dan komt bijna niemand zijn fiets meer stallen (en zeker niet zijn tweede fiets). Volle voorpleinen en neiging naar meer autogebruik zijn het gevolg. Maak je het gratis of heel goedkoop dan lopen de stallingen snel vol met in de praktijk dus ook veel relatief weinig gebruikte tweede fietsen. 
+
+Hierbij heb je verschillende mogelijkheden. De eerste is die op de korte termijn, denk bijvoorbeeld aan de eerste 24 uur gratis stallen. Dit bevordert het gebruik van de stalling maar ook de doorstroom. Gebruikers willen namelijk liever niet betalen als dit niet nodig is. 
+
+Daarnaast heb je de (jaar)abonnementen. Voor een relatief laag bedrag ben je als gebruiker verzekert van een plek en maakt het je niet meer zoveel uit hoelang je fiets of tweede fiets in de stalling staat. De doorloop is minder maar het creëert wel een standaard inkomstenbron voor de exploitant. Terwijl de ProRail en de overheid met een zeer laag maatschappelijk rendement van deze plekken zit.
+
+## De tweede fiets versus de deelfiets
+
+tabel of iets over kostenvergelijking 2e fiets en deelfiets (OV-fiets en donkey)
+
+We bevelen aan dat partijen gezamelijk kijken naar de optimale tariefstelling en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Valkuilen zijn:
+- een gratis periode de het aanhouden van tweede fietsen erg aantrekkelijk maakt
+- Een te laag jaarabonnement waardoor mensen voordeling en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die maar weinig gebruiken.
+- Hoge deelfiets tarieven waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost 4,85 per keer)
+- Te weinig ruimte bieden aan andere deelfietsen die wel een laag tarief rekenen bij frequent gebruik en daardoor een uitstekend alternatief zijn voor de tweede fiets (Donkey Daily Rider kost € 8 - € 10 per maand).
+
 <br>
 
 
