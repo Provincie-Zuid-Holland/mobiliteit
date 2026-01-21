@@ -191,8 +191,8 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang st
 {% include klikblok.html
    img="img\deelfietsstudenten.jpg"
    title="Meteen doen: Studenten in Zuid-Holland op deelfiets naar hun opleiding"
-   url="snelstudie\studentendeelfiets.html"
-   text="Totslot een plan om studenten die thuis wonen te verleiden om naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren aan het aantal tweede fietsjes te beperken in studentensteden. Dit plan kan in iedergeval in Delft, Dordrecht en Leiden. $$Nog uitwerken  $$$$$ klik op dit blok voor meer over dit plan" %}
+   url="studentendeelfiets.html"
+   text="Tot slot een plan om studenten die thuis wonen te verleiden om naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren aan het aantal tweede fietsjes te beperken in studentensteden. Dit plan kan in iedergeval in Delft, Dordrecht en Leiden. $$Nog uitwerken  $$$$$ klik op dit blok voor meer over dit plan" %}
 <BR>
 
 ## Bijlage: meer informatie, linkjes & bronnen
