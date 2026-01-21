@@ -1,12 +1,13 @@
 ---
 layout: pzh
-title: Efficiëntere fietsenstallingen
-header_image: img\OV-fietsen-gestald.jpg
+title: Studenten in Zuid-Holland op deelfiets naar hun opleiding
+header_image: img\deelfietsstudenten.jpg
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
    <a href="index.html">Andere snelstudies</a>
+   <a href="fietsenstalling.html">Snelstudie over fietsenstallingen</a>  
 ---
-# Naar efficiënter gebruik van stationsstallingen
+# Studenten in Zuid-Holland op deelfiets naar hun opleiding
 
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel van hun reis. Dat is een goede ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij (stations)fietsenstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder tijd, geld en ruimte kost dan 'bijbouwen'. De uitdaging is om meer treinreizigers die per fiets aankomen of vertrekken stallingsruimte te geven, en meteen te zorgen dat hun fietsen zo kort mogelijk stilstaan in de stationsstalling: hoe sneller ze rouleren, hoe meer plek voor anderen.
 
@@ -191,8 +192,8 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang st
 {% include klikblok.html
    img="img\deelfietsstudenten.jpg"
    title="Meteen doen: Studenten in Zuid-Holland op deelfiets naar hun opleiding"
-   url="snelstudie\studentendeelfiets.html"
-   text="Totslot een plan om studenten die thuis wonen te verleiden om naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren aan het aantal tweede fietsjes te beperken in studentensteden. Dit plan kan in iedergeval in Delft, Dordrecht en Leiden. $$Nog uitwerken  $$$$$ klik op dit blok voor meer over dit plan" %}
+   url="https://kennis.zuid-holland.nl/wisselfiets/"
+   text="We eindigen met een plan om studenten die thuis wonen te verleiden om naar hun opleiding in Zuid-Holland te gaan met de deelfiets. Dit combineert de aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren aan het aantal tweede fietsjes te beperken in studentensteden. Dit kan in iedergeval in Delft, Dordrecht en Leiden. $$Nog uitwerken  $$$$$ klik op dit blok voor meer over dit idee" %}
 <BR>
 
 ## Bijlage: meer informatie, linkjes & bronnen
