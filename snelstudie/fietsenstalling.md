@@ -190,9 +190,9 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang st
 <br>
 {% include klikblok.html
    img="https://kennis.zuid-holland.nl/wp-content/uploads/2024/06/15048-1024x683.jpg"
-   title="Pilot 2026: Thuiswonende studenten in Zuid-Holland op deelfiets naar de studie $$$$"
+   title="Pilot 2026: Thuiswonende studenten in Zuid-Holland op deelfiets naar de studie"
    url="https://kennis.zuid-holland.nl/wisselfiets/"
-   ....$$$$$n." %}
+   text="....$$$$$n." %}
 <BR>
 
 ## Bijlage: meer informatie, linkjes & bronnen
