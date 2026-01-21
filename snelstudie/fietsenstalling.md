@@ -4,7 +4,7 @@ title: Efficiëntere fietsenstallingen
 header_image: img\OV-fietsen-gestald.jpg
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
-   <a href="snelstudies.html">andere snelstudies</a>
+   <a href="index.html">andere snelstudies</a>
 ---
 # Naar efficiënter gebruik van stationsstallingen
 

@@ -4,13 +4,13 @@ title: Voedsel van dichtbij
 header_image: /mobiliteit/snelstudie/img/voedselsysteem.jpg
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
-   <a href="snelstudies.html">andere snelstudies</a>
+   <a href="index.html">andere snelstudies</a>
 ---
 # Logistiek voor korte voedselketens
 
 
 <div class="tekstblok">
-  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie gaan we in december 2025 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie gaan we in februari 2026 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
  
 </div>
 <br>

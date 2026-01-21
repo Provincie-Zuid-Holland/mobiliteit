@@ -3,12 +3,12 @@ layout: pzh
 title: Snelstudielijst
 header_image: \mobiliteit\img\zandmotorstrand.jpg
 menu: |
-    <a href="werkwijzer.html">toelichting</a>
+    <a href="werkwijzer.html">Wat een snelstudie is</a>
 
 ---
 # Snelstudies
 
-Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken. Meer informatie [over snelstudies](werkwijzer).
+Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken.
 
 <div class="item-list">
   {% for item in site.data.items %}

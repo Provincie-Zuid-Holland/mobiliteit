@@ -3,7 +3,7 @@ layout: pzh
 title: Snelstudielijst
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
-    <a href="werkwijzer.html">toelichting</a>
+    <a href="werkwijzer.html">Wat een snelstudie is</a>
 
 ---
 # Snelstudies
