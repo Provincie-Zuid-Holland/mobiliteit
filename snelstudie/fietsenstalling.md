@@ -5,10 +5,6 @@ header_image: img\OV-fietsen-gestald.jpg
 ---
 # Naar efficiënter gebruik van stationsstallingen
 
-
-<div class="tekstblok">
-  Snelstudie is in review: Mail suggesties (uiterlijk 9 jan) naar projectleider Igor Koster (i.koster-2@student.tudelft.nl) of Ronald Haverman (ra.haverman@pzh.nl) . Meer over <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
-</div>
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel van hun reis. Dat is een goede ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij (stations)fietsenstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder tijd, geld en ruimte kost dan 'bijbouwen'. De uitdaging is om meer treinreizigers die per fiets aankomen of vertrekken stallingsruimte te geven, en meteen te zorgen dat hun fietsen zo kort mogelijk stilstaan in de stationsstalling: hoe sneller ze rouleren, hoe meer plek voor anderen.
 
 Tussen verschillende groepen fietsenstallers bestaan grote verschillen in de duur dat hun fiets tussen twee ritten stilstaat. En dat blijkt een sleutel in het onderzoek hoe we stationsstallingen efficiënter kunnen benutten, zodat we minder ruimte bij hoeven te bouwen. Dit is relevant omdat de 'ruimtelijke puzzel' in Zuid-Holland enorm is: vooral bij knooppunten van openbaar vervoer (bus, tram, metro en trein) en binnen stadscentra is de ruimte schaars. Grote hoeveelheden fietsen zorgen daar voor problemen en daarmee hoge (investerings)kosten, terwijl we de combinatie fiets-trein-fiets natuurlijk wel volop willen aanmoedigen. De hoofdvraag is:

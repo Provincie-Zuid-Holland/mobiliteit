@@ -16,6 +16,11 @@ body{
       max-width: 100%
 }
 
+.logobar {   /*test van de logobar flex*/
+  display: flex;
+  align-items: center;      /* verticaal uitlijnen */
+}
+
 .topnav {
   overflow: hidden;
   background-color: white;
