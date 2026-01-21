@@ -2,6 +2,9 @@
 layout: pzh
 title: Efficiëntere fietsenstallingen
 header_image: img\OV-fietsen-gestald.jpg
+menu: |
+   <a href="werkwijzer.html">Wat een snelstudie is</a>
+   <a href="snelstudies.html">andere snelstudies</a>
 ---
 # Naar efficiënter gebruik van stationsstallingen
 
@@ -189,7 +192,7 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zal ook het lang st
 </div>
 <br>
 
-## Bijlage: meer informatie & bronnen
+## Bijlage: meer informatie, linkjes & bronnen
 - De deelfietsen [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), [Donkey Republic](https://www.donkey.bike/nl), [Lime](https://www.li.me/nl-nl/), [Felyx](https://felyx.com/nl/), [Deelfiets Nederland (Zwolle)](https://www.deelfietsnederland.nl/)
 
 {% include klikblok.html

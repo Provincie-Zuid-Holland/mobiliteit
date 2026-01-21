@@ -22,7 +22,9 @@ body{
 }
 
 .topnav {
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin-left: auto;    /* ← dit duwt het menu naar rechts */
   background-color: white;
 }
 

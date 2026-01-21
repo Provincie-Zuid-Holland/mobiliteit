@@ -3,7 +3,7 @@ layout: pzh
 title: Voedsel van dichtbij
 header_image: /mobiliteit/snelstudie/img/voedselsysteem.jpg
 menu: |
-   <a href="werkwijzer.html">toelichting</a>
+   <a href="werkwijzer.html">Wat een snelstudie is</a>
    <a href="snelstudies.html">andere snelstudies</a>
 ---
 # Logistiek voor korte voedselketens
