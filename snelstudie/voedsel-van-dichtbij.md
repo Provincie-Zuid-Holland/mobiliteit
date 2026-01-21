@@ -4,13 +4,13 @@ title: Voedsel van dichtbij
 header_image: /mobiliteit/snelstudie/img/voedselsysteem.jpg
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
-   <a href="index.html">andere snelstudies</a>
+   <a href="index.html">Andere snelstudies</a>
 ---
 # Logistiek voor korte voedselketens
 ## Meer volume én efficiëntie
 
 <div class="tekstblok">
-  Na de snelstudie <a href="https://kennis.zuid-holland.nl/nabijheid" target="_blank">"Kracht van nabijheid"</a>  waar de nadruk op personenmobiliteit lag, duiken we nu in de logistiek om lokaal geproduceerd voedsel snel en vers op je bord te krijgen. Deze snelstudie gaan we in februari 2026 voltooien (het resultaat komt op deze webpagina). Het is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>. Toelichting <a href="werkwijzer.html" target="_blank">Snelstudie programma</a>.
+  Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>.
  
 </div>
 <br>
@@ -68,9 +68,6 @@ In zowel wetenschappelijke literatuur als in de vele pilots en projecten die opg
    text="In korte ketens hebben boeren en burgers de prijs en kwaliteit van hun voedsel meer in eigen hand. Ook is er meer ruimte voor boeren, burgers, instellingen, bedrijven en overheden om hun eigen initiatieven te ontplooien en samen te werken (coöperaties). In Noord-Holland wordt er ontzettend veel lekker en voedzaam eten geproduceerd. Een groot deel hiervan wordt naar het buitenland geëxporteerd, terwijl een deel van het voedsel dat in Noord-Holland wordt gegeten juist weer wordt geïmporteerd. Dit kan efficiënter!" %} 
    <br>
  
-   <br> 
-   s deze weg in te slaan zou ons advies zijn; hier is geen taak voor de provincie. We zijn graag duidelijk. 
-
 ## Achtergrond info en links:
 - [De Tuin van Holland](https://www.detuinvanholland.nl/)
 - [Rotterdam de boer op!](https://www.rotterdamdeboerop.nl/)
