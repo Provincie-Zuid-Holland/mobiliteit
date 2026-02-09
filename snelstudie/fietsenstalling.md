@@ -147,27 +147,32 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
 ### Kosten deelfietsgebruik
 <table class="table-container">
   <tr>
-    <th style="min-width: 20%;">deelfiets</th>
-    <th >kosten indicatie</th>
-    <th style="min-width: 10%;">toelichting</th>
+    <th style="min-width: 15%;">deelfiets</th>
+    <th >kosten per dag</th>
+    <th >kosten per maand</th>
+
+    <th style="min-width: 35%;">toelichting</th>
 
   </tr>
    <tr>
     <td>OV-fiets</td>
-    <td>4,8o per keer (77 per maand)</td>
+    <td>4,8o  </td>
+    <td>77</td>
     <td>maandbedrag bij 4 dagen werken per week</td>
 
   </tr>
   <tr>
     <td>Donkey Republic</td>
-    <td>10 Euro per maand</td>
+    <td>4</td>
+    <td>10</td>
     <td>Daily Rider abonnement en hub op bestemming, anders 1,5 per keer extra</td>
 
   </tr>
 
    <tr>
     <td>Lime en Felyx</td>
-    <td>8 per dag (128 per maand)   </td>
+    <td>8 </td>
+    <td>128 </td>
     <td>Op basis van 12 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Rotterdam en Utrecht</td>
 
   </tr>
