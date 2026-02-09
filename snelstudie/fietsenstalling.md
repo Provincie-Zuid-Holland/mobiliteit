@@ -6,7 +6,7 @@ menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>
 ---
-# Naar efficiënter gebruik van stationsstallingen
+# Naar efficiënter gebruik van stationsstallingen,
 
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel na hun treinreis. Een positieve ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, gezonder, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij die stationsstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder geld, ruimte en tijd kost dan 'bijbouwen'. De uitdaging is om méér treinreizigers die per fiets aankomen of vertrekken stallingsruimte te bieden, en meteen te zorgen dat hun fietsen in de stationsstalling zo kort mogelijk stilstaan: hoe sneller die rouleren, hoe meer plek er resteert voor andere fietsen.
 
