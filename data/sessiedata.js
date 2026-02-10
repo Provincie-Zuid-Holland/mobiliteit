@@ -7,7 +7,7 @@ const data = {
           tijd: "14:30 - 15:00", 
           zaal: "Schoonoord", 
           spreker: "Igor Koster en Sean van der Lee", 
-          "mouse-over": "wordt interessant!"
+          mouseover: "wordt interessant!"
         },
         { 
             session: "2", 
