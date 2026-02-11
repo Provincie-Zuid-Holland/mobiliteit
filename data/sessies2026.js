@@ -4,7 +4,7 @@ const data = {
         { 
             session: "2", 
             title: "Ruimtelijke puzzel van Zuid-Holland", 
-            details: "....", 
+            details: "....  [!img/ruimelijkekoers.png]", 
             tijd: "15:00 - 16:00 (1 uur)", 
             zaal: "Schoonoord", 
             spreker: " Jurre Baijards ", 
@@ -25,7 +25,7 @@ const data = {
       { 
           session: "101", 
           title: "Bereikaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
-          details: "Laat je bijpraten ", 
+          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil Bereikbaarheid op peil] vastgesteld. Johan Weggeman bespreekt de regional uitwerking en impact voor Zuid-Holland<br><br> [!img/Bereikbaaheid op peil.png] ", 
           tijd: "...", 
           zaal: "...", 
           spreker: "Johan Weggeman, Ministerie IenW"
