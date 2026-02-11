@@ -59,8 +59,7 @@ Als je een fiets stalt in een stalling, dan neemt je fiets één plek in. Waar h
 
 
 **Gebruikersprofiel stallingsduur**  
-Dit KiM-rapport signaleert duidelijk het verschil in stallingsduur tussen *voortransport (van huis naar station)* en *natransport (van station naar werk of opleiding)*. We hebben de gebruikers ingedeeld in vijf categorieën en op oplopend rendement, dus de slechtst renderende staan bovenaan in deze tabel:
-*De waardes voor de stallingsduur zijn geschatte waardes
+Dit KiM-rapport signaleert duidelijk het verschil in stallingsduur tussen *voortransport (van huis naar station)* en *natransport (van station naar werk of opleiding)*. We hebben de gebruikers ingedeeld in vijf categorieën en op oplopend rendement, dus de slechtst renderende staan bovenaan in deze tabel (de waardes voor de stallingsduur zijn geschatte waardes).
 <table class="table-container">
   <tr>
     <th style="min-width: 20%;">Categorie</th>
@@ -129,7 +128,7 @@ Hoewel er genoeg deelfietsen bestaan (OV-fiets of deelfietsen van Donkey Republi
 Als we de efficiëntie van stallingen willen verhogen, dan moeten we ook kijken naar partijen en tarieven. Ook hebben verschillende stallingen verschillende gebruiksprofielen en bezettingsgraden. Dé vraag is: onder welke tariefhoogte wordt een deelfiets goedkoper dan een tweede fietsje? (Teaser: eens in de 14 dagen een OV-fiets huren lijkt al duurder dan een tweede fietsje aanhouden.) 
 
 1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en bezettingssensoren. Daardoor heeft ProRail ook data over het gebruik. Deze data wordt maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt. ProRail richt de datavoorziening nu opnieuw in om de kwaliteit en eenduidigheid van die data te verbeteren.
-2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel en het labelen van (zwerf)fietsen. NS bepaalt daarnaast ook de tarieven (soms in overleg met anderen).
+2. **NS** beheert en exploiteert de stallingen. Hieronder valt ook het labelen van (zwerf)fietsen. NS bepaalt daarnaast ook de tarieven (soms in overleg met anderen).
 3. **Gemeenten** dragen vaak bij aan de financiering van stallingen. Maar hebben bijvoorbeeld ook grond of stallingen in eigendom. Daarnaast spelen ze ook een rol in de dagelijkse operatie. Zo zijn ze verantwoordelijk voor het weghalen van verkeerd gestalde fietsen in de openbare ruimte (handhaving). Ook reguleren gemeenten vaak deelvervoer (met uitzondering van de OV-fiets, die valt onder NS).
 4. **Provincies** betalen regelmatig mee aan de bouw van fietsenstallingen. Zij stimuleren fietsen in het algemeen en deelfietsen in het bijzonder.
 5. Ook **vervoerregio’s** (de Metropoolregio Rotterdam Den Haag en Vervoerregio Amsterdam zijn samenwerkingsverbanden van gemeenten) mengen zich vaak in discussies rond fietsenstallingen en deelfietsen. Ook onderzoeken zij soms de mogelijkheden voor gezamenlijke aanbestedingen.
@@ -154,47 +153,78 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <th style="min-width: 35%;">toelichting</th>
 
   </tr>
-   <tr>
-    <td>OV-fiets</td>
-    <td>4,80  </td>
-    <td>77</td>
-    <td>maandbedrag bij 4 dagen werken per week</td>
 
-  </tr>
-  <tr>
+ 
+
+   <tr>
+   <td>Tweede fietsje aanhouden</td>
+    <td>n.v.t. </td>
+    <td>€ 8 </td>
+    <td>uitgangspunten 2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Fiets gaat 3 jaar mee en we gaan uit van gratis stallen bij het station</td>
+</tr>
+
+ <tr>
     <td>Donkey Republic</td>
     <td>4</td>
     <td>10</td>
     <td>Daily Rider abonnement en hub op bestemming, anders 1,5 per keer extra</td>
+<tr>
+   <td>Swapfiets (als 2e fiets)</td>
+    <td>n.v.t. </td>
+    <td>€ 17,90 </td>
+    <td>17,90 per maand (studententarief Delft) en we gaan uit van gratis stallen bij het station + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
+</tr>
 
-  </tr>
 
    <tr>
-    <td>Lime en Felyx</td>
-    <td>8 </td>
-    <td>128 </td>
-    <td>op basis van 12 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Rotterdam en Utrecht</td>
+    <td>OV-fiets</td>
+    <td>€ 4,80  </td>
+    <td>€ 77</td>
+    <td>maandbedrag bij 4 dagen werken per week</td>
+
+  </tr>
+ 
+   <tr>
+    <td>Lime Utrecht</td>
+    <td>€ 6 </td>
+    <td>€ 96 </td>
+    <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek *Bij deze tarieven is een overheidsbijdrage van toepassing </td>
+
+ </tr>
+<tr>
+
+
+   <td>Felyx Delft</td>
+    <td>8,5 </td>
+    <td>136 </td>
+    <td>50 cent start + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
+<tr>
+<tr>
+    <td>Lime Rotterdam</td>
+    <td>€ 9,20 </td>
+    <td>€ 147 </td>
+    <td>1 euro start + 24 cent/min (tarieven Rotterdam feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek</td>
+
 
   </tr>
   
 </table>
 
+Uit de tabel komt naar voren dat het aanhouden van een tweede fietsje verreweg de goedkoopste oplossing is voor de reiziger en waarschijnlijk ook het meeste gebruiksgemak geeft. Dit is logische verklaring dat veel mensen hier voor kiezen.  Alleen Donkey republic komt qua maandprijs in de buurt.
 
-
-
-We vragen partijen gezamenlijk te kijken naar de optimale tariefhoogte en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Valkuilen:
+Om de efficientie van de stalling te verhogen moet een verschuiving van tweede fiets richting deelfiets bevorderd worden. Uit de tabel blijkt dat partijen gezamenlijk kijken naar de optimale tariefhoogte (voor stallen en ddeelfietsgebruik) en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Valkuilen:
 - een lange gratis stallingsduur die het aanhouden van tweede fietsen aantrekkelijk maakt
 - een te goedkoop jaarabonnement, waardoor mensen voordelig en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die nauwelijks gebruiken
-- hoge deelfietstarieven, waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,85 euro per 24 uur)
+- hoge deelfietstarieven, waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,80 euro per 24 uur)
 - te weinig ruimte voor andere deelfietsen die een laag tarief kennen bij frequent gebruik en een uitstekend alternatief zouden zijn voor de tweede fiets (Donkey Daily Rider kost 10,00 euro per maand).
+
+Deelfietsen moeten goedkoper -> Er is op dit moment maar 1 speler die een concurerend tarief biedt: Donkey Republic, die zou dan meer ruimte in de stalling moeten krijgen. Andere optie is tarieven verlagen met overheidsteun.  Andere richting si gartis stallen onmogelijk maken maar heeft grote risico's (massaal buiten stallen op voorplein, ontmoedigen fiets. )
+
+
+
 
 <br>
 
-
-{% include blok.html
-   img="img\Figuurbeheerfietsenstalling.jpg"
-   title="Organisatie van stallingen"
-   text="Door de drie taken (exploitatie, handhaving en capaciteit) moeten de partijen hun werk afstemmen." %}
 
 Om fietsenstallingen efficiënter te maken, zullen partijen moeten samenwerken door doelen, data en kennis te delen. Ook kunnen ze - ieder vanuit de eigen rol - gezamenlijk investeren in deelfietssystemen. Daarbij is het verstandig dat ze zich eerst op doelgroepen richten die relatief makkelijk de overstap op een deelfiets kunnen maken.
 
