@@ -17,7 +17,7 @@ Tussen verschillende groepen fietsenstallers bestaan grote verschillen in de duu
 
 
 ## 1. Efficiëntie van stationsstallingen
-Bij de efficiëntie van een fietsenstalling spelen twee vragen:
+Bij de efficiëntie van een fietsenstalling spelen twee vragen een grote rol:
 1. Hoeveel ruimte neemt de fiets in?
 2. Hoeveel dagen staat de fiets stil?
 
@@ -26,6 +26,7 @@ Naar de efficiëntie van fietsenstallingen zijn veel studies gedaan. Het mooiste
 
 {% include blok.html
    img="img/Figuurtypefietsen.jpg"
+   title="Factsheet fietsparkeren bij treinstations"
    text="Op dit moment groeit het aandeel buitenmodelfietsen: fietsen met bijvoorbeeld brede sturen, kinderzitjes, mandjes, voorrekken of andere elementen waardoor ze niet in standaard (dubbellaags) fietsenrekken passen. Dat betekent dat deze fietsen steeds meer ruimte vragen, wat ten koste gaat van de totale stallingscapaciteit [zie factsheet Fietsparkeren bij treinstations](https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/nederland-bereikbaar-hinderaanpak/toolbox/factsheet-fietsparkeren-bij-treinstations)"%}
 
 
@@ -33,7 +34,7 @@ Naar de efficiëntie van fietsenstallingen zijn veel studies gedaan. Het mooiste
    img="img\fietesnstallingvandetoekomst.png"
    title="Movares-rapport: Fietsenstalling van de toekomst"
    url="https://movares.com/projecten/fietsenstalling-van-de-toekomst"
-   text="Interessante studie van onder meer bureau Movares naar fietsenstallingen en diversiteit in fietstypes." %}
+   text="Een studie van Movares in samenwerking met de gemeente Eindhoven en Rotterdam naar de fietsenstalling van de toekomst. Waarbij de route van de fietser van vertrek tot aankomst geavalueerd wordt. om zo inzicht te verkrijgen in de ideale vorm van explotatie en dienstverlening van inpandige fietsenstallingen. Waarbij rekening gehouden wordt met onder andere een groei in fietsgebruik en diversiteit van fietstsypes" %}
 
 ### Rendement: zo kort mogelijk stallen
 Onderbelicht is nog de duur dat de fiets gestald staat tot z'n volgende rit. Deze tijd varieert van enkele minuten tot vele dagen. In deze snelstudie duiken we dan ook in de stallingsduur, omdat die effect heeft op het maatschappelijk rendement van de stalling. Wij denken dat overheden en beheerders samen sterker kunnen sturen op stallingsduur.
@@ -42,7 +43,7 @@ Door het vergroten van de efficiëntie van fietsenstallingen kunnen meer mensen 
 
 De doorloop van fietsen kunnen we bekijken als 'maatschappelijke kosten-batenanalyse'. Van een fiets die gestald staat op het station zijn de baten dat één reiziger is geholpen om een goede reis per fiets én OV te maken. De 'maatschappelijke kosten' zijn de duur dat de fiets schaarse ruimte inneemt totdat hij weer wordt opgehaald. Voor het rendement van de stalling delen we de baten door de kosten:
 <div class="tekstblok">
-Rendement = reiziger / aantal dagen dat fiets gestald staat
+Rendement = aantal geholpen reizigers / aantal dagen dat fiets gestald staat
 </div>
 
 ## 2. Analyse van stallers en hun fietsen
@@ -59,41 +60,41 @@ Als je een fiets stalt in een stalling, dan neemt je fiets één plek in. Waar h
 
 **Gebruikersprofiel stallingsduur**  
 Dit KiM-rapport signaleert duidelijk het verschil in stallingsduur tussen *voortransport (van huis naar station)* en *natransport (van station naar werk of opleiding)*. We hebben de gebruikers ingedeeld in vijf categorieën en op oplopend rendement, dus de slechtst renderende staan bovenaan in deze tabel:
-
+*De waardes voor de stallingsduur zijn geschatte waardes
 <table class="table-container">
   <tr>
-    <th style="min-width: 20%;">categorie</th>
-    <th >omschrijving</th>
-    <th style="min-width: 10%;">gemiddelde stallingsduur</th>
+    <th style="min-width: 20%;">Categorie</th>
+    <th >Omschrijving</th>
+    <th style="min-width: 10%;">Gemiddelde stallingsduur</th>
 
   </tr>
    <tr>
-    <td>natransport: tweede fiets</td>
+    <td>Natransport: tweede fiets</td>
     <td>Gebruikers die een tweede of zelfs derde fiets stallen op hun aankomststation, bijvoorbeeld in de plaats waar ze werken. Deze 'natransportfietsen' overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat ze weer een rit maken. Dat is vier keer zo lang vergeleken met een fiets die wordt gebruikt in het voortransport tussen huis en station. (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
     <td>3,5 dag</td>
 
   </tr>
   <tr>
-    <td>voortransport: eigen fiets</td>
+    <td>Voortransport: eigen fiets</td>
     <td>Gebruikers die hun privéfiets stallen bij het station in hun woonplaats, bijvoorbeeld als ze daarna met de trein naar hun werk of opleiding gaan. 's Avonds pikken ze hun fiets meestal weer op om naar huis te fietsen</td>
     <td>1 (kantoor)dag</td>
 
   </tr>
 
    <tr>
-    <td>natransport: OV-fiets</td>
+    <td>Natransport: OV-fiets</td>
     <td>Gebruikers die de OV-fiets pakken op hun aankomststation. OV-fietsen overnachten meestal op het station.</td>
     <td>circa 1 dag</td>
 
   </tr>
    <tr>
-    <td>natransport: andere deelfiets (dan OV-fiets)</td>
+    <td>Natransport: andere deelfiets (dan OV-fiets)</td>
     <td>Gebruikers van andere deelfietsen dan de OV-fiets, bijvoorbeeld van Donkey Republic, Lime, DeelfietsNederland of Felyx.</td>
     <td>1 uur tot 1 dag</td>
 
   </tr>
     <tr>
-    <td>wisselfiets (deelfiets die ook dienst doet in voortransport)</td>
+    <td>Wisselfiets (deelfiets die ook dienst doet in voortransport)</td>
     <td><a href="https://kennis.zuid-holland.nl/wisselfiets/">wisselfietsen</a> zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de deelfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de deze fiets vanaf hetzelfde station gebruikt voor het laatste stukje van de reis. Die eerste reiziger gebruikt de deelfiets als voortransport, die tweede dezelfde deelfiets als natransport.</td>
     <td>10 minuten tot enkele uren</td>
 
@@ -127,8 +128,8 @@ Hoewel er genoeg deelfietsen bestaan (OV-fiets of deelfietsen van Donkey Republi
 
 Als we de efficiëntie van stallingen willen verhogen, dan moeten we ook kijken naar partijen en tarieven. Ook hebben verschillende stallingen verschillende gebruiksprofielen en bezettingsgraden. Dé vraag is: onder welke tariefhoogte wordt een deelfiets goedkoper dan een tweede fietsje? (Teaser: eens in de 14 dagen een OV-fiets huren lijkt al duurder dan een tweede fietsje aanhouden.) 
 
-1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en bezettingssensoren. Daardoor heeft ProRail ook data over het gebruik. Deze data worden maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt. ProRail richt de datavoorziening nu opnieuw in om de kwaliteit en eenduidigheid van die data te verbeteren.
-2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel en het labelen van (zwerf)fietsen. NS bepaalt de tarieven (soms in overleg met anderen).
+1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en bezettingssensoren. Daardoor heeft ProRail ook data over het gebruik. Deze data wordt maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt. ProRail richt de datavoorziening nu opnieuw in om de kwaliteit en eenduidigheid van die data te verbeteren.
+2. **NS** beheert en exploiteert de stallingen. Dit houdt onder andere in: het inzetten van personeel en het labelen van (zwerf)fietsen. NS bepaalt daarnaast ook de tarieven (soms in overleg met anderen).
 3. **Gemeenten** dragen vaak bij aan de financiering van stallingen. Maar hebben bijvoorbeeld ook grond of stallingen in eigendom. Daarnaast spelen ze ook een rol in de dagelijkse operatie. Zo zijn ze verantwoordelijk voor het weghalen van verkeerd gestalde fietsen in de openbare ruimte (handhaving). Ook reguleren gemeenten vaak deelvervoer (met uitzondering van de OV-fiets, die valt onder NS).
 4. **Provincies** betalen regelmatig mee aan de bouw van fietsenstallingen. Zij stimuleren fietsen in het algemeen en deelfietsen in het bijzonder.
 5. Ook **vervoerregio’s** (de Metropoolregio Rotterdam Den Haag en Vervoerregio Amsterdam zijn samenwerkingsverbanden van gemeenten) mengen zich vaak in discussies rond fietsenstallingen en deelfietsen. Ook onderzoeken zij soms de mogelijkheden voor gezamenlijke aanbestedingen.
@@ -143,7 +144,6 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
 
 ## Tweede fiets versus deelfiets
 
-[TABEL OF IETS OVER KOSTENVERGELIJKING 2E FIETS EN DEELFIETS (OV-FIETS EN DONKEY)]
 ### Kosten deelfietsgebruik
 <table class="table-container">
   <tr>
@@ -156,7 +156,7 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
   </tr>
    <tr>
     <td>OV-fiets</td>
-    <td>4,8o  </td>
+    <td>4,80  </td>
     <td>77</td>
     <td>maandbedrag bij 4 dagen werken per week</td>
 
@@ -173,7 +173,7 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <td>Lime en Felyx</td>
     <td>8 </td>
     <td>128 </td>
-    <td>Op basis van 12 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Rotterdam en Utrecht</td>
+    <td>op basis van 12 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Rotterdam en Utrecht</td>
 
   </tr>
   
@@ -195,7 +195,6 @@ We vragen partijen gezamenlijk te kijken naar de optimale tariefhoogte en regels
    img="img\Figuurbeheerfietsenstalling.jpg"
    title="Organisatie van stallingen"
    text="Door de drie taken (exploitatie, handhaving en capaciteit) moeten de partijen hun werk afstemmen." %}
-[KAN DIT SCHEMA IN HET NEDERLANDS? - MM, Of weg doen -RH]
 
 Om fietsenstallingen efficiënter te maken, zullen partijen moeten samenwerken door doelen, data en kennis te delen. Ook kunnen ze - ieder vanuit de eigen rol - gezamenlijk investeren in deelfietssystemen. Daarbij is het verstandig dat ze zich eerst op doelgroepen richten die relatief makkelijk de overstap op een deelfiets kunnen maken.
 
