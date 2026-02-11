@@ -149,62 +149,49 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <th style="min-width: 15%;">deelfiets</th>
     <th >kosten per dag</th>
     <th >kosten per maand</th>
-
-    <th style="min-width: 35%;">toelichting</th>
-
+    <th style="min-width: 40%;">toelichting</th>
   </tr>
-
- 
-
-   <tr>
+  <tr>
    <td>Tweede fietsje aanhouden</td>
     <td>n.v.t. </td>
     <td>€ 8 </td>
     <td>uitgangspunten 2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Fiets gaat 3 jaar mee en we gaan uit van gratis stallen bij het station</td>
-</tr>
-
- <tr>
+  </tr>
+  <tr>
     <td>Donkey Republic</td>
     <td>4</td>
     <td>10</td>
     <td>Daily Rider abonnement en hub op bestemming, anders 1,5 per keer extra</td>
-<tr>
+   </tr>
+   <tr>
    <td>Swapfiets (als 2e fiets)</td>
     <td>n.v.t. </td>
     <td>€ 17,90 </td>
     <td>17,90 per maand (studententarief Delft) en we gaan uit van gratis stallen bij het station + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
-</tr>
-
-
-   <tr>
+  </tr>
+  <tr>
     <td>OV-fiets</td>
     <td>€ 4,80  </td>
     <td>€ 77</td>
     <td>maandbedrag bij 4 dagen werken per week</td>
-
   </tr>
- 
    <tr>
     <td>Lime Utrecht</td>
     <td>€ 6 </td>
     <td>€ 96 </td>
     <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek *Bij deze tarieven is een overheidsbijdrage van toepassing </td>
-
  </tr>
-<tr>
-
-
+ <tr>
    <td>Felyx Delft</td>
     <td>8,5 </td>
     <td>136 </td>
     <td>50 cent start + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
-<tr>
+</tr>
 <tr>
     <td>Lime Rotterdam</td>
     <td>€ 9,20 </td>
     <td>€ 147 </td>
     <td>1 euro start + 24 cent/min (tarieven Rotterdam feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek</td>
-
 
   </tr>
   
