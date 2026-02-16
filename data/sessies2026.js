@@ -50,7 +50,7 @@ const data = {
 
          { 
           session: "102", 
-          title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde hebben ", 
+          title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde", 
           details: "Het Verplaatsings- en bestedingenonderzoek 2024 brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van ruim 27.000 enquêtes in 37 centra in Nederland en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. [https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement] <br> <br> [!img/416-oostende-bron-nick-decombel-fotografie.jpg]",
           tijd: "...", 
           zaal: "...", 
