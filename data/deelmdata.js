@@ -136,7 +136,10 @@ var mapDonkeys = [
 { "titel":"Leiden de Vink", "latlon": [52.1480069573, 4.45609178238]},
 { "titel":"Station Delft", "latlon": [52.0073266863, 4.35714881834]},
 { "titel":"Delft Campus station", "latlon": [51.9907568380, 4.36488805513]},
-{ "titel":"Leiden CS" , "latlon":[52.16658273, 4.4820674385]}
+{ "titel":"Leiden CS" , "latlon":[52.16658273, 4.4820674385]},
+{ "titel":"Leimuiden busstation" , "latlon":[52.2246794766, 4.67657713914]},
+{ "titel":"Woubrugge carpoolplein Herenweg" , "latlon":[52.16860075059, 4.667069218429]},
+{ "titel":"Oude Wetering Meerkreuk" , "latlon":[52.2071447778, 4.6422120619]}
 ];
 
 

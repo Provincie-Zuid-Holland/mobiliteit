@@ -48,6 +48,24 @@ const data = {
           spreker: "Marloes Nonnekes,  provincie Zuid-Holland"
         }, 
 
+         { 
+          session: "102", 
+          title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde hebben ", 
+          details: "Het Verplaatsings- en bestedingenonderzoek 2024 brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van ruim 27.000 enquêtes in 37 centra in Nederland en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. [https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement] <br> <br> [!img/416-oostende-bron-nick-decombel-fotografie.jpg]",
+          tijd: "...", 
+          zaal: "...", 
+          spreker: "Marco Duijnisveld (Movares)"
+        },     
+             { 
+          session: "102", 
+          title: "One size fi(e)ts all? Fietsparkeeroplossingen voor Delft", 
+          details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.<br><br> [!img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg]",
+          tijd: "...", 
+          zaal: "...", 
+          spreker: "Nao Steenmetz (Movares)"
+        }, 
+
+
         { 
           session: "102", 
           title: "ANWB Automaatje, de prima service voor mensen die niet meer zelf kunnen rijden", 
