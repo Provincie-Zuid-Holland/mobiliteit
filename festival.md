@@ -1,17 +1,15 @@
 ---
 layout: pzh
-title: Festival "Dichtbij in Zuid-Holland"
-header_image: /mobiliteit/img/provinciehuis2e.jpg
+title: Festival "Bereikbaar"
+header_image: /mobiliteit/img/festival2026laag.png
 
 ---
-# Festival Bereikbaar | “Dichtbij in Zuid-Holland”
-## 24 maart 2026 vanaf 13 uur in het provinciehuis Den Haag
-
+# Festival Bereikbaar | thema: “Dichtbij in Zuid-Holland”
 Met "Dichtbij in Zuid-Holland" verkenen we de kracht van *bereikbaarheid door nabijheid*. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport.
 
 Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland, op het gebied van bereikbaarheid in brede zin: We kijken bijvoorbeeld ook naar ruimtelijke ordening, woningbouw, circulair & duurzaam nieuwe economie en innovatie omdat dit allemaal raakt aan een goede bereikbaarheid. Ook word je bijgepraat over het kabinetstandpunt “Bereikbaarheid op Peil” door het ministerie van IenW.
 
-We starten om 13:30 uur (inloop vanaf 13:00 uur met koffie en thee) met een interactieve aftrap door Irma Kenter, domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport. Na inspiratie op te hebben gedaan in een middag vol interactie sluiten we om 16:30 af met terugblik door de (nieuwe) gedeputeerde Jeroen van Dijken. Waarna we tijdens een feestelijke netwerkborrel napraten. 
+We starten om 13:30 uur (inloop vanaf 13:00 uur met koffie en thee) met een interactieve aftrap door Christel Mourik (algemeen directeur MRDH) en Irma Kenter (domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport Provincie Zuid-Holland). Na inspiratie op te hebben gedaan in een middag vol interactie sluiten we om 16:30 af met terugblik door de (nieuwe) gedeputeerde Jeroen van Dijken. Waarna we tijdens een feestelijke netwerkborrel napraten. 
 
  Wees welkom om ook in de ochtend van 24 maart je werkgroep/vergadering op het provinciehuis te organiseren. We stellen graag een zaal voor je beschikbaar.
 
