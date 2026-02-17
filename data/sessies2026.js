@@ -4,7 +4,7 @@ const data = {
         { 
             session: "2", 
             title: "Ruimtelijke puzzel van Zuid-Holland", 
-            details: "....  [!img/ruimelijkekoers.png]", 
+            details: "....  [!img/ruimelijkekoers.png | style='max-height: 200px;']", 
             spreker: " Jurre Baijards", 
             mouseover: "Het loopt allemaal 🙂 "
           },
@@ -21,7 +21,7 @@ const data = {
       { 
           session: "101", 
           title: "Bereikaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
-          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil Bereikbaarheid op peil] vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> [!img/Bereikbaaheid op peil.png] ", 
+          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil Bereikbaarheid op peil] vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> [!img/Bereikbaaheid op peil.png | style='max-height: 300px;'] ", 
            spreker: "Johan Weggeman, Ministerie IenW"
         },      
          { 
