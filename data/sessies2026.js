@@ -55,7 +55,7 @@ const data = {
         { 
           session: "102", 
           title: "ANWB Automaatje, de prima service voor mensen die niet meer zelf kunnen rijden", 
-          details: "ANWB Automaatje is een service voor mensen die niet meer zelf kunnen rijden. De service biedt hulp bij het vervoer naar en van het ziekenhuis, het werk of andere activiteiten.[https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje site Automaatje]<br><br>  [!img/anwb-automaatje.jpg| style='max-height: 250px;'] ",
+          details: "ANWB Automaatje is een service voor mensen die niet meer zelf kunnen rijden. De service biedt hulp bij het vervoer naar en van het ziekenhuis, het werk of andere activiteiten.<br>[https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje site Automaatje]<br><br>  [!img/anwb-automaatje.jpg| style='max-height: 250px;'] ",
           spreker: "ANWB Automaatje"
         }, 
 
@@ -86,7 +86,7 @@ const data = {
             session: "2", 
             title: "Rijkswaterstaat  met toekomst hoofdwegennet", 
             details: "....", 
-            spreker: "Joop Kokjen, Rijkswaterstaat ", 
+            spreker: "Joop Kokje, Rijkswaterstaat ", 
             mouseover: "Het loopt allemaal 🙂 "
           },
 

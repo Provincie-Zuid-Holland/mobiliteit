@@ -4,9 +4,10 @@ title: Snelstudielijst
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
     <a href="werkwijzer.html">Wat een snelstudie is</a>
-
+    <a href="index.html">Andere snelstudies</a>
+    <a href="\mobiliteit\festival.html">Festival Bereikbaar 24 maart</a>
 ---
 # Snelstudies
 
-verplaatst naar index == Snelstudies zijn kortlopende onderzoeken waarin we in teamverband intensief aan kansen voor Zuid-Holland werken. Meer informatie [over snelstudies](werkwijzer).
+verplaatst naar [index](index.html) . 
 

@@ -5,7 +5,7 @@ header_image: /mobiliteit/img/festival2026laag.png
 
 ---
 # Festival Bereikbaar | thema: “Dichtbij in Zuid-Holland”
-Met "Dichtbij in Zuid-Holland" verkenen we de kracht van *bereikbaarheid door nabijheid*. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport.
+Met "Dichtbij in Zuid-Holland" verkennen we de kracht van *bereikbaarheid door nabijheid*. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport.
 
 Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland, op het gebied van bereikbaarheid in brede zin: We kijken bijvoorbeeld ook naar ruimtelijke ordening, woningbouw, circulair & duurzaam nieuwe economie en innovatie omdat dit allemaal raakt aan een goede bereikbaarheid. Ook word je bijgepraat over het kabinetstandpunt “Bereikbaarheid op Peil” door het ministerie van IenW.
 
