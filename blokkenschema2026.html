@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Festival Schema 2026</title>
   <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
-  <script src="scr/parseW.js"></script>
+  <script src="scr/parse.js"></script>
 
   <style>
         body {    color: #281f6b;
@@ -232,7 +232,7 @@
 
     // Functie om de pop-up te tonen
     function showPopup(session) {
-      sessieHTML = parseW(session.details)
+      sessieHTML = parse(session.details)
   
       document.getElementById('popupTitle').textContent = session.title;
       document.getElementById('popupDetails').innerHTML = sessieHTML;

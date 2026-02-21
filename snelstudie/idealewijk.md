@@ -5,6 +5,7 @@ header_image: /mobiliteit/snelstudie/img\fietswijk.jpg
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
    <a href="index.html">Andere snelstudies</a>
+   <a href="\mobiliteit\festival.html">Festival Bereikbaar 24 maart</a>
 
 ---
 # Nabijheid als sturend principe voor ideale wijken (werktitel) 

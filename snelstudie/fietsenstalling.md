@@ -5,6 +5,7 @@ header_image: img\OV-fietsen-gestald.jpg
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>
+   <a href="\mobiliteit\festival.html">Festival Bereikbaar 24 maart</a>
 ---
 # Efficiëntere stationsstallingen: stimuleer de deelfiets meer
 
@@ -149,66 +150,63 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <th style="min-width: 15%;">deelfiets</th>
     <th >kosten per dag</th>
     <th >kosten per maand</th>
-    <th style="min-width: 40%;">toelichting</th>
+    <th style="min-width: 40%;">uitgangspunten</th>
   </tr>
   <tr>
    <td>Tweede fietsje aanhouden</td>
     <td>n.v.t. </td>
     <td>€ 8 </td>
-    <td>uitgangspunten 2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Fiets gaat 3 jaar mee en we gaan uit van gratis stallen bij het station</td>
+    <td>2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Fiets gaat 3 jaar mee en we gaan uit van gratis stallen bij het station.</td>
   </tr>
   <tr>
     <td>Donkey Republic</td>
-    <td>4</td>
-    <td>10</td>
-    <td>Daily Rider abonnement en hub op bestemming, anders 1,5 per keer extra</td>
+    <td>€ 4</td>
+    <td>€ 10</td>
+    <td>Daily Rider abonnement en hub op bestemming, anders € 1,50 per keer extra.</td>
    </tr>
    <tr>
    <td>Swapfiets (als 2e fiets)</td>
     <td>n.v.t. </td>
     <td>€ 17,90 </td>
-    <td>17,90 per maand (studententarief Delft) en we gaan uit van gratis stallen bij het station + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
+    <td>€ 17,90 per maand (studententarief Delft) en we gaan uit van gratis stallen bij het station.</td>
   </tr>
   <tr>
     <td>OV-fiets</td>
     <td>€ 4,80  </td>
     <td>€ 77</td>
-    <td>maandbedrag bij 4 dagen werken per week</td>
+    <td>Maandbedrag bij 4 dagen werken per week</td>
   </tr>
    <tr>
     <td>Lime Utrecht</td>
     <td>€ 6 </td>
     <td>€ 96 </td>
-    <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek *Bij deze tarieven is een overheidsbijdrage van toepassing </td>
+    <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek (*bij deze tarieven is een overheidsbijdrage van toepassing).</td>
  </tr>
  <tr>
    <td>Felyx Delft</td>
-    <td>8,5 </td>
-    <td>136 </td>
-    <td>50 cent start + 25 cent per minuut,op basis van 15 minuten naar werk fietsen en weer terug. 4 daagse werkweek, tarieven Delft</td>
+    <td>€ 8,50 </td>
+    <td>€ 136 </td>
+    <td>50 cent start + 25 cent per minuut. Op basis van 15 minuten naar werk fietsen en evenlang weer terug. 4 daagse werkweek, tarieven Delft.</td>
 </tr>
 <tr>
     <td>Lime Rotterdam</td>
     <td>€ 9,20 </td>
     <td>€ 147 </td>
-    <td>1 euro start + 24 cent/min (tarieven Rotterdam feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek</td>
+    <td>€ 1 start + 24 cent/min (tarieven Rotterdam feb 2026). Op basis van 15 minuten naar werk fietsen en weer evenlang terug, 4 daagse werkweek.</td>
 
   </tr>
   
 </table>
 
-Uit de tabel komt naar voren dat het aanhouden van een tweede fietsje verreweg de goedkoopste oplossing is voor de reiziger en waarschijnlijk ook het meeste gebruiksgemak geeft. Dit is logische verklaring dat veel mensen hier voor kiezen.  Alleen Donkey republic komt qua maandprijs in de buurt.
+Uit de tabel komt naar voren dat het aanhouden van een tweede fietsje verreweg de goedkoopste oplossing is voor de reiziger en waarschijnlijk ook het meeste gebruiksgemak geeft. Dit is logische verklaring dat veel mensen hier voor kiezen. Alleen Donkey republic komt qua maandprijs in de buurt. Dit beeld veranderd weinig als we van een gebruik van maar 3 keer per week uitgaan in plaats van 4.
 
 Om de efficientie van de stalling te verhogen moet een verschuiving van tweede fiets richting deelfiets bevorderd worden. Uit de tabel blijkt dat partijen gezamenlijk kijken naar de optimale tariefhoogte (voor stallen en ddeelfietsgebruik) en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Valkuilen:
-- een lange gratis stallingsduur die het aanhouden van tweede fietsen aantrekkelijk maakt
-- een te goedkoop jaarabonnement, waardoor mensen voordelig en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die nauwelijks gebruiken
-- hoge deelfietstarieven, waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,80 euro per 24 uur)
+- een lange gratis stallingsduur die het aanhouden van tweede fietsen aantrekkelijk maakt.
+- een te goedkoop jaarabonnement, waardoor mensen voordelig en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die nauwelijks gebruiken.
+- hoge deelfietstarieven, waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,80 euro per 24 uur).
 - te weinig ruimte voor andere deelfietsen die een laag tarief kennen bij frequent gebruik en een uitstekend alternatief zouden zijn voor de tweede fiets (Donkey Daily Rider kost 10,00 euro per maand).
 
-Deelfietsen moeten goedkoper -> Er is op dit moment maar 1 speler die een concurerend tarief biedt: Donkey Republic, die zou dan meer ruimte in de stalling moeten krijgen. Andere optie is tarieven verlagen met overheidsteun.  Andere richting si gartis stallen onmogelijk maken maar heeft grote risico's (massaal buiten stallen op voorplein, ontmoedigen fiets. )
-
-
-
+Deelfietsen moeten goedkoper -> Er is op dit moment maar 1 speler die een concurerend tarief biedt: Donkey Republic, die zou dan meer ruimte in de stalling moeten krijgen. Andere optie is tarieven verlagen met overheidsteun.  Andere richting si gartis stallen onmogelijk maken maar heeft grote risico's (massaal buiten stallen op voorplein, ontmoedigen fiets).
 
 <br>
 
@@ -224,7 +222,7 @@ Hoe we onze fietsen stallen en met welke regels, bepaalt vooral de doorlooptijd 
 <details><summary>Voer géén gratis weekend stallen in (want het is een magneet voor tweede fietsjes).</summary>
 De eerste 24 uur gratis stallen voorkomt het stallen van tweede fietsjes omdat de meter na dag 1 begint te lopen. Door ook het weekend gratis te maken, vervalt een barrière voor tweede fietsjes.</details>
 <details><summary>Verkoop géén goedkope jaarabonnementen (want het ruimtelijk rendement is slecht).</summary>
-[NOG KORT UITLEGGEN - MM]</details>
+Met een jaarabbonement op de stalling is de reiziger voor een relatief laag bedrag verzekerd van een plekje gedurende het hele jaar. Er zit geen stimulans in de fiets ook regelmatig te gebruiken. Hoewel het voor de gebruiker een goede deal is, is het dat voor de overheid zeker niet: Het levert een slecht maatschappelijk rendement op.</details>
 <details><summary>Geef kortparkeerders de beste plekken (segmenteer dus naar stallingsduur)
 </summary>Het splitsen van de stalling in kort- en langparkeren kan de efficiëntie van het ‘beste deel’ van de stalling enorm verbeteren. Veel meer mensen kunnen dan de beste plekken (benedenrekken bij de ingang) gebruiken, terwijl langstallers wat meer hun best moeten doen (bovenrekken achterin). Dat biedt twee voordelen: veel meer stallers kunnen hun fiets (kort) op een handige plek zetten en lang stallen (vaak tweede fietsjes) wordt ontmoedigd. Voor de mooiste zone kan een kortere maximale parkeerduur gelden. Veel stallingen hebben fietsdetectie per plek waarmee handhaving van de maximale staltijd mogelijk is. Als er poortjes zijn voor in- en uitchecken, kun je bepaalde zones maximale (gratis) staltijd geven.</details>
 <details><summary>Beloon kort stallen (met koffie, koek, gratis OV-fiets, deelfietstegoed)
@@ -265,7 +263,7 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zullen we het lang 
    img="img\deelfietsstudenten.jpg"
    title="Meteen doen: studenten in Zuid-Holland op deelfiets naar opleiding"
    url="studentendeelfiets.html"
-   text="Tot slot een plan om thuiswonende studenten te verleiden om vanaf hun aankomststation naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren om in studentensteden het aantal tweede fietsjes te beperken. Dit plan kan in ieder geval in Delft, Dordrecht en Leiden. [$$Nog uitwerken$$]klik op dit blok voor meer over dit plan" %}
+   text="Tot slot een plan om thuiswonende studenten te verleiden om vanaf hun aankomststation naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit bovenstaande blauwe box en kan een mooie showcase zijn. Het gaat sowieso een bijdrage leveren om in studentensteden het aantal tweede fietsjes te beperken. Dit plan kan in ieder geval in Leiden, Dordrecht, Gouda en Delft." %}
 <BR>
 
 ## Linkjes & bronnen
