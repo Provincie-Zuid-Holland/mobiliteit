@@ -46,6 +46,12 @@ const data = {
         },     
              { 
           session: "102", 
+          title: "De spoorlijn Leiden Dordrecht (oude lijn) en vastgoed ontwikkelingen", 
+          details: "De spoorlijn Leiden-Dordrecht, ook wel de 'oude lijn' genoemd, is een belangrijke verbinding in Zuid-Holland. In deze sessie bespreken we de huidige staat van de spoorlijn, de geplande verbeteringen en de impact op vastgoedontwikkelingen langs deze corridor. We kijken naar kansen voor woningbouw, kantoren en andere functies die kunnen profiteren van de verbeterde bereikbaarheid en hoe dit bijdraagt aan de regionale economie en leefbaarheid. <br><br> ",
+          spreker: ".."
+        }, 
+     { 
+          session: "102", 
           title: "One size fi(e)ts all? Fietsparkeeroplossingen voor Delft", 
           details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.<br><br> ![|max-height: 250px](img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg)  ",
           spreker: "Nao Steenmetz (Movares)"
@@ -128,7 +134,7 @@ const data = {
                   { 
             session: "15", 
             title: "Oranje deelfietsen van Donkey Republick In Zuid-Holland", 
-            details: "]",          
+            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republick is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.",     
             spreker: "Stijn van der Sluis, Donkey Republick", 
           },
           { 

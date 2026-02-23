@@ -4,6 +4,7 @@ title: Bereikbaarheid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
     <a href="snelstudie/index.html">overzicht van snelstudies</a>
+    <a href="\mobiliteit\festival.html">Festival Bereikbaar 24 maart</a>
 
 ---
 # Hoe we Zuid-Holland bereikbaar houden
