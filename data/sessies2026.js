@@ -82,9 +82,9 @@ const data = {
         },
         { 
             session: "2", 
-            title: "Mobiliteit als basis voor gezond ontwerpen", 
-            details: "Wat betekent het als we gezondheid leidend laten zijn in stedelijke ontwikkeling? Aan de hand van 6 Zuid-Hollandse projecten (Zie Bouwen aan een gezonde, toekomstbestendige leefomgeving) en de Amerikaanse aanpak van Strong Towns (Zie Strong Towns) wordt de centrale rol van mobiliteit in gezonde stedelijke ontwikkeling toegelicht. ", 
-            spreker: " Lucas en Varshini ", 
+            title: "Gezond (en omgekeerd 🙂) ontwerpen van wijken", 
+            details: "Wat betekent het als we gezondheid leidend laten zijn in stedelijke ontwikkeling? Aan de hand van zes Zuid-Hollandse projecten. Zie [Bouwen aan een gezonde, toekomstbestendige leefomgeving](https://storymaps.arcgis.com/stories/15d0019ae9214b5282e9fbac67f0b2a8) en de Amerikaanse aanpak van [Strong Towns](https://www.strongtowns.org/) wordt de centrale rol van mobiliteit in gezonde stedelijke ontwikkeling toegelicht.<BR><BR>![|max-height: 250px](img/strongTowns.png)",  
+            spreker: " Lucas van der Velden", 
             mouseover: "Het loopt allemaal 🙂 "
           },
 
