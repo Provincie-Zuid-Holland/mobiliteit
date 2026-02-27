@@ -2,7 +2,9 @@
 layout: pzh
 title: Festival "Bereikbaar"
 header_image: /mobiliteit/img/festival2026laag.png
-
+menu: |
+    <a href="snelstudie/index.html">Snelstudies</a>
+    <a href="\mobiliteit\blokkenschema2026.html">Festival blokkenschema</a>
 ---
 # Festival Bereikbaar | thema: “Dichtbij in Zuid-Holland”
 Met "Dichtbij in Zuid-Holland" verkennen we de kracht van *bereikbaarheid door nabijheid*. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport.

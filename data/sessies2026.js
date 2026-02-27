@@ -1,6 +1,17 @@
 const data = {
       sessions: [
 
+                  { 
+            session: "7", 
+            title: "Samenwerken in Virual Reality (Met de VR bril door Valkenhorst) - Hele middag", 
+            details: "In deze virtuele omgeving van het project Valkenhorst kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
+            zaal: "Tuinzaal (bij koffie & borrel)", 
+            tijd: "Hele middag vanaf 14:30 uur", 
+            spreker: "Luuk Czudowski"
+          },         
+         
+ 
+ 
         { 
             session: "2", 
             title: "Ruimtelijke puzzel van Zuid-Holland", 
@@ -106,15 +117,7 @@ const data = {
           }, 
 
       
-          { 
-            session: "7", 
-            title: "Met de Quest VR bril langs de oude lijn - probeer het zelf!", 
-            details: "Om de mogelijkheden van VR brillen te laten zien, krijg je de mogelijkheid om op een aantal punten langs de oude lijn (spoorlijn Leiden- Dordrecht) letterelijk rond te kijken.", 
-            zaal: "Tuinzaal (bij koffie & borrel", 
-            tijd: "Hele middag vanaf 13 uur", 
-          },         
-         
- 
+
           { 
             session: "10", 
             title: "X Car City - Werken aan een betere stad met minder auto's ", 
