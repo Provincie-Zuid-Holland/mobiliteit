@@ -116,14 +116,7 @@ const data = {
             back : "img/scholierenroutes.png"
           }, 
 
-      
-
-          { 
-            session: "10", 
-            title: "X Car City - Werken aan een betere stad met minder auto's ", 
-            details: "Meer info [Website van X Car City](https://xcarcity.nl) <br><br> ![|max-height: 250px](https://xcarcity.nl/wp-content/uploads/xcarcity-logo-300x223.png)", 
-            spreker: "..... ", 
-          },         
+         
  
           { 
             session: "23", 
