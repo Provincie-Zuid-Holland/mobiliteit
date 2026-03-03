@@ -126,7 +126,7 @@ Hoewel er genoeg deelfietsen bestaan (OV-fiets of deelfietsen van Donkey Republi
 
 ## 3. Organisatie & tarieven stationsstallingen
 
-Als we de efficiëntie van stallingen willen verhogen, dan moeten we ook kijken naar partijen en tarieven. Ook hebben verschillende stallingen verschillende gebruiksprofielen en bezettingsgraden. Dé vraag is: onder welke tariefhoogte wordt een deelfiets goedkoper dan een tweede fietsje? (Teaser: eens in de 14 dagen een OV-fiets huren lijkt al duurder dan een tweede fietsje aanhouden.) 
+Als we de efficiëntie van stallingen willen verhogen, dan moeten we ook kijken naar partijen en tarieven. Verschillende stallingen hebben verschillende gebruiksprofielen en bezettingsgraden. Gezamelijk spelen ze een belangrijke rol in het gebruik van stallingen en de aantrekkingskracht van een tweede fietsje. Waarbij dé vraag is: onder welke tariefhoogte wordt een deelfiets goedkoper dan een tweede fietsje? (Teaser: twee keer in de maand een OV-fiets huren lijkt al duurder dan een tweede fietsje aanhouden.) Maar eerst een overzicht van hoe een fietsenstalling over het algemeen georganiseerd wordt.
 
 1. **ProRail** bouwt en onderhoudt stallingen en installeert de fietsenrekken en bezettingssensoren. Daardoor heeft ProRail ook data over het gebruik. Deze data wordt maar beperkt gedeeld met NS en gemeenten, wat onderzoek naar de efficiëntie van fietsenstallingen beperkt. ProRail richt de datavoorziening nu opnieuw in om de kwaliteit en eenduidigheid van die data te verbeteren.
 2. **NS** beheert en exploiteert de stallingen. Hieronder valt ook het labelen van (zwerf)fietsen. NS bepaalt daarnaast ook de tarieven (soms in overleg met anderen).
@@ -156,7 +156,7 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
    <td>Tweede fietsje aanhouden</td>
     <td>n.v.t. </td>
     <td>€ 8 </td>
-    <td>2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Fiets gaat 3 jaar mee en we gaan uit van gratis stallen bij het station.</td>
+    <td>2e handsfiets € 150, tweede slot € 30, jaarlijks onderhoud € 50. Uitgegaan van een fiets die 3 jaar mee gaat, en van gratis stallen bij het station.</td>
   </tr>
   <tr>
     <td>Donkey Republic</td>
@@ -174,44 +174,40 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <td>OV-fiets</td>
     <td>€ 4,80  </td>
     <td>€ 77</td>
-    <td>Maandbedrag bij 4 dagen werken per week</td>
+    <td>Maandbedrag bij een gebruik van 4 dagen per week</td>
   </tr>
    <tr>
     <td>Lime Utrecht</td>
     <td>€ 6 </td>
     <td>€ 96 </td>
-    <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026), basis van 15 minuten naar werk fietsen en weer terug, 4 daagse werkweek (*bij deze tarieven is een overheidsbijdrage van toepassing).</td>
+    <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026). Op basis van 15 minuten naar werk fietsen en weer terug in een 4 daagse werkweek (*bij deze tarieven is een overheidsbijdrage van toepassing).</td>
  </tr>
  <tr>
    <td>Felyx Delft</td>
     <td>€ 8,50 </td>
     <td>€ 136 </td>
-    <td>50 cent start + 25 cent per minuut. Op basis van 15 minuten naar werk fietsen en evenlang weer terug. 4 daagse werkweek, tarieven Delft.</td>
+    <td>50 cent starttarief + 25 cent per minuut (tarieven Delft feb 2026). Op basis van 15 minuten naar werk fietsen en weer terug in een 4 daagse werkweek. </td>
 </tr>
 <tr>
     <td>Lime Rotterdam</td>
     <td>€ 9,20 </td>
     <td>€ 147 </td>
-    <td>€ 1 start + 24 cent/min (tarieven Rotterdam feb 2026). Op basis van 15 minuten naar werk fietsen en weer evenlang terug, 4 daagse werkweek.</td>
+    <td>€ 1 starttarief + 24 cent per minuut (tarieven Rotterdam feb 2026). Op basis van 15 minuten naar werk fietsen en weer terug in een 4 daagse werkweek.</td>
 
   </tr>
   
 </table>
 
-Uit de tabel komt naar voren dat het aanhouden van een tweede fietsje verreweg de goedkoopste oplossing is voor de reiziger en waarschijnlijk ook het meeste gebruiksgemak geeft. Dit is logische verklaring dat veel mensen hier voor kiezen. Alleen Donkey republic komt qua maandprijs in de buurt. Dit beeld veranderd weinig als we van een gebruik van maar 3 keer per week uitgaan in plaats van 4.
+Uit de tabel komt naar voren dat het aanhouden van een tweede fietsje verreweg de goedkoopste oplossing is voor de reiziger en waarschijnlijk ook het meeste gebruiksgemak geeft. Dit is dan ook een logische verklaring waarom veel mensen hiervoor kiezen. Alleen Donkey republic komt qua maandprijs in de buurt. Ook verandet dit beeld weinig als we van een gebruik van maar 3 keer per week uitgaan in plaats van 4.
 
-Om de efficientie van de stalling te verhogen moet een verschuiving van tweede fiets richting deelfiets bevorderd worden. Uit de tabel blijkt dat partijen gezamenlijk kijken naar de optimale tariefhoogte (voor stallen en ddeelfietsgebruik) en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Valkuilen:
-- een lange gratis stallingsduur die het aanhouden van tweede fietsen aantrekkelijk maakt.
-- een te goedkoop jaarabonnement, waardoor mensen voordelig en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die nauwelijks gebruiken.
-- hoge deelfietstarieven, waardoor de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,80 euro per 24 uur).
-- te weinig ruimte voor andere deelfietsen die een laag tarief kennen bij frequent gebruik en een uitstekend alternatief zouden zijn voor de tweede fiets (Donkey Daily Rider kost 10,00 euro per maand).
-
-Deelfietsen moeten goedkoper -> Er is op dit moment maar 1 speler die een concurerend tarief biedt: Donkey Republic, die zou dan meer ruimte in de stalling moeten krijgen. Andere optie is tarieven verlagen met overheidsteun.  Andere richting si gartis stallen onmogelijk maken maar heeft grote risico's (massaal buiten stallen op voorplein, ontmoedigen fiets).
+Om de efficientie van de stalling te verhogen moet een verschuiving van tweede fiets richting deelfiets bevorderd worden. Uit de tabel blijkt dat partijen gezamenlijk kijken naar de optimale tariefhoogte (voor stallen en deelfietsgebruik) en regels rond stallingsduur, om zo optimaliseren op deelbelangen te voorkomen. Enkele valkuilen hierbij zijn:
+- Een (te) lange gratis stallingsduur maakt het aanhouden van tweede fietsen aantrekkelijk. Waarbij een te korte gratis stallingsduur fiets gebruik ontmoedigd. 
+- Een te goedkoop jaarabonnement, zorgt ervoor dat mensen voordelig en comfortabel een tweede fiets kunnen aanhouden, zelfs als ze die nauwelijks gebruiken.
+- Hoge deelfietstarieven, zorgen dat de deelfiets geen aantrekkelijk alternatief is voor de tweede fiets (OV-fiets kost in 2026 4,80 euro per 24 uur). Lagere tarieven zijn alleen niet altijd mogelijk of verreisen overheidssteun, zoals het eerder uitgelichte onderzoek een stadsbreed deelfietsensysteem al aantoonde. 
+- Er is te weinig ruimte voor andere deelfietsen die een laag tarief kennen bij frequent gebruik, en daarmee een uitstekend alternatief zouden zijn voor de tweede fiets (Donkey Daily Rider kost 10,00 euro per maand).
 
 <br>
-
-
-Om fietsenstallingen efficiënter te maken, zullen partijen moeten samenwerken door doelen, data en kennis te delen. Ook kunnen ze - ieder vanuit de eigen rol - gezamenlijk investeren in deelfietssystemen. Daarbij is het verstandig dat ze zich eerst op doelgroepen richten die relatief makkelijk de overstap op een deelfiets kunnen maken.
+Dit laat zien dat de het realiseren van efficientere stallingen niet altijd makkelijk is. Zo lang een tweede fiets aantrekkelijker blijft dan een deelfiets zal er weinig veranderen. Wel kunnen steeds goedkopere deelfietsen met mogelijke overheidsteun, in combinatie met aantrekkelijke stallingsplekken er al voor zorgen dat de deelfiets als beter alternatief gezien wordt. Daarnaast zullen partijen moeten samenwerken door doelen, data en kennis te delen. Ook kunnen ze - ieder vanuit de eigen rol - gezamenlijk investeren in deelfietssystemen. Daarbij is het verstandig dat ze zich eerst op doelgroepen richten die relatief makkelijk de overstap op een deelfiets kunnen maken.
 
 ## 4. Aanbevelingen: verkort stallingsduur en verhoog rendement
 Hoe we onze fietsen stallen en met welke regels, bepaalt vooral de doorlooptijd van de fietsen in een stalling. Hieronder de aanbevelingen van deze snelstudie (alle ▶ kun je uitklappen door erop te klikken).
@@ -225,14 +221,14 @@ De eerste 24 uur gratis stallen voorkomt het stallen van tweede fietsjes omdat d
 Met een jaarabbonement op de stalling is de reiziger voor een relatief laag bedrag verzekerd van een plekje gedurende het hele jaar. Er zit geen stimulans in de fiets ook regelmatig te gebruiken. Hoewel het voor de gebruiker een goede deal is, is het dat voor de overheid zeker niet: Het levert een slecht maatschappelijk rendement op.</details>
 <details><summary>Geef kortparkeerders de beste plekken (segmenteer dus naar stallingsduur)
 </summary>Het splitsen van de stalling in kort- en langparkeren kan de efficiëntie van het ‘beste deel’ van de stalling enorm verbeteren. Veel meer mensen kunnen dan de beste plekken (benedenrekken bij de ingang) gebruiken, terwijl langstallers wat meer hun best moeten doen (bovenrekken achterin). Dat biedt twee voordelen: veel meer stallers kunnen hun fiets (kort) op een handige plek zetten en lang stallen (vaak tweede fietsjes) wordt ontmoedigd. Voor de mooiste zone kan een kortere maximale parkeerduur gelden. Veel stallingen hebben fietsdetectie per plek waarmee handhaving van de maximale staltijd mogelijk is. Als er poortjes zijn voor in- en uitchecken, kun je bepaalde zones maximale (gratis) staltijd geven.</details>
-<details><summary>Beloon kort stallen (met koffie, koek, gratis OV-fiets, deelfietstegoed)
+<details><summary>Beloon kort stallen (gratis OV-fiets, deelfietstegoed, of met koffie en koek, )
 </summary>In plaats van langparkeerders te ‘straffen’ voor ongewenst gedrag, kunnen we kortparkeerders ‘belonen’ voor gewenst gedrag. Met gratis gebruik van of korting op deelfietsen zet je mensen aan het denken of lang stallen echt nodig is. Tegelijk kan belonen in de vorm van korting/gratis OV-fietsen leiden tot meer deelmobiliteit. Ook andere beloningen (gratis koffie of koek) kunnen helpen bij het verminderen van het aantal langstallers.
 .</details>
 <details><summary>Wees strenger op elektrische en buitenformaat fietsen
 </summary>Je kunt sturen op de tijd dat een fiets in de stalling staat, maar ook op de ruimte die een fiets in beslag neemt. Hoe meer buitenformaat fietsen in de stalling, hoe minder fietsen er in de stalling passen. In een ideaal scenario past elke fiets in het fietsenrek om zo de ruimte optimaal te benutten. Het sturen op het soort fietsen kan dus de efficiëntie bevorderen. Wanneer mensen weten dat het voordeliger is om met een ‘normale’ fiets naar de stalling te komen, kan dit de stijging van het aantal buitenformaat fietsen in stallingen tegengaan.
 .</details>
 <details><summary>Maak meer ruimte voor deelfietsen, juist ook voor andere deelfietsen dan OV-fiets
-</summary>Uit de studie blijkt dat deelfietsen efficient omspringen met de ruimte. Meer is dus beter. Andere deelfiets-proposities kunnen aantrekkelijker (flink voordeliger) zijn voor bepaalde doelgroepen. Maak daar ruimhaartig ruimte voor in de stalling.
+</summary>Uit de studie blijkt dat deelfietsen efficient omspringen met de ruimte. Meer is dus beter. Andere deelfiets-proposities kunnen aantrekkelijker (flink voordeliger) zijn voor bepaalde doelgroepen. Maak daar ruimhartig ruimte voor in de stalling.
 .</details>
 <details><summary>Laat mensen overstappen van tweede fiets naar deelfiets (meeste effect)
 </summary>Uit de analyse blijkt dat tweede fietsen het slechtste rendement hebben. Zelfs vier keer slechter dan een fiets vanaf huis. En deelfietsen komen qua rendement en efficiëntie bij het stallen als winnaar uit de bus. Doordat deelfietsen ‘van baasje wisselen’ staan ze het kortst van alle categorieën gestald. Laat mensen daarom overstappen van tweede fietsje naar deelfiets. Dit creëert het hoogste rendement in de stationsstallingen.</details>
@@ -256,7 +252,7 @@ OV-fiets heeft veel te bieden aan forensen, maar zij gebruiken de OV-fiets niet 
 <details><summary>4. Maak stallen tweede fietsje onaantrekkelijker (maar voorkom teveel pesten)</summary>
 Naast het aantrekkelijk maken van frequent deelfietsgebruik, zullen we het lang stallen van fietsen moeten ontmoedigen. Het aantrekkelijker maken van deelfietsen moet hand in hand gaan met het ontmoedigen van tweede fietsjes, want de combinatie fiets + OV willen we zeker niet ontmoedigen. Een gratis probeerabonnement van enkele maanden kan mensen over de streep trekken.</details>
 
-<p>De provincie Zuid-Holland heeft de afgelopen jaren al <a href="https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/deelmobiliteit-0/">flink sterk gemaakt om deelfietsen te stimuleren</a> na een reis per OV. Ook de komende jaren zet Zuid-Holland zich graag - samen met anderen - in voor een sprong in deelfietsgebruik. Om daarmee ook ruimte te creëren voor meer fietsers rond het station.</p>
+<p>De provincie Zuid-Holland heeft zich de afgelopen jaren al <a href="https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/deelmobiliteit-0/">flink sterk gemaakt om deelfietsen te stimuleren</a> na een reis per OV. Ook de komende jaren zet Zuid-Holland zich graag - samen met anderen - in voor een sprong in deelfietsgebruik. Om daarmee ook ruimte te creëren voor meer fietsers rond het station.</p>
 </div>
 <br>
 {% include klikblok.html
