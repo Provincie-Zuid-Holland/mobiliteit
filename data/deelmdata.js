@@ -80,7 +80,7 @@ var mapDonkeys = [
  { "titel":"Den Haag NOI" , "latlon": [52.0793300, 4.3430130] },
  { "titel":"Den Haag HS", "latlon": [52.069802324316655, 4.3224289683992785] },
  { "titel":"Den Haag Moerwijk", "latlon": [52.05492572618603, 4.308439237444782] },
- { "titel":"Schiedam" , "latlon":[51.92150381011887, 4.40851624766996] },
+ //{ "titel":"Schiedam" , "latlon":[51.92150381011887, 4.40851624766996] },
  //{ "titel":"Rotterdam CS", "latlon":[51.9228244,4.469580] },
   { "titel":"Den Haag CS Anna vB", "latlon": [52.0803275593331, 4.326528744281359] },
   { "titel":"Den Haag CS Turfmarkt", "latlon": [52.079779516932355, 4.32222784612741] },
