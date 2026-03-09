@@ -142,17 +142,6 @@ const data = {
 
           },           
           
-        
-        
-
-          { 
-            session: "14", 
-            title: "Laboratorium verantwoorde mobiliteit - kansen voor samenwerking", 
-            details: "Het Laboratorium verantwoorde mobiliteit is een groep Masterstudenten én recentelijk afgestudeerden uit heel Nederland die affiniteit hebben met duurzame mobiliteit. En ze werken graag samen met overheden en bedrijven. Zo doet provincie Zuid-Holland momenteel snelstudie De kracht van nabijheid samen met hen. In deze sessie wordt gekeken naar kansen voor samenwerking met jouw organisatie!.<BR><BR>![|max-height: 250px](https://labverantwoordemobiliteit.nl/wp-content/uploads/2021/12/vehicle-g85ba907a4_1920.jpg)",            
-            spreker: " Felix Marseille & teamgenoten", 
-
-          },  
-          
   
           { 
             session: "15", 
@@ -183,12 +172,7 @@ const data = {
             details: " ",
             spreker: "Stefan de Konink en anderen van OpenOV", 
           }, 
-          { 
-            session: "22", 
-            title: "jouw sessie.... Meld je aan!", 
-            details: " ",
-            spreker: "Jij!", 
-          }, 
+
 
 
 
