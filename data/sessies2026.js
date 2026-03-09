@@ -101,9 +101,9 @@ const data = {
 
         { 
             session: "2", 
-            title: "Rijkswaterstaat  met toekomst hoofdwegennet", 
-            details: "....", 
-            spreker: "Joop Kokje, Rijkswaterstaat ", 
+            title: "Rijkswaterstaat  Toekomstperspectief Hoofdwegennet", 
+            details: "Het Hoofdwegennet (HWN) staat steeds meer onder druk door intensief gebruik, veroudering van de infrastructuur, schaarste aan ruimte en financiële middelen, stikstofbeperkingen en opgaven als woningbouw en klimaat. Uitbreiding van het HWN is niet meer vanzelfsprekend.<br>Het Toekomstperspectief Hoofdwegennet (TP HWN) brengt de veelheid aan opgaven rond het hoofdwegennet integraal in kaart, geeft prioriteiten, fasering en mogelijke aanpak in samenhang met andere vervoermiddelen, netwerken en ruimtelijke ontwikkelingen. <br>Het TP HWN is onderdeel van de Ontwerp Nota Ruimte en de Mobiliteitsvisie 2050. Regionaal wordt het gebruikt in het programma MoVe in de Zuidelijke Randstad en voor nieuwe ontwikkelingen als Bus Rapid Transit en zelfrijdend vervoer. Het HWN is van (inter)nationaal en interregionaal belang, maar heeft ook een belangrijke regionale functie en is een wezenlijk onderdeel van veel stedelijke wegennetwerken. Vaak meerdere tegelijk. De functies bepalen welke kwaliteit waar gevraagd wordt van de weg én van de omgeving. Dit helpt antwoord geven op vragen als: -	Waar is bouwen nabij de snelweg mogelijk en waar niet? -	Waar is capaciteitsvergroting een optie en waar niet? -	Waar is een hub met overstap naar OV en fiets effectief en waar niet? -	Waar staat de veiligheid onder druk? Topadviseur Mobiliteit Martin Guit en regionaal adviseur Igor Heller gaan met u in gesprek over de toekomst van het hoofdwegennet als onderdeel van de ruimtelijke ontwikkeling in Zuid-Holland",
+            spreker: "Martin Guit en Igor Heller (Rijkswaterstaat)", 
             mouseover: "Het loopt allemaal 🙂 "
           },
 
