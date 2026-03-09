@@ -4,13 +4,19 @@ const data = {
                   { 
             session: "7", 
             title: "Samenwerken in Virual Reality (Met de VR bril door Valkenhorst) - Hele middag", 
-            details: "In deze virtuele omgeving van het project Valkenhorst kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
+            details: "In deze virtuele omgeving van een groot woningbouw project (Valkenhorst nabij Leiden en Katwijk) kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
             spreker: "Luuk Czudowski"
           },         
-         
- 
+                        { 
+            session: "7", 
+            title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike", 
+            details: "....", 
+            zaal: "Tuinzaal (bij koffie & borrel)", 
+            tijd: "Hele middag vanaf 14:30 uur", 
+            spreker: "..."
+          },  
  
         { 
             session: "2", 
@@ -24,7 +30,7 @@ const data = {
           session: "100", 
           title: "Tien kansen voor bereikbaarheid", 
           details: "Laat je bijpraten en denk mee over de laatste slag van deze overkoepelende snelstudie",
-          spreker: "Ronald Haverman en Sean van der Lee, provincie Zuid-Holland", 
+          spreker: "Ronald Haverman en Sean van der Lee", 
           mouseover: "wordt interessant!"
         }, 
 
@@ -52,8 +58,8 @@ const data = {
          { 
           session: "102", 
           title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde", 
-          details: "Het Verplaatsings- en bestedingenonderzoek 2024 brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van ruim 27.000 enquêtes in 37 centra in Nederland en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank) <br> <br> ![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
-           spreker: "Marco Duijnisveld (Movares)"
+          details: "Het Verplaatsings- en bestedingenonderzoek 2025 (en haar voorgaande edities) brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van onderzoek in bijna 50 centra in Nederland (waaronder 10 in Zuid Holland) en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. Specifiek zullen we ingaan op enkele conclusies en bevindingen voor het centrum van Den Haag.Voor meer info: .	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank) <br> <br> ![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
+           spreker: "Marco Duijnisveld (Movares) en met Rina Adriani (Den Haag)"
         },     
              { 
           session: "102", 
@@ -132,15 +138,7 @@ const data = {
             title: "Oranje deelfietsen van Donkey Republick In Zuid-Holland", 
             details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republick is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.",     
             spreker: "Stijn van der Sluis, Donkey Republick", 
-          },
-          { 
-            session: "12", 
-            title: "Subsidie voor duurzame en schone infrastructuur is vernieuwd.", 
-            details: "Dit gaat over Duurzame infrastructuur (energietransitie infrastructuur) en kunnen gemeenten aanvragen. Kunnen we hier in het plenaire deel wat over zeggen? Twee regels is genoeg. Energietransitie infrastructuur (§ 2.2.3 SRM) - Provincie Zuid-Holland De provincie Zuid-Holland wil dat de infrastructuur zo duurzaam en schoon mogelijk is. We hebben het dan over infrastructuur over de weg, over het spoor en over water. Wil je aan de slag met duurzame en schone keuzes in infrastructuur? Beheer je wegen of heb je toestemming van een beheerder om activiteiten uit te voeren? Dan kun je een aanvraag doen voor de subsidie Energietransitie infrastructuur.<br> Je kunt subsidie krijgen voor activiteiten die de infrastructuur duurzamer en schoner maken. Je kunt subsidie krijgen voor maximaal 80% van de kosten die je maakt. We geven niet meer subsidie dan € 300.000.", 
-            spreker: "Provincie Zuid-Holland", 
-
-
-          },           
+          },        
           
   
           { 

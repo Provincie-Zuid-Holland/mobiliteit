@@ -20,8 +20,7 @@ Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. E
 - Wie zitten er in je zaaltje? De doelgroep zijn beleidsmakers in Zuid-Holland. Denk aan ambtenaren van rijk, gemeenten, provincie. Aangevuld met mensen van consultants en andere organisaties. 
 - De zaaltjes verschillen in grootte. Denk aan maximaal 20 personen. Er zijn ook een paar grote zalen (zoals de evenementenhal).
 - We gaan ervan uit dat iedere sessie één keer gegeven wordt (dan heb je zelf ook gelegenheid naar andere sessie te gaan).Tijden en zalen vullen we nog in. Laat ons weten als je restricties hebt qua tijden.
-- In het plenaire programma willen we alle sessies kort voorbij laten komen. Denk aan 30 seconden á 1 minuut. Grijp je kans om de hele zaal uit te leggen dat ze jouw sessie niet mogen missen! Dat zal net als vorig jaar wel een soort wervelstorm worden. Daarom geven we jullie vooraf de volgorde door en zullen we jullie vragen alvast naar voren te komen.
-- Voor het plenaire gedeelte genereren we voor iedere sessie 1 slide. We gebruiken daar de informatie uit het blokkenschema voor (titel, spreker, tijd, zaal, afbeelding). Zorg dus dat dat correct is.
+- In het plenaire programma laten we een slide zien van iedere sessie.  We gebruiken daar de informatie uit het blokkenschema voor (titel, spreker, tijd, zaal, afbeelding). Zorg dus dat die info correct is. Helaas kunnen we niet iedereen het woord geven maar zullen we een paar sessies eruit pikken om een vraag over te stellen.
 
 ## Over de parallel-sessies
 
