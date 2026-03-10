@@ -13,6 +13,7 @@ const data = {
             session: "7", 
             title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike", 
             details: "....", 
+             rechts : "![|max-height: 250px](img//3Dtrippingbike.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
             spreker: "..."
@@ -38,24 +39,33 @@ const data = {
       { 
           session: "101", 
           title: "Bereikaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
-          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ![|max-height: 250px](img/Bereikbaaheid op peil.png) ", 
+          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ", 
+          rechts : "![|max-height: 250px](img/Bereikbaaheid op peil.png) ",
            spreker: "Johan Weggeman, Ministerie IenW"
         },      
          { 
           session: "102", 
           title: "Nabijheid als sturend principe voor de ideale wijk", 
-          details: "Stel je eens voor, een nieuwe wijk waar de nabijheid centraal staat en waar veel met een kwartiertje wandelen of fietsen te bereiken is. Hoe zou zo’n wijk eruit zien? Welke kansen zijn er om hier extra veel woningen te realiseren waar momenteel veel vraag naar is? In deze snelstudie kijken we een woningbouwlocaties die we in Zuid-Holland op het oog hebben toekomstgericht ingevuld kan worden door de principes van nabijheid, lopen en fietsen en ov als uitgangspunt te nemen. <br><br>Snelstudie in samenwerking met Haagse Hogeschool en Laboratorium verantwoorde mobiliteit.<br><br> ![|max-height: 250px](snelstudie/img/fietswijk.jpg)",
+          details: "Stel je eens voor, een nieuwe wijk waar de nabijheid centraal staat en waar veel met een kwartiertje wandelen of fietsen te bereiken is. Hoe zou zo’n wijk eruit zien? Welke kansen zijn er om hier extra veel woningen te realiseren waar momenteel veel vraag naar is? In deze snelstudie kijken we een woningbouwlocaties die we in Zuid-Holland op het oog hebben toekomstgericht ingevuld kan worden door de principes van nabijheid, lopen en fietsen en ov als uitgangspunt te nemen. <br><br>Snelstudie in samenwerking met Haagse Hogeschool en Laboratorium verantwoorde mobiliteit.", 
+          rechts : "![|max-height: 250px](snelstudie/img/fietswijk.jpg)",
           spreker: "Timothy Meijer en Ruben Mossel"
         }, 
   
          { 
           session: "102", 
           title: "Fietsstimulerings app Da's zo gefietst", 
-          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).<br><br>  ![|max-height: 250px](img/daszogefietst.png)",
+          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
+          rechts : "![|max-height: 250px](img/daszogefietst.png)",
           spreker: "Marloes Nonnekes"
         }, 
 
-
+      { 
+          session: "102", 
+          title: "Dremplevrij rij je soepel met de bus", 
+          details: "Goed openbaar vervoer is betrouwbaar, snel, comfortabel en toegankelijk. Maar te vaak zorgt een te krappe weginrichting voor vertraging, zorgen verkeersdrempels dat reizigers niet comfortabel zitten en zijn haltes niet voldoende toegankelijk. Daarom willen we samen met wegbeheerders kijken naar hoe we busroutes wél aantrekkelijk kunnen maken, en welke stappen we nog moeten zetten naar toegankelijke haltes. Kees en Mick nemen je mee in enkele bad- en good practices, en gaan graag met jullie in discussie over hoe we de samen toewerken naar het aantrekkelijkste OV van Nederland", 
+          rechts : "![|max-height: 250px](img/rnet-bus-06.png)",
+          spreker: "Mick van der Steeg"
+        }, 
   
           { 
             session: "15", 
@@ -70,7 +80,8 @@ const data = {
          { 
           session: "102", 
           title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde", 
-          details: "Het Verplaatsings- en bestedingenonderzoek 2025 (en haar voorgaande edities) brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van onderzoek in bijna 50 centra in Nederland (waaronder 10 in Zuid Holland) en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. Specifiek zullen we ingaan op enkele conclusies en bevindingen voor het centrum van Den Haag.Voor meer info: .	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank) <br> <br> ![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
+          details: "Het Verplaatsings- en bestedingenonderzoek 2025 (en haar voorgaande edities) brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van onderzoek in bijna 50 centra in Nederland (waaronder 10 in Zuid Holland) en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. Specifiek zullen we ingaan op enkele conclusies en bevindingen voor het centrum van Den Haag.Voor meer info: .	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank)", 
+          rechts : "![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
            spreker: "Marco Duijnisveld (Movares) en met Rina Adriani (Den Haag)"
         },     
              { 
@@ -82,7 +93,8 @@ const data = {
      { 
           session: "102", 
           title: "One size fi(e)ts all? Fietsparkeeroplossingen voor Delft", 
-          details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.<br><br> ![|max-height: 250px](img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg)  ",
+          details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.", 
+          rechts : "![|max-height: 250px](img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg)  ",
           spreker: "Nao Steenmetz (Movares)"
         }, 
 
@@ -90,14 +102,16 @@ const data = {
         { 
           session: "102", 
           title: "ANWB Automaatje, de prima service voor mensen die niet meer zelf kunnen rijden", 
-          details: "ANWB Automaatje is een service voor mensen die niet meer zelf kunnen rijden. De service biedt hulp bij het vervoer naar en van het ziekenhuis, het werk of andere activiteiten.<br>[site Automaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje _blank) <br><br>  ![|max-height: 250px](img/anwb-automaatje.jpg) ",
+          details: "ANWB Automaatje is een service voor mensen die niet meer zelf kunnen rijden. De service biedt hulp bij het vervoer naar en van het ziekenhuis, het werk of andere activiteiten.<br>[site Automaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje _blank)", 
+          rechts : "![|max-height: 250px](img/anwb-automaatje.jpg) ",
           spreker: "ANWB Automaatje"
         }, 
 
                  { 
             session: "17", 
             title: "Samen werken & samen rijden (carpoolen) met Nabogo", 
-            details: "Tobias van Muijden van [Nabogo](https://nabogo.com/nl/), verkent in zijn sessie hoe ketenreizen het combineren van verschillende vervoersmiddelen en het bieden van extra mobiliteitsopties bijdragen aan het oplossen van de groeiende mobiliteitsuitdagingen in Nederland, zoals mobiliteitsarmoede, files en parkeerproblemen. Hij benadrukt de kracht van samenwerking tussen vervoerders, overheden en technologiepartners, met als voorbeeld de samenwerking tussen Nabogo en Qbuzz.<BR><BR>![|max-height: 250px](https://nabogo.com/wp-content/uploads/2022/11/Group-22-min.png)", 
+            details: "Tobias van Muijden van [Nabogo](https://nabogo.com/nl/), verkent in zijn sessie hoe ketenreizen het combineren van verschillende vervoersmiddelen en het bieden van extra mobiliteitsopties bijdragen aan het oplossen van de groeiende mobiliteitsuitdagingen in Nederland, zoals mobiliteitsarmoede, files en parkeerproblemen. Hij benadrukt de kracht van samenwerking tussen vervoerders, overheden en technologiepartners, met als voorbeeld de samenwerking tussen Nabogo en Qbuzz.", 
+          rechts : "![|max-height: 250px](https://nabogo.com/wp-content/uploads/2022/11/Group-22-min.png)", 
             spreker: "Tobias van Muijden (Nabogo)", 
              
           }, 
@@ -112,7 +126,8 @@ const data = {
         { 
             session: "2", 
             title: "Gezond (en omgekeerd 🙂) ontwerpen van wijken", 
-            details: "Wat betekent het als we gezondheid leidend laten zijn in stedelijke ontwikkeling? Aan de hand van zes Zuid-Hollandse projecten. Zie [Bouwen aan een gezonde, toekomstbestendige leefomgeving](https://storymaps.arcgis.com/stories/15d0019ae9214b5282e9fbac67f0b2a8) en de Amerikaanse aanpak van [Strong Towns](https://www.strongtowns.org/) wordt de centrale rol van mobiliteit in gezonde stedelijke ontwikkeling toegelicht.<BR><BR>![|max-height: 250px](img/strongTowns.png)",  
+            details: "Wat betekent het als we gezondheid leidend laten zijn in stedelijke ontwikkeling? Aan de hand van zes Zuid-Hollandse projecten. Zie [Bouwen aan een gezonde, toekomstbestendige leefomgeving](https://storymaps.arcgis.com/stories/15d0019ae9214b5282e9fbac67f0b2a8) en de Amerikaanse aanpak van [Strong Towns](https://www.strongtowns.org/) wordt de centrale rol van mobiliteit in gezonde stedelijke ontwikkeling toegelicht.", 
+          rechts : "![|max-height: 250px](img/strongTowns.png)",  
             spreker: " Lucas van der Velden", 
             mouseover: "Het loopt allemaal 🙂 "
           },
@@ -129,7 +144,8 @@ const data = {
           { 
             session: "3", 
             title: "Zuid-Holland: Ga gewoon fietsen!", 
-            details: "[Snelstudie Zuid-Holland; Ga gewoon Fietsen](https://kennis.zuid-holland.nl/fiets/) <br><br>Meer info volgt<BR><BR>![|max-height: 250px](img/scholierenroutes.png)", 
+            details: "[Snelstudie Zuid-Holland; Ga gewoon Fietsen](https://kennis.zuid-holland.nl/fiets/) <br><br>Meer info volgt", 
+          rechts : "![|max-height: 250px](img/scholierenroutes.png)", 
             spreker: "Wiesje Hofstede", 
             back : "img/scholierenroutes.png"
           }, 
@@ -139,7 +155,8 @@ const data = {
           { 
             session: "23", 
             title: "Bakfietsen om te delen en om eten mee te bezorgen", 
-            details: "...    [Website van Deelfiets Nederland](https://www.deelfietsnederland.nl/) <br><br> ![|max-height: 250px](https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg)", 
+            details: "...    [Website van Deelfiets Nederland](https://www.deelfietsnederland.nl/)", 
+          rechts : " ![|max-height: 250px](https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg)", 
             zaal: "", 
             spreker: "Oumar Sylla (van Deelfiets Nederland)", 
             tijd: "",           

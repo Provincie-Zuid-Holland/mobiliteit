@@ -107,8 +107,32 @@
   border: 2px solid black !important;
 }
 
+#popupContent {
+    display: flex;
+    gap: 20px;
+}
 
+.popup-left {
+    flex: 1;
+}
 
+.popup-right {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#immage {
+    max-width: 100%;
+    height: auto;
+}
+/* Smartphone / smalle schermen */
+@media (max-width: 600px) {
+    #popupContent {
+        flex-direction: column;
+    }
+}
 
   </style>
 </head>
@@ -192,11 +216,17 @@
   <div id="overlay"></div>
   <div class="popup" id="sessionPopup">
     <h2 id="popupTitle"></h2>
-    <p id="popupTimeContainer"><strong>Tijd:</strong> <span id="popupTime"></span> <strong>Zaal:</strong>  <span id="popupRoom"></span></p>
-    <p id="popupRoomContainer"> </p>
-    <p id="popupSpeakerContainer"><strong>Spreker:</strong> <span id="popupSpeaker"></span></p>
-    <p id="popupDetails"></p>
-
+    <div id="popupContent">
+      <div class="popup-left">
+              <p id="popupTimeContainer"><strong>Tijd:</strong> <span id="popupTime"></span> <strong>Zaal:</strong>  <span id="popupRoom"></span></p>
+              <p id="popupRoomContainer"> </p>
+              <p id="popupSpeakerContainer"><strong>Spreker:</strong> <span id="popupSpeaker"></span></p>
+              <p id="popupDetails"></p>
+          </div>
+      <div class="popup-right">
+        <p id="popupRechts"></p>
+      </div>
+    </div>   
     <span class="close" onclick="closePopup()">Sluiten</span>
   </div>
 
@@ -287,9 +317,11 @@
     // Functie om de pop-up te tonen
     function showPopup(session) {
       sessieHTML = parse(session.details)
-  
+      if (session.rechts) { sessieHTMLrechts =   parse(session.rechts)} else {sessieHTMLrechts = ""}  
+
       document.getElementById('popupTitle').textContent = session.title;
       document.getElementById('popupDetails').innerHTML = sessieHTML;
+      document.getElementById('popupRechts').innerHTML = sessieHTMLrechts;
 
       document.getElementById('popupTimeContainer').style.display = session.tijd ? 'block' : 'none';
       document.getElementById('popupTime').textContent = session.tijd || '';
