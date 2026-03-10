@@ -34,7 +34,14 @@ const data = {
           spreker: "Ronald Haverman en Sean van der Lee", 
           mouseover: "wordt interessant!"
         }, 
-
+      { 
+          session: "100", 
+          title: "Novex Rotterdamse Haven en gebiedsgericht werken", 
+          details: "Rijksoverheid, regionale overheden en private partijen werken samen in het programma NOVEX Rotterdamse haven om de haven sterk en toekomstbestendig te houden. De provincie Zuid-Holland is één van de initiatiefnemers en MRDH is sinds 2024 betrokken. Om een sterke haven te kunnen blijven, richt de NOVEX-samenwerking zich op drie doelen:<ul><li>Transitie van de haven</li><li>Krachtige metropoolregio</li><li>Balans met de leefomgeving</li></ul> In deze netwerksamenwerking werkt elke partij vanuit zijn eigen kracht aan de gezamenlijke doelen voor de toekomst van dit gebied. Tijdens de workshop lichten we kort toe waar we nu staan en waarom we gebiedsgericht werken van belang vinden. Daarnaast horen we graag van de deelnemers hoe zij aankijken tegen de ontwikkeling van de Rotterdamse haven en wat zij van belang vinden voor de toekomstbestendige ontwikkeling. Zie verder [Novex Rotterdamse Haven](https://novexrotterdamsehaven.nl",
+          rechts : "![|max-height: 250px](img/Havenvisie.jpg) ",
+          spreker: "Joni Braas (MRDH)", 
+          mouseover: "wordt interessant!"
+        }, 
 
       { 
           session: "101", 
@@ -53,8 +60,8 @@ const data = {
   
          { 
           session: "102", 
-          title: "Fietsstimulerings app Da's zo gefietst", 
-          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
+          title: "Hoe jij mee kunt bouwen aan het laadnetwerk van morgen", 
+          details: "De Regionale Aanpak Laadinfrastructuur (RAL) Zuidwest bouwt aan een dekkend laadnetwerk langs de belangrijkste wegtrajecten in onze regio, speciaal gericht op logistieke voertuigen. Dit doen we **samen** met gemeenten, omdat juist op lokaal niveau de ruimte, vergunningen en de koppeling met gebiedsontwikkeling worden bepaald. Met ons uitvoeringsplan corridorladen stemmen we alle initiatieven in Zuid-Holland en Zeeland op elkaar af. Zo zorgen we ervoor dat zware vrachtwagens en bakwagens ook langs de hoofdwegen en in logistieke knooppunten kunnen laden. Dat geeft een impuls aan zero-emissietransport én helpt lokale ondernemers, vervoerders en uitvoerders van emissievrije bouwprojecten vooruit.<br><br><ul><li>Zero-emissie transport is de toekomst, en met een goed dekkend laadnetwerk maken we dit mogelijk voor zware vrachtwagens en bakwagens.</li><li>Gemeenten zijn onmisbaar: Jullie bepalen de locaties, vergunningen en koppeling met gebiedsontwikkeling. Samen zorgen we voor een netwerk dat echt werkt.</li><li>•	Samenwerking loont: Door initiatieven in Zuid-Holland en Zeeland op elkaar af te stemmen, creëren we een krachtig en toekomstbestendig laadnetwerk.</li></ul>", 
           rechts : "![|max-height: 250px](img/daszogefietst.png)",
           spreker: "Marloes Nonnekes"
         }, 
@@ -86,9 +93,10 @@ const data = {
         },     
              { 
           session: "102", 
-          title: "De spoorlijn Leiden Dordrecht (oude lijn) en vastgoed ontwikkelingen", 
-          details: "De spoorlijn Leiden-Dordrecht, ook wel de 'oude lijn' genoemd, is een belangrijke verbinding in Zuid-Holland. In deze sessie bespreken we de huidige staat van de spoorlijn, de geplande verbeteringen en de impact op vastgoedontwikkelingen langs deze corridor. We kijken naar kansen voor woningbouw, kantoren en andere functies die kunnen profiteren van de verbeterde bereikbaarheid en hoe dit bijdraagt aan de regionale economie en leefbaarheid. <br><br> ",
-          spreker: ".."
+          title: "De spoorlijn Leiden Dordrecht (oude lijn) als motor voor toekomstgerichte ontwikkeling", 
+          details: "De spoorlijn Leiden-Dordrecht, ook wel de 'oude lijn' genoemd, is een belangrijke verbinding in Zuid-Holland. In deze sessie bespreken we de geplande verbeteringen en de impact voor de toekomst. Zie ook [MIRT-verkenning Oude Lijn & MIRT overzicht ](https://www.mirtoverzicht.nl/lopende-mirt-projecten/mirt-verkenning-oude-lijn)",
+          rechts : "![|max-height: 250px](img/oudelijn.jpg)",
+          spreker: "Reena Imandi-Bhola, Marcel Bus, Roeland Schmidt"
         }, 
      { 
           session: "102", 
@@ -107,6 +115,13 @@ const data = {
           spreker: "ANWB Automaatje"
         }, 
 
+        { 
+          session: "102", 
+          title: "Publieke mobiliteit. Je hoort het overal, maar wat is er voor nodig?", 
+          details: "[ In de mobiliteitswereld hoor je het overal: publieke mobiliteit. Een systeemverandering via integratie van verschillende vervoersvormen en domeinen. Maar wat is het precies? Waarom doen we het? En wat is ervoor nodig? Tijdens deze workshop gaan we daarover in gesprek. ", 
+          rechts : "![|max-height: 250px](/mobiliteit/kansen/img/ipo-dova_praatplaat_publieke_mobiliteit.jpg) ",
+          spreker: "Claudia de Koning (MRDH"
+        }, 
                  { 
             session: "17", 
             title: "Samen werken & samen rijden (carpoolen) met Nabogo", 
@@ -120,7 +135,8 @@ const data = {
         { 
           session: "1", 
           title: "De Vlietlijn; waar regionale bereikbaarheid en stadsontwikkeling samenkomen", 
-          details: "De Binckhorst verandert in hoog tempo van een bedrijventerrein in een dynamische stadswijk waar de komende jaren duizenden nieuwe woningen worden gebouwd. Tot 2040 groeien het Central Innovation District (CID) en de Binckhorst samen door naar maar liefst 25.000 extra woningen en 30.000 nieuwe banen. Deze verstedelijking maakt het gebied een van de meest ambitieuze binnenstedelijke ontwikkellocaties van Nederland. <br>Maar groei vraagt om slimme keuzes. Want met meer inwoners, meer werkplekken en meer beweging in de stad ontstaat een steeds grotere druk op de bestaande infrastructuur. Juist daarom is de Vlietlijn essentieel. <br>De Vlietlijn wordt een snelle, hoogwaardige tramverbinding tussen Den Haag, Rijswijk en Leidschendam-Voorburg. De lijn loopt dwars door de Binckhorst en vormt daarmee een directe schakel tussen nieuwe woonwijken, werkgebieden en OV-knooppunten. Reizigers bewegen straks comfortabel, veilig en snel door de regio, met haltes die precies aansluiten op de nieuwe stedelijke ontwikkelgebieden. <br>Voor de Binckhorst is de Vlietlijn meer dan een vervoersmiddel. Het is een voorwaarde voor verdere groei. De tram maakt een autoluwe, leefbare en groeiende stadswijk mogelijk en faciliteert directe verbindingen met Den Haag Centraal, Voorburg en Rijswijk. Voor een regio die de komende jaren fors groeit – in inwoners, woningen én banen – is de Vlietlijn een duurzame en toekomstbestendige oplossing.<br>Bij het project zijn het Ministerie van I&W, het Ministerie van Binnenlandse Zaken & Koninkrijksrelaties, de gemeente Den Haag, de gemeente Leidschendam-Voorburg, de gemeente Rijswijk, de Provincie Zuid-Holland, MRDH en HTM betrokken.", 
+          details: "De Binckhorst verandert in hoog tempo van een bedrijventerrein in een dynamische stadswijk waar de komende jaren duizenden nieuwe woningen worden gebouwd. Tot 2040 groeien het Central Innovation District (CID) en de Binckhorst samen door naar maar liefst 25.000 extra woningen en 30.000 nieuwe banen. Deze verstedelijking maakt het gebied een van de meest ambitieuze binnenstedelijke ontwikkellocaties van Nederland. <br>Maar groei vraagt om slimme keuzes. Want met meer inwoners, meer werkplekken en meer beweging in de stad ontstaat een steeds grotere druk op de bestaande infrastructuur. Juist daarom is de Vlietlijn essentieel. <br>De Vlietlijn wordt een snelle, hoogwaardige tramverbinding tussen Den Haag, Rijswijk en Leidschendam-Voorburg. De lijn loopt dwars door de Binckhorst en vormt daarmee een directe schakel tussen nieuwe woonwijken, werkgebieden en OV-knooppunten. Reizigers bewegen straks comfortabel, veilig en snel door de regio, met haltes die precies aansluiten op de nieuwe stedelijke ontwikkelgebieden. <br>Voor de Binckhorst is de Vlietlijn meer dan een vervoersmiddel. Het is een voorwaarde voor verdere groei. De tram maakt een autoluwe, leefbare en groeiende stadswijk mogelijk en faciliteert directe verbindingen met Den Haag Centraal, Voorburg en Rijswijk. Voor een regio die de komende jaren fors groeit – in inwoners, woningen én banen – is de Vlietlijn een duurzame en toekomstbestendige oplossing.<br>Bij het project zijn het Ministerie van I&W, het Ministerie van Binnenlandse Zaken & Koninkrijksrelaties, de gemeente Den Haag, de gemeente Leidschendam-Voorburg, de gemeente Rijswijk, de Provincie Zuid-Holland, MRDH en HTM betrokken. Zie ook [De Vlietlijn](https://www.devlietlijn.nl/)", 
+          rechts : "![|max-height: 250px](img/vlietlijn.jpg)",          
           spreker: "Maarten Batenburg (MRDH), Matthias van Aalst (HTM)"
         },
         { 
@@ -143,10 +159,10 @@ const data = {
 
           { 
             session: "3", 
-            title: "Zuid-Holland: Ga gewoon fietsen!", 
-            details: "[Snelstudie Zuid-Holland; Ga gewoon Fietsen](https://kennis.zuid-holland.nl/fiets/) <br><br>Meer info volgt", 
+            title: "Op de fiets voor vitale steden en dorpen", 
+            details: "Denk mee, deel uw ervaring en laat u inspireren over de rol van de fiets in Zuid-Holland. Goede bereikbaarheid is belangrijk voor vitale steden en dorpen. In Zuid-Holland staat die bereikbaarheid onder druk. Dat heeft ook gevolgen voor de grote woningbouwopgave: tot 2030 moeten er 230.000 woningen bijkomen. De vraag is: wat kan de fiets hieraan bijdragen? De fiets kan zorgen voor betere bereikbaarheid, zeker op korte afstanden. Wij werken aan nieuw provinciaal fietsbeleid. Daarbij richten we ons op belangrijke bouwstenen, zoals doorfietsroutes, fietsveiligheid en goede fietsparkeervoorzieningen. ", 
           rechts : "![|max-height: 250px](img/scholierenroutes.png)", 
-            spreker: "Wiesje Hofstede", 
+            spreker: "Wiesje Hofstede en Ron van Noortwijk", 
             back : "img/scholierenroutes.png"
           }, 
 
@@ -194,7 +210,13 @@ const data = {
             spreker: "Stefan de Konink en anderen van OpenOV", 
           }, 
 
-
+       { 
+          session: "102", 
+          title: "Fietsstimulerings app Da's zo gefietst", 
+          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
+          rechts : "![|max-height: 250px](img/daszogefietst.png)",
+          spreker: "Marloes Nonnekes"
+        }, 
 
 
         null
