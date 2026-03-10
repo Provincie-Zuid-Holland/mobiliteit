@@ -12,11 +12,11 @@ const data = {
                         { 
             session: "7", 
             title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike", 
-            details: "....", 
+            details: "Durf jij het aan om te kijken wat er gebeurt als jij gaat appen of bellen tijdens het fietsen? Of flink drinken voor je opstapt? Op een veilige manier kan jij tijdens deze campagne in onze fietssimulator ervaren wat de risico’s zijn.", 
              rechts : "![|max-height: 250px](img//3Dtrippingbike.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
-            spreker: "..."
+            spreker: "Responsible Young Drivers",
           },  
  
         { 
@@ -61,7 +61,7 @@ const data = {
 
       { 
           session: "102", 
-          title: "Dremplevrij rij je soepel met de bus", 
+          title: "Drempelvrij rij je soepel met de bus", 
           details: "Goed openbaar vervoer is betrouwbaar, snel, comfortabel en toegankelijk. Maar te vaak zorgt een te krappe weginrichting voor vertraging, zorgen verkeersdrempels dat reizigers niet comfortabel zitten en zijn haltes niet voldoende toegankelijk. Daarom willen we samen met wegbeheerders kijken naar hoe we busroutes wél aantrekkelijk kunnen maken, en welke stappen we nog moeten zetten naar toegankelijke haltes. Kees en Mick nemen je mee in enkele bad- en good practices, en gaan graag met jullie in discussie over hoe we de samen toewerken naar het aantrekkelijkste OV van Nederland", 
           rechts : "![|max-height: 250px](img/rnet-bus-06.png)",
           spreker: "Mick van der Steeg"
@@ -135,7 +135,7 @@ const data = {
         { 
             session: "2", 
             title: "Rijkswaterstaat  Toekomstperspectief Hoofdwegennet", 
-            details: "Het Hoofdwegennet (HWN) staat steeds meer onder druk door intensief gebruik, veroudering van de infrastructuur, schaarste aan ruimte en financiële middelen, stikstofbeperkingen en opgaven als woningbouw en klimaat. Uitbreiding van het HWN is niet meer vanzelfsprekend.<br>Het Toekomstperspectief Hoofdwegennet (TP HWN) brengt de veelheid aan opgaven rond het hoofdwegennet integraal in kaart, geeft prioriteiten, fasering en mogelijke aanpak in samenhang met andere vervoermiddelen, netwerken en ruimtelijke ontwikkelingen. <br>Het TP HWN is onderdeel van de Ontwerp Nota Ruimte en de Mobiliteitsvisie 2050. Regionaal wordt het gebruikt in het programma MoVe in de Zuidelijke Randstad en voor nieuwe ontwikkelingen als Bus Rapid Transit en zelfrijdend vervoer. Het HWN is van (inter)nationaal en interregionaal belang, maar heeft ook een belangrijke regionale functie en is een wezenlijk onderdeel van veel stedelijke wegennetwerken. Vaak meerdere tegelijk. De functies bepalen welke kwaliteit waar gevraagd wordt van de weg én van de omgeving. Dit helpt antwoord geven op vragen als: -	Waar is bouwen nabij de snelweg mogelijk en waar niet? -	Waar is capaciteitsvergroting een optie en waar niet? -	Waar is een hub met overstap naar OV en fiets effectief en waar niet? -	Waar staat de veiligheid onder druk? Topadviseur Mobiliteit Martin Guit en regionaal adviseur Igor Heller gaan met u in gesprek over de toekomst van het hoofdwegennet als onderdeel van de ruimtelijke ontwikkeling in Zuid-Holland",
+            details: "Het Hoofdwegennet (HWN) staat steeds meer onder druk. Uitbreiding van het HWN is niet meer vanzelfsprekend.<br><br>Het Toekomstperspectief Hoofdwegennet (TP HWN) brengt de veelheid aan opgaven rond het hoofdwegennet integraal in kaart, geeft prioriteiten, fasering en mogelijke aanpak.<br><br>Het TP HWN is onderdeel van de Ontwerp Nota Ruimte en de Mobiliteitsvisie 2050. Regionaal wordt het gebruikt in het programma MoVe in de Zuidelijke Randstad en voor nieuwe ontwikkelingen als Bus Rapid Transit en zelfrijdend vervoer. Het HWN is van (inter)nationaal en interregionaal belang, maar heeft ook een belangrijke regionale functie en is een wezenlijk onderdeel van veel stedelijke wegennetwerken. Vaak meerdere tegelijk. De functies bepalen welke kwaliteit waar gevraagd wordt van de weg én van de omgeving. Dit helpt antwoord geven op vragen als: -	Waar is bouwen nabij de snelweg mogelijk en waar niet? -	Waar is capaciteitsvergroting een optie en waar niet? -	Waar is een hub met overstap naar OV en fiets effectief en waar niet? -	Waar staat de veiligheid onder druk? Topadviseur Mobiliteit Martin Guit en regionaal adviseur Igor Heller gaan met u in gesprek over de toekomst van het hoofdwegennet als onderdeel van de ruimtelijke ontwikkeling in Zuid-Holland",
             spreker: "Martin Guit en Igor Heller (Rijkswaterstaat)", 
             mouseover: "Het loopt allemaal 🙂 "
           },
