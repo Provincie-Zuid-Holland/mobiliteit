@@ -81,4 +81,4 @@ Om de bereikbaarheid op peil te houden verbetert de provincie bestaande wegen en
 - [Score op nabijheid van voorzieningen](https://provincie-zuid-holland.github.io/mobiliteit/kaart?par=1)
 - [ov knoopunten met deelfietsen](https://provincie-zuid-holland.github.io/mobiliteit/kaart?p=os)
 <br><br>
-Deze pagina is ter inspiratie en voor kennisoverdracht. De inhoud is geen vastgesteld beleid. <a href="https://www.zuid-holland.nl/algemeen/toegankelijkheid/">Toegankelijkheid</a>
+Deze pagina is ter inspiratie en voor kennisoverdracht. De inhoud is geen vastgesteld beleid.
