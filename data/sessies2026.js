@@ -55,6 +55,18 @@ const data = {
           spreker: "Marloes Nonnekes"
         }, 
 
+
+  
+          { 
+            session: "15", 
+            title: "Interventies in de stad - Bewegend bos", 
+            details: "mooi project uit Dordrecht. Meer info volgt", 
+            spreker: "Jip Schelling (Advier)", 
+          },         
+        
+ 
+
+
          { 
           session: "102", 
           title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde", 
@@ -93,9 +105,9 @@ const data = {
 
         { 
           session: "1", 
-          title: "presentatie over de Vlietlijn door de HTM", 
-          details: "", 
-          spreker: "HTM"
+          title: "De Vlietlijn; waar regionale bereikbaarheid en stadsontwikkeling samenkomen", 
+          details: "De Binckhorst verandert in hoog tempo van een bedrijventerrein in een dynamische stadswijk waar de komende jaren duizenden nieuwe woningen worden gebouwd. Tot 2040 groeien het Central Innovation District (CID) en de Binckhorst samen door naar maar liefst 25.000 extra woningen en 30.000 nieuwe banen. Deze verstedelijking maakt het gebied een van de meest ambitieuze binnenstedelijke ontwikkellocaties van Nederland. <br>Maar groei vraagt om slimme keuzes. Want met meer inwoners, meer werkplekken en meer beweging in de stad ontstaat een steeds grotere druk op de bestaande infrastructuur. Juist daarom is de Vlietlijn essentieel. <br>De Vlietlijn wordt een snelle, hoogwaardige tramverbinding tussen Den Haag, Rijswijk en Leidschendam-Voorburg. De lijn loopt dwars door de Binckhorst en vormt daarmee een directe schakel tussen nieuwe woonwijken, werkgebieden en OV-knooppunten. Reizigers bewegen straks comfortabel, veilig en snel door de regio, met haltes die precies aansluiten op de nieuwe stedelijke ontwikkelgebieden. <br>Voor de Binckhorst is de Vlietlijn meer dan een vervoersmiddel. Het is een voorwaarde voor verdere groei. De tram maakt een autoluwe, leefbare en groeiende stadswijk mogelijk en faciliteert directe verbindingen met Den Haag Centraal, Voorburg en Rijswijk. Voor een regio die de komende jaren fors groeit – in inwoners, woningen én banen – is de Vlietlijn een duurzame en toekomstbestendige oplossing.<br>Bij het project zijn het Ministerie van I&W, het Ministerie van Binnenlandse Zaken & Koninkrijksrelaties, de gemeente Den Haag, de gemeente Leidschendam-Voorburg, de gemeente Rijswijk, de Provincie Zuid-Holland, MRDH en HTM betrokken.", 
+          spreker: "Maarten Batenburg (MRDH), Matthias van Aalst (HTM)"
         },
         { 
             session: "2", 
@@ -149,13 +161,7 @@ const data = {
           },         
         
  
-          { 
-            session: "18", 
-            title: "Van Boer naar bord. De uitdagingen rond de logistiek van de korte voedselketen", 
-            details: "", 
-      
-            spreker: "...", 
-          }, 
+ 
           
 
           { 
