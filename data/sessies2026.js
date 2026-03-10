@@ -73,7 +73,21 @@ const data = {
           rechts : "![|max-height: 250px](img/rnet-bus-06.png)",
           spreker: "Mick van der Steeg"
         }, 
-  
+            { 
+            session: "15", 
+            title: "Netcongestie en openbaar vervoer", 
+            details: "Netcongestie is een probleem voor velen, ook voor ons openbaar vervoer. Maar het OV ook netcongestie verminderen. De metro- en tramnetten zijn de grootste verlengsnoeren van Rotterdam, den Haag en vele andere gemeenten. Pim Uijtdewilligen (MRDH) en een collega (RET) geven jullie inspiratie en energie mee, om bij mobiliteit breder te kijken dan de problemen rond netcongestie alleen. ", 
+            rechts : "![|max-height: 250px](img/netcongestieov.jpg)",
+            spreker: "Pim Uijtdewilligen (MRDH)", 
+          },         
+        
+       { 
+            session: "15", 
+            title: "Bereikbaarheid op peil in Leiden - ook tijdens de verbouwing van de stad", 
+            details: "Woningbouw, infrastructuur en energietransitie vragen om ongekende inspanningen in bijna alle gemeenten. De 'tijdelijke hinder' is niet langer incidenteel - het wordt de nieuwe permanente realiteit. Een structurele aanpak is daarom nodig. Deze presentatie laat zien hoe de stad Leiden dit effectief aanpakt.", 
+            spreker: "Pieter Schurer (gemeente Leiden), Kai Feldkamp (XTNT)", 
+          },     
+
           { 
             session: "15", 
             title: "Interventies in de stad - Bewegend bos", 
@@ -109,10 +123,10 @@ const data = {
 
         { 
           session: "102", 
-          title: "ANWB Automaatje, de prima service voor mensen die niet meer zelf kunnen rijden", 
-          details: "ANWB Automaatje is een service voor mensen die niet meer zelf kunnen rijden. De service biedt hulp bij het vervoer naar en van het ziekenhuis, het werk of andere activiteiten.<br>[site Automaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje _blank)", 
-          rechts : "![|max-height: 250px](img/anwb-automaatje.jpg) ",
-          spreker: "ANWB Automaatje"
+          title: "ANWB AutoMaatje, dorpsgenoten vervoeren dorpsgenoten", 
+          details: "Bij ANWB AutoMaatje rijden inwoners met hun eigen auto tegen een kleine onkostenvergoeding minder mobiele mensen naar bijvoorbeeld het ziekenhuis, de kapper of familie. Zo blijven ze vaker onderweg komen ze weer (meer) onder de mensen. Meer informatie: [site Automaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje _blank). Klik voor een [korte video](https://www.youtube.com/shorts/aL5Nhe89OvY)",
+           rechts : "![|max-height: 250px](img/anwb-automaatje.jpg) ",
+          spreker: "Joske van Lith, ANWB AutoMaatje"
         }, 
 
         { 
@@ -122,6 +136,18 @@ const data = {
           rechts : "![|max-height: 250px](/mobiliteit/kansen/img/ipo-dova_praatplaat_publieke_mobiliteit.jpg) ",
           spreker: "Claudia de Koning (MRDH"
         }, 
+
+       { 
+          session: "102", 
+          title: "Het programma MoVe brengt beweging!", 
+          details: "De Zuidelijke Randstad staat voor een uitzonderlijk grote verstedelijkings- en mobiliteitsopgave. Niet alleen tot 2040, maar ook voor daarna. De capaciteit van het bestaande vervoersysteem in de Zuidelijke Randstad schiet daarvoor tekort. Zonder maatregelen nemen files op autowegen en knelpunten in het OV toe. Hierdoor dreigt stagnatie van (binnen)stedelijke ontwikkeling van woningen en arbeidsplaatsen en stokt de transitie naar duurzame mobiliteit. Economisch groeipotentieel blijft onderbenut doordat bereikbaarheid van economische toplocaties onder druk staat en agglomeratiekansen uitblijven. Het programma MoVe beweegt partijen gezamenlijk dezelfde richting op naar toekomstbestendige mobiliteit in de Zuidelijke Randstad in 2040 en verder.",
+           rechts : "![|max-height: 250px](img/move.png) ",
+          spreker: "Christiaan Oud"
+        }, 
+
+
+
+
                  { 
             session: "17", 
             title: "Samen werken & samen rijden (carpoolen) met Nabogo", 
