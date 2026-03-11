@@ -66,6 +66,23 @@ const data = {
           spreker: "'Jolijn van Dijk & Hans Mulder"
         }, 
 
+          { 
+          session: "102", 
+          title: "Veilig naar school in Pijnacker-Nootdorp: een kwestie van beter oppassen, infra aanpassen of gedragsverandering toepassen?", 
+          details: "Iedere ouder wil hetzelfde: zijn kind veilig naar school brengen. Toch voelt de chaotische verkeerssituatie rond veel scholen vaak onveilig tijdens de haal- en brengspits. Onder andere door de vele auto’s, gehaast rijgedrag en foutgeparkeerde auto’s. Verkeersveiligheid is in veel gemeenten een urgent punt van aandacht, want dit alles leidt tot gevaarlijke situaties in een omgeving waar kinderen zich vrij en veilig moeten kunnen bewegen. Maar hoe onveilig zijn schoolomgevingen nu echt? In een grootschalig gedragsonderzoek bij 20 basisscholen in de gemeente Pijnacker-Nootdorp, namen we deze vraag onder de loep. Wat kunnen we zeggen over zowel de objectieve als subjectieve veiligheid? Kan het beter? En zo ja, hoe? We deden data-onderzoek, een enquête, observaties, expertsessies en diepte-interviews. De objectieve veiligheid rondom scholen bracht een data-bureau in kaart met gegevens over onder andere verkeerssnelheid, infrastructuur en ongelukken. En de subjectieve veiligheid aan de hand van de ervaringen en overtuigingen van ouders, schoolmedewerkers en omwonenden. Wat blijkt: de meeste schoolomgevingen zijn verkeerskundig best goed ingericht, tóch ervaart een meerderheid van de ouders de schoolomgeving als onveilig. Ligt de sleutel tot veilige schoolomgevingen dan vooral in gedrag? En zo ja: hoe kun je dit als gemeente beïnvloeden? Dat vertellen we je in deze presentatie. We zoomen in en belichten specifiek het gedrag en de subjectieve inzichten uit ons onderzoek en nemen deelnemers mee in de opzet, aanpak én uitkomsten. We bekijken en vergelijken twee basisscholen, waar we een gedragsdiagnose formuleerden met behulp van aanvullende diepte-interviews met ouders. Deze diagnose gebruikten we om onderbouwde gedragsinterventies te ontwerpen die helpt om doelgericht het gevoel van verkeersveiligheid rond deze scholen te verbeteren. Tot slot zoomen we uit en laten we zien hoe andere gemeenten deze onderzoeksresultaten kunnen gebruiken om slim in te spelen op ander gedrag van ouders. We delen concrete aanbevelingen en quick wins.", 
+          rechts : "![|max-height: 250px](img/veilignaarschool.jpg)",
+          spreker: "Tanja van Kooten, adviseur gedrag en mobiliteit bij &Morgen "
+        },        
+
+          { 
+          session: "102", 
+          title: "Verander mobiliteit, en vorm een mooie leefomgeving", 
+          details: "Er zijn al diverse praktische hulpmiddelen dat gemeenten en ontwikkelaars ondersteunt bij het integraal meenemen van mobiliteit in gebiedsontwikkelingen. Hulpmiddelen die helpen bij het opstellen van afsprakendocumenten en uitvoeringsplannen rondom mobiliteit, zodat mobiliteit en bereikbaarheid vanaf het begin een vanzelfsprekend onderdeel zijn van de ruimtelijke plannen. En dat ruimtelijke ontwikkeling en mobiliteit elkaar versterken en slimme mobiliteitskeuzes kunnen worden gemaakt. Kortom hulpmiddelen die zich richten op het integreren van mobiliteitsbeleid met andere ruimtelijke en maatschappelijke ambities, zoals duurzaamheid, gezondheid, verkeersveiligheid, bereikbaarheid en inclusiviteit, en helpen bij:<ul><li>Het bepalen van de ruimtelijke kaders en uitgangspunten voor mobiliteit in gebiedsontwikkeling (via het Mobiliteitsprogramma van Eisen, MPvE).</li><li>Het opstellen van een mobiliteitsplan waarin maatregelen worden beschreven om bereikbaarheid, verkeersveiligheid, leefbaarheid en duurzaam reisgedrag te bevorderen.</li><li>Het maken van een implementatieplan waarin wordt vastgelegd hoe de maatregelen daadwerkelijk worden uitgevoerd en georganiseerd tijdens de realisatiefase en daarna.</li></ul><br><br>Maar welke partij is voor welk onderdeel verantwoordelijk? Wanneer in het proces moet de verkeerskundige van meerwaarde zijn, en wat vraagt dit van de rol van de verkeerskundige in de samenwerking met de stedenbouwkundige en de projectontwikkelaar? En niet de minste, hoe zorg je dat vanaf het moment dat de eerste bewoner de woning betreedt, alles zo geregeld is zoals het van tevoren bedacht is? Met onze jarenlange opgebouwde kennis en expertise - en met inspirerende voorbeelden - begeleiden we graag de deelsessie. ", 
+          rechts : "![|max-height: 250px](img/stomppot.png)",
+          spreker: "Martijn Elting, adviseur mobiliteit en gebiedsontwikkeling bij &Morgen"
+      
+        },        
+
       { 
           session: "102", 
           title: "Drempelvrij rij je soepel met de bus", 
@@ -178,6 +195,7 @@ const data = {
             session: "2", 
             title: "Rijkswaterstaat  Toekomstperspectief Hoofdwegennet", 
             details: "Het Hoofdwegennet (HWN) staat steeds meer onder druk. Uitbreiding van het HWN is niet meer vanzelfsprekend.<br><br>Het Toekomstperspectief Hoofdwegennet (TP HWN) brengt de veelheid aan opgaven rond het hoofdwegennet integraal in kaart, geeft prioriteiten, fasering en mogelijke aanpak.<br><br>Het TP HWN is onderdeel van de Ontwerp Nota Ruimte en de Mobiliteitsvisie 2050. Regionaal wordt het gebruikt in het programma MoVe in de Zuidelijke Randstad en voor nieuwe ontwikkelingen als Bus Rapid Transit en zelfrijdend vervoer. Het HWN is van (inter)nationaal en interregionaal belang, maar heeft ook een belangrijke regionale functie en is een wezenlijk onderdeel van veel stedelijke wegennetwerken. Vaak meerdere tegelijk. De functies bepalen welke kwaliteit waar gevraagd wordt van de weg én van de omgeving. Dit helpt antwoord geven op vragen als: -	Waar is bouwen nabij de snelweg mogelijk en waar niet? -	Waar is capaciteitsvergroting een optie en waar niet? -	Waar is een hub met overstap naar OV en fiets effectief en waar niet? -	Waar staat de veiligheid onder druk? Topadviseur Mobiliteit Martin Guit en regionaal adviseur Igor Heller gaan met u in gesprek over de toekomst van het hoofdwegennet als onderdeel van de ruimtelijke ontwikkeling in Zuid-Holland",
+                    rechts : "![|max-height: 250px](img/perspectiefhoofdwegenet.png)",  
             spreker: "Martin Guit en Igor Heller (Rijkswaterstaat)", 
             mouseover: "Het loopt allemaal 🙂 "
           },
