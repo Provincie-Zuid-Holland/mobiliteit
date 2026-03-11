@@ -107,11 +107,18 @@ const data = {
 
           { 
             session: "15", 
+            title: "Nabijheid in Zoetermeer: Europese kansen voor lokale en regionale uitdagingen", 
+            details: "Zoetermeer is één van de nieuwe knooppunten (“urban nodes”) op het Europese transportnetwerk en dat biedt kansen! Zowel lokaal als regionaal zoekt Zoetermeer naar mogelijkheden om de nabijheid te vergroten. Als ‘New Town’ heeft Zoetermeer andere uitdagingen dan historische steden. In deze sessie zoomen we in van de Europese schaal naar de regio – met Den Haag, Leiden en Rotterdam op korte afstand – en stedelijke opgaven, zoals de barri?rewerking van A12. Hoe kan nabijheid worden verbeterd in een stad waar tot 2040 ruim 10.000 woningen in de bestaande stad worden gerealiseerd?",
+            rechts : "![|max-height: 250px](img/entreezoetermeer.png)", 
+            spreker: "Lilian Oskamp (gemeente Zoetermeer) & Raymond Linssen", 
+          },         
+ 
+                   { 
+            session: "15", 
             title: "Interventies in de stad - Bewegend bos", 
             details: "mooi project uit Dordrecht. Meer info volgt", 
             spreker: "Jip Schelling (Advier)", 
-          },         
-        
+          },    
  
 
 
