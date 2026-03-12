@@ -49,7 +49,9 @@ const data = {
           details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ", 
           rechts : "![|max-height: 250px](img/Bereikbaaheid op peil.png) ",
            spreker: "Johan Weggeman, Ministerie IenW"
-        },      
+        },    
+        
+        
          { 
           session: "102", 
           title: "Nabijheid als sturend principe voor de ideale wijk", 
@@ -58,6 +60,18 @@ const data = {
           spreker: "Timothy Meijer en Ruben Mossel"
         }, 
   
+
+          { 
+            session: "3", 
+            title: "Op de fiets voor vitale steden en dorpen", 
+            details: "Denk mee, deel uw ervaring en laat u inspireren over de rol van de fiets in Zuid-Holland. Goede bereikbaarheid is belangrijk voor vitale steden en dorpen. In Zuid-Holland staat die bereikbaarheid onder druk. Dat heeft ook gevolgen voor de grote woningbouwopgave: tot 2030 moeten er 230.000 woningen bijkomen. De vraag is: wat kan de fiets hieraan bijdragen? De fiets kan zorgen voor betere bereikbaarheid, zeker op korte afstanden. Wij werken aan nieuw provinciaal fietsbeleid. Daarbij richten we ons op belangrijke bouwstenen, zoals doorfietsroutes, fietsveiligheid en goede fietsparkeervoorzieningen. ", 
+            rechts : "![|max-height: 250px](img/kaartdoorfietsroutes2024-2.jpg)", 
+            spreker: "Wiesje Hofstede en Ron van Noortwijk", 
+            back : "img/scholierenroutes.png"
+          }, 
+
+     
+
          { 
           session: "102", 
           title: "Hoe jij mee kunt bouwen aan het laadnetwerk van morgen", 
@@ -116,7 +130,8 @@ const data = {
                    { 
             session: "15", 
             title: "Interventies in de stad - Bewegend bos", 
-            details: "mooi project uit Dordrecht. Meer info volgt", 
+            details: "Tussen 2023 en 2025 trokken 150 bomen door de straten van Dordrecht. Elke maand transformeerde het project een andere straat: auto’s maakten plaats voor ademruimte, kinderen speelden en buren raakten met elkaar in gesprek. Na afloop evalueren we samen wat er permanent kan blijven.<br><br> In deze sessie delen we de lessen uit dit project. We bespreken thema’s als verbeelding, confrontatie, verbinding en activatie. Centraal staat de vraag: Hoe ontwerp je een effectieve interventie? [www.bewegendbos.nl](https://bewegendbos.nl).", 
+            rechts : "![|max-height: 250px](img/bewegendBos.png)",            
             spreker: "Jip Schelling (Advier)", 
           },    
  
@@ -207,17 +222,7 @@ const data = {
             mouseover: "Het loopt allemaal 🙂 "
           },
 
-
-          { 
-            session: "3", 
-            title: "Op de fiets voor vitale steden en dorpen", 
-            details: "Denk mee, deel uw ervaring en laat u inspireren over de rol van de fiets in Zuid-Holland. Goede bereikbaarheid is belangrijk voor vitale steden en dorpen. In Zuid-Holland staat die bereikbaarheid onder druk. Dat heeft ook gevolgen voor de grote woningbouwopgave: tot 2030 moeten er 230.000 woningen bijkomen. De vraag is: wat kan de fiets hieraan bijdragen? De fiets kan zorgen voor betere bereikbaarheid, zeker op korte afstanden. Wij werken aan nieuw provinciaal fietsbeleid. Daarbij richten we ons op belangrijke bouwstenen, zoals doorfietsroutes, fietsveiligheid en goede fietsparkeervoorzieningen. ", 
-          rechts : "![|max-height: 250px](img/scholierenroutes.png)", 
-            spreker: "Wiesje Hofstede en Ron van Noortwijk", 
-            back : "img/scholierenroutes.png"
-          }, 
-
-         
+    
  
           { 
             session: "23", 
