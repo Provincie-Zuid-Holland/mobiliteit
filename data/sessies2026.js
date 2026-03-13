@@ -4,16 +4,20 @@ const data = {
                   { 
             session: "7", 
             title: "Samenwerken in Virual Reality (Met de VR bril door Valkenhorst) - Hele middag", 
-            details: "In deze virtuele omgeving van een groot woningbouw project (Valkenhorst nabij Leiden en Katwijk) kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
+            details: "In deze virtuele omgeving van de gebiedsvisie Valkenhorst (een groot woningbouw project in Katwijk) kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
+                        rechts : "![|max-height: 250px](img/valkenhorst.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
             spreker: "Luuk Czudowski"
-          },         
+          },        
+
+
+
                         { 
             session: "7", 
             title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike - hele middag", 
             details: "Durf jij het aan om te kijken wat er gebeurt als jij gaat appen of bellen tijdens het fietsen? Of flink drinken voor je opstapt? Op een veilige manier kan jij tijdens deze campagne in onze fietssimulator ervaren wat de risico’s zijn.", 
-             rechts : "![|max-height: 250px](img//3Dtrippingbike.jpg) ",
+             rechts : "![|max-height: 250px](img/Dtrippingbike.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
             spreker: "Responsible Young Drivers",
@@ -34,6 +38,17 @@ const data = {
           spreker: "Ronald Haverman en Sean van der Lee", 
           mouseover: "wordt interessant!"
         }, 
+
+   { 
+          session: "100", 
+          title: "Van mobiliteitshub naar herstelhub", 
+          details: "Stel je voor: een stad waar deelmobiliteit niet alleen draait om een app, maar om de kunst van het onderhouden. Waar we parkeerplaatsen niet alleen inruilen voor groen, maar voor lokale herstelkracht.<br><br>In deze sessie dagen we mobiliteitsprofessionals uit om met een 'reparatie-bril' naar de straat te kijken. We verkennen de synergie tussen zachte mobiliteit en de circulaire buurt. Want wat heb je aan een fietsstad als niemand meer weet hoe je een band plakt, of aan een autoluwe wijk als de weg naar de hersteller te lang is?<br><br>We bespreken hoe we reparatiepunten kunnen inzetten als strategische knooppunten (hubs) die niet alleen producten redden, maar ook de sociale verbinding en de lokale logistiek versterken.",
+          rechts : "![|max-height: 350px](img/Vanmobiliteitshubnaarherstelhub.png)",
+          spreker: "Nienke Schuil, Regisseur Ruimtelijke Ontwikkeling bij Natuur en Milieufederatie Zuid-Holland", 
+          mouseover: "wordt interessant!"
+        }, 
+
+
       { 
           session: "100", 
           title: "Novex Rotterdamse Haven en gebiedsgericht werken", 
