@@ -16,17 +16,18 @@ const data = {
                         { 
             session: "7", 
             title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike - hele middag", 
-            details: "Durf jij het aan om te kijken wat er gebeurt als jij gaat appen of bellen tijdens het fietsen? Of flink drinken voor je opstapt? Op een veilige manier kan jij tijdens deze campagne in onze fietssimulator ervaren wat de risico’s zijn.", 
+            details: "Durf jij het aan om te kijken wat er gebeurt als jij gaat appen of bellen tijdens het fietsen? Of flink drinken voor je opstapt? Op een veilige manier kan jij tijdens deze campagne in onze fietssimulator ervaren wat de risico’s zijn.<br><br>Ook kun je gedurende de middag hier in gesprek met ROV Zuid-Holland over verkeersveiligheid.", 
              rechts : "![|max-height: 250px](img/Dtrippingbike.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
             tijd: "Hele middag vanaf 14:30 uur", 
-            spreker: "Responsible Young Drivers",
+            spreker: "ROV Zuid-Holland en Responsible Young Drivers",
           },  
  
         { 
             session: "2", 
             title: "Ruimtelijke puzzel van Zuid-Holland", 
-            details: "....  ![|max-height: 200px](img/ruimelijkekoers.png)", 
+            details: "....  ", 
+              rechts : "![|max-height: 200px](img/ruimelijkekoers.png)",
             spreker: "Harold Lesschen & Jurre Baijards", 
             mouseover: "Het loopt allemaal 🙂 "
           },
@@ -108,7 +109,7 @@ const data = {
           title: "Verander mobiliteit, en vorm een mooie leefomgeving", 
           details: "Er zijn al diverse praktische hulpmiddelen dat gemeenten en ontwikkelaars ondersteunt bij het integraal meenemen van mobiliteit in gebiedsontwikkelingen. Hulpmiddelen die helpen bij het opstellen van afsprakendocumenten en uitvoeringsplannen rondom mobiliteit, zodat mobiliteit en bereikbaarheid vanaf het begin een vanzelfsprekend onderdeel zijn van de ruimtelijke plannen. En dat ruimtelijke ontwikkeling en mobiliteit elkaar versterken en slimme mobiliteitskeuzes kunnen worden gemaakt. Kortom hulpmiddelen die zich richten op het integreren van mobiliteitsbeleid met andere ruimtelijke en maatschappelijke ambities, zoals duurzaamheid, gezondheid, verkeersveiligheid, bereikbaarheid en inclusiviteit, en helpen bij:<ul><li>Het bepalen van de ruimtelijke kaders en uitgangspunten voor mobiliteit in gebiedsontwikkeling (via het Mobiliteitsprogramma van Eisen, MPvE).</li><li>Het opstellen van een mobiliteitsplan waarin maatregelen worden beschreven om bereikbaarheid, verkeersveiligheid, leefbaarheid en duurzaam reisgedrag te bevorderen.</li><li>Het maken van een implementatieplan waarin wordt vastgelegd hoe de maatregelen daadwerkelijk worden uitgevoerd en georganiseerd tijdens de realisatiefase en daarna.</li></ul><br><br>Maar welke partij is voor welk onderdeel verantwoordelijk? Wanneer in het proces moet de verkeerskundige van meerwaarde zijn, en wat vraagt dit van de rol van de verkeerskundige in de samenwerking met de stedenbouwkundige en de projectontwikkelaar? En niet de minste, hoe zorg je dat vanaf het moment dat de eerste bewoner de woning betreedt, alles zo geregeld is zoals het van tevoren bedacht is? Met onze jarenlange opgebouwde kennis en expertise - en met inspirerende voorbeelden - begeleiden we graag de deelsessie. ", 
           rechts : "![|max-height: 400px](img/stomppot.png)",
-          spreker: "Martijn Elting, adviseur mobiliteit en gebiedsontwikkeling bij &Morgen"
+          spreker: "Martijn Elting (&Morgen) en Teun Kolner (Movares)"
       
         },        
 
@@ -154,10 +155,10 @@ const data = {
 
          { 
           session: "102", 
-          title: "Bestedingenonderzoek 2024: voetgangers en fietsers hebben grote economische waarde", 
-          details: "Het Verplaatsings- en bestedingenonderzoek 2025 (en haar voorgaande edities) brengt de relatie in beeld tussen mobiliteitskeuze en economische waarde van bezoekers in centrumgebieden. Op basis van onderzoek in bijna 50 centra in Nederland (waaronder 10 in Zuid Holland) en Vlaanderen laat het onderzoek zien dat automobilisten per bezoek meer besteden, maar dat voetgangers en fietsers door hun hogere bezoekfrequentie juist een grote economische waarde hebben. Het onderzoek onderbouwt dat autoluw beleid niet per definitie leidt tot economische schade, mits alternatieven goed bereikbaar en aantrekkelijk zijn, en biedt gemeenten handvatten om mobiliteitskeuzes expliciet te verbinden aan economische vitaliteit en leefbaarheid. Specifiek zullen we ingaan op enkele conclusies en bevindingen voor het centrum van Den Haag.Voor meer info: .	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank)", 
+          title: "Ontdek de economische waarde van fietsers en voetgangers", 
+          details: "Hoe beïnvloeden bezoekersstromen, vervoerskeuzes en bereikbaarheid de economische vitaliteit van onze centra? En wat betekent dit voor Den Haag – zowel in het centrum als aan de kust?<br><br>Tijdens deze bijeenkomst nemen we je mee in de inzichten uit het verplaatsings- en bestedingenonderzoek, gebaseerd op onderzoek in bijna 50 centrumgebieden in Nederland en Vlaanderen. Dit onderzoek laat zien hoe verschillende vervoerswijzen bijdragen aan economische waarde. De resultaten bieden duidelijke handvatten voor gemeenten: autoluw beleid hoeft geen economische schade te veroorzaken. Het onderzoek helpt om mobiliteitskeuzes direct te verbinden aan economische vitaliteit én leefbaarheid. Speciaal voor deze bijeenkomst zoomen we in op de conclusies voor het centrum van Den Haag en de Haagse Kust.<br><br>Voor meer info:	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank)", 
           rechts : "![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
-           spreker: "Marco Duijnisveld (Movares) en met Rina Adriani (Den Haag)"
+           spreker: "Marco Duijnisveld (Movares) en met Rina Adriani (gemeente Den Haag)"
         },     
              { 
           session: "102", 

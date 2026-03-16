@@ -9,14 +9,14 @@ menu: |
 ---
 # Negen kansen voor bereikbaarheid
 ### Grote opgaven: meer woningen, schaarse ruimte & energietransitie
-Zuid-Holland staat voor grote opgaven. Denk aan het bouwen van 248.000 woningen, het verdelen van schaarse ruimte en het aanjagen van de energietransitie. Mobiliteit speelt bij al deze opgave een hoofdrol, vandaar deze studie naar tien kansen. Voor de actualisering van deze studie zijn twee aanleidingen. Ten eerste heeft de provincie een herzien Omgevingsbeleid waarbij brede welvaart zwaarder meeweegt: meer prioriteit voor gezondheid, kwaliteit en veiligheid. Ten tweede staat in het kabinetsstandpunt Bereikbaarheid op peil dat mensen makkelijker bij voorzieningen moeten kunnen komen die ze belangrijk vinden: onderwijs, werk, winkels en zorg. Kortom: op veel fronten is er werk aan de winkel.
+Zuid-Holland staat voor grote opgaven. Denk aan het bouwen van 248.000 woningen, het verdelen van schaarse ruimte en het aanjagen van de energietransitie. Mobiliteit speelt bij al deze opgave een hoofdrol, vandaar deze studie naar negen kansen. Voor de actualisering van deze studie zijn twee aanleidingen. Ten eerste heeft de provincie een herzien Omgevingsbeleid waarbij brede welvaart zwaarder meeweegt: meer prioriteit voor gezondheid, kwaliteit en veiligheid. Ten tweede staat in het kabinetsstandpunt Bereikbaarheid op peil dat mensen makkelijker bij voorzieningen moeten kunnen komen die ze belangrijk vinden: onderwijs, werk, winkels en zorg. Kortom: op veel fronten is er werk aan de winkel.
 
 Het oplossen van grote opgaven kost tijd en geld: allebei schaarse zaken. Daarom moeten we vindingrijk zijn en mensen enthousiast maken, zodat andere en schonere mobiliteit uiteindelijk brede groepen in de samenleving aanspreekt. Deze overkoepelende studie schetst aansprekende mobiliteitsoplossingen die al bestaan of waar onder andere gemeenten meteen mee kunnen beginnen. Aan de slag!
 
 <div class="tekstblok">
 <b>Hoofdboodschap</b>
 <ul>
-<li><b>Woningen:</b> voorzieningen en goed ov dichtbij huis.</li>
+<li><b>Woningen:</b> voorzieningen en goed OV dichtbij huis.</li>
 <li><b>Verkeer:</b> prioriteit voor lopen & fietsen, ruim baan voor openbaar vervoer, meer deelvervoer, naadloos overstappen op hubs (tussen fiets, OV, deelvervoer & auto). Veiliger verkeer en voor iedereen toegankelijk.</li>
 <li><b>Technologie:</b> groene mobiliteit, circulaire infrastructuur en slimme mobiliteit.</li>
 <li>Gedragsverandering is hierbij cruciaal.</li>
@@ -26,7 +26,7 @@ Snelstudies zijn onderdeel van de Toekomstagenda Zuid-Holland en dienen ter insp
 <br>
 
 ## Negen kansen
-We beschrijven tien uitdagingen met daarbij interessante oplossingen & voorbeelden. Het zijn frisse ideeën voor Zuid-Holland die het leven ook prettiger kunnen maken. Vaak staan ze al in het herzien Omgevingsbeleid. In deze studie gaan we net een stapje verder: ter inspiratie én om op voort te bouwen.
+We beschrijven negen uitdagingen met daarbij interessante oplossingen & voorbeelden. Het zijn frisse ideeën voor Zuid-Holland die het leven ook prettiger kunnen maken. Vaak staan ze al in het herzien Omgevingsbeleid. In deze studie gaan we net een stapje verder: ter inspiratie én om op voort te bouwen.
 
 <div class="item-list">
   {% for item in site.data.kansen %}
