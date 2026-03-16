@@ -28,6 +28,11 @@ Snelstudies zijn onderdeel van de Toekomstagenda Zuid-Holland en dienen ter insp
 ## Negen kansen
 We beschrijven negen uitdagingen met daarbij interessante oplossingen & voorbeelden. Het zijn frisse ideeën voor Zuid-Holland die het leven ook prettiger kunnen maken. Vaak staan ze al in het herzien Omgevingsbeleid. In deze studie gaan we net een stapje verder: ter inspiratie én om op voort te bouwen.
 
+<div class="tekstblok">
+Deze studie is nog in opbouw. De onderliggende doorklikpagina's komen in april of mei.
+</div>
+<br>
+
 <div class="item-list">
   {% for item in site.data.kansen %}
     {% include item.html item=item %}
