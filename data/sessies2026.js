@@ -134,7 +134,13 @@ const data = {
             details: "Woningbouw, infrastructuur en energietransitie vragen om ongekende inspanningen in bijna alle gemeenten. De 'tijdelijke hinder' is niet langer incidenteel - het wordt de nieuwe permanente realiteit. Een structurele aanpak is daarom nodig. Deze presentatie laat zien hoe de stad Leiden dit effectief aanpakt.", 
             spreker: "Pieter Schurer (gemeente Leiden), Kai Feldkamp (XTNT)", 
           },     
-
+      { 
+            session: "15", 
+            title: "5 jaar Autoluwe Binnenstad Leiden: van visie naar uitvoering", 
+            details: "Hoe maken we de Leidse binnenstad groen en vitaal? Welk beleid en uitvoeringsstrategie vraagt dat? Welke inrichting van de openbare ruimte past daarbij?<br><br>Tijdens deze bijeenkomst vertellen Ilse Galama en Marius van Putten je over de Agenda Autoluwe Binnenstad. Die als doel heeft: een groene en vitale binnenstad. De ambitie om de Leidse binnenstad autoluwer te maken is niet nieuw. Al in de jaren ’80 van de vorige eeuw werd de omgeving van de Nieuwe Rijn autovrij gemaakt. Uit de Haarlemmerstraat waren vlak daarvoor de geparkeerde auto’s verdwenen. De afgelopen 40 jaar zijn veel maatregelen genomen om aangenamer te kunnen verblijven in de binnenstad. Met Agenda Autoluwe Binnenstad gaan we door om stap voor stap de binnenstad een kwaliteitsimpuls te geven. We bespreken concrete resultaten en plannen in het vooruitzicht, zoals: de maatregelen uit de parkeervisie; verkeersfilters voor de auto op de Rijnzichtbrug en Prinsessekade; en de herinrichting van de Groene Loper Stadsentree (o.a. de Stationsweg).<br><br>Voor [meer informatie](https://gemeente.leiden.nl/projecten/autoluwe-binnenstad/)", 
+            rechts : "![|max-height: 250px](img/autoluwe-binnenstad-scaled.jpg)",            
+            spreker: "Marius van Putten en Ilse Galama (gemeente Leiden)", 
+          },    
           { 
             session: "15", 
             title: "Nabijheid in Zoetermeer: Europese kansen voor lokale en regionale uitdagingen", 
