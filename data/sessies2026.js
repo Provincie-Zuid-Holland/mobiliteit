@@ -200,9 +200,9 @@ const data = {
 
        { 
           session: "102", 
-          title: "Het programma MoVe brengt beweging!", 
-          details: "De Zuidelijke Randstad staat voor een uitzonderlijk grote verstedelijkings- en mobiliteitsopgave. Niet alleen tot 2040, maar ook voor daarna. De capaciteit van het bestaande vervoersysteem in de Zuidelijke Randstad schiet daarvoor tekort. Zonder maatregelen nemen files op autowegen en knelpunten in het OV toe. Hierdoor dreigt stagnatie van (binnen)stedelijke ontwikkeling van woningen en arbeidsplaatsen en stokt de transitie naar duurzame mobiliteit. Economisch groeipotentieel blijft onderbenut doordat bereikbaarheid van economische toplocaties onder druk staat en agglomeratiekansen uitblijven. Het programma MoVe beweegt partijen gezamenlijk dezelfde richting op naar toekomstbestendige mobiliteit in de Zuidelijke Randstad in 2040 en verder.",
-           rechts : "![|max-height: 250px](img/move.png) ",
+          title: "Zuidelijke Randstad bereikbaar houden - programma MoVe brengt beweging!", 
+          details: "De Zuidelijke Randstad slibt dicht. De capaciteit van het bestaande vervoersysteem schiet tekort voor de uitzonderlijk grote verstedelijkings- en mobiliteitsopgave in de regio. Het programma MoVe brengt het Rijk, de provincie, de regio en gemeenten samen om partijen dezelfde richting op te bewegen naar een toekomstbestendige mobiliteit in 2040 en verder. Zonder maatregelen groeien de files en loopt het openbaar vervoer vast. Hierdoor dreigt stagnatie van (binnen)stedelijke ontwikkeling van woningen & arbeidsplaatsen en stokt de mobiliteitstransitie. Economisch groeipotentieel blijft onderbenut doordat bereikbaarheid van economische toplocaties onder druk staat en agglomeratiekansen uitblijven. Christiaan Oud laat zien hoe het programma zich inspant om de Zuidelijke Randstad in beweging te brengen en houden; en nodigt jou uit om hieraan bij te dragen.",
+           rechts : "![|max-height: 250px](img/move.png)",
           spreker: "Christiaan Oud"
         }, 
 
@@ -294,6 +294,14 @@ const data = {
           details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
           rechts : "![|max-height: 250px](img/daszogefietst.png)",
           spreker: "Marloes Nonnekes"
+        }, 
+
+               { 
+          session: "102", 
+          title: "Hoe kom je op je werk in de Rotterdamse haven? Hoe helpt Zuid-Holland Bereikbaar hierbij?", 
+          details: "...tekst volgt..", 
+          //rechts : "![|max-height: 250px](img/daszogefietst.png)",
+          spreker: "Edo Haitsma (Zuid-Holland Bereikbaar)"
         }, 
 
 
