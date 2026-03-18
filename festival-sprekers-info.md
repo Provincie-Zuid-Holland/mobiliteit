@@ -13,7 +13,7 @@ Wat fijn dat je een bijdrage wilt leveren aan het festival. Samen maken we er ee
 
 
 
-Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. Er staat ook een overzicht van alle deelsessies. Dit schema is nog in opbouw. Er zijn al meer dan 20 deelsessies aangemeld.
+Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. Er staat ook een overzicht van alle deelsessies. Dit schema is nog in opbouw.
 
 - Controleer of jouw sessie goed in het programma staat. Is de titel aantrekkelijk? Is de tekst (als je er op klikt) onweerstaanbaar zodat je zaaltje straks vol zit? Je kunt ook plaatjes en links naar achtergrondinformatie aanleveren. Mail ons de aanpassingen (zie onder aan de pagina).
 - We gaan uit van sessies van 20 minuten. Om je sessie interactief te maken adviseren wij een pitch van maximaal 10 minuten, gevolgd door interactie met de aanwezigen (bijvoorbeeld vragen, stellingen of een gesprek). Houd er rekening mee dat de sessies strak gepland zijn, zodat deelnemers ook andere sessies kunnen bezoeken. We vragen je daarom na 20 minuten af te ronden, daarna is er kort tijd om van zaal te wisselen, wat te drinken te pakken, etcetera. Is 20 minuten **echt** ondoenlijk voor je sessie? Laat het ons weten, dan kijken we samen naar een oplossing.

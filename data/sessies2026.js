@@ -64,9 +64,9 @@ const data = {
 
          { 
           session: "102", 
-          title: "Nabijheid als sturend principe voor de ideale wijk", 
+          title: "Een waardevolle reis (en wat eieren daar mee te maken hebben", 
           details: "Stel je eens voor, een nieuwe wijk waar de nabijheid centraal staat en waar veel met een kwartiertje wandelen of fietsen te bereiken is. Hoe zou zo’n wijk eruit zien? Welke kansen zijn er om hier extra veel woningen te realiseren waar momenteel veel vraag naar is? In deze snelstudie kijken we een woningbouwlocaties die we in Zuid-Holland op het oog hebben toekomstgericht ingevuld kan worden door de principes van nabijheid, lopen en fietsen en ov als uitgangspunt te nemen. <br><br>Snelstudie in samenwerking met Haagse Hogeschool en Laboratorium verantwoorde mobiliteit.", 
-          rechts : "![|max-height: 250px](snelstudie/img/fietswijk.jpg)",
+          rechts : "![|max-height: 250px](img/TitelslideWorkshopSnelstudieTimenRuben.jpg)",
           spreker: "Timothy Meijer en Ruben Mossel"
         }, 
   
