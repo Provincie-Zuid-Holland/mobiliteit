@@ -26,7 +26,7 @@ const data = {
         { 
             session: "2", 
             title: "Ruimtelijke puzzel van Zuid-Holland", 
-            details: "....  ", 
+            details: "Wil jij weten wat de provincie Zuid-Holland doet aan ruimtelijke ordening? Dan ben je bij het team Ruimtelijke Puzzel aan het juiste adres! Samen met onze 50 gemeenten en 7 waterschappen werken we aan de toekomst van Zuid-Holland. We leggen in deze sessie graag uit hoe we dit doen en wat dit eventueel betekent voor jouw werk 😊", 
               rechts : "![|max-height: 200px](img/ruimelijkekoers.png)",
             spreker: "Harold Lesschen & Jurre Baijards", 
             mouseover: "Het loopt allemaal 🙂 "
@@ -178,7 +178,7 @@ const data = {
           title: "One size fi(e)ts all? Fietsparkeeroplossingen voor Delft", 
           details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.", 
           rechts : "![|max-height: 250px](img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg)  ",
-          spreker: "Nao Steenmetz (Movares)"
+          spreker: "Mirjam van Oers (Gemeente Delft) en Nao Steenmetz (Movares)"
         }, 
 
 
