@@ -4,7 +4,7 @@ title: Sprekersinfo Festival "Bereikbaar"
 header_image: /mobiliteit/img/festival2026laag.png
 menu: |
     <a href="snelstudie/index.html">Snelstudies</a>
-    <a href="\mobiliteit\blokkenschema2026.html">Festival blokkenschema</a>
+    <a href="\mobiliteit\festival.html">Festivalschema</a>
     <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">Festival aanmelden</a>
 ---
 # Informatie voor sprekers op het Festival Bereikbaar
