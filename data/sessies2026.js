@@ -3,7 +3,7 @@ const data = {
 
                   { 
             session: "7", 
-            title: "Samenwerken in Virual Reality (Met de VR bril door Valkenhorst) - Hele middag", 
+            title: "Samenwerken in Vitual Reality (Met de VR-bril door Valkenhorst) - Hele middag", 
             details: "In deze virtuele omgeving van de gebiedsvisie Valkenhorst (een groot woningbouw project in Katwijk) kunnen gebruikers zelf beleven welke afwegingen er spelen in de ruimtelijke ontwikkeling van onze provincie", 
                         rechts : "![|max-height: 250px](img/valkenhorst.jpg) ",
             zaal: "Tuinzaal (bij koffie & borrel)", 
@@ -31,14 +31,16 @@ const data = {
             spreker: "Harold Lesschen & Jurre Baijards", 
             mouseover: "Het loopt allemaal 🙂 "
           },
-
       { 
-          session: "100", 
-          title: "Tien kansen voor bereikbaarheid", 
-          details: "Laat je bijpraten en denk mee over de laatste slag van deze overkoepelende snelstudie",
-          spreker: "Ronald Haverman en Sean van der Lee", 
-          mouseover: "wordt interessant!"
-        }, 
+          session: "101", 
+          title: "Bereikbaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
+          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ", 
+          rechts : "![|max-height: 250px](img/Bereikbaaheid op peil.png) ",
+           spreker: "Johan Weggeman, Ministerie IenW"
+        },    
+        
+        
+
 
    { 
           session: "100", 
@@ -59,15 +61,7 @@ const data = {
           mouseover: "wordt interessant!"
         }, 
 
-      { 
-          session: "101", 
-          title: "Bereikaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
-          details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ", 
-          rechts : "![|max-height: 250px](img/Bereikbaaheid op peil.png) ",
-           spreker: "Johan Weggeman, Ministerie IenW"
-        },    
-        
-        
+
          { 
           session: "102", 
           title: "Nabijheid als sturend principe voor de ideale wijk", 
@@ -86,7 +80,13 @@ const data = {
             back : "img/scholierenroutes.png"
           }, 
 
-     
+           { 
+          session: "100", 
+          title: "Negen kansen voor bereikbaarheid", 
+          details: "Laat je bijpraten en denk mee over invulling van van deze overkoepelende snelstudie. We gaan ",
+          spreker: "Ronald Haverman en Sean van der Lee", 
+          mouseover: "wordt interessant!"
+        }, 
 
          { 
           session: "102", 
@@ -258,9 +258,9 @@ const data = {
           },  
                   { 
             session: "15", 
-            title: "Oranje deelfietsen van Donkey Republick In Zuid-Holland", 
-            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republick is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.",     
-            spreker: "Stijn van der Sluis, Donkey Republick", 
+            title: "Oranje deelfietsen van Donkey Republic In Zuid-Holland", 
+            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republic is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.",     
+            spreker: "Stijn van der Sluis, Donkey Republic", 
           },        
           
   
@@ -290,7 +290,7 @@ const data = {
 
        { 
           session: "102", 
-          title: "Fietsstimulerings app Da's zo gefietst", 
+          title: "Fietsstimuleringsapp Da's zo gefietst (hele middag in tuinzaal)", 
           details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
           rechts : "![|max-height: 250px](img/daszogefietst.png)",
           spreker: "Marloes Nonnekes"

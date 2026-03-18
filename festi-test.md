@@ -149,7 +149,7 @@ menu: |
     <div class="topImage" id="topI">
   <img src="img/festival2026laag.png" alt="Zuid-Holland" width="100%" height="auto" >
 </div>
-   <H1>Festival Bereikbaar</H1>
+   <H1>Festival Bereikbaar MD</H1>
    <p>Met "Dichtbij in Zuid-Holland" verkennen we de kracht van <i>bereikbaarheid door nabijheid</i><i></i>. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport. Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland.</p><p></p>Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a></p>
 </li>
 <br>
