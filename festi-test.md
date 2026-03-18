@@ -1,9 +1,15 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Festival Bereikbaar 24 maart 2026</title>
+---
+layout: pzh
+title: Kansen voor bereikbaarheid
+header_image: /mobiliteit/img/zandmotorstrand.jpg
+menu: |
+    <a href="/mobiliteit/snelstudie/werkwijzer.html">toelichting</a>
+    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
+
+---
+# Negen kansen voor bereikbaarheid<!DOCTYPE html>
+
+ 
   <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
   <script src="scr/parse.js"></script>
 
@@ -135,7 +141,7 @@
 }
 
   </style>
-</head>
+
 <body>
     <div class="center">
     <img src="img/PZHlogo253x84.png" alt="Provincie Zuid-Holland logo" width="253" height="84">

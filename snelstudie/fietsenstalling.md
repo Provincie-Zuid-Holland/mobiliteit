@@ -182,6 +182,13 @@ Aan de andere kant hebben we de jaarabonnementen. Voor een relatief laag bedrag 
     <td>€ 96 </td>
     <td>3 euro voor eerste 20 minuten (tarieven Utrecht feb 2026). Op basis van 15 minuten naar werk fietsen en weer terug in een 4 daagse werkweek (*bij deze tarieven is een overheidsbijdrage van toepassing).</td>
  </tr>
+   <tr>
+    <td>Voi Gooi en Vecht (binnenkort)</td>
+    <td>€ 5,50 </td>
+    <td>€ 42 </td>
+    <td>VoiPass: €10,- per maand dan kost elk ritje tot 20 min €1. Dus 2 ritjes op een werkdag is €2. Dus 16x per maand is €32 + €10 = €42 per maand (*bij deze tarieven is een overheidsbijdrage van toepassing)</td>
+ </tr>
+
  <tr>
    <td>Felyx Delft</td>
     <td>€ 8,50 </td>
