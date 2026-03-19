@@ -40,6 +40,21 @@ Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. E
 - Toegang is gratis, wel even [aanmelden](https://festivalbereikbaarzuid-holland.pzh-events.nl/).
 - Sprekers kunnen zich net als ‘reguliere’ bezoekers melden bij de registratiebalie.
 
+## De zalen 
+(C1 = 1e etage, tussen haakjes aantal zitplekken, je kunt er vaak stoelen bijtrekken of een paar mensen staan)
+- Evenementenhal C0 
+- Tuinzaal C2
+- Marnixpassage (90)
+- Commissiezaal C1 (52)
+- Arentsburg C0 (25)                
+- Schoonoord C0 (25)         
+- Duivenvoorde C1 (20)   
+- Eemwijk C1(16)              
+- Dordwijk C1 (16)
+- Cromvliet C1 (16)
+- Clingendael C0 (12)
+- Hofwijk C0 (12)
+
 
 Nog onduidelijkheden? Of wil je gewoon even ergens over overleggen? Neem gerust contact met ons op!
 Wij hebben er zin in!!

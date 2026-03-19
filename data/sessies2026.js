@@ -263,7 +263,31 @@ const data = {
             spreker: "Stijn van der Sluis, Donkey Republic", 
           },        
           
-  
+                { 
+          session: "102", 
+          title: "Hoe kom je op je werk in de Rotterdamse haven? Hoe helpt Zuid-Holland Bereikbaar hierbij?", 
+          details: "...tekst volgt..", 
+          //rechts : "![|max-height: 250px](img/daszogefietst.png)",
+          spreker: "Edo Haitsma (Zuid-Holland Bereikbaar)"
+        }, 
+
+ 
+          { 
+            session: "22", 
+            title: " (resultaten van hackathon)", 
+            details: " ",
+            spreker: "Stefan de Konink en anderen van OpenOV", 
+          }, 
+
+       { 
+          session: "102", 
+          title: "Fietsstimuleringsapp Da's zo gefietst (hele middag in tuinzaal)", 
+          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
+          rechts : "![|max-height: 250px](img/daszogefietst.png)",
+          spreker: "Marloes Nonnekes"
+        }, 
+
+
           { 
             session: "15", 
             title: "Goederen", 
@@ -281,30 +305,6 @@ const data = {
             details: "De afgelopen jaren is het begrip ‘brede welvaart’ in opmars. Daarbij is de vraag hoe je zoiets toepast in gemeentelijk of provinciaal mobiliteitsbeleid. ", 
             spreker: "....", 
           }, 
-          { 
-            session: "22", 
-            title: " (resultaten van hackathon)", 
-            details: " ",
-            spreker: "Stefan de Konink en anderen van OpenOV", 
-          }, 
-
-       { 
-          session: "102", 
-          title: "Fietsstimuleringsapp Da's zo gefietst (hele middag in tuinzaal)", 
-          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
-          rechts : "![|max-height: 250px](img/daszogefietst.png)",
-          spreker: "Marloes Nonnekes"
-        }, 
-
-               { 
-          session: "102", 
-          title: "Hoe kom je op je werk in de Rotterdamse haven? Hoe helpt Zuid-Holland Bereikbaar hierbij?", 
-          details: "...tekst volgt..", 
-          //rechts : "![|max-height: 250px](img/daszogefietst.png)",
-          spreker: "Edo Haitsma (Zuid-Holland Bereikbaar)"
-        }, 
-
-
         null
       ]
     };
