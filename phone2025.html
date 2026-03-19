@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sessies Tabel</title>
-  <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
-  <script src="scr/parse.js"></script>
+  <script src="data/sessiedata.js"></script> <!-- JSON-data wordt ingeladen -->
+  <script src="scr/parseW.js"></script>
 
   <style>
         body {    color: #281f6b;
@@ -150,7 +150,7 @@
 
     // Functie om de pop-up te tonen
     function showPopup(session) {
-      sessieHTML = parse(session.details)
+      sessieHTML = parseW(session.details)
   
       document.getElementById('popupTitle').textContent = session.title;
       document.getElementById('popupDetails').innerHTML = sessieHTML;

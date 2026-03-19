@@ -133,7 +133,7 @@ const data = {
           session: "102", 
           title: "Hoe jij mee kunt bouwen aan het laadnetwerk van morgen", 
           details: "De Regionale Aanpak Laadinfrastructuur (RAL) Zuidwest bouwt aan een dekkend laadnetwerk langs de belangrijkste wegtrajecten in onze regio, speciaal gericht op logistieke voertuigen. Dit doen we **samen** met gemeenten, omdat juist op lokaal niveau de ruimte, vergunningen en de koppeling met gebiedsontwikkeling worden bepaald. Met ons uitvoeringsplan corridorladen stemmen we alle initiatieven in Zuid-Holland en Zeeland op elkaar af. Zo zorgen we ervoor dat zware vrachtwagens en bakwagens ook langs de hoofdwegen en in logistieke knooppunten kunnen laden. Dat geeft een impuls aan zero-emissietransport én helpt lokale ondernemers, vervoerders en uitvoerders van emissievrije bouwprojecten vooruit.<br><br><ul><li>Zero-emissie transport is de toekomst, en met een goed dekkend laadnetwerk maken we dit mogelijk voor zware vrachtwagens en bakwagens.</li><li>Gemeenten zijn onmisbaar: Jullie bepalen de locaties, vergunningen en koppeling met gebiedsontwikkeling. Samen zorgen we voor een netwerk dat echt werkt.</li><li>•	Samenwerking loont: Door initiatieven in Zuid-Holland en Zeeland op elkaar af te stemmen, creëren we een krachtig en toekomstbestendig laadnetwerk.</li></ul>", 
-          rechts : "![|max-height: 250px](img/daszogefietst.png)",
+          rechts : "![|max-height: 250px](img/ral.jpg)",
             zaal: "Marnixpassage", 
             tijd: "15:05 - 15:25",           
           spreker: "'Jolijn van Dijk & Hans Mulder"

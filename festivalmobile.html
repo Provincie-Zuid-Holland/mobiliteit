@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Festival Bereikbaar 24 maart 2026</title>
+  <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
+  <script src="scr/parse.js"></script>
+
+  <style>
+        body {    color: #281f6b;
+      font-family: Sans-serif;}
+
+    H1 {
+  font-family: "Karbon", Sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 1em;
+}
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    .popup {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 20px;
+      border: 2px solid #333;
+      background: #c6a410;
+      z-index: 1000;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+      width: 90%;
+      max-height: 90vh;
+      overflow-y: auto;
+      border-radius: 10px;
+    }
+    .popup h2 {
+      margin-top: 0;
+    }
+    .popup .close {
+      display: block;
+      margin-top: 10px;
+      text-align: right;
+      color: #007bff;
+      cursor: pointer;
+    }
+    #overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 999;
+    }
+    .dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.dark-mode table {
+  border: 1px solid white;
+}
+
+.dark-mode th, 
+.dark-mode td {
+  border: 1px solid white;
+  color: white;
+}
+
+.dark-mode th {
+  background-color: #222;
+}
+
+.dark-mode tr:hover {
+  background-color: #333;
+}
+
+.dark-popup {
+  background: #c6a410 !important; /* Geelachtige achtergrond */
+  color: black !important; /* Zwarte tekst voor contrast */
+  width: 90vw !important;
+  height: 90vh !important;
+  position: fixed !important;
+  top: 5% !important;
+  left: 5% !important;
+  padding: 20px !important;
+  border-radius: 10px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5) !important; /* Mooie schaduw */
+  border: 2px solid black !important;
+}
+
+#popupContent {
+    display: flex;
+    gap: 20px;
+}
+
+.popup-left {
+    flex: 1;
+}
+
+.popup-right {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#immage {
+    max-width: 100%;
+    height: auto;
+}
+
+.session-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+}
+
+.session-meta {
+    margin-top: 0.25rem;
+    color: #333;
+    font-size: 0.95rem;
+}
+
+.desktop-only {
+    display: table-cell;
+}
+
+/* Smartphone / smalle schermen */
+@media (max-width: 600px) {
+    #popupContent {
+        flex-direction: column;
+    }
+
+    #sessionsList thead {
+        display: none;
+    }
+
+    #sessionsList, #sessionsList tbody, #sessionsList tr, #sessionsList td {
+        width: 100%;
+        display: block;
+    }
+
+    #sessionsList tr {
+        border: 1px solid #ddd;
+        margin-bottom: 10px;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    #sessionsList td {
+        border: none;
+        padding: 10px;
+    }
+
+    #sessionsList td.session-main {
+        background: #fff;
+    }
+
+    .desktop-only {
+        display: none;
+    }
+
+    .popup {
+        width: 95vw !important;
+        height: 95vh !important;
+        max-height: 95vh !important;
+        top: 2.5% !important;
+        left: 2.5% !important;
+        transform: none !important;
+        overflow-y: auto !important;
+    }
+}
+
+  </style>
+</head>
+<body>
+    <div class="center">
+    <img src="img/PZHlogo253x84.png" alt="Provincie Zuid-Holland logo" width="253" height="84">
+    <div>
+    <div class="topImage" id="topI">
+  <img src="img/festival2026laag.png" alt="Zuid-Holland" width="100%" height="auto" >
+</div>
+   <H1>Festival Bereikbaar.</H1>
+   <p>Met "Dichtbij in Zuid-Holland" verkennen we de kracht van <i>bereikbaarheid door nabijheid</i><i></i>. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport. Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland.</p><p></p>Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>. ALS AANMELDEN NIET MEER LUKT BEN JE ALSNOG WELKOM ALS JE ONS MAILT (zie onder aan de pagina)  <a href="festival-sprekers-info" target="_blank">(hier meer info voor sprekers)</a>.</p>
+</li>
+<br>
+  <table>
+   <thead>
+      <th>tijd</th>
+        <th>programma</th>
+
+    </thead>
+
+  <tbody>
+    <tr>
+      <td>13:00</td>
+      <td>Ontvangst met koffie en thee</td>
+    </tr>  
+    <tr>
+      <td>13:30</td>
+      <td>Aftrap met Christel Mourik (directeur MRDH) en Irma Kenter (domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport Provincie Zuid-Holland)</td>
+    </tr>   
+    <tr>
+      <td>13:40</td>
+      <td>Overzicht van deelsessies (deel 1)</td>
+    </tr>       
+    <tr>
+      <td>14:00</td>
+      <td>Provincie en regio's in gesprek over hinder van werkzaamheden en kansen die bereikbaarheid kan bieden voor de grote uitdagingen op gebied van ruimelijke ordening en woningbouw. Met Saskia Platenkamp (Drechtsteden), Raymond van Keerbergen (MRDH), Frans Jan Douglas (Holland Rijnland/gem. Leiden) en Broer Duursma (provincie)</td>
+    </tr>
+    <tr>
+      <td>14:15</td>
+      <td>overzicht rest van deelsessies</td>
+    </tr>
+        <tr>
+      <td>14:30</td>
+      <td>Parallelsessies; meer dan 25 in verschillende rondes verdeeld over tien zalen (zie hieronder)</td>
+    </tr>
+        <tr>
+      <td>16:30</td>
+      <td>Gedeputeerden Jeroen van Dijken (bereikbaarheid) & Arno Bonte (ruimtelijke ordening) blikken terug op de samenhang van ruimtelijke inrichting en bereikbaarheid. Gevolgd door Feestelijke netwerkborrel</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<p>Je kunt uit meer dan 25 deelsessies kiezen. Neem hieronder alvast een kijkje. Keuze stress? Geen zorgen: Je kiest op de middag gewoon zelf waar je heen wilt. Je hoeft je niet voor sessies aan te melden.</p>
+<br>
+
+  <table id="sessionsList">
+    <thead>
+       <th>Session</th>
+        <th class="desktop-only">Spreker</th>
+        <th class="desktop-only">Zaal <a href="festival.html?sort=zaal">(sort)</a></th>
+    </thead>
+    <tbody id="sessionsTable">
+      <!-- Dynamische rijen worden hier toegevoegd -->
+    </tbody>
+  </table>
+<br>
+
+<h2>Praktisch</h2>
+<ul>
+<li> Dinsdag 24 maart 2026. Inloop om 13 uur. Start programma 13:30</li>
+<li> Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag)</li>
+<li> Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>
+</li>
+</ul>
+<br>
+
+  <!-- Pop-up -->
+  <div id="overlay"></div>
+  <div class="popup" id="sessionPopup">
+    <h2 id="popupTitle"></h2>
+    <div id="popupContent">
+      <div class="popup-left">
+              <p id="popupTimeContainer"><strong>Tijd:</strong> <span id="popupTime"></span> <strong>Zaal:</strong>  <span id="popupRoom"></span></p>
+              <p id="popupRoomContainer"> </p>
+              <p id="popupSpeakerContainer"><strong>Spreker:</strong> <span id="popupSpeaker"></span></p>
+              <p id="popupDetails"></p>
+          </div>
+      <div class="popup-right">
+        <p id="popupRechts"></p>
+      </div>
+    </div>   
+    <span class="close" onclick="closePopup()">Sluiten</span>
+  </div>
+
+  <script>
+ if (getQueryParam('mode') === 'dark') {
+  document.body.classList.add('dark-mode');
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const popup = document.getElementById("popup");
+    if (popup) {
+      popup.classList.add("dark-popup");
+    }
+  });
+
+  // Zorg dat de pop-up correct de class krijgt bij elke klik
+  document.addEventListener("click", function (event) {
+    const popup = document.getElementById("popup");
+    if (popup && popup.style.display === "block") {
+      popup.classList.add("dark-popup");
+    }
+  });
+}
+
+
+
+    // Functie om de URL-parameter op te halen
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
+    function sortSessions(sessions) {
+  return sessions
+    .filter(session => session !== null) // Verwijder null-waardes vóór het sorteren
+    .sort((a, b) => {
+      if (!a || !b) return 0; // Extra check om fouten te voorkomen
+
+      const sortParam = getQueryParam('sort');
+
+      if (sortParam === 'zaal') {
+        const zaalA = a.zaal || "ZZZ"; // Lege zaal naar onderen
+        const zaalB = b.zaal || "ZZZ";
+        if (zaalA !== zaalB) return zaalA.localeCompare(zaalB);
+
+        // Binnen dezelfde zaal, sorteer op tijd als string
+        const tijdA = a.tijd || "99:99"; 
+        const tijdB = b.tijd || "99:99";
+        return tijdA.localeCompare(tijdB);
+      }
+
+      // if (sortParam === 'tijd') 
+      else
+      {
+        const tijdA = a.tijd || "99:99"; // Laat lege tijden onderaan staan
+        const tijdB = b.tijd || "99:99";
+        return tijdA.localeCompare(tijdB);
+      }
+
+      return 0; // Geen sortering als geen geldige parameter is opgegeven
+    });
+}
+
+
+    // Functie om de tabel te genereren
+    function generateTable() {
+      const tableBody = document.getElementById('sessionsTable');
+      const sortedSessions = sortSessions([...data.sessions]); // Kopie van array maken
+
+      sortedSessions.forEach((session) => {
+        if (session) {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+           <td class="session-main">
+             <div class="session-title">${session.title || ''}</div>
+             <div class="session-meta">${session.tijd || ''}${(session.tijd && session.zaal) ? ' - ' : ''}${session.zaal || ''}</div>
+           </td>
+           <td class="desktop-only">${session.spreker || ''}</td>
+           <td class="desktop-only">${session.zaal || ''}</td>
+         `;
+
+          row.addEventListener('click', () => showPopup(session));
+          tableBody.appendChild(row);
+        }
+      });
+    }
+
+    // Functie om de pop-up te tonen
+    function showPopup(session) {
+      sessieHTML = parse(session.details)
+      if (session.rechts) { sessieHTMLrechts =   parse(session.rechts)} else {sessieHTMLrechts = ""}  
+
+      document.getElementById('popupTitle').textContent = session.title;
+      document.getElementById('popupDetails').innerHTML = sessieHTML;
+      document.getElementById('popupRechts').innerHTML = sessieHTMLrechts;
+
+      document.getElementById('popupTimeContainer').style.display = session.tijd ? 'block' : 'none';
+      document.getElementById('popupTime').textContent = session.tijd || '';
+
+      document.getElementById('popupRoomContainer').style.display = session.zaal ? 'block' : 'none';
+      document.getElementById('popupRoom').textContent = session.zaal || '';
+
+      document.getElementById('popupSpeakerContainer').style.display = session.spreker ? 'block' : 'none';
+      document.getElementById('popupSpeaker').innerHTML = session.spreker || '';
+
+      document.getElementById('sessionPopup').style.display = 'block';
+      document.getElementById('overlay').style.display = 'block';
+    }
+
+    // Functie om de pop-up te sluiten
+    function closePopup() {
+      document.getElementById('sessionPopup').style.display = 'none';
+      document.getElementById('overlay').style.display = 'none';
+    }
+
+    // Sluit pop-up bij klikken op de overlay
+    document.getElementById('overlay').addEventListener('click', closePopup);
+
+    // Wacht tot de JSON is ingeladen en genereer dan de tabel
+    window.onload = generateTable;
+    document.addEventListener("DOMContentLoaded", function () {
+  const sessionName = getQueryParam("s"); // Haal de sessienaam uit de URL
+
+  if (sessionName) {
+    console.log("Zoek de sessie in de JSON data")
+    // Zoek de sessie in de JSON data
+    const session = sessions.find(s => s && s.session === sessionName);
+
+    if (session) {
+      showPopup(session); // Open de pop-up als de sessie bestaat
+    }
+  }
+});
+  </script>
+</body>
+</html>
