@@ -88,6 +88,8 @@ const data = {
           details: "Stel je voor: een stad waar deelmobiliteit niet alleen draait om een app, maar om de kunst van het onderhouden. Waar we parkeerplaatsen niet alleen inruilen voor groen, maar voor lokale herstelkracht.<br><br>In deze sessie dagen we mobiliteitsprofessionals uit om met een 'reparatie-bril' naar de straat te kijken. We verkennen de synergie tussen zachte mobiliteit en de circulaire buurt. Want wat heb je aan een fietsstad als niemand meer weet hoe je een band plakt, of aan een autoluwe wijk als de weg naar de hersteller te lang is?<br><br>We bespreken hoe we reparatiepunten kunnen inzetten als strategische knooppunten (hubs) die niet alleen producten redden, maar ook de sociale verbinding en de lokale logistiek versterken.",
           rechts : "![|max-height: 350px](img/Vanmobiliteitshubnaarherstelhub.png)",
           spreker: "Nienke Schuil, Regisseur Ruimtelijke Ontwikkeling bij Natuur en Milieufederatie Zuid-Holland", 
+          zaal: "Eemwijk", 
+          tijd: "15:35- 15:55",
           mouseover: "wordt interessant!"
         }, 
 
@@ -112,6 +114,8 @@ const data = {
             details: "Denk mee, deel uw ervaring en laat u inspireren over de rol van de fiets in Zuid-Holland. Goede bereikbaarheid is belangrijk voor vitale steden en dorpen. In Zuid-Holland staat die bereikbaarheid onder druk. Dat heeft ook gevolgen voor de grote woningbouwopgave: tot 2030 moeten er 230.000 woningen bijkomen. De vraag is: wat kan de fiets hieraan bijdragen? De fiets kan zorgen voor betere bereikbaarheid, zeker op korte afstanden. Wij werken aan nieuw provinciaal fietsbeleid. Daarbij richten we ons op belangrijke bouwstenen, zoals doorfietsroutes, fietsveiligheid en goede fietsparkeervoorzieningen. ", 
             rechts : "![|max-height: 250px](img/kaartdoorfietsroutes2024-2.jpg)", 
             spreker: "Wiesje Hofstede en Ron van Noortwijk", 
+                      zaal: "Eemwijk", 
+          tijd: "15:05- 15:25",
             back : "img/scholierenroutes.png"
           }, 
 
@@ -206,7 +210,9 @@ const data = {
             session: "15", 
             title: "Interventies in de stad - Bewegend bos", 
             details: "Tussen 2023 en 2025 trokken 150 bomen door de straten van Dordrecht. Elke maand transformeerde het project een andere straat: auto’s maakten plaats voor ademruimte, kinderen speelden en buren raakten met elkaar in gesprek. Na afloop evalueren we samen wat er permanent kan blijven.<br><br> In deze sessie delen we de lessen uit dit project. We bespreken thema’s als verbeelding, confrontatie, verbinding en activatie. Centraal staat de vraag: Hoe ontwerp je een effectieve interventie? [www.bewegendbos.nl](https://bewegendbos.nl).", 
-            rechts : "![|max-height: 250px](img/bewegendBos.png)",            
+            rechts : "![|max-height: 250px](img/bewegendBos.png)",    
+                      zaal: "Dorwijk", 
+          tijd: "15:05- 15:25",            
             spreker: "Jip Schelling (Advier)", 
           },    
  
@@ -217,8 +223,8 @@ const data = {
           title: "Ontdek de economische waarde van fietsers en voetgangers", 
           details: "Hoe beïnvloeden bezoekersstromen, vervoerskeuzes en bereikbaarheid de economische vitaliteit van onze centra? En wat betekent dit voor Den Haag – zowel in het centrum als aan de kust?<br><br>Tijdens deze bijeenkomst nemen we je mee in de inzichten uit het verplaatsings- en bestedingenonderzoek, gebaseerd op onderzoek in bijna 50 centrumgebieden in Nederland en Vlaanderen. Dit onderzoek laat zien hoe verschillende vervoerswijzen bijdragen aan economische waarde. De resultaten bieden duidelijke handvatten voor gemeenten: autoluw beleid hoeft geen economische schade te veroorzaken. Het onderzoek helpt om mobiliteitskeuzes direct te verbinden aan economische vitaliteit én leefbaarheid. Speciaal voor deze bijeenkomst zoomen we in op de conclusies voor het centrum van Den Haag en de Haagse Kust.<br><br>Voor meer info:	https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen-2025 [Verplaatsings- en Bestedingsonderzoek 2024 Platform Binnenstadmanagement](https://binnenstadsmanagement.org/onderzoeken-relatie-mobiliteit-bestedingen  _blank)", 
           rechts : "![|max-height: 250px](img/416-oostende-bron-nick-decombel-fotografie.jpg)",
-                      zaal: "Commissiezaal", 
-            tijd: "16:00- 16:20", 
+          zaal: "Commissiezaal", 
+          tijd: "16:00- 16:20", 
            spreker: "Marco Duijnisveld (Movares) en met Rina Adriani (gemeente Den Haag)"
         },     
  
@@ -227,6 +233,8 @@ const data = {
           title: "One size fi(e)ts all? Fietsparkeeroplossingen voor Delft", 
           details: "Binnensteden staan voor de opgave om een groeiend aantal fietsen zo dicht mogelijk bij bestemmingen te faciliteren, zonder dat dit ten koste gaat van verblijfskwaliteit en toegankelijkheid. Hiervoor is geen 'one size fi(e)ts all'-oplossing voor fietsparkeren want een binnenstad bestaat uit gebieden met verschillende kenmerken. Hoe voorkom je verrommeling van het straatbeeld in winkelstraten met kleine historische gebouwen of grotere moderne gebouwen? En hoe faciliteer je fietsers die graag naar een centrale locatie zoals een plein of horeca-gebied komen? In deze sessie delen we de lessen uit een verkenningsstudie in de gemeente Delft uitgevoerd door Movares in 2025. We laten zien hoe verschillende typen binnenstedelijke zoekgebieden vragen om verschillende oplossingen en afwegingen.", 
           rechts : "![|max-height: 250px](img/Binnenstad_Delft_Markt_fietsen langs Oud Stadhuis1.jpeg)  ",
+          zaal: "Eemwijk", 
+          tijd: "14:40- 15:00", 
           spreker: "Mirjam van Oers (Gemeente Delft) en Nao Steenmetz (Movares)"
         }, 
 
@@ -236,6 +244,8 @@ const data = {
           title: "ANWB AutoMaatje, dorpsgenoten vervoeren dorpsgenoten", 
           details: "Bij ANWB AutoMaatje rijden inwoners met hun eigen auto tegen een kleine onkostenvergoeding minder mobiele mensen naar bijvoorbeeld het ziekenhuis, de kapper of familie. Zo blijven ze vaker onderweg komen ze weer (meer) onder de mensen. Meer informatie: [site Automaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/anwb-automaatje _blank). Klik voor een [korte video](https://www.youtube.com/shorts/aL5Nhe89OvY)",
            rechts : "![|max-height: 250px](img/anwb-automaatje.jpg) ",
+           zaal: "Cromvliet", 
+          tijd: "14:40- 15:00",          
           spreker: "Joske van Lith, ANWB AutoMaatje"
         }, 
 
@@ -246,6 +256,8 @@ const data = {
           rechts : "![|max-height: 250px](/mobiliteit/kansen/img/ipo-dova_praatplaat_publieke_mobiliteit.jpg) ",
           zaal: "Marnixpassage", 
           tijd: "15:35 - 15:55", 
+          rechts : "![|max-height: 250px](kansen/img/ipo-dova_praatplaat_publieke_mobiliteit.jpg) ",
+
           spreker: "Claudia de Koning (MRDH"
         }, 
 
@@ -267,6 +279,8 @@ const data = {
             title: "Samen werken & samen rijden (carpoolen) met Nabogo", 
             details: "Tobias van Muijden van [Nabogo](https://nabogo.com/nl/), verkent in zijn sessie hoe ketenreizen het combineren van verschillende vervoersmiddelen en het bieden van extra mobiliteitsopties bijdragen aan het oplossen van de groeiende mobiliteitsuitdagingen in Nederland, zoals mobiliteitsarmoede, files en parkeerproblemen. Hij benadrukt de kracht van samenwerking tussen vervoerders, overheden en technologiepartners, met als voorbeeld de samenwerking tussen Nabogo en Qbuzz.", 
           rechts : "![|max-height: 250px](https://nabogo.com/wp-content/uploads/2022/11/Group-22-min.png)", 
+          zaal: "Cromvliet", 
+          tijd: "15:05- 15:25",    
             spreker: "Tobias van Muijden (Nabogo)", 
              
           }, 
@@ -297,15 +311,19 @@ const data = {
             title: "Bakfietsen om te delen en om eten mee te bezorgen", 
             details: "...    [Website van Deelfiets Nederland](https://www.deelfietsnederland.nl/)", 
           rechts : " ![|max-height: 250px](https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg)", 
-            zaal: "", 
-            spreker: "Oumar Sylla (van Deelfiets Nederland)", 
-            tijd: "",           
+          zaal: "Cromvliet", 
+          tijd: "16:00- 15:20",    
+            spreker: "Oumar Sylla (van Deelfiets Nederland)"
+       
 
           },  
                   { 
             session: "15", 
             title: "Oranje deelfietsen van Donkey Republic In Zuid-Holland", 
-            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republic is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.",     
+            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republic is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.", 
+          zaal: "Cromvliet", 
+          tijd: "15:35- 15:55",            
+          rechts: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)",   
             spreker: "Stijn van der Sluis, Donkey Republic", 
           },        
           
@@ -322,9 +340,11 @@ const data = {
  
           { 
             session: "22", 
-            title: " (resultaten van hackathon)", 
+            title: "Resultaten van hackathon", 
             details: " ",
             spreker: "Stefan de Konink en anderen van OpenOV", 
+                      zaal: "Hofwijk", 
+          tijd: "16:00-16:20",    
           }, 
 
        { 
@@ -340,9 +360,11 @@ const data = {
 
           { 
             session: "15", 
-            title: "Goederen", 
+            title: "Goederen onder voorbehoud", 
             details: "]", 
                       spreker: "...", 
+                                tijd: "z", 
+
           },         
         
  
@@ -351,9 +373,11 @@ const data = {
 
           { 
             session: "21", 
-            title: "Brede welvaart ", 
+            title: "Brede welvaart (onder voorbehoud) ", 
             details: "De afgelopen jaren is het begrip ‘brede welvaart’ in opmars. Daarbij is de vraag hoe je zoiets toepast in gemeentelijk of provinciaal mobiliteitsbeleid. ", 
             spreker: "....", 
+                      tijd: "z", 
+
           }, 
         null
       ]

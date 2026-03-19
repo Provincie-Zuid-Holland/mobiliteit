@@ -191,11 +191,10 @@
 
   <table>
     <thead>
-
+       <th>Tijd</th>
         <th>Sessies - klik op een regel voor meer info</th>
         <th>spreker</th>
- <th>Tijd</th>
-<th>Zaal</th>
+        <th>Zaal <a href="festival.html?sort=zaal">(sort)</a></th>
     </thead>
     <tbody id="sessionsTable">
       <!-- Dynamische rijen worden hier toegevoegd -->
@@ -277,7 +276,9 @@
         return tijdA.localeCompare(tijdB);
       }
 
-      if (sortParam === 'tijd') {
+      // if (sortParam === 'tijd') 
+      else
+      {
         const tijdA = a.tijd || "99:99"; // Laat lege tijden onderaan staan
         const tijdB = b.tijd || "99:99";
         return tijdA.localeCompare(tijdB);
@@ -297,11 +298,10 @@
         if (session) {
           const row = document.createElement('tr');
           row.innerHTML = `
-            <td>${session.title}</td>
+           <td>${session.tijd || ''}</td> 
+           <td>${session.title}</td>
             <td>${session.spreker || ''}</td>
 
-   
-            <td>${session.tijd || ''}</td> 
            <td>${session.zaal || ''}</td>
          `;
 
