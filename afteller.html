@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afteller</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        #timer {
+            font-size: 8rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="timer">--</div>
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        function startCountdown(seconds) {
+            const timerEl = document.getElementById('timer');
+            let remaining = Math.max(0, Math.floor(seconds));
+
+            function update() {
+                if (remaining <= 0) {
+                    timerEl.textContent = '0';
+                    document.body.style.backgroundColor = 'black';
+                    return;
+                }
+
+                timerEl.textContent = String(remaining);
+                document.body.style.backgroundColor = remaining <= 5 ? 'red' : 'black';
+                remaining -= 1;
+                setTimeout(update, 1000);
+            }
+
+            update();
+        }
+
+        const sRaw = getQueryParam('s');
+        const seconds = Number(sRaw);
+
+        if (!sRaw || Number.isNaN(seconds) || seconds < 0) {
+            document.getElementById('timer').textContent = 'Voer param s=30 in';
+        } else {
+            startCountdown(seconds);
+        }
+    </script>
+</body>
+</html>

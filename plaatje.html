@@ -12,10 +12,14 @@
         html, body {
             margin: 0;
             padding: 0;
-            background: none;
-        }
-        body {
+            background-color: white;
             min-height: 100vh;
+        }
+        #content img {
+            max-height: 800px;
+            width: auto;
+            height: auto;
+            display: block;
         }
     </style>
 </head>
@@ -28,7 +32,13 @@
         }
 
         function displaySession() {
-            const sessionName = getQueryParam('s');
+            let sessionName = getQueryParam('s');
+
+            // iframe fallback: als geen parameter meegegeven, show eerste sessie
+            if (!sessionName && window.self !== window.top && data.sessions.length > 0) {
+                sessionName = data.sessions[0].session;
+            }
+
             if (!sessionName) {
                 document.body.innerHTML = '<h1>Sessie niet gevonden</h1>';
                 return;
@@ -37,7 +47,7 @@
             const session = data.sessions.find(s => s.session === sessionName);
             if (session && session.plaatje) {
                 document.getElementById('content').innerHTML =
-                    `<img src="${session.plaatje}" style="max-height:600px; width:auto; height:auto; display:block;" alt="Sessie plaatje" />`;
+                    `<img src="${session.plaatje}" alt="Sessie plaatje" />`;
             } else {
                 document.body.innerHTML = '<h1>Sessie niet gevonden</h1>';
             }
