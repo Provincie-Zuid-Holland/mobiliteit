@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sessie Details</title>
     <script src="data/sessies2026.js"></script>
+    <script src="scr/parse.js"></script>
+
     <style>
         body {
             background-color: #c6a410;
@@ -20,7 +22,7 @@
     <h1 id="title"></h1>
     <p><strong>Spreker:</strong> <span id="spreker"></span></p>
     <p><strong>Tijd & Zaal:</strong> <span id="tijdzaal"></span></p>
-     
+     <span id="content"></span>
     <script>
         function getQueryParam(param) {
             const urlParams = new URLSearchParams(window.location.search);
@@ -29,6 +31,7 @@
 
         function displaySession() {
             const sessionName = getQueryParam('s');
+                const showPlaatje = getQueryParam('p') === '1';
             if (!sessionName) return;
 
             const session = data.sessions.find(s => s.session === sessionName);
@@ -36,6 +39,9 @@
                 document.getElementById('title').textContent = session.title;
                 document.getElementById('spreker').textContent = session.spreker;
                 document.getElementById('tijdzaal').textContent = `${session.tijd} - ${session.zaal}`;
+                if (showPlaatje && session.rechts) {
+                document.getElementById('content').innerHTML = 'xx'+ parse(session.rechts);
+                }
             } else {
                 document.body.innerHTML = '<h1>Sessie niet gevonden</h1>';
             }

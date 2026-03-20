@@ -123,7 +123,7 @@ const data = {
           session: "11", 
           title: "Negen kansen voor bereikbaarheid", 
           details: "Laat je bijpraten en denk mee over invulling van van deze overkoepelende snelstudie. We gaan ",
-          spreker: "Ronald Haverman en Sean van der Lee", 
+          spreker: "Sean van der Lee en Ronald Haverman", 
                       zaal: "Schoonoord", 
             tijd: "15:30- 15:55", 
           mouseover: "wordt interessant!"
@@ -276,7 +276,7 @@ const data = {
 
                  { 
             session: "26", 
-            title: "Samen werken & samen rijden (carpoolen) met Nabogo", 
+            title: "Samen werken & samen rijden (carpoolen) met Nabogo - 1000 ritten in Noord-Holland Noord", 
             details: "Tobias van Muijden van [Nabogo](https://nabogo.com/nl/), verkent in zijn sessie hoe ketenreizen het combineren van verschillende vervoersmiddelen en het bieden van extra mobiliteitsopties bijdragen aan het oplossen van de groeiende mobiliteitsuitdagingen in Nederland, zoals mobiliteitsarmoede, files en parkeerproblemen. Hij benadrukt de kracht van samenwerking tussen vervoerders, overheden en technologiepartners, met als voorbeeld de samenwerking tussen Nabogo en Qbuzz.", 
           rechts : "![|max-height: 250px](https://nabogo.com/wp-content/uploads/2022/11/Group-22-min.png)", 
           zaal: "Cromvliet", 
