@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+     <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sessie Details</title>
+    <script src="data/sessies2026.js"></script>
+    <script src="scr/parse.js"></script>
+
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            background: none;
+        }
+        body {
+            min-height: 100vh;
+        }
+    </style>
+</head>
+<body>
+        <span id="content"></span>
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        function displaySession() {
+            const sessionName = getQueryParam('s');
+            if (!sessionName) {
+                document.body.innerHTML = '<h1>Sessie niet gevonden</h1>';
+                return;
+            }
+
+            const session = data.sessions.find(s => s.session === sessionName);
+            if (session && session.plaatje) {
+                document.getElementById('content').innerHTML =
+                    `<img src="${session.plaatje}" style="max-height:600px; width:auto; height:auto; display:block;" alt="Sessie plaatje" />`;
+            } else {
+                document.body.innerHTML = '<h1>Sessie niet gevonden</h1>';
+            }
+        }
+
+        window.onload = displaySession;
+    </script>
+</body>
+</html>
