@@ -17,8 +17,8 @@ const data = {
             session: "2", 
             title: "Ervaar zelf hoe het is om dronken op een fiets te zitten met een 3D Tripping Bike - hele middag", 
             details: "Durf jij het aan om te kijken wat er gebeurt als jij gaat appen of bellen tijdens het fietsen? Of flink drinken voor je opstapt? Op een veilige manier kan jij tijdens deze campagne in onze fietssimulator ervaren wat de risico’s zijn.<br><br>Ook kun je gedurende de middag hier in gesprek met ROV Zuid-Holland over verkeersveiligheid.", 
-            rechts : "![|max-height: 250px](img/Dtrippingbike.jpg) ",
-            plaatje : "img/Dtrippingbike.jpg",
+            rechts : "![|max-height: 250px](img/3Dtrippingbike.jpg) ",
+            plaatje : "img/3Dtrippingbike.jpg",
 
             zaal: "Tuinzaal", 
             tijd: "doorlopend", 
@@ -78,7 +78,7 @@ const data = {
           },
       { 
           session: "7", 
-          title: "Bereikbaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden door ministerie IenW.", 
+          title: "Bereikbaarheid op peil: Wat betekent deze vibe-shift voor lokale overheden?", 
           details: "Voor iedereen in Nederland moeten onder meer zorg, onderwijs, winkels en werkplek goed bereikbaar zijn. Voor gemeenten betekent dit meer dan alleen een goed wegennet of openbaar vervoer: het gaat om de samenhang tussen ruimtelijke ordening, voorzieningenbeleid en mobiliteit.Laat je bijpraten<br><br>Om de bereikbaarheid in Nederland duurzaam op orde te houden, heeft het kabinet in 2025 het kabinetsstandpunt [Bereikbaarheid op peil](https://www.rijksoverheid.nl/documenten/rapporten/2025/03/14/bijlage-2-kabinetsstandpunt-en-achtergrondrapportage-bereikbaarheid-op-peil _blank) vastgesteld. Johan Weggeman bespreekt de regionale uitwerking en impact voor Zuid-Holland<br><br> ", 
           rechts : "![|max-height: 250px](img/Bereikbaaheid op peil.png) ",
             plaatje : "img/Bereikbaaheid op peil.png",
@@ -108,7 +108,7 @@ const data = {
 
          { 
           session: "9", 
-          title: "Een waardevolle reis (en wat eieren daar mee te maken hebben", 
+          title: "Een waardevolle reis (en wat eieren daar mee te maken hebben)", 
           details: "Stel je eens voor, een nieuwe wijk waar de nabijheid centraal staat en waar veel met een kwartiertje wandelen of fietsen te bereiken is. Hoe zou zo’n wijk eruit zien? Welke kansen zijn er om hier extra veel woningen te realiseren waar momenteel veel vraag naar is? In deze snelstudie kijken we een woningbouwlocaties die we in Zuid-Holland op het oog hebben toekomstgericht ingevuld kan worden door de principes van nabijheid, lopen en fietsen en ov als uitgangspunt te nemen. <br><br>Snelstudie in samenwerking met Haagse Hogeschool en Laboratorium verantwoorde mobiliteit.", 
           rechts : "![|max-height: 250px](img/TitelslideWorkshopSnelstudieTimenRuben.jpg)",
             plaatje : "img/TitelslideWorkshopSnelstudieTimenRuben.jpg",
@@ -135,6 +135,8 @@ const data = {
           title: "Negen kansen voor bereikbaarheid", 
           details: "Laat je bijpraten en denk mee over invulling van van deze overkoepelende snelstudie. We gaan ",
           spreker: "Sean van der Lee en Ronald Haverman", 
+          plaatje : "img/negenkansen.png",
+
                       zaal: "Schoonoord", 
             tijd: "15:30- 15:55", 
           mouseover: "wordt interessant!"
@@ -348,7 +350,7 @@ const data = {
                   { 
             session: "29", 
             title: "Oranje deelfietsen van Donkey Republic In Zuid-Holland", 
-            details: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)<br><br> Donkey Republic is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.", 
+            details: "Donkey Republic is een Deense deelfietsaanbieder die ook in Nederland actief is, waaronder in Zuid-Holland. Ze bieden een flexibel deelfietsconcept waarbij gebruikers via een app fietsen kunnen huren en delen. In deze sessie wordt ingegaan op de ervaringen en impact van Donkey Republick in Zuid-Holland, inclusief de voordelen van het gebruik van deelfietsen voor stedelijke mobiliteit en duurzaamheid.", 
           zaal: "Cromvliet", 
           tijd: "15:35- 15:55",            
           rechts: "![|max-height: 250px](snelstudie/img/deelfietsstudenten.jpg)",
@@ -387,18 +389,6 @@ const data = {
           spreker: "Marloes Nonnekes"
         }, 
 
-
-          { 
-            session: "33", 
-            title: "Goederen onder voorbehoud", 
-            details: "]", 
-                      spreker: "...", 
-                                tijd: "z", 
-
-          },         
-        
- 
- 
           
 
           { 
