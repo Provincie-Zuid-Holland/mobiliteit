@@ -17,6 +17,10 @@
   font-weight: 500;
   line-height: 1em;
 }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
     table {
       width: 100%;
       border-collapse: collapse;
@@ -157,6 +161,33 @@
     display: table-cell;
 }
 
+/* Plattegronden stijlen */
+.floor {
+    display: none;
+}
+.floor.active {
+    display: block;
+}
+.floor img {
+    max-width: 100%;
+    height: auto;
+}
+.floor-buttons {
+    margin-bottom: 10px;
+}
+.floor-buttons button {
+    margin-right: 10px;
+    padding: 8px 12px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.floor-buttons button.active {
+    background: #c6a410;
+    color: white;
+}
+
 /* Smartphone / smalle schermen */
 @media (max-width: 600px) {
     #popupContent {
@@ -177,6 +208,7 @@
         margin-bottom: 10px;
         border-radius: 8px;
         overflow: hidden;
+        min-height: 44px; /* Touch-friendly hoogte */
     }
 
     #sessionsList td {
@@ -203,17 +235,23 @@
     }
 }
 
+@media (max-width: 600px) {
+    H1 {
+        font-size: 32px;
+    }
+    body {
+        padding: 10px;
+    }
+}
+
   </style>
 </head>
 <body>
     <div class="center">
     <img src="img/PZHlogo253x84.png" alt="Provincie Zuid-Holland logo" width="253" height="84">
     <div>
-    <div class="topImage" id="topI">
-  <img src="img/festival2026laag.png" alt="Zuid-Holland" width="100%" height="auto" >
-</div>
-   <H1>Festival Bereikbaar.</H1>
-   <p>Met "Dichtbij in Zuid-Holland" verkennen we de kracht van <i>bereikbaarheid door nabijheid</i><i></i>. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport. Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland.</p><p></p>Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>. ALS AANMELDEN NIET MEER LUKT BEN JE ALSNOG WELKOM ALS JE ONS MAILT (zie onder aan de pagina)  <a href="festival-sprekers-info" target="_blank">(hier meer info voor sprekers)</a>.</p>
+   <H1>Festival Bereikbaar</H1>
+   <a href="festival-sprekers-info" target="_blank">(hier meer info voor sprekers)</a>.</p>
 </li>
 <br>
   <table>
@@ -230,7 +268,7 @@
     </tr>  
     <tr>
       <td>13:30</td>
-      <td>Aftrap met Christel Mourik (directeur MRDH) en Irma Kenter (domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport Provincie Zuid-Holland)</td>
+      <td>Aftrap met Christel Mourik en Irma Kenter</td>
     </tr>   
     <tr>
       <td>13:40</td>
@@ -238,7 +276,7 @@
     </tr>       
     <tr>
       <td>14:00</td>
-      <td>Provincie en regio's in gesprek over hinder van werkzaamheden en kansen die bereikbaarheid kan bieden voor de grote uitdagingen op gebied van ruimelijke ordening en woningbouw. Met Saskia Platenkamp (Drechtsteden), Raymond van Keerbergen (MRDH), Frans Jan Douglas (Holland Rijnland/gem. Leiden) en Broer Duursma (provincie)</td>
+      <td>Provincie en regio's in gesprek.</td>
     </tr>
     <tr>
       <td>14:15</td>
@@ -246,16 +284,16 @@
     </tr>
         <tr>
       <td>14:30</td>
-      <td>Parallelsessies; meer dan 25 in verschillende rondes verdeeld over tien zalen (zie hieronder)</td>
+      <td>Parallelsessies (zie hieronder)</td>
     </tr>
         <tr>
       <td>16:30</td>
-      <td>Gedeputeerden Jeroen van Dijken (bereikbaarheid) & Arno Bonte (ruimtelijke ordening) blikken terug op de samenhang van ruimtelijke inrichting en bereikbaarheid. Gevolgd door Feestelijke netwerkborrel</td>
+      <td>Gedeputeerden Jeroen van Dijken (bereikbaarheid) & Arno Bonte (ruimtelijke ordening) blikken terug. Gevolgd door Feestelijke netwerkborrel</td>
     </tr>
   </tbody>
 </table>
 <br>
-<p>Je kunt uit meer dan 25 deelsessies kiezen. Neem hieronder alvast een kijkje. Keuze stress? Geen zorgen: Je kiest op de middag gewoon zelf waar je heen wilt. Je hoeft je niet voor sessies aan te melden.</p>
+<p>Tap de sessie voor meer info. Je hoeft je niet aan te melden.</p>
 <br>
 
   <table id="sessionsList">
@@ -277,6 +315,15 @@
 <li> Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>
 </li>
 </ul>
+<br>
+
+<h2>Plattegronden</h2>
+<div class="floor-buttons">
+  <button onclick="showFloor(0)" class="active">Begane grond</button>
+  <button onclick="showFloor(1)">Eerste verdieping</button>
+</div>
+<div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond"></div>
+<div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping"></div>
 <br>
 
   <!-- Pop-up -->
@@ -417,6 +464,14 @@
         closePopup();
       }
     });
+
+    // Functie om verdieping te tonen
+    function showFloor(floor) {
+      document.querySelectorAll('.floor').forEach(f => f.classList.remove('active'));
+      document.querySelectorAll('.floor-buttons button').forEach(b => b.classList.remove('active'));
+      document.getElementById('floor' + floor).classList.add('active');
+      document.querySelectorAll('.floor-buttons button')[floor].classList.add('active');
+    }
 
     // Wacht tot de JSON is ingeladen en genereer dan de tabel
     window.onload = generateTable;

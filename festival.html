@@ -6,6 +6,12 @@
   <title>Festival Bereikbaar 24 maart 2026</title>
   <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
   <script src="scr/parse.js"></script>
+  <script>
+    // Controleer of het scherm smaller is dan 768px (mobiel) en redirect naar mobile versie
+    if (window.innerWidth < 768) {
+      window.location.href = 'festivalmobile.html';
+    }
+  </script>
 
   <style>
         body {    color: #281f6b;
@@ -134,6 +140,33 @@
     }
 }
 
+/* Plattegronden stijlen */
+.floor {
+    display: none;
+}
+.floor.active {
+    display: block;
+}
+.floor img {
+    max-width: 100%;
+    height: auto;
+}
+.floor-buttons {
+    margin-bottom: 10px;
+}
+.floor-buttons button {
+    margin-right: 10px;
+    padding: 8px 12px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.floor-buttons button.active {
+    background: #c6a410;
+    color: white;
+}
+
   </style>
 </head>
 <body>
@@ -209,6 +242,15 @@
 <li> Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>
 </li>
 </ul>
+<br>
+
+<h2>Plattegronden</h2>
+<div class="floor-buttons">
+  <button onclick="showFloor(0)" class="active">Begane grond</button>
+  <button onclick="showFloor(1)">Eerste verdieping</button>
+</div>
+<div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond"></div>
+<div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping"></div>
 <br>
 
   <!-- Pop-up -->
@@ -341,6 +383,14 @@
 
     // Sluit pop-up bij klikken op de overlay
     document.getElementById('overlay').addEventListener('click', closePopup);
+
+    // Functie om verdieping te tonen
+    function showFloor(floor) {
+      document.querySelectorAll('.floor').forEach(f => f.classList.remove('active'));
+      document.querySelectorAll('.floor-buttons button').forEach(b => b.classList.remove('active'));
+      document.getElementById('floor' + floor).classList.add('active');
+      document.querySelectorAll('.floor-buttons button')[floor].classList.add('active');
+    }
 
     // Wacht tot de JSON is ingeladen en genereer dan de tabel
     window.onload = generateTable;
