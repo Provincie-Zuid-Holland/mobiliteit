@@ -21,6 +21,9 @@
       max-width: 100%;
       height: auto;
     }
+    html {
+      scroll-behavior: smooth;
+    }
     table {
       width: 100%;
       border-collapse: collapse;
@@ -244,6 +247,40 @@
     }
 }
 
+/* Fullscreen plattegrond */
+.fullscreen-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.fullscreen-overlay.active {
+    display: flex;
+}
+.fullscreen-overlay img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: 2px solid #fff;
+    border-radius: 6px;
+}
+.fullscreen-overlay .close-fullscreen {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    border: none;
+    font-size: 1rem;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
   </style>
 </head>
 <body>
@@ -293,7 +330,7 @@
   </tbody>
 </table>
 <br>
-<p>Tap de sessie voor meer info. Je hoeft je niet aan te melden.</p>
+<p>Tap de sessie voor meer info. <a href="#plattegronden">zie plattegrond onder aan pagina</a></p>
 <br>
 
   <table id="sessionsList">
@@ -312,22 +349,23 @@
 <ul>
 <li> Dinsdag 24 maart 2026. Inloop om 13 uur. Start programma 13:30</li>
 <li> Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag)</li>
-<li> Toegang is gratis, wel even <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">aanmelden</a>
-</li>
 </ul>
-<br>
 
-<h2>Plattegronden</h2>
+<h2 id="plattegronden">Plattegronden</h2>
 <div class="floor-buttons">
   <button onclick="showFloor(0)" class="active">Begane grond</button>
   <button onclick="showFloor(1)">Eerste verdieping</button>
 </div>
-<div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond"></div>
-<div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping"></div>
+<div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond" onclick="openFullscreen(this)"></div>
+<div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping" onclick="openFullscreen(this)"></div>
 <br>
 
   <!-- Pop-up -->
   <div id="overlay"></div>
+  <div id="mapFullscreen" class="fullscreen-overlay">
+    <button class="close-fullscreen" onclick="closeFullscreen()">Sluiten ✕</button>
+    <img id="mapFullscreenImg" src="" alt="Fullscreen plattegrond">
+  </div>
   <div class="popup" id="sessionPopup">
     <h2 id="popupTitle"></h2>
     <div id="popupContent">
@@ -475,6 +513,31 @@
 
     // Wacht tot de JSON is ingeladen en genereer dan de tabel
     window.onload = generateTable;
+
+    function openFullscreen(img) {
+      const overlay = document.getElementById('mapFullscreen');
+      const overlayImage = document.getElementById('mapFullscreenImg');
+      overlayImage.src = img.src;
+      overlay.classList.add('active');
+    }
+
+    function closeFullscreen() {
+      const overlay = document.getElementById('mapFullscreen');
+      overlay.classList.remove('active');
+    }
+
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') {
+        closeFullscreen();
+      }
+    });
+
+    document.getElementById('mapFullscreen')?.addEventListener('click', function(event) {
+      if (event.target.id === 'mapFullscreen' || event.target.classList.contains('close-fullscreen')) {
+        closeFullscreen();
+      }
+    });
+
     document.addEventListener("DOMContentLoaded", function () {
   const sessionName = getQueryParam("s"); // Haal de sessienaam uit de URL
 
