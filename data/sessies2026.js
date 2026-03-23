@@ -314,13 +314,7 @@ const data = {
           }, 
                
 
- //       { 
- //         session: "1", 
- //         title: "De Vlietlijn; waar regionale bereikbaarheid en stadsontwikkeling samenkomen", 
- //         details: "De Binckhorst verandert in hoog tempo van een bedrijventerrein in een dynamische stadswijk waar de komende jaren duizenden nieuwe woningen worden gebouwd. Tot 2040 groeien het Central Innovation District (CID) en de Binckhorst samen door naar maar liefst 25.000 extra woningen en 30.000 nieuwe banen. Deze verstedelijking maakt het gebied een van de meest ambitieuze binnenstedelijke ontwikkellocaties van Nederland. <br>Maar groei vraagt om slimme keuzes. Want met meer inwoners, meer werkplekken en meer beweging in de stad ontstaat een steeds grotere druk op de bestaande infrastructuur. Juist daarom is de Vlietlijn essentieel. <br>De Vlietlijn wordt een snelle, hoogwaardige tramverbinding tussen Den Haag, Rijswijk en Leidschendam-Voorburg. De lijn loopt dwars door de Binckhorst en vormt daarmee een directe schakel tussen nieuwe woonwijken, werkgebieden en OV-knooppunten. Reizigers bewegen straks comfortabel, veilig en snel door de regio, met haltes die precies aansluiten op de nieuwe stedelijke ontwikkelgebieden. <br>Voor de Binckhorst is de Vlietlijn meer dan een vervoersmiddel. Het is een voorwaarde voor verdere groei. De tram maakt een autoluwe, leefbare en groeiende stadswijk mogelijk en faciliteert directe verbindingen met Den Haag Centraal, Voorburg en Rijswijk. Voor een regio die de komende jaren fors groeit – in inwoners, woningen én banen – is de Vlietlijn een duurzame en toekomstbestendige oplossing.<br>Bij het project zijn het Ministerie van I&W, het Ministerie van Binnenlandse Zaken & Koninkrijksrelaties, de gemeente Den Haag, de gemeente Leidschendam-Voorburg, de gemeente Rijswijk, de Provincie Zuid-Holland, MRDH en HTM betrokken. Zie ook [De Vlietlijn](https://www.devlietlijn.nl/)", 
- //         rechts : "![|max-height: 250px](img/vlietlijn.jpg)",          
- //         spreker: "Maarten Batenburg (MRDH), Matthias van Aalst (HTM)"
- //       },
+
         { 
             session: "27", 
             title: "Gezond (en omgekeerd 🙂) ontwerpen van wijken", 
@@ -337,13 +331,13 @@ const data = {
  
           { 
             session: "28", 
-            title: "Bakfietsen om te delen en om eten mee te bezorgen", 
+            title: "Deel(bak) fietsen en bezorgfietsen", 
             details: "...    [Website van Deelfiets Nederland](https://www.deelfietsnederland.nl/)", 
           rechts : " ![|max-height: 250px](https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg)", 
             plaatje : "https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg",
           zaal: "Cromvliet", 
           tijd: "16:00- 15:20",    
-            spreker: "Oumar Sylla (van Deelfiets Nederland)"
+            spreker: "Oumar Sylla en Bram Veldhuis (van Deelfiets Nederland)"
        
 
           },  
@@ -393,10 +387,12 @@ const data = {
 
           { 
             session: "34", 
-            title: "Brede welvaart (onder voorbehoud) ", 
-            details: "De afgelopen jaren is het begrip ‘brede welvaart’ in opmars. Daarbij is de vraag hoe je zoiets toepast in gemeentelijk of provinciaal mobiliteitsbeleid. ", 
-            spreker: "....", 
-                      tijd: "z", 
+            title: "Schoon en Emissieloos Bouwen: de makkelijkste keuze die gemeenten nog niet maken", 
+            details: "Schoon en emissieloos bouwen (SEB) is allang geen toekomstmuziek meer, maar een logische stap voor gemeenten die werk willen maken van duurzame mobiliteit en leefbare steden. De markt is er klaar voor, en met beschikbare financiële en inhoudelijke ondersteuningsmogelijkheden is instappen laagdrempeliger dan vaak gedacht. Sterker nog: het mes snijdt aan meerdere kanten. Emissieloos bouwen zorgt voor betere luchtkwaliteit, minder geluid- en trillingsoverlast, gezondere werkomstandigheden op de bouwplaats én een forse vermindering van broeikasgasuitstoot. Kortom: een no-brainer voor elke gemeente die vooruit wil. De provincie Zuid-Holland en Rebel nodigen je uit mee te doen in een traject om met SEB aan de slag te gaan en vertellen je alles over hoe je hiervan kunt profiteren.", 
+            spreker: "Wouter Tettero (Rebel) enMichael Evers (Provincie Zuid-Holland)", 
+            rechts : "![|max-height: 250px](img/emissiloosbouwen.png)",
+            tijd: "14:40- 15:00", 
+            zaal: "Duivenvoorde", 
 
           }, 
         null

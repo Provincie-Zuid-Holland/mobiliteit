@@ -54,7 +54,7 @@ Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. E
 - Cromvliet C1 (16)
 - Clingendael C0 (12)
 - Hofwijk C0 (12)
-
+Onderaan deze pagina zie je de plattegronden van het provinciehuis
 
 Nog onduidelijkheden? Of wil je gewoon even ergens over overleggen? Neem gerust contact met ons op!
 Wij hebben er zin in!!
@@ -63,3 +63,6 @@ Abigail: ac.place@pzh.nl; 06-50013266  en  <br>
 Ronald: ra.haverman@pzh.nl; 06-50083920  
 
 <br>
+![](img\VergaderzalenC0.png)
+<br>
+![](img\VergaderzalenC1.png)
