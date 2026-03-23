@@ -23,7 +23,7 @@
             overflow: hidden;
         }
         #timer {
-            font-size: 8rem;
+            font-size: 4rem;
             font-weight: bold;
         }
     </style>
@@ -37,6 +37,9 @@
         }
 
         function updateClock() {
+            const remSize = Number(getQueryParam('rem')) || 4;
+            document.getElementById('timer').style.fontSize = `${remSize}rem`;
+
             const now = new Date();
             const hours = String(now.getHours()).padStart(2, '0');
             const minutes = String(now.getMinutes()).padStart(2, '0');
