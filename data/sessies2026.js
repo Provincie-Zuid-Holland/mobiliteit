@@ -295,7 +295,7 @@ const data = {
             plaatje : "img/move.png",
                        zaal: "Commissiezaal", 
             tijd: "15:35- 15:55", 
-          spreker: "Christiaan Oud"
+          spreker: "Maja Mooren-Orlić (IenW) & Christiaan Oud"
         }, 
 
 
@@ -381,7 +381,7 @@ const data = {
        { 
           session: "32", 
           title: "Fietsstimuleringsapp Da's zo gefietst (hele middag in tuinzaal)", 
-          details: "Fietsstimulerings app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank).", 
+          details: "Korte ritten met de auto verleden tijd? Wél met de Fietsapp!<br><br>Ontwerp zelf een uitdaging in de app [Da's zo gefietst](https://www.daszogefietst.nl/app _blank) voor jouw gemeente, bedrijf, instelling of vriendenclub en maak kans op realisatie van je eigen challenge twv €500 of andere prijzen! Kom naar de stand en leer wat de fietsapp voor jou kan betekenen.", 
           rechts : "![|max-height: 250px](img/daszogefietst.png)",
             plaatje : "img/daszogefietst.png",
           zaal: "Tuinzaal", 
