@@ -73,7 +73,7 @@ const data = {
               plaatje : "img/ruimelijkekoers.png",
             spreker: "Harold Lesschen & Jurre Baijards", 
             zaal: "Commissiezaal", 
-            tijd: "14:40- 14:55", 
+            tijd: "14:40- 15:00", 
             mouseover: "Het loopt allemaal 🙂 "
           },
       { 
@@ -112,7 +112,7 @@ const data = {
           details: "Stel je eens voor, een nieuwe wijk waar de nabijheid centraal staat en waar veel met een kwartiertje wandelen of fietsen te bereiken is. Hoe zou zo’n wijk eruit zien? Welke kansen zijn er om hier extra veel woningen te realiseren waar momenteel veel vraag naar is? In deze snelstudie kijken we een woningbouwlocaties die we in Zuid-Holland op het oog hebben toekomstgericht ingevuld kan worden door de principes van nabijheid, lopen en fietsen en ov als uitgangspunt te nemen. <br><br>Snelstudie in samenwerking met Haagse Hogeschool en Laboratorium verantwoorde mobiliteit.", 
           rechts : "![|max-height: 250px](img/TitelslideWorkshopSnelstudieTimenRuben.jpg)",
             plaatje : "img/TitelslideWorkshopSnelstudieTimenRuben.jpg",
-                      zaal: "Arentsburg", 
+                      zaal: "Arentsburgh", 
             tijd: "15:05- 15:25", 
           spreker: "Timothy Meijer en Ruben Mossel"
         }, 
@@ -138,7 +138,7 @@ const data = {
           plaatje : "img/negenkansen.png",
 
                       zaal: "Schoonoord", 
-            tijd: "15:30- 15:55", 
+            tijd: "15:35- 15:55", 
           mouseover: "wordt interessant!"
         }, 
 
@@ -159,7 +159,7 @@ const data = {
           details: "Iedere ouder wil hetzelfde: zijn kind veilig naar school brengen. Toch voelt de chaotische verkeerssituatie rond veel scholen vaak onveilig tijdens de haal- en brengspits. Onder andere door de vele auto’s, gehaast rijgedrag en foutgeparkeerde auto’s.<br><br>Verkeersveiligheid is in veel gemeenten een urgent punt van aandacht, want dit alles leidt tot gevaarlijke situaties in een omgeving waar kinderen zich vrij en veilig moeten kunnen bewegen. Maar hoe onveilig zijn schoolomgevingen nu echt? In een grootschalig gedragsonderzoek bij 20 basisscholen in de gemeente Pijnacker-Nootdorp, namen we deze vraag onder de loep. Wat kunnen we zeggen over zowel de objectieve als subjectieve veiligheid? Kan het beter? En zo ja, hoe?<br><br>We deden data-onderzoek, een enquête, observaties, expertsessies en diepte-interviews. De objectieve veiligheid rondom scholen bracht een data-bureau in kaart met gegevens over onder andere verkeerssnelheid, infrastructuur en ongelukken. En de subjectieve veiligheid aan de hand van de ervaringen en overtuigingen van ouders, schoolmedewerkers en omwonenden.<br><br>Wat blijkt: de meeste schoolomgevingen zijn verkeerskundig best goed ingericht, tóch ervaart een meerderheid van de ouders de schoolomgeving als onveilig. Ligt de sleutel tot veilige schoolomgevingen dan vooral in gedrag? En zo ja: hoe kun je dit als gemeente beïnvloeden? Dat vertellen we je in deze presentatie. We zoomen in en belichten specifiek het gedrag en de subjectieve inzichten uit ons onderzoek en nemen deelnemers mee in de opzet, aanpak én uitkomsten. We bekijken en vergelijken twee basisscholen, waar we een gedragsdiagnose formuleerden met behulp van aanvullende diepte-interviews met ouders. Deze diagnose gebruikten we om onderbouwde gedragsinterventies te ontwerpen die helpt om doelgericht het gevoel van verkeersveiligheid rond deze scholen te verbeteren. Tot slot zoomen we uit en laten we zien hoe andere gemeenten deze onderzoeksresultaten kunnen gebruiken om slim in te spelen op ander gedrag van ouders. We delen concrete aanbevelingen en quick wins.", 
           rechts : "![|max-height: 400px](img/veilignaarschool.jpg)",
             plaatje : "img/veilignaarschool.jpg",
-          zaal: "Arentsburg", 
+          zaal: "Arentsburgh", 
           tijd: "16:00- 16:20", 
           spreker: "Tanja van Kooten - &Morgen "
         },        
@@ -170,7 +170,7 @@ const data = {
           details: "Er zijn al diverse praktische hulpmiddelen dat gemeenten en ontwikkelaars ondersteunt bij het integraal meenemen van mobiliteit in gebiedsontwikkelingen. Hulpmiddelen die helpen bij het opstellen van afsprakendocumenten en uitvoeringsplannen rondom mobiliteit, zodat mobiliteit en bereikbaarheid vanaf het begin een vanzelfsprekend onderdeel zijn van de ruimtelijke plannen. En dat ruimtelijke ontwikkeling en mobiliteit elkaar versterken en slimme mobiliteitskeuzes kunnen worden gemaakt. Kortom hulpmiddelen die zich richten op het integreren van mobiliteitsbeleid met andere ruimtelijke en maatschappelijke ambities, zoals duurzaamheid, gezondheid, verkeersveiligheid, bereikbaarheid en inclusiviteit, en helpen bij:<ul><li>Het bepalen van de ruimtelijke kaders en uitgangspunten voor mobiliteit in gebiedsontwikkeling (via het Mobiliteitsprogramma van Eisen, MPvE).</li><li>Het opstellen van een mobiliteitsplan waarin maatregelen worden beschreven om bereikbaarheid, verkeersveiligheid, leefbaarheid en duurzaam reisgedrag te bevorderen.</li><li>Het maken van een implementatieplan waarin wordt vastgelegd hoe de maatregelen daadwerkelijk worden uitgevoerd en georganiseerd tijdens de realisatiefase en daarna.</li></ul><br><br>Maar welke partij is voor welk onderdeel verantwoordelijk? Wanneer in het proces moet de verkeerskundige van meerwaarde zijn, en wat vraagt dit van de rol van de verkeerskundige in de samenwerking met de stedenbouwkundige en de projectontwikkelaar? En niet de minste, hoe zorg je dat vanaf het moment dat de eerste bewoner de woning betreedt, alles zo geregeld is zoals het van tevoren bedacht is? Met onze jarenlange opgebouwde kennis en expertise - en met inspirerende voorbeelden - begeleiden we graag de deelsessie. ", 
           rechts : "![|max-height: 400px](img/stomppot.png)",
             plaatje : "img/stomppot.png",
-             zaal: "Arentsburg", 
+             zaal: "Arentsburgh", 
             tijd: "14:40 - 15:00",          
           spreker: "Martijn Elting (&Morgen) en Teun Kolner (Movares)"
       
@@ -182,7 +182,7 @@ const data = {
           details: "Goed openbaar vervoer is betrouwbaar, snel, comfortabel en toegankelijk. Maar te vaak zorgt een te krappe weginrichting voor vertraging, zorgen verkeersdrempels dat reizigers niet comfortabel zitten en zijn haltes niet voldoende toegankelijk. Daarom willen we samen met wegbeheerders kijken naar hoe we busroutes wél aantrekkelijk kunnen maken, en welke stappen we nog moeten zetten naar toegankelijke haltes. Kees en Mick nemen je mee in enkele bad- en good practices, en gaan graag met jullie in discussie over hoe we de samen toewerken naar het aantrekkelijkste OV van Nederland", 
           rechts : "![|max-height: 250px](img/rnet-bus-06.png)",
             plaatje : "img/rnet-bus-06.png",
-                      zaal: "Schoonoord", 
+                      zaal: "Duivenvoorde", 
             tijd: "15:35- 15:55", 
           spreker: "Mick van der Steeg"
         }, 
@@ -213,7 +213,7 @@ const data = {
               plaatje : "img/autoluwe-binnenstad-scaled.jpg",          
             spreker: "Marius van Putten en Ilse Galama (gemeente Leiden)", 
             zaal: "Schoonoord", 
-            tijd: "14:40- 14:55", 
+            tijd: "14:40- 15:00", 
           },    
           { 
             session: "19", 
@@ -336,7 +336,7 @@ const data = {
           rechts : " ![|max-height: 250px](https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg)", 
             plaatje : "https://www.deelfietsnederland.nl/wp-content/uploads/2024/11/deelfiets_02-1024x315.jpg",
           zaal: "Cromvliet", 
-          tijd: "16:00- 15:20",    
+          tijd: "16:00- 16:20",    
             spreker: "Oumar Sylla en Bram Veldhuis (van Deelfiets Nederland)"
        
 
@@ -357,7 +357,7 @@ const data = {
           title: "Hoe kom je op je werk in de haven – kan dat ook zonder auto?", 
           details: "De Rotterdamse haven is moeilijk bereikbaar als je niet beschikt over een auto en/of rijbewijs. Mede daarom worden vele vacatures niet ingevuld. Afgelopen oktober is er een vervoeroplossing live gegaan en sindsdien kunnen (potentiële) werknemers in de Botlek en Waal-Eemhaven met carpooling, vanpooling en een Hopper de haven bereiken. De Gemeente Rotterdam, Havenbedrijf Rotterdam, MRDH, Provincie Zuid-Holland en Deltalinqs werken sinds 2024 aan het project Bereikbare Haven. Zuid-Holland Bereikbaar voert dit project namens de initiatiefnemers uit. Hoe ziet het eruit, welke knelpunten komen we tegen en welke potentie kan dit bieden?", 
           //rechts : "![|max-height: 250px](img/daszogefietst.png)",
-                      zaal: "Dortwijk", 
+                      zaal: "Dordwijk", 
             tijd: "16:00- 16:20", 
           spreker: "Edo Haitsma (Zuid-Holland Bereikbaar)"
         }, 
