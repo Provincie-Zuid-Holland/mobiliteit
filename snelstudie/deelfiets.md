@@ -7,7 +7,7 @@ menu: |
    <a href="index.html">Andere snelstudies</a>
 ---
 
-<p>Onderdeel van de snelstudie '<a href="https://web.archive.org/web/20251214013035/https://kennis.zuid-holland.nl/?p=8460">OV verbreden naar publiek vervoer</a>'</p>
+<p>Onderdeel van de snelstudie '<a href="ov.html">OV verbreden naar publiek vervoer</a>'</p>
 
 <hr>
 
@@ -24,7 +24,7 @@ Deelfietsen zijn ideaal voor het laatste stuk van je reis: 1 tot 3 km (of 4 à 7
 
 {% include klikblok.html img="img/img-deelfiets/ov-fiets.jpg" title="OV-fiets" url="https://www.ns.nl/deur-tot-deur/ov-fiets" text="Deelfiets op heel veel stations te verkrijgen met je OV chipkaart" %}
 
-{% include klikblok.html img="img/img-deelfiets/donkey-fiets.jpg" title="Donkey Republic" url="https://web.archive.org/web/20251214013035/https://kennis.zuidholland.nl/donkey-republic/" text="Verkrijgbaar met app in Zuid-Holland (oa Den Haag, Rotterdam, Schiedam, Dordrecht, Gorinchem) én in Amsterdam en tal van andere Europese steden." %}
+{% include klikblok.html img="img/img-deelfiets/donkey-fiets.jpg" title="Donkey Republic" url="deelfietsen-in-zh.html" text="Verkrijgbaar met app in Zuid-Holland (oa Den Haag, Rotterdam, Schiedam, Dordrecht, Gorinchem) én in Amsterdam en tal van andere Europese steden." %}
 
 <div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow">

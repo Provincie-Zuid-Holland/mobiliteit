@@ -70,7 +70,7 @@ Dit KiM-rapport signaleert duidelijk het verschil in stallingsduur tussen *voort
   </tr>
    <tr>
     <td>Natransport: tweede fiets</td>
-    <td>Gebruikers die een tweede of zelfs derde fiets stallen op hun aankomststation, bijvoorbeeld in de plaats waar ze werken. Deze 'natransportfietsen' overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat ze weer een rit maken. Dat is vier keer zo lang vergeleken met een fiets die wordt gebruikt in het voortransport tussen huis en station. (<a href="https://kennis.zuid-holland.nl/treingebruik-deelfiets/">bron</a>).</td>
+    <td>Gebruikers die een tweede of zelfs derde fiets stallen op hun aankomststation, bijvoorbeeld in de plaats waar ze werken. Deze 'natransportfietsen' overnachten vaak in de stalling en blijven vaak ook in het weekend staan. Gemiddeld staan deze fietsen 3,5 etmaal stil voordat ze weer een rit maken. Dat is vier keer zo lang vergeleken met een fiets die wordt gebruikt in het voortransport tussen huis en station. (<a href="treinfietscombi.html">bron</a>).</td>
     <td>3,5 dag</td>
 
   </tr>
@@ -95,7 +95,7 @@ Dit KiM-rapport signaleert duidelijk het verschil in stallingsduur tussen *voort
   </tr>
     <tr>
     <td>Wisselfiets (deelfiets die ook dienst doet in voortransport)</td>
-    <td><a href="https://kennis.zuid-holland.nl/wisselfiets/">wisselfietsen</a> zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de deelfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de deze fiets vanaf hetzelfde station gebruikt voor het laatste stukje van de reis. Die eerste reiziger gebruikt de deelfiets als voortransport, die tweede dezelfde deelfiets als natransport.</td>
+    <td><a href="wisselfiets.html">wisselfietsen</a> zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die de deelfiets gebruiken van huis naar het station als eerste schakel voor een reis naar hun werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de deze fiets vanaf hetzelfde station gebruikt voor het laatste stukje van de reis. Die eerste reiziger gebruikt de deelfiets als voortransport, die tweede dezelfde deelfiets als natransport.</td>
     <td>10 minuten tot enkele uren</td>
 
   </tr>
@@ -285,14 +285,14 @@ Naast het aantrekkelijk maken van frequent deelfietsgebruik, zullen we het lang 
 {% include klikblok.html
    img="img\donkey2.jpg"
    title="Wat is een wisselfiets?"
-   url="https://kennis.zuid-holland.nl/wisselfiets/"
+   url="wisselfiets.html"
    text="Wisselfietsen zijn deelfietsen die maar kort stilstaan bij stations. De bedoeling is dat er mensen zijn die deze deelfiets gebruiken van huis naar het station als eerste schakel voor een reis naar werk of opleiding. En dat er een andere groep mensen is die juist uit de trein stapt en de deelfiets voor het laatste stukje van de reis gebruikt. Op die manier staat de wisselfiets ’s nachts bij de woning van de eerste groep en overdag bij de bestemming van de tweede groep (werk of opleiding). Grote voordeel: Deze deelfiets staat nauwelijks stil op het station." %}
-- [Snelstudie: ‘Zuid-Holland: Ga gewoon fietsen’](https://kennis.zuid-holland.nl/fiets/)
+- [Snelstudie: ‘Zuid-Holland: Ga gewoon fietsen’](fiets.html)
 - [Eindrapport: Naar een stedelijk deelfietssysteem voor Eindhoven](https://natuurlijkdeelmobiliteit.nl/wp-content/uploads/2025/06/Eindrapport-Naar-een-stedelijk-deelfietssysteem-voor-Eindhoven.pdf)
 
  {% include klikblok.html
    img="img/deelfiets_vaker_trein.jpg"
-   url="https://kennis.zuid-holland.nl/treingebruik-deelfiets/"
+   url="treinfietscombi.html"
    title="Mensen nemen vaker trein bij beter deelfietsaanbod"
    text="Nederlanders fietsen veel, maar buiten hun woonplaats ligt hun fietsgebruik twee tot vier keer lager. Dat is logisch, want buiten je woonplaats heb je vaak geen fiets. Wanneer mensen daar toch fietsen, dan is dit meestal met een tweede fiets. Een nadeel van tweede fietsen voor de samenleving is dat ze zoals gezegd veel ruimte kosten in stationsstallingen. En voor de eigenaars dat ze deze tweede fiets alleen kunnen gebruiken in de stad waar hij staat, niet op andere plekken waar ze óók komen." %}  
 

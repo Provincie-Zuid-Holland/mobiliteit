@@ -93,7 +93,7 @@ een hub in te leveren (dat is 3 x zo voordelig als een OV-fiets).</p>
 <details><summary>Waarom stimuleert de provincie dit?</summary>
 <p>De Provincie Zuid-Holland ziet dat openbaar vervoer + deelfiets (voor
  de laatste paar km) een mooi alternatief kan zijn voor een reis met de 
-auto. Daarom stimuleren we dat graag. Op <a href="https://web.archive.org/web/20251222051443/https://kennis.Zuid-Holland.nl/deelfiets/" target="_blank" rel="noreferrer noopener">kennis.Zuid-Holland.nl/deelfiets</a> zetten we een aantal elementen op een rij die we belangrijk vinden.</p>
+auto. Daarom stimuleren we dat graag. Op <a href="deelfiets.html" target="_blank" rel="noreferrer noopener">kennis.Zuid-Holland.nl/deelfiets</a> zetten we een aantal elementen op een rij die we belangrijk vinden.</p>
 </details>
 
 <details><summary>Waarom werkt de provincie samen met Donkey Republic?</summary>
@@ -129,7 +129,7 @@ Je hebt hier dus geen voucher voor nodig.</p>
 
 <p><a href="https://web.archive.org/web/20251222051443/https://pzh.notubiz.nl/document/15505740/4/Lid+GS-brief+gedeputeerde+Zevenbergen+-+Deelfietsen++Werkbezoek+11+juni+en+verdere+uitrol++antwoord+op+BW+T2024_026?connection_type=17&amp;connection_id=11828819" target="_blank" rel="noreferrer noopener">Brief aan Provinciale Staten ZH over deelfietsen van gedeputeerde Zevenbergen</a></p>
 
-<p><a href="https://web.archive.org/web/20251222051443/https://kennis.Zuid-Holland.nl/deelfiets/" target="_blank" rel="noreferrer noopener">kennis.Zuid-Holland.nl/deelfiets</a></p>
+<p><a href="deelfiets.html" target="_blank" rel="noreferrer noopener">kennis.Zuid-Holland.nl/deelfiets</a></p>
 
 <p><a href="https://web.archive.org/web/20251222051443/https://kennis.Zuid-Holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-Zuid-Holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a></p>
 
