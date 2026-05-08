@@ -8,8 +8,6 @@ menu: |
 ---
 # De kracht van nabijheid
 
-![Compacte stad illustratie](img/img-nabijheid/compactestad.png)
-
 ## Samenvatting: breng voorzieningen dichterbij
 
 Met voorzieningen dichtbij hoeven bewoners minder ver te reizen, lopen ze vaker, fietsen ze meer, pakken ze vaker het OV en verbetert hun bereikbaarheid. Als mensen minder afhankelijk van de auto zijn, schept dat ook ruimte voor compacter bouwen van woningen, bedrijvigheid en voorzieningen. Dat komt goed van pas bij de uitdagende [ruimtelijke puzzel](https://www.Zuid-Holland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/) en enorme woningbouwopgave in Zuid-Holland.
