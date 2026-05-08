@@ -1,15 +1,13 @@
 ---
 layout: pzh
 title: Zuid-Holland ga gewoon fietsen
-header_image: img/img-fiets/header-fiets.jpg
+header_image: img/img-deelfiets/donkeyapp.png
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>
 ---
 
-<p>Onderdeel van de snelstudie '<a href="https://kennis.zuid-holland.nl/?p=8460">OV verbreden naar publiek vervoer</a>'</p>
-
-<figure class="wp-block-image aligncenter size-full"><img src="img/img-fiets/donkeyapp.png" alt="Donkey Republic app" width="1200" height="525"></figure>
+<p>Onderdeel van de snelstudie '<a href="https://web.archive.org/web/20251214013035/https://kennis.zuid-holland.nl/?p=8460">OV verbreden naar publiek vervoer</a>'</p>
 
 <hr>
 
@@ -18,15 +16,15 @@ menu: |
 <p><strong>Last mile</strong><br>
 Deelfietsen zijn ideaal voor het laatste stuk van je reis: 1 tot 3 km (of 4 à 7 kilometer voor een elektrische deelfiets). De <a href="http://www.ov-fiets.nl/" target="_blank" rel="noreferrer noopener">OV-fiets</a> is de bekendste deelfiets en te vinden op de meeste stations en enkele andere OV-knooppunten. In Zuid-Holland verschijnt ook de <a href="https://www.donkey.bike/nl" target="_blank" rel="noreferrer noopener">Donkey Republic deelfiets</a> op steeds meer plekken, gestimuleerd door de provincie en Qbuzz.</p>
 
-<p>In Nederland wordt heel veel gefietst, maar eigenlijk vooral rond je huis. Logisch daar heeft men een fiets. Zo gaat circa 40% van de mensen met de fiets van huis naar het station (<a href="http://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023">KIM,2023</a>). Voor slechts 1 á 2 procent van de uitstappers staat een deelfiets klaar op station of uitstaphalte. Dit laat de potentie van de deelfiets voor het natransport goed zien. Daarom wil de provincie Zuid-Holland er voor zorgen dat veel meer mensen een deelfiets kunnen pakken voor het laatste stukje van hun reis. En daarom is er in 2024 de <a href="https://kennis.zuid-holland.nl/aktie/" target="_blank" rel="noreferrer noopener">deelfiets-probeer-aktie</a> waarbij mensen dit tot drie maanden gratis mogen proberen.</p>
+<p>In Nederland wordt heel veel gefietst, maar eigenlijk vooral rond je huis. Logisch daar heeft men een fiets. Zo gaat circa 40% van de mensen met de fiets van huis naar het station (<a href="http://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023">KIM,2023</a>). Voor slechts 1 á 2 procent van de uitstappers staat een deelfiets klaar op station of uitstaphalte. Dit laat de potentie van de deelfiets voor het natransport goed zien. Daarom wil de provincie Zuid-Holland er voor zorgen dat veel meer mensen een deelfiets kunnen pakken voor het laatste stukje van hun reis. En daarom is er in 2024 de <a href="https://web.archive.org/web/20251214013035/https://kennis.zuid-holland.nl/aktie/" target="_blank" rel="noreferrer noopener">deelfiets-probeer-aktie</a> waarbij mensen dit tot drie maanden gratis mogen proberen.</p>
 
 <p>In het landelijk gebied wordt vaak het argument aangehaald dat de afstanden te groot zijn. Er zijn echter wel kansen bij bushaltes. Voor de bushaltes langs de buslijn tussen Zuidplein en Ouddorp op Goeree-Overflakkee is in kaart gebracht waar je zou kunnen komen met de (deel)fiets. Hiervoor is een maximale fietsafstand van 3 kilometer aangehouden. <a href="https://earth.google.com/web/@51.75542658,4.12015352,0.72369442a,31654.65533674d,30y,0h,0t,0r/data=MikKJwolCiExbkNtdjc4MVpJWFdyb29hdThQcmRINm1lT19lMWtWX2wgAQ">Er is te zien</a> dat de (deel)fiets voor veel bestemmingen nog als vervoersoptie voor de <em>last mile</em> zou kunnen functioneren. Als je in landelijk gebied woont en met OV naar een stad in de buurt gaat, ligt je last mile juist in de stad en kun je daar een deelfiets pakken.</p>
 
 <h2>Twee grootste deelfiets-systemen in Zuid-Holland</h2>
 
-{% include klikblok.html img="img/img-fiets/ov-fiets.jpg" title="OV-fiets" url="https://www.ns.nl/deur-tot-deur/ov-fiets" text="Deelfiets op heel veel stations te verkrijgen met je OV chipkaart" %}
+{% include klikblok.html img="img/img-deelfiets/ov-fiets.jpg" title="OV-fiets" url="https://www.ns.nl/deur-tot-deur/ov-fiets" text="Deelfiets op heel veel stations te verkrijgen met je OV chipkaart" %}
 
-{% include klikblok.html img="img/img-fiets/donkey-fiets.jpg" title="Donkey Republic" url="https://kennis.zuid-holland.nl/donkey-republic/" text="Verkrijgbaar met app in Zuid-Holland (oa Den Haag, Rotterdam, Schiedam, Dordrecht, Gorinchem) én in Amsterdam en tal van andere Europese steden." %}
+{% include klikblok.html img="img/img-deelfiets/donkey-fiets.jpg" title="Donkey Republic" url="https://web.archive.org/web/20251214013035/https://kennis.zuidholland.nl/donkey-republic/" text="Verkrijgbaar met app in Zuid-Holland (oa Den Haag, Rotterdam, Schiedam, Dordrecht, Gorinchem) én in Amsterdam en tal van andere Europese steden." %}
 
 <div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow">
@@ -91,5 +89,5 @@ Deelfietsen zijn ideaal voor het laatste stuk van je reis: 1 tot 3 km (of 4 à 7
 </details>
 
 <p><strong>Verder lezen</strong><br>
-<a href="https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a><br>
+<a href="https://web.archive.org/web/20251214013035/https://kennis.zuidholland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a><br>
 <a href="http://www.crow.nl/over-crow/nieuws/2023/juli/natuurlijk-deelmobiliteit-vijfjarig-programma">Natuurlijk!Deelmobiliteit – Vijfjarig programma rond deelmobiliteit van start</a></p>
