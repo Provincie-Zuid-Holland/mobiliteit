@@ -313,8 +313,19 @@ Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
    img="https://i.mgtbk.nl/boeken/9781394228140-460x480.jpg?_=none_0"
    title="Carlos Moreno The 15-Minute City; A Solution to Saving Our Time and Our Planet"
    url="https://rooilijn.nl/recensies/de-kracht-van-nabijheid/"
-   text="Carlos Moreno slaat opnieuw op de trom met een pleidooi voor de kracht van nabijheid met zijn boek The 15-Minute City. Hij zet daarbij hoog in met de ondertitel “A Solution to Saving Our Time and Our Planet”. Het is een vurig pleidooi voor een structureel andere inrichting van onze steden, gebaseerd op de nabijheid van wonen, werken en voorzieningen. (recentie door Bjarne van der Drift en Ronald Haverman)" %}
+   text="Carlos Moreno slaat opnieuw op de trom met een pleidooi voor de kracht van nabijheid met zijn boek The 15-Minute City. Hij zet daarbij hoog in met de ondertitel “A Solution to Saving Our Time and Our Planet”. Het is een vurig pleidooi voor een structureel andere inrichting van onze steden, gebaseerd op de nabijheid van wonen, werken en voorzieningen. (recensie door Bjarne van der Drift en Ronald Haverman)" %}
 
+{% include klikblok.html
+   img="https://natuurenmilieu.nl/app/uploads/iStock-900486902-1024x680.jpg"
+   title="De autoluwe stad biedt kansen voor de economie - januari 2026"
+   url="https://natuurenmilieu.nl/publicatie/de-autoluwe-stad-biedt-kansen-voor-de-economie/"
+   text="Autoluwe steden zijn goed voor de veiligheid en leefbaarheid. Het zorgt voor meer ruimte op straat voor kinderen om veilig naar school te kunnen gaan of om te spelen, voor bomen en planten en voor iedereen die door de straat gaat. Ondanks deze voordelen, roept het discussie op: is autoluw een noodzakelijke stap richting leefbare steden, of een bedreiging voor economie en bereikbaarheid?" %}
+
+{% include klikblok.html
+   img="https://www.fietsersbond.nl/wp-content/uploads/2023/04/20145115/Cover-paper-15-minutenstad.png?image-crop-positioner-ts=1722340973"
+   title="De 15-minutenstad: hoe doe je dat?"
+   url="https://www.fietsersbond.nl/ons-werk/de-15-minutenstad-hoe-doe-je-dat/"
+   text="Hoe krijgen we ondanks de toenemende drukte in de toekomst steden waar het fijn leven, wonen en werken is? Adviesbureau Rebel, Wandelnet en de Fietsersbond presenteren hun uitwerking van het 15-minutenstad-concept met zeven ontwerpprincipes." %}
 
 
 
