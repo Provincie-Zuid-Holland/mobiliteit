@@ -307,6 +307,17 @@ Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
 </div>
 </div>
 
+## Linkjes & bronnen
+
+{% include klikblok.html
+   img="https://i.mgtbk.nl/boeken/9781394228140-460x480.jpg?_=none_0"
+   title="Carlos Moreno The 15-Minute City; A Solution to Saving Our Time and Our Planet"
+   url="https://rooilijn.nl/recensies/de-kracht-van-nabijheid/"
+   text="Carlos Moreno slaat opnieuw op de trom met een pleidooi voor de kracht van nabijheid met zijn boek The 15-Minute City. Hij zet daarbij hoog in met de ondertitel “A Solution to Saving Our Time and Our Planet”. Het is een vurig pleidooi voor een structureel andere inrichting van onze steden, gebaseerd op de nabijheid van wonen, werken en voorzieningen. (recentie door Bjarne van der Drift en Ronald Haverman)" %}
+
+
+
+
 ## Afkortingen & begrippen
 
 - **CBS**: Centraal Bureau voor de Statistiek
