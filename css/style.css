@@ -94,21 +94,23 @@ h3{
   .topImage { aspect-ratio: 2 / 1; }
 }
 
+/* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
+   zodat blokken met én zonder afbeelding er hetzelfde uitzien.
+   Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
 .tekstblok {
   background-color: #efcc36;
   padding: 1em;
-  border-radius: 6px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-.blok-licht-blauw {
-  background-color: #eaf7fe;
-  padding: 1em;
-  border-radius: 6px;
-}
-
-.achtergrondLichtBlauw {   background-color: #eaf7fe; }
-.achtergrondLichtGrijs {   background-color: #bfbfbf; }
-.achtergrondLichtGeel {   background-color: #f1db7e; }
+/* Achtergrondkleur-helpers. Dubbele selector = ongevoelig voor hoofd-/kleine
+   letter in de tweede helft (LichtBlauw / Lichtblauw). */
+.achtergrondLichtBlauw, .achtergrondLichtblauw {   background-color: #eaf7fe; }
+.achtergrondLichtGrijs, .achtergrondLichtgrijs {   background-color: #bfbfbf; }
+.achtergrondLichtGeel,  .achtergrondLichtgeel  {   background-color: #f1db7e; }
+.achtergrondWit,        .achtergrondwit        {   background-color: #ffffff; }
 
 .table-container {
   width: 100%;

@@ -288,7 +288,7 @@ In de provincie Zuid-Holland is het autobezit en -gebruik de afgelopen twintig j
 Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
 </div>
 
-<div class="blok-licht-blauw" style="margin-top:2em;">
+<div class="tekstblok achtergrondLichtBlauw" style="margin-top:2em;">
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
 <div style="flex:0 0 auto; max-width:280px;"><img src="img/img-nabijheid/rijksadviseurs.png" alt="College van Rijksadviseurs - Bouw in de buurt" style="max-width:100%;"></div>
 <div style="flex:1;">
