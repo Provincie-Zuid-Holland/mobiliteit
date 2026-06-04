@@ -2,6 +2,7 @@
 layout: pzh
 title: Snel en gratis naar je bestemming met de deelfiets
 header_image: img/img-oranjedeelfiets/oranjedeelfiets.jpg
+banner_ratio: 3 / 1
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

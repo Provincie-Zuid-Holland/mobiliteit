@@ -2,6 +2,7 @@
 layout: pzh
 title: De kracht van nabijheid
 header_image: img/img-nabijheid/compactestad.png
+focus: 50% 100%
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

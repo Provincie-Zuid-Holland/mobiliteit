@@ -2,6 +2,8 @@
 layout: pzh
 title: "Zuid-Holland: 'Ga gewoon fietsen'"
 header_image: img/img-fiets/fiets.jpg
+banner_ratio: 2.5 / 1
+focus: 50% 30%
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

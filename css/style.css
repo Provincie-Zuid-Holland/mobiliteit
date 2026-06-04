@@ -71,6 +71,29 @@ h3{
     border-radius: 10px 100px 10px 10px;
 }
 
+/* --- Uniforme, responsive headerbanner ---
+   Standaard 4:1. Elke afbeelding vult de banner en wordt bijgesneden,
+   zodat alle koppen even hoog zijn, ongeacht de afmeting van de afbeelding.
+   Per pagina hoger te maken via front matter:  banner_ratio: 3 / 1
+   (lager eerste getal = hogere banner). */
+.topImage {
+  width: 100%;
+  aspect-ratio: var(--banner-ratio, 4 / 1);
+  overflow: hidden;
+}
+.topImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* schaalt + snijdt elke afbeelding tot de banner */
+  object-position: 50% 50%;   /* default focuspunt; per pagina te overschrijven */
+  display: block;
+}
+
+@media only screen and (max-width: 800px) {
+  /* op smalle schermen iets hoger zodat de afbeelding goed leesbaar blijft */
+  .topImage { aspect-ratio: 2 / 1; }
+}
+
 .tekstblok {
   background-color: #efcc36;
   padding: 1em;
