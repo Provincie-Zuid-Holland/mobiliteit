@@ -34,6 +34,7 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin: 20px 0;   /* witruimte boven/onder zodat losse blokken niet aan elkaar plakken */
 }
 
 .item-link {

@@ -40,7 +40,7 @@
   </div>
     
   {% else %}
-    <div class="topImage" id="topI" style="--banner-ratio: {{ page.banner_ratio | default: '4 / 1' }};">
+    <div class="topImage{% if page.banner_ratio == 'auto' %} topImage--auto{% endif %}" id="topI" style="--banner-ratio: {{ page.banner_ratio | default: '4 / 1' }};">
     <img src="{{ page.header_image }}" alt="Zuid-Holland"
          style="object-position: {{ page.focus | default: '50% 50%' }};">
     </div>

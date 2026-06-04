@@ -94,12 +94,25 @@ h3{
   .topImage { aspect-ratio: 2 / 1; }
 }
 
+/* Natuurlijke modus (front matter: banner_ratio: auto):
+   toon de hele afbeelding op ware verhouding, zoals oorspronkelijk
+   (width:100% / height:auto), zonder bijsnijden. Staat na de media-query
+   zodat het ook op smalle schermen geldt. */
+.topImage--auto {
+  aspect-ratio: auto;
+  overflow: visible;
+}
+.topImage--auto img {
+  height: auto;
+}
+
 /* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
    zodat blokken met én zonder afbeelding er hetzelfde uitzien.
    Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
 .tekstblok {
   background-color: #efcc36;
   padding: 1em;
+  margin: 20px 0;   /* witruimte boven/onder zodat losse blokken niet aan elkaar plakken */
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);

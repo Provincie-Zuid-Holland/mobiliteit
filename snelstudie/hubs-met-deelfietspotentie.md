@@ -2,7 +2,7 @@
 layout: pzh
 title: Hubs en deelfietspotentie
 header_image: img/deelfiets_vaker_trein.jpg
-banner_ratio: 3 / 1
+banner_ratio: auto
 menu: |
    <a href="werkwijzer.html">toelichting</a>
    <a href="snelstudies.html">andere snelstudies</a>
