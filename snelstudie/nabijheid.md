@@ -39,13 +39,13 @@ Nog een voordeel: met goede bereikbaarheid te voet of per fiets worden bestemmin
 
 In 2022 beschreef [deze snelstudie dat de ideale woonwijk nabij voorzieningen en hoogwaardig OV ligt](https://kennis.Zuid-Holland.nl/onderzoeken/snelstudie-de-ideale-woonwijk-voorzieningen-en-ov-nabij/). Omdat er tot 2030 ruim 248.000 bijkomen (waarvan een groot deel binnen bestaande steden en dorpen) en het kabinet het onderwerp 'Bereikbaarheid op peil' prominent op de agenda zet, is dit het moment voor meer beleidsfocus op nabijheid. Daarover gaat deze snelstudie, met als onderzoeksvraag:
 
-<table class="table-container"><tbody><tr><td><strong><em>Wat zijn de kansen van nabijheid van voorzieningen en hoogwaardig OV voor Zuid-Holland?</em></strong></td></tr></tbody></table>
+<div class="tekstblok achtergrondLichtGrijs"><strong><em>Wat zijn de kansen van nabijheid van voorzieningen en hoogwaardig OV voor Zuid-Holland?</em></strong></div>
 
 Om deze vraag te beantwoorden, kijken we eerst wat mensen graag nabij willen, gevolgd door een blik op de huidige nabijheid in Zuid-Holland. Met deze inzichten kunnen we per gebiedstype kijken hoe de nabijheid beter kan. Dit alles leidt tot aanbevelingen voor kansen van nabijheid van voorzieningen en hoogwaardig OV in Zuid-Holland.
 
 Meer nabijheid vraagt om intensiveren in bestaande steden en dorpen, bouwen hogere dichtheid en meer functiemenging. Dat hoeft niet allemaal hoogbouw te zijn. Een binnenstad met laagbouw kent ook al een flinke dichtheid. Dichtheid en functiemenging geven een gebied kracht om voldoende voorzieningen te dragen. Het [Omgevingsbeleid van de provincie](https://omgevingsbeleid.Zuid-Holland.nl/omgevingsvisie/ambities/44d0fb02-3625-464b-8c20-40947626a184) noemt het streven naar [nabijheid](https://omgevingsbeleid.Zuid-Holland.nl/omgevingsprogramma/maatregelen/d35478ad-9202-4dfa-ba21-41fdedf1dc91) al.
 
-<div class="blok-licht-blauw">
+<div class="tekstblok achtergrondLichtBlauw">
 De roep om nabijheid in relatie tot woningbouw is niet nieuw. In 2019 schreef de Rijksadviseur voor de fysieke leefomgeving het advies '<a href="https://www.collegevanrijksadviseurs.nl/adviezen-publicaties/publicatie/2019/10/16/enorm-veel-keuze--ongelofelijk-nabij">Enorm veel keuze &amp; ongelofelijk nabij</a>'. Het is een pleidooi om woningbouw niet te zien als doel, maar als middel om de regio rijker, hechter en schoner te maken: door met bereikbaarheid en verstedelijking de keuzevrijheid en nabijheid te vergroten. 'Enorm veel keuze &amp; ongelofelijk nabij' is opgesteld voor de Metropoolregio Amsterdam (MRA).
 </div>
 
