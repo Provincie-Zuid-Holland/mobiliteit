@@ -1,7 +1,7 @@
 ---
 layout: pzh
 title: Breng voorzieningen dichterbij
-header_image: img\rsu2040-10-minutenstad.png
+header_image: img\the-15-minute-city-paris-landscape-credit-micael.jpg
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>
@@ -19,17 +19,61 @@ De afgelopen 60 (?) jaar zijn we door centralisatie, efficiëntie-denken en het 
 Als je van een afstandje kijkt heeft mobiliteit (extra wegen) steeds de problemen die centralisatie veroorzaakt heeft .  Maar dat loopt nu vast. De uitweg is een nieuwe richting inslaan: Als je bereikbaarheid wilt verbeteren moet je de onderliggende zaken aanpakken: nabijheid verbeteren.
 Door vele wegen en auto’s konden mensen hun bestemming goed bereiken
 
+## nu de wegen vastlopen brengen we nabijheid terug
 
 
 
 
-
+## Utrecht als insipratiebron
 
 {% include klikblok.html
    img="img\rsu2040-10-minutenstad.png"
    title="Voorbeeld: Ruimtelijke strategie Utrecht"
    url="https://omgevingsvisie.utrecht.nl/de-koers/ruimtelijke-strategie-2040"
    text="....." %}
+
+we bouwen voort op  - en gebruiken uit [Ruimtelijke kwaliteit in de tien-minutenstad](
+https://www.utrecht.nl/fileadmin/uploads/documenten/bestuur-en-organisatie/beleid/stedenbouw/2024-10-stedenbouwvisie-ruimtelijke-kwaliteit-tien-minutenstad.pdf)
+
+
+
+
+## We bouwen voor gemeenschappen
+We zorgen ervoor dat mensen in de stad zich thuis kunnen voelen in hun omgeving. De buurt en je woning
+is de plek waaraan je je identiteit ontleent en waarmee je je verbonden voelt. Contact met buurtgenoten is
+vanzelfsprekend, ook als je in hoogbouw woont. Er is ruimte om jouw thuisbasis en je (woon)omgeving eigen
+te maken.
+- Organiseer de buurt in kleine gemeenschappen van
+gelijkgestemden.
+- Organiseer gemeenschappelijke ruimtes binnen het
+gebouw, binnentuin of straat
+
+
+## De openbare ruimte is leefruimte en nodigt uit voor ontmoeting.
+Het leven in de openbare ruimte neemt toe, want de gemiddelde woning wordt steeds kleiner en steeds
+minder grondgebonden. We ontmoeten elkaar in de openbare ruimte (ook niet-commercieel) en dat
+moet voor iedereen op loopafstand kunnen. Met de klimaatverandering zijn omgevingsfactoren zoals wind,
+schaduw, zon en geluid steeds meer van belang om comfortabele verblijfsplekken te creëren.
+Groene binnenterreinen voor verblijf, groen, biodiversiteit en waterberging.
+Dubbelgebruik daken voor groen, energie en waterberging. Natuurlijke oplossingen voor technische oplossingen.
+Onvoldoende leefomstandigheden (leeflaag) voor planten, struiken en bomen om in een gebouwde omgeving
+te groeien. Eigen zone voor de voordeur voor bankjes en groen, ook op hoogte (leefgalerij).
+Een gesloten begane grond door installaties of dichte gordijnen.
+- Stimuleer ontmoeting door de openbare ruimte
+- multifunctioneel in te richten voor verschillende doelgroepen.
+- Zorg voor voldoende schaduw en vermijd windoverlast.
+- Openbare ruimte niet gedomineerd door autogebruik
+
+## We laten ruimte voor het onverwachte.
+De stad bruist op plekken waar ruimte is voor initiatief. Dat kan groot: in de ‘rafelranden’ van de stad, maar ook klein door ‘rommelruimte’ in de eigen (woon)omgeving. Eigenaarschap – collectief of individueel – draagt positief bij aan de ontwikkeling van de stad en zorgt voor betrokkenheid. We bieden daarom ruimte en zijn flexibel om deze creativiteit en spontaniteit te laten ontstaan. initiatieven en innovatieve projecten.
+Utilitaire voorzieningen liggen binnen de rooilijn van het bouwblok.
+Entrees naar utilitaire voorzieningen zijn meeontworpen binnen de architectuur van het gebouw.
+Gesloten gevels aan de straat over een lange afstand. Onnodige voorzieningen in de openbare ruimte.
+- Biedt ruimte voor tijdelijke invulling van leegstaand vastgoed of kavels.
+- Biedt ruimte aan bewoners om hun woonomgeving eigen te maken.
+- Behoud bestaande lokale ondernemers, broedplaatsen en andere initiatieven zo veel mogelijk
+
+
 
 
 
