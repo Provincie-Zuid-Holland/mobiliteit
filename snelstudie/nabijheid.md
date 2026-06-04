@@ -272,7 +272,7 @@ En door MKB'ers te ondersteunen hun bedrijfspanden te behouden, kunnen kernen le
 <p>De afgelopen jaren is het voor werknemers makkelijker geworden om vanuit huis te werken en niet naar kantoor te gaan. Door flexibele werkplekken te stimuleren – zoals koffietentjes, wijkcentra en flexplekken bij stations – hoeven inwoners niet ver naar kantoor te reizen als ze buitenshuis willen werken.</p>
 </details>
 
-**Meer lezen?**
+## Meer lezen?  Linkjes & bronnen
 Inspirerende en interessante onderzoeken voor meer diepgang in de 'kracht van nabijheid':
 
 - [Omgevingsbeleid bereikbaar Zuid-Holland](https://omgevingsbeleid.Zuid-Holland.nl/omgevingsvisie/ambities/44d0fb02-3625-464b-8c20-40947626a184) (februari 2025)
@@ -280,7 +280,7 @@ Inspirerende en interessante onderzoeken voor meer diepgang in de 'kracht van na
 - [Ruimtelijk Economische Visie 2025-2050 Zuid-Holland](https://www.Zuid-Holland.nl/actueel/nieuws/december-2024/provincie-Zuid-Holland-lanceert-ruimtelijk/) (december 2024)
 - [*The 15-Minute City*, Carlos Moreno](https://www.rooilijn.nl/publicaties/the-15-minute-city-a-solution-to-saving-our-time-and-our-planet/) (boekrecensie)
 
-<div class="blok-licht-blauw">
+<div class="tekstblok achtergrondLichtblauw">
 <em>Tot slot het Afstudeeronderzoek van Max (<a href="https://maxkl.nl/pdf">https://maxkl.nl/pdf</a>) wat hij bij de provincie uitvoerde:</em><br>
 <strong>Travel behaviour in suburban areas:</strong> A case study in the province of Zuid-Holland<br><br>
 In de provincie Zuid-Holland is het autobezit en -gebruik de afgelopen twintig jaar sterk toegenomen. Die grote stijging brengt uitdagingen met zich mee, zoals meer ruimtebeslag, langere files en lastiger woningbouw (waar laten we die auto's, hoe laden we ze op). De stijging is vooral te zien buiten grote steden, op het platteland, maar ook in suburbane gebieden tussen stad en platteland (denk aan de randen van Rotterdam en Den Haag, gemeenten rond Leiden en de Drechtsteden). Dit afstudeeronderzoek onderscheidt zeven verschillende gebiedstypes, waarvan vier suburbaan. Uit het onderzoek blijkt dat het reisgedrag in suburbane gebieden varieert: sommige neigen qua autogebruik meer naar de stad, andere meer naar landelijke gebieden. Wel valt in suburbane gebieden op dat de mensen voor korte afstanden vaker de auto pakken dan in de stad. Zo gaat in een suburbaan gebied ruim 30 procent van woon-werkverkeer tot 5 kilometer met de auto, tegen 10 procent in de stad. Zelfs voor afstanden tot 2 kilometer pakken mensen in suburbane gebieden voor 18 procent van de ritten de auto. Dit hogere autogebruik in suburbane gebieden, zelfs voor korte afstanden, is opmerkelijk omdat deze gebieden vaak bij dagelijkse voorzieningen liggen en er bovendien alternatieven zijn, zoals de fiets en het OV. Ook in suburbane stationsgebieden liggen autobezit en -gebruik nog steeds hoog, bijna vergelijkbaar met de rest van het suburbane gebied. Stationsgebieden, vooral de gebieden langs de Oude Lijn met een hoge treinfrequentie van zes keer per uur, bieden kansen voor een lager autogebruik. Voor deze stationsgebieden is wel apart beleid nodig.<br>
@@ -307,7 +307,7 @@ Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
 </div>
 </div>
 
-## Linkjes & bronnen
+
 
 {% include klikblok.html
    img="https://i.mgtbk.nl/boeken/9781394228140-460x480.jpg?_=none_0"
