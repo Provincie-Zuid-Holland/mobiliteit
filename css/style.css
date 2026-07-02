@@ -71,21 +71,59 @@ h3{
     border-radius: 10px 100px 10px 10px;
 }
 
+/* --- Uniforme, responsive headerbanner ---
+   Standaard 4:1. Elke afbeelding vult de banner en wordt bijgesneden,
+   zodat alle koppen even hoog zijn, ongeacht de afmeting van de afbeelding.
+   Per pagina hoger te maken via front matter:  banner_ratio: 3 / 1
+   (lager eerste getal = hogere banner). */
+.topImage {
+  width: 100%;
+  aspect-ratio: var(--banner-ratio, 4 / 1);
+  overflow: hidden;
+}
+.topImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* schaalt + snijdt elke afbeelding tot de banner */
+  object-position: 50% 50%;   /* default focuspunt; per pagina te overschrijven */
+  display: block;
+}
+
+@media only screen and (max-width: 800px) {
+  /* op smalle schermen iets hoger zodat de afbeelding goed leesbaar blijft */
+  .topImage { aspect-ratio: 2 / 1; }
+}
+
+/* Natuurlijke modus (front matter: banner_ratio: auto):
+   toon de hele afbeelding op ware verhouding, zoals oorspronkelijk
+   (width:100% / height:auto), zonder bijsnijden. Staat na de media-query
+   zodat het ook op smalle schermen geldt. */
+.topImage--auto {
+  aspect-ratio: auto;
+  overflow: visible;
+}
+.topImage--auto img {
+  height: auto;
+}
+
+/* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
+   zodat blokken met én zonder afbeelding er hetzelfde uitzien.
+   Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
 .tekstblok {
   background-color: #efcc36;
   padding: 1em;
-  border-radius: 6px;
+  margin: 20px 0;   /* witruimte boven/onder zodat losse blokken niet aan elkaar plakken */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-.blok-licht-blauw {
-  background-color: #eaf7fe;
-  padding: 1em;
-  border-radius: 6px;
-}
-
-.achtergrondLichtBlauw {   background-color: #eaf7fe; }
-.achtergrondLichtGrijs {   background-color: #bfbfbf; }
-.achtergrondLichtGeel {   background-color: #f1db7e; }
+/* Achtergrondkleur-helpers. Dubbele selector = ongevoelig voor hoofd-/kleine
+   letter in de tweede helft (LichtBlauw / Lichtblauw). */
+.achtergrondLichtBlauw, .achtergrondLichtblauw {   background-color: #eaf7fe; }
+.achtergrondLichtGrijs, .achtergrondLichtgrijs {   background-color: #bfbfbf; }
+.achtergrondLichtGeel,  .achtergrondLichtgeel  {   background-color: #f1db7e; }
+.achtergrondWit,        .achtergrondwit        {   background-color: #ffffff; }
 
 .table-container {
   width: 100%;

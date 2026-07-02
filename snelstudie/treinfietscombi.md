@@ -2,6 +2,7 @@
 layout: pzh
 title: Mensen nemen vaker trein bij verbeterd deelfietsaanbod
 header_image: img/img-treinfietscombi/treinfiets.jpg
+banner_ratio: auto
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

@@ -2,6 +2,7 @@
 layout: pzh
 title: Deelfiets Donkey Republic in meerderheid van Zuid-Hollandse gemeenten
 header_image: img/img-deelfietsen-in-zh/deelfietsen-in-zh.jpg
+banner_ratio: 3 / 1
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

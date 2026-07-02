@@ -242,7 +242,7 @@ Met een jaarabbonement op de stalling is de reiziger voor een relatief laag bedr
 
 Omdat de overstap van tweede fiets naar deelfiets het meeste effect heeft, werken we die in het blauwe blok hieronder uit.
 <br>
-<div class="blok-licht-blauw">
+<div class="tekstblok achtergrondLichtBlauw">
 <H2>Overstap van tweede fiets naar deelfiets</H2>
 <p>Tweede fietsen aan de bestemmingskant kosten dus veel ruimte doordat ze lang stilstaan. Deelfietsen staan juist kort stil doordat ze ‘van baasje wisselen’. Hoe kun je mensen laten overstappen van de 'slechtste' categorie naar de 'beste' in de stationsstalling, dus van tweede fiets naar deelfiets?
 </p><p>

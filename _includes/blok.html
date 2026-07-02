@@ -1,17 +1,35 @@
-{% assign style = '' %}
-{% if include.bg %}
-  {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
-{% endif %}
-
-  <div class="item single-block"{{ style }}>
-    <div class="item-left">
-      <img src="{{ include.img }}" alt="{{ include.alt | default: 'Afbeelding' }}">
-    </div>
-    <div class="item-right">
-      {% if include.title %}
-        <h2>{{ include.title }}</h2>
-      {% endif %}
-      <p>{{ include.text| markdownify }}</p>
-    </div>
+{%- comment -%}
+  Generiek blok met kaart-look. Parameters:
+    text     (verplicht)  tekst; mag Markdown bevatten
+    title    (optioneel)  kop boven de tekst
+    img      (optioneel)  afbeelding; zonder img = tekst-only kaart
+    positie  links | rechts   (default links)  kant van de afbeelding
+    breedte  33 | 50          (default 33)     breedte van de afbeeldingskolom
+    kleur    (optioneel)  kleurnaam, bijv. LichtBlauw -> class achtergrondLichtBlauw
+    bg       (optioneel)  losse hex-achtergrondkleur (inline style)
+    url      (optioneel)  maakt het hele blok klikbaar
+    alt      (optioneel)  alt-tekst van de afbeelding
+{%- endcomment -%}
+{%- assign klassen = 'item' -%}
+{%- if include.positie == 'rechts' -%}{%- assign klassen = klassen | append: ' beeld-rechts' -%}{%- endif -%}
+{%- if include.breedte == '50' -%}{%- assign klassen = klassen | append: ' beeld-50' -%}{%- endif -%}
+{%- if include.kleur -%}{%- assign klassen = klassen | append: ' achtergrond' | append: include.kleur -%}{%- endif -%}
+{%- assign style = '' -%}
+{%- if include.bg -%}{%- assign style = ' style="background-color:' | append: include.bg | append: ';"' -%}{%- endif -%}
+<div class="item-list">
+{%- if include.url %}<a href="{{ include.url }}" class="item-link">{% endif -%}
+<div class="{{ klassen }}"{{ style }}>
+  {%- if include.img %}
+  <div class="item-left">
+    <img src="{{ include.img }}" alt="{{ include.alt | default: include.title | default: 'Afbeelding' }}">
   </div>
-
+  {%- endif %}
+  <div class="item-right">
+    {%- if include.title %}
+    <h2>{{ include.title }}</h2>
+    {%- endif %}
+    <p>{{ include.text | markdownify }}</p>
+  </div>
+</div>
+{%- if include.url %}</a>{% endif -%}
+</div>

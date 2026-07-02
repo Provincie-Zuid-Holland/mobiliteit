@@ -2,6 +2,7 @@
 layout: pzh
 title: Studenten in Zuid-Holland op deelfiets naar hun opleiding
 header_image: img\deelfietsstudenten.jpg
+banner_ratio: 3 / 1
 menu: |
    <a href="werkwijzer.html">Wat een snelstudie is</a>
    <a href="index.html">Andere snelstudies</a>

@@ -35,9 +35,9 @@
     </div>
   {% endif %}
     </div>
-  <div class="topImage" id="topI">
-  <img src="{{ page.header_image }}" alt="Zuid-Holland" width="100%" height="auto" >
-
+  <div class="topImage{% if page.banner_ratio == 'auto' %} topImage--auto{% endif %}" id="topI" style="--banner-ratio: {{ page.banner_ratio | default: '4 / 1' }};">
+  <img src="{{ page.header_image }}" alt="Zuid-Holland"
+       style="object-position: {{ page.focus | default: '50% 50%' }};">
   </div>
    <div class="content" id="content">   
     {{ content }}

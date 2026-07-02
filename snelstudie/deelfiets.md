@@ -2,6 +2,7 @@
 layout: pzh
 title: Zuid-Holland ga gewoon fietsen
 header_image: img/img-deelfiets/donkeyapp.png
+focus: 50% 100%
 menu: |
    <a href="werkwijzer.html">Wat is een snelstudie?</a>
    <a href="index.html">Andere snelstudies</a>

@@ -1,4 +1,7 @@
 
+# Lokale banner-preview (geen onderdeel van de site)
+_preview/
+
 .vs/site/FileContentIndex/5eb155c7-ba9e-434b-9e6a-5b7ffb16bea0.vsidx
 .vs/site/v17/.wsuo
 .vs/site/v17/DocumentLayout.json
