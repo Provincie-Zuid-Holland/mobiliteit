@@ -19,4 +19,5 @@ Op basis van open data zijn een aantal kaarten beschikbaar
 - [Actuele bezeting oranje deelfietsen bij ov knopen](https://provincie-zuid-holland.github.io/mobiliteit/kaart?live=1&ov=l)
 
 <br><br>
-Deze pagina is ter inspiratie en voor kennisoverdracht. De inhoud is geen vastgesteld beleid. <a href="https://www.zuid-holland.nl/algemeen/toegankelijkheid/">Toegankelijkheid</a>
+Deze pagina is ter inspiratie en is geen vastgesteld beleid.
+De toegankelijkheid van de kaarten is nog onvoldoende, daar wordt aan gewerkt</a>
