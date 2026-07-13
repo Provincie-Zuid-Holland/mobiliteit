@@ -62,6 +62,7 @@
             let display = `${hours}:${minutes}`;
 
             const bg = getQueryParam('bg');
+            const fg = getQueryParam('fg');
             const duetijd = getQueryParam('due');
             const warn = Number(getQueryParam('warn')) || 3;
             let isWarning = false;
@@ -93,8 +94,14 @@
             }
             document.body.style.backgroundColor = bgColor;
 
-            // Tekstkleur: donker (#281f6b) op een lichte achtergrond, anders wit.
-            const textColor = (bgColor !== 'transparent' && isLightColor(bgColor)) ? '#281f6b' : 'white';
+            // Tekstkleur: expliciete fg-parameter gaat voor, anders donker (#281f6b)
+            // op een lichte achtergrond en verder wit. Een hex-code mag met of zonder #.
+            let textColor;
+            if (fg) {
+                textColor = /^[0-9a-fA-F]{3,8}$/.test(fg) ? `#${fg}` : fg;
+            } else {
+                textColor = (bgColor !== 'transparent' && isLightColor(bgColor)) ? '#281f6b' : 'white';
+            }
             document.body.style.color = textColor;
             timer.style.color = textColor;
 
