@@ -36,17 +36,36 @@
             return urlParams.get(param);
         }
 
+        // Bepaalt of een CSS-kleur licht is (zodat we donkere tekst kiezen).
+        function isLightColor(color) {
+            const tmp = document.createElement('div');
+            tmp.style.color = color;
+            document.body.appendChild(tmp);
+            const resolved = getComputedStyle(tmp).color;
+            document.body.removeChild(tmp);
+            const parts = resolved.match(/\d+(\.\d+)?/g);
+            if (!parts) return false;
+            const [r, g, b] = parts.map(Number);
+            // Waargenomen helderheid (0-1)
+            const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+            return luminance > 0.6;
+        }
+
         function updateClock() {
             const remSize = Number(getQueryParam('rem')) || 4;
-            document.getElementById('timer').style.fontSize = `${remSize}rem`;
+            const timer = document.getElementById('timer');
+            timer.style.fontSize = `${remSize}rem`;
 
             const now = new Date();
             const hours = String(now.getHours()).padStart(2, '0');
             const minutes = String(now.getMinutes()).padStart(2, '0');
             let display = `${hours}:${minutes}`;
 
+            const bg = getQueryParam('bg');
             const duetijd = getQueryParam('due');
             const warn = Number(getQueryParam('warn')) || 3;
+            let isWarning = false;
+
             if (duetijd) {
                 const [h, m] = duetijd.split(':').map(Number);
                 if (!isNaN(h) && !isNaN(m)) {
@@ -60,15 +79,26 @@
                     } else if (diffMin < 0 && overschredenMin <= 30 && overschredenMin > 0) {
                         display += ` (-${overschredenMin})`;
                     }
-                    if (diffMin <= warn || (diffMin < 0 && overschredenMin <= 15)) {
-                        document.body.style.backgroundColor = 'red';
-                    } else {
-                        document.body.style.backgroundColor = 'black';
-                    }
+                    isWarning = diffMin <= warn || (diffMin < 0 && overschredenMin <= 15);
                 }
             }
 
-            document.getElementById('timer').textContent = display;
+            // Achtergrondkleur bepalen: waarschuwing gaat voor, anders bg-parameter,
+            // anders het oude gedrag (zwart bij due, verder transparant).
+            let bgColor;
+            if (isWarning) {
+                bgColor = 'red';
+            } else {
+                bgColor = bg || (duetijd ? 'black' : 'transparent');
+            }
+            document.body.style.backgroundColor = bgColor;
+
+            // Tekstkleur: donker (#281f6b) op een lichte achtergrond, anders wit.
+            const textColor = (bgColor !== 'transparent' && isLightColor(bgColor)) ? '#281f6b' : 'white';
+            document.body.style.color = textColor;
+            timer.style.color = textColor;
+
+            timer.textContent = display;
         }
 
         updateClock();
