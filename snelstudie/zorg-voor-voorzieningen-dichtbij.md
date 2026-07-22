@@ -45,15 +45,12 @@ Daarom houden we een pleidooi om fundamenteel anders te gaan kijken naar bereikb
 
 We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ruimtelijke ordening, maar dat andere (departementen, gemeentelijke afdelingen) hier belangrijke spelers zijn die voor een koerswijziging zouden kunnen zorgen. Het is dan ook een oproep aan mobiliteitsmensen om niet lijdzaam toe te zien hoe steeds onmogelijkere mobiliteitsopgaven op hun bordje geschoven wordt, maar om het brede maatschappelijke debat aan te zwengelen dat een slimme (steden)bouw en ruimtelijke ordening cruciaal is om Zuid-Holland bereikbaar te houden.
 
----
 
-## Leeswijzer
-
-Deze snelstudie is als volgt opgebouwd. In **hoofdstuk 1** beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid, en waarom de afwenteling op mobiliteit juist nú vastloopt. In **hoofdstuk 2** presenteren we een oplossingen: de knoppen waaraan gedraaid kan worden om nabijheid te realiseren, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In **hoofdstuk 3** passen we deze toe op concrete voorbeelden, binnen en buiten Zuid-Holland. In **hoofdstuk 4** trekken we de conclusies en doen we aanbevelingen aan provincie, gemeenten en Rijk. **Hoofdstuk 5** bevat verwijzingen voor wie verder wil lezen.
-
-Centraal staat de vraag hoe we ervoor kunnen zorgen voor voorzieningen dichtbij mensen, zodat men er snel en makkelijk naar toe kan ook als je geen auto hebt of erin mag rijden. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, parkeernormen en hindercirkels de echte mogelijkheden vormen om te sturen op nabijheid.
-
----
+<h3>Leeswijzer</h3>
+Deze snelstudie is als volgt opgebouwd. In *hoofdstuk 1* beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid, en waarom de afwenteling op mobiliteit juist nú vastloopt. In *hoofdstuk 2* presenteren we een oplossingen: de knoppen waaraan gedraaid kan worden om nabijheid te realiseren, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In *hoofdstuk 3* passen we deze toe op concrete voorbeelden, binnen en buiten Zuid-Holland. In *hoofdstuk 4* trekken we de conclusies en doen we aanbevelingen aan provincie, gemeenten en Rijk. *Hoofdstuk 5* bevat verwijzingen voor wie verder wil lezen.
+<div class="tekstblok achtergrondLichtBlauw">
+Centraal staat de vraag hoe we ervoor kunnen zorgen voor voorzieningen dichtbij mensen, zodat men er snel en makkelijk naar toe kan ook als je geen auto mag of kan rijden. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, parkeernormen en voorzieningenbeleid de echte mogelijkheden vormen om te sturen op nabijheid.
+</div>
 
 ## 1. Verdwijnen nabijheid: Oorzaken en gevolgen
 
