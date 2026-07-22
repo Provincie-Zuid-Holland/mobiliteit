@@ -34,3 +34,25 @@ We beschrijven negen uitdagingen met daarbij interessante oplossingen & voorbeel
     {% include item.html item=item %}
   {% endfor %}
 </div>
+<BR>
+
+## Smalle & brede welvaart
+Smalle welvaart gaat over het binnenlands bruto product (bbp, een maat voor groei van de economie) en inkomens, gemeten in geld. Brede welvaart gaat over de kwaliteit van leven: alles wat mensen belangrijk vinden. In het hier en nu, maar ook voor latere generaties of voor mensen op de rest van de wereld. Denk aan minder eenduidig te meten zaken als bereikbaarheid, bestaanszekerheid, gezondheid, kansengelijkheid, klimaataanpassing, leefomgeving, natuur, rechtvaardigheid, sociale samenhang en veiligheid. 
+Brede welvaart helpt ons om goed afgewogen keuzes te maken. We kijken niet naar één onderwerp tegelijk, maar naar de samenhang tussen economie, leefomgeving en samenleving. We gebruiken brede welvaart als hulpmiddel om beter te beslissen, bijvoorbeeld bij bouwen, mobiliteit, natuur of erfgoed. In [Agenda Brede Welvaart 2026-2030(https://www.zuid-holland.nl/onderwerpen/brede-welvaart/agenda-brede-welvaart-2026-2030/)] staat hoe we dit doen en hoe we samen met partners leren en verbeteren.
+
+## Eerdere snelstudies
+In deze kansenstudie kijken we in volle breedte naar bereikbaarheid. Op tal van onderwerpen hebben we eerder snelstudies gedaan. Waar relevant hebben we daar naar verwezen en hierondr is een overzicht van alle uitgevoerde snelstudies.
+1. Negen kansen voor bereikbaarheid (opvolger Acht kansen voor mobiliteit)
+2. Zorg voor voorzieningen dichtbij 
+3. Efficiëntere stationsstallingen: stimuleer de deelfiets meer 
+4. De kracht van nabijheid (2025 )
+5. Zuid-Holland, Ga gewoon fietsen (2025)
+6. Wisselfiets
+7. Mensen nemen vaker trein bij verbeterd deelfietsaanbod (2025)
+8. OV verbreden naar publiek vervoer (2024)
+9. [De ideale woonwijk, nabij voorzieningen en OV](/snelstudie\pdf\Snelstudie-De-ideale-wijk-in-Zuid-Holland.pdf) 
+10. [Sneller reizen met de bus in Zuid-Holland](https://www.zuid-holland.nl/publish/pages/28794/snelstudiesnellerreizenmetdebusinzuid-holland.pdf) 
+11. [Dicht bij huis werken in de Thuiswerkhub](https://www.zuid-holland.nl/publish/pages/28172/kansenvoordichtbijhuiswerkeninthuiswerkhubs.pdf) 
+12. [Kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/publish/pages/27859/briefvangedeputeerdevermeulenkansenvoordeelfietsendeelscooter.pdf)
+13. [Hoe verleiden we reizigers om slimmer (dan met een auto) te reizen?](https://www.zuid-holland.nl/publish/pages/27681/hoeverleidenwereizigersomslimmertereizen.pdf)
+
