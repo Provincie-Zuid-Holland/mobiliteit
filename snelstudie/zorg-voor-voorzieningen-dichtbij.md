@@ -9,6 +9,12 @@ menu: |
 # Zorg voor voorzieningen dichtbij
 ### Een pleidooi voor nabijheid in Zuid-Holland
 
+<div class="tekstblok achtergrondLichtBlauw">
+Deze snelstudie is onderdeel van "Negen kansen voor bereikbaarheid". Snelstudies zijn ter inspiratie en gaan vaak een stapje verder dan vastgesteld beleid. 
+</div>
+<br>
+
+
 <div style="background-color:#eaf3fb; border-left:5px solid #0a5ba8; color:#0a5ba8; padding:1em 1.2em; margin:20px 0; border-radius:6px; font-size:0.92em;">
 <p style="margin-top:0;"><strong>Redactienota (mag verwijderd worden vóór verspreiding).</strong> Dit is de tweede redactieslag door Ro-Bot, bovenop de herstructurering van 24 juni en de aanvullingen die de klankbordgroep sindsdien rechtstreeks in het Google Doc heeft verwerkt. Belangrijkste ingrepen in deze slag:</p>
 <ol>
@@ -25,15 +31,15 @@ menu: |
 
 ## Samenvatting
 
-Goede bereikbaarheid moet niet afgewenteld worden op de mobiliteitssector.
+<i>Goede bereikbaarheid van voorzieningen moet niet afgewenteld worden op de mobiliteitssector.</i>
 
 Decennialang heeft centralisatie (van voorzieningen zoals winkels, ziekenhuizen) en het scheiden van wonen en werken ervoor gezorgd dat mensen verder moesten gaan reizen. De mobiliteitssector heeft dat probleem gefixed door te zorgen dat grote groepen mensen zich sneller kunnen verplaatsen (bijvoorbeeld door het aanleggen van wegen).
 
-Het wordt echter steeds lastiger om dit 'bereikbaarheids-probleem' op te lossen met meer infrastructuur omdat ruimte en geld voor nieuwe infra zeer schaars zijn. Bovendien is veel infra (zoals bruggen) aan groot onderhoud toe wat de komende jaren voor veel kosten, hinder en files gaat zorgen. En dit terwijl het steeds drukker wordt in Zuid-Holland door onder andere grootschalige woningbouw.
+Het wordt echter steeds lastiger om dit op te vangen met meer infrastructuur omdat ruimte en geld voor nieuwe infra zeer schaars zijn. Bovendien is veel infra (zoals bruggen) aan groot onderhoud toe wat de komende jaren voor veel kosten, hinder en files gaat zorgen. En dit terwijl het steeds drukker wordt in Zuid-Holland door onder andere grootschalige woningbouw.
 
 Daarom wordt steeds meer gesproken over nabijheid (van voorzieningen, werk en goed OV). Door bestemmingen dichterbij te brengen hoeven bewoners minder ver te reizen, lopen ze vaker, fietsen ze meer, pakken ze vaker het OV en schept dat voor anderen weer ruimte voor een soepele rit per auto over wegen die niet overvol zitten.
 
-Het gaat hier om het keren van de trend van centralisatie en kijken hoe we met elkaar voorzieningen terug krijgen in wijk, stad of regio. Dit is hét moment: met een enorme woningbouwopgave (248.000 woningen tot 2030), de nieuwe Ruimtelijke koers en de Ruimtelijk Economische Visie 2025-2050 gaat Zuid-Holland de komende jaren flink op de schop. Dat biedt kansen (ook voor gemeenten en rijk) om in verschillende gebieden te streven naar betere nabijheid. Kansen liggen er niet alleen bij nieuwbouw, maar ook voor meer nabijheid in bestaande wijken.
+Het gaat hier om het keren van de trend van centralisatie en kijken hoe we met elkaar kunnen zorgen voor voorzieningen dichtbij in wijk, stad of regio. Dit is hét moment: met een enorme woningbouwopgave (248.000 woningen tot 2030), de nieuwe Ruimtelijke koers en de Ruimtelijk Economische Visie 2025-2050 gaat Zuid-Holland de komende jaren flink op de schop. Dat biedt kansen (ook voor gemeenten en rijk) om in verschillende gebieden te streven naar betere nabijheid. Kansen liggen er niet alleen bij nieuwbouw, maar ook voor meer nabijheid in bestaande wijken.
 
 Daarom houden we een pleidooi om fundamenteel anders te gaan kijken naar bereikbaarheid: Niet langer alleen een mobiliteitssector die het maar op moet lossen met meer en snellere infrastructuur, maar een breed maatschappelijk debat over een toekomstbestendige ruimtelijke ordening (waarin mobiliteit niet de sluitpost van beleid is).
 
