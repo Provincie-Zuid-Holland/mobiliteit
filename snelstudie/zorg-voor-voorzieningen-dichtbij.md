@@ -49,9 +49,9 @@ We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ru
 
 ## Leeswijzer
 
-Deze snelstudie is als volgt opgebouwd. In **hoofdstuk 1** beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid, en waarom de afwenteling op mobiliteit juist nú vastloopt. In **hoofdstuk 2** presenteren we een toolkit: de knoppen waaraan gedraaid kan worden om nabijheid te realiseren, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In **hoofdstuk 3** passen we die toolkit toe op concrete voorbeelden, binnen en buiten Zuid-Holland. In **hoofdstuk 4** trekken we de conclusies en doen we aanbevelingen aan provincie, gemeenten en Rijk. **Hoofdstuk 5** bevat verwijzingen voor wie verder wil lezen.
+Deze snelstudie is als volgt opgebouwd. In **hoofdstuk 1** beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid, en waarom de afwenteling op mobiliteit juist nú vastloopt. In **hoofdstuk 2** presenteren we een oplossingen: de knoppen waaraan gedraaid kan worden om nabijheid te realiseren, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In **hoofdstuk 3** passen we deze toe op concrete voorbeelden, binnen en buiten Zuid-Holland. In **hoofdstuk 4** trekken we de conclusies en doen we aanbevelingen aan provincie, gemeenten en Rijk. **Hoofdstuk 5** bevat verwijzingen voor wie verder wil lezen.
 
-Centraal staat de vraag hoe we ervoor kunnen zorgen dat een voorziening dichtbij mensen komt te liggen, zodat men er onafhankelijk van allerlei mobiliteitsdiensten naartoe kan. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, parkeernormen en hindercirkels de echte mogelijkheden vormen om te sturen op nabijheid.
+Centraal staat de vraag hoe we ervoor kunnen zorgen voor voorzieningen dichtbij mensen, zodat men er snel en makkelijk naar toe kan ook als je geen auto hebt of erin mag rijden. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, parkeernormen en hindercirkels de echte mogelijkheden vormen om te sturen op nabijheid.
 
 ---
 
