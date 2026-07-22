@@ -47,10 +47,12 @@ We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ru
 
 
 <h3>Leeswijzer</h3>
-Deze snelstudie is als volgt opgebouwd. In *hoofdstuk 1* beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid, en waarom de afwenteling op mobiliteit juist nú vastloopt. In *hoofdstuk 2* presenteren we een oplossingen: de knoppen waaraan gedraaid kan worden om nabijheid te realiseren, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In *hoofdstuk 3* passen we deze toe op concrete voorbeelden, binnen en buiten Zuid-Holland. In *hoofdstuk 4* trekken we de conclusies en doen we aanbevelingen aan provincie, gemeenten en Rijk. *Hoofdstuk 5* bevat verwijzingen voor wie verder wil lezen.
+In *hoofdstuk 1* beschrijven we de oorzaken en gevolgen van het gebrek aan nabijheid en waarom de afwenteling op mobiliteit juist nú vastloopt. In *hoofdstuk 2* presenteren we oplossingen: de knoppen waaraan gedraaid kan worden, verdeeld over besluitvorming, ruimtelijke ordening, economie en mobiliteit. In *hoofdstuk 3* passen we deze toe op concrete voorbeelden. In *hoofdstuk 4* trekken we de conclusies en doen we aanbevelingen. *Hoofdstuk 5* bevat verwijzingen voor wie verder wil lezen.
 <div class="tekstblok achtergrondLichtBlauw">
-Centraal staat de vraag hoe we ervoor kunnen zorgen voor voorzieningen dichtbij mensen, zodat men er snel en makkelijk naar toe kan ook als je geen auto mag of kan rijden. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, parkeernormen en voorzieningenbeleid de echte mogelijkheden vormen om te sturen op nabijheid.
+Centraal staat de vraag hoe we kunnen zorgen voor voorzieningen dichtbij mensen, zodat men er snel en makkelijk naar toe kan ook als je geen auto mag of kan rijden. Bekijk je nabijheid vanuit deze invalshoek, dan zie je dat ruimtelijke ordening, functiemenging, en voorzieningenbeleid de echte mogelijkheden vormen om te sturen op nabijheid. <i>Goede bereikbaarheid van voorzieningen moet niet afgewenteld worden op de mobiliteitssector.</i>
+
 </div>
+<br>
 
 ## 1. Verdwijnen nabijheid: Oorzaken en gevolgen
 
@@ -62,19 +64,19 @@ Maar dat lukt vaak nog niet, en het zorgt voor een afwenteling op mobiliteit. Li
 
 Je ziet hier eigenlijk twee trends die in steeds mindere mate lukken: het creëren van nabijheid, en het realiseren van functiemenging.
 
-**Trend 1: Nabijheid is verloren gegaan.** Ervoor zorgen dat de meeste voorzieningen voor het dagelijks leven (winkels, scholen, artsen, kroegen, werkplekken en woningen) dicht bij elkaar liggen, is steeds lastiger geworden. Voor veel van die voorzieningen moet je vanuit je woning nu behoorlijke afstanden afleggen.
+**Trend 1: Nabijheid is verloren gegaan.** Ervoor zorgen dat de meeste voorzieningen voor het dagelijks leven (winkels, scholen, artsen, kroegen, werkplekken, ontmoetingsplekken en woningen) dicht bij elkaar liggen, is steeds lastiger geworden. Voor veel van die voorzieningen moet je vanuit je woning nu behoorlijke afstanden afleggen.
 
 **Trend 2: Functiemenging is verloren gegaan.** Het combineren van functies lijkt heel moeilijk geworden. Kijk maar naar een oude foto van een wijk: winkels, woningen, een paar bedrijfjes, een kroeg, alles door elkaar. Er worden zeker nog ontwerpen gemaakt voor gemengde wijken, maar ze worden nauwelijks gerealiseerd. Er zijn pleidooien voor functiemenging, maar in de praktijk blijkt het ingewikkeld.
 
-**De samenhang.** De twee hangen samen: met meer functiemenging krijg je meer nabijheid, en als je nabijheid tot belangrijk doel maakt, leidt dat vaak tot functiemenging. Om dit echt te veranderen, moeten we de achterliggende oorzaken begrijpen. Hieronder schetsen we vijf oorzaken die hierin een sterke rol spelen.
+**De samenhang van functiemenging en nabijheid.** De twee hangen samen: met meer functiemenging krijg je meer nabijheid, en als je nabijheid tot belangrijk doel maakt, leidt dat vaak tot functiemenging. Om dit echt te veranderen, moeten we de achterliggende oorzaken begrijpen. Hieronder schetsen we vijf oorzaken die hierin een sterke rol spelen.
 
 ### De oorzaken
 
-**1. De dominante ruimtelijke visie.** In Nederland kennen we een sterke scheiding van functies, waardoor er nauwelijks nog gemengde buurten ontstaan. Waar het vroeger logisch was dat een vervuilende fabriek niet naast een woonwijk kwam, geldt dat voor een supermarkt of kantoor helemaal niet. In plaats van alle bedrijven eerst te verplaatsen om een woonwijk te ontwikkelen, kan ook gekeken worden welke bedrijven prima kunnen blijven staan.
+**1. De dominante ruimtelijke visie.** In Nederland kennen we een sterke scheiding van functies, waardoor er nauwelijks nog gemengde buurten ontstaan. Waar het vroeger logisch was dat een vervuilende fabriek niet naast een woonwijk kwam, geldt dat voor een supermarkt, fietsenwinkel of kantoor helemaal niet. In plaats van alle bedrijven eerst te verplaatsen om een woonwijk te ontwikkelen, kan ook gekeken worden welke bedrijven prima kunnen blijven staan.
 
 **2. Toename van schaal.** Om functies echt te kunnen mengen, wil je idealiter dat de bedrijven tussen de woningen niet te groot zijn. Maar de afgelopen 20–30 jaar worden veel voorzieningen juist groter. Kleine ziekenhuizen worden vervangen door megaziekenhuizen, huisartsen in de buurt door grotere posten op afstand, en kleine winkels bestaan vrijwel alleen nog in het speciale segment terwijl supermarkten steeds groter worden. Dit komt veelal door het economisch denken: een grotere voorziening is puur economisch vaak goedkoper en efficiënter. Maar de externe gevolgen, zoals grotere reisafstanden, extra investeringen in mobiliteit en de bijbehorende uitstoot, worden niet meegerekend.
 
-**3. Vrijheid.** We koesteren keuzevrijheid: van ondernemers die voor grote locaties langs de snelweg kiezen, en van jonge artsen die zich door vrije vestiging neerzetten waar al veel huisartsen zijn (wat tot tekorten leidt in bijvoorbeeld Zeeland). En de vrijheid van ons allen: door de dominantie van de auto bouwen zelfs natuurorganisaties enorme parkeerplaatsen bij bezoekerscentra, terwijl de bushaltes worden vergeten.
+**3. Vrijheid.** We koesteren keuzevrijheid: van ondernemers die voor grote locaties langs de snelweg kiezen, en van jonge artsen die zich door vrije vestiging neerzetten waar al veel huisartsen zijn (wat tot tekorten leidt in bijvoorbeeld Zeeland). En de vrijheid van ons allen: door de dominantie van de auto bouwen zelfs natuurorganisaties enorme parkeerplaatsen bij bezoekerscentra, terwijl de bushaltes minder aandacht krijgen.
 
 **4. De invloed van normen.** Er zijn veel afstands- en ruimtegebruiksstandaarden. Parkeernormen hebben een sterk sturend effect: een hoge parkeernorm kleurt automatisch een ruimtelijk ontwerp, zo werd in Leidsche Rijn veel groen opgeofferd voor een parkeernorm hoger dan 1,0. Daarnaast zijn er veel hinderregels, waardoor bedrijven altijd op afstand van woningen geplaatst moeten worden. Deze richtlijnen zorgen ervoor dat maar weinig functies echt in de buurt, laat staan in woonwijken, terechtkomen.
 
