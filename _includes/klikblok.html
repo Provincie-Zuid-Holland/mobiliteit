@@ -1,0 +1,14 @@
+{%- comment -%}
+  Alias voor blok.html, behouden voor bestaande aanroepen. Een klikblok is
+  simpelweg een blok mét url (klikbaar). Geeft alle parameters door.
+{%- endcomment -%}
+{%- include blok.html
+   img=include.img
+   title=include.title
+   text=include.text
+   url=include.url
+   positie=include.positie
+   breedte=include.breedte
+   kleur=include.kleur
+   bg=include.bg
+   alt=include.alt -%}

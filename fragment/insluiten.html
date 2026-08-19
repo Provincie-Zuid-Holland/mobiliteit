@@ -1,0 +1,32 @@
+<!-- ============================================================================
+     DIT BESTAND KOMT OP HET INTRANET en hoeft daarna nooit meer gewijzigd te worden.
+     De inhoud die het toont staat op:
+       https://provincie-zuid-holland.github.io/mobiliteit/fragment/inhoud.html
+     Die kan buiten het intranet om worden bijgewerkt; deze pagina haalt hem
+     bij elk bezoek opnieuw op.
+
+     Alleen de twee gemarkeerde regels hieronder zijn nodig; de rest is omhulsel
+     en mag vervangen worden door de opmaak van de intranetpagina.
+     ============================================================================ -->
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Mobiliteit</title>
+  <style>
+    body { max-width: 44rem; margin: 2rem auto; padding: 0 1rem;
+           font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  </style>
+</head>
+<body>
+
+  <!-- ---- 1 van 2: hier verschijnt de externe inhoud ---- -->
+  <div id="pzh-inhoud">Inhoud wordt geladen&hellip;</div>
+
+  <!-- ---- 2 van 2: de loader, die de inhoud ophaalt ---- -->
+  <script src="https://provincie-zuid-holland.github.io/mobiliteit/fragment/insluit.js" defer></script>
+
+</body>
+</html>

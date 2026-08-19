@@ -1,0 +1,182 @@
+* { box-sizing: border-box;}
+
+#pzhBlauw {color:#281f6b;}
+#pzhGeel {color:#efcc36;}
+#pzhRood {color:#d11f3d;}
+#p4 {background-color:#ffff00;}
+#p5 {background-color:#ff00ff;}
+
+body{
+    background: white;
+    font-family: Karbon,calibri,arial,sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 25px;
+      margin: 0;
+      max-width: 100%
+}
+
+.logobar {   /*test van de logobar flex*/
+  display: flex;
+  align-items: center;      /* verticaal uitlijnen */
+}
+
+.topnav {
+  display: flex;
+  align-items: center;
+  margin-left: auto;    /* ← dit duwt het menu naar rechts */
+  background-color: white;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: Black;
+  text-align: center;
+  padding: 0px 16px 16px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  color: Red;
+}
+
+.topnav a.active {
+  background-color: Red;
+  color: Black;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+
+
+
+h1{
+    font-size: 2.5em;
+    line-height: 1.35em;
+    color : #281f6b;
+
+}
+h3{
+ color : #281f6b;
+}
+
+.content{
+    background: #fff;
+    padding-top: 25px;
+    max-width: 1030px;
+    margin: auto;
+    border-radius: 10px 100px 10px 10px;
+}
+
+/* --- Uniforme, responsive headerbanner ---
+   Standaard 4:1. Elke afbeelding vult de banner en wordt bijgesneden,
+   zodat alle koppen even hoog zijn, ongeacht de afmeting van de afbeelding.
+   Per pagina hoger te maken via front matter:  banner_ratio: 3 / 1
+   (lager eerste getal = hogere banner). */
+.topImage {
+  width: 100%;
+  aspect-ratio: var(--banner-ratio, 4 / 1);
+  overflow: hidden;
+}
+.topImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* schaalt + snijdt elke afbeelding tot de banner */
+  object-position: 50% 50%;   /* default focuspunt; per pagina te overschrijven */
+  display: block;
+}
+
+@media only screen and (max-width: 800px) {
+  /* op smalle schermen iets hoger zodat de afbeelding goed leesbaar blijft */
+  .topImage { aspect-ratio: 2 / 1; }
+}
+
+/* Natuurlijke modus (front matter: banner_ratio: auto):
+   toon de hele afbeelding op ware verhouding, zoals oorspronkelijk
+   (width:100% / height:auto), zonder bijsnijden. Staat na de media-query
+   zodat het ook op smalle schermen geldt. */
+.topImage--auto {
+  aspect-ratio: auto;
+  overflow: visible;
+}
+.topImage--auto img {
+  height: auto;
+}
+
+/* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
+   zodat blokken met én zonder afbeelding er hetzelfde uitzien.
+   Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
+.tekstblok {
+  background-color: #efcc36;
+  padding: 1em;
+  margin: 20px 0;   /* witruimte boven/onder zodat losse blokken niet aan elkaar plakken */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Achtergrondkleur-helpers. Dubbele selector = ongevoelig voor hoofd-/kleine
+   letter in de tweede helft (LichtBlauw / Lichtblauw). */
+.achtergrondLichtBlauw, .achtergrondLichtblauw {   background-color: #eaf7fe; }
+.achtergrondLichtGrijs, .achtergrondLichtgrijs {   background-color: #bfbfbf; }
+.achtergrondLichtGeel,  .achtergrondLichtgeel  {   background-color: #f1db7e; }
+.achtergrondWit,        .achtergrondwit        {   background-color: #ffffff; }
+
+.table-container {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-family: sans-serif;
+}
+
+.table-container th, .table-container td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+.table-container th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+}
+
+.table-container tr:nth-child(odd) {
+  background-color: #fafafa;
+}
+
+
+@media only screen and (max-width: 800px) {
+  body {
+    margin: 0px;
+    border : 0px;
+    padding: 0px;
+
+  }
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .content{
+      border-radius: 0px;
+      padding-top: 10px;
+      padding-left: 10px;
+
+  }
+
+
+}

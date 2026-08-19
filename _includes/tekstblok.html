@@ -1,0 +1,16 @@
+{% assign style = '' %}
+{% if include.bg %}
+  {% assign style = ' style="background-color:' | append: include.bg | append: ';"' %}
+{% endif %}
+
+
+
+<div class="tekstblok"{{ style }}>
+     {% if include.title %}
+        <h2>{{ include.title }}</h2>
+      {% endif %}
+      <p>{{ include.text| markdownify }}</p>
+</div>
+
+
+

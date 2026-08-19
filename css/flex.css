@@ -1,0 +1,159 @@
+/* flex Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+/* Create  unequal columns that sits next to each other */
+.b25 {
+  flex: 25%;
+  background-color: #f0f2f4;
+  padding: 20px;
+}
+.b33 {
+  flex: 33%;
+  background-color: #f0f2f4;
+  padding: 20px;
+}
+.b50 {
+  flex: 50%;
+  padding: 20px;
+}
+/* Main column */
+.b66 {
+  flex: 66%;
+  background-color: white;
+  padding: 20px;
+}
+.b75 {
+  flex: 75%;
+  background-color: #f0f2f4;
+  padding: 20px;
+}
+
+.item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 20px 0;   /* witruimte boven/onder zodat losse blokken niet aan elkaar plakken */
+}
+
+.item-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  /*margin: 1em 0;*/
+  height: auto;
+  transition: box-shadow 0.2s ease;
+}
+
+/* Standaard-achtergrond (lichtgrijs) met nul-specificiteit (:where), zodat
+   elke achtergrond*-kleurklasse of inline bg-kleur er altijd overheen wint. */
+:where(.item) {
+  background-color: #f8f8f8;
+}
+
+.item-link:hover .item {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.item-left {
+  flex: 1;
+  max-width: 33%;
+  min-width: 150px;
+  padding: 10px;
+  background-color: transparent; /* afbeelding staat op de blok-achtergrondkleur */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.item-breed {
+  flex: 1;
+  min-width: 150px;
+  padding: 10px;
+  background-color: transparent; /* afbeelding staat op de blok-achtergrondkleur */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Modifiers op .item (via include-parameters positie/breedte) */
+.item.beeld-rechts {
+  flex-direction: row-reverse;   /* afbeelding rechts (DOM-volgorde blijft afb. eerst) */
+}
+.item.beeld-50 .item-left {
+  flex: 1;
+  max-width: 50%;                /* afbeelding halve breedte i.p.v. 1/3 */
+}
+.item.beeld-50 .item-right {
+  flex: 1;
+}
+
+.item-left img {
+  max-width: 100%;
+  height: auto;
+  /* max-height: 150px; */
+  /*object-fit: contain;*/
+  /* max-width: 100%;
+  height: auto; */
+}
+
+.item-right {
+  flex: 2;
+  padding: 10px;
+}
+
+.item-right h2 {
+  margin-top: 0;
+  font-size: 1.5em;
+}
+
+/* Extra link onderin een blok (naast de hoofdlink van het blok zelf) */
+.item-extra {
+  margin: 0.8em 0 0;
+}
+
+/* zelfde hover-schaduw voor blokken die zelf geen omhullende link zijn */
+.item:has(.item-link:hover) {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 590px) {
+  .item,
+  .item.beeld-rechts {
+    flex-direction: column;     /* op smal scherm altijd stapelen, afbeelding bovenaan */
+  }
+
+  .item-left,
+  .item.beeld-50 .item-left,
+  .item-right {
+    max-width: 100%;
+  }
+
+  .item-left img {
+    max-height: 200px;
+  }
+}
+
+
+
+
+
+
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {
+    flex-direction: column;
+  }
+}

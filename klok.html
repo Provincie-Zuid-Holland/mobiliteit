@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta name="robots" content="noindex, nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitale Klok</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        #timer {
+            font-size: 4rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="timer">--</div>
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Bepaalt of een CSS-kleur licht is (zodat we donkere tekst kiezen).
+        function isLightColor(color) {
+            const tmp = document.createElement('div');
+            tmp.style.color = color;
+            document.body.appendChild(tmp);
+            const resolved = getComputedStyle(tmp).color;
+            document.body.removeChild(tmp);
+            const parts = resolved.match(/\d+(\.\d+)?/g);
+            if (!parts) return false;
+            const [r, g, b] = parts.map(Number);
+            // Waargenomen helderheid (0-1)
+            const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+            return luminance > 0.6;
+        }
+
+        function updateClock() {
+            const remSize = Number(getQueryParam('rem')) || 4;
+            const timer = document.getElementById('timer');
+            timer.style.fontSize = `${remSize}rem`;
+
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            let display = `${hours}:${minutes}`;
+
+            const bg = getQueryParam('bg');
+            const fg = getQueryParam('fg');
+            const duetijd = getQueryParam('due');
+            const warn = Number(getQueryParam('warn')) || 3;
+            let isWarning = false;
+
+            if (duetijd) {
+                const [h, m] = duetijd.split(':').map(Number);
+                if (!isNaN(h) && !isNaN(m)) {
+                    const due = new Date();
+                    due.setHours(h, m, 0, 0);
+                    const diffMs = due - now;
+                    const diffMin = Math.ceil(diffMs / (1000 * 60));
+                    const overschredenMin = Math.floor(Math.abs(diffMs) / (1000 * 60));
+                    if (diffMin > 0 && diffMin <= 15) {
+                        display += ` (${diffMin})`;
+                    } else if (diffMin < 0 && overschredenMin <= 30 && overschredenMin > 0) {
+                        display += ` (-${overschredenMin})`;
+                    }
+                    isWarning = diffMin <= warn || (diffMin < 0 && overschredenMin <= 15);
+                }
+            }
+
+            // Achtergrondkleur bepalen: waarschuwing gaat voor, anders bg-parameter,
+            // anders het oude gedrag (zwart bij due, verder transparant).
+            let bgColor;
+            if (isWarning) {
+                bgColor = 'red';
+            } else {
+                bgColor = bg || (duetijd ? 'black' : 'transparent');
+            }
+            document.body.style.backgroundColor = bgColor;
+
+            // Tekstkleur: expliciete fg-parameter gaat voor, anders donker (#281f6b)
+            // op een lichte achtergrond en verder wit. Een hex-code mag met of zonder #.
+            let textColor;
+            if (fg) {
+                textColor = /^[0-9a-fA-F]{3,8}$/.test(fg) ? `#${fg}` : fg;
+            } else {
+                textColor = (bgColor !== 'transparent' && isLightColor(bgColor)) ? '#281f6b' : 'white';
+            }
+            document.body.style.color = textColor;
+            timer.style.color = textColor;
+
+            timer.textContent = display;
+        }
+
+        updateClock();
+        setInterval(updateClock, 1000);
+    </script>
+</body>
+</html>

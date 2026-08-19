@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta name="robots" content="noindex, nofollow">
+  <meta charset="UTF-8">
+  <title>Zuid-Holland</title>
+  <link rel=icon href="img/favicon.png">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="css/mapstyles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ </head>
+ <body>
+  <div id="map"></div>
+  <script src="data/deelmdata.js"></script>
+  <script src="data/haltesa.js"></script>
+  <script src="scr/parseW.js"></script>
+  <script src="scr/mapFunctions.js"></script>
+  <script>
+      var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9, schaal :"A" }
+      var mapOptions = { center: [52.03, 4.584], zoom: 10 }
+      //leesURL(); // om instellingen aan te passen
+      console.log("instellingen:")
+      console.log(Instellingen)
+      var map = new L.map('map', mapOptions);  createMap();       // Creating a map object
+      plotOVLijnen(ovLijnen);
+      if (Instellingen['deelm'] == 'oranje' ) {console.log("start plot donkeys");  plotOVDonkeys(mapDonkeys);}
+      labels =["latlon", "haltenaam", "ov-niveau", "id-gtfs", "cbs-vrk500", "pc4", "woonplaats", "gemeente", "rank-1.5km", "rank-3km", "fiets-score", "fiets-rank-1.5km", "fiets-rank-3km", "nearby-fiets-rank1-1.5km", "nearby-fiets-rank1-3km", "ov-score", "ov-rank-1.5km", "ov-rank-3km", "nearby-ov-rank1-1.5km", "nearby-ov-rank1-3km"]
+      console.log("start plot haltes");  plotHaltesArray(haltes);
+    maakLegenda();
+      if (Instellingen['deelm'] == 'os' ) {console.log("start plot donkeys");  plotOVDonkeys(mapDonkeys);console.log("start plot suggesties");  plotSuggesties(deelfietsSuggesties);}
+      if (Instellingen["pointer"] !=null) {plaatsPointer();}
+      if (Instellingen["click"] ==1) {map.on('click', onMapClick);}
+
+  </script>
+ </body>
+</html>

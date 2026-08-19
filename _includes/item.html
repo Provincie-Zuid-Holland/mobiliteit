@@ -1,0 +1,25 @@
+{%- assign item_url = include.href | default: include.item.url -%}
+{%- if include.item.extra_url -%}
+<div class="item achtergrondWit">
+  <div class="item-left">
+    <a href="{{ item_url }}" class="item-link"><img src="{{ include.item.image }}" alt="{{ include.item.title }}"></a>
+  </div>
+  <div class="item-right">
+    <h2><a href="{{ item_url }}" class="item-link">{{ include.item.title }}</a></h2>
+    <p>{{ include.item.description }}</p>
+    <p class="item-extra"><a href="{{ include.item.extra_url }}">{{ include.item.extra_text | default: "Lees het rapport in pdf" }}</a></p>
+  </div>
+</div>
+{%- else -%}
+<a href="{{ item_url }}" class="item-link">
+  <div class="item achtergrondWit">
+    <div class="item-left">
+      <img src="{{ include.item.image }}" alt="{{ include.item.title }}">
+    </div>
+    <div class="item-right">
+      <h2>{{ include.item.title }}</h2>
+      <p>{{ include.item.description }}</p>
+    </div>
+  </div>
+</a>
+{%- endif -%}
