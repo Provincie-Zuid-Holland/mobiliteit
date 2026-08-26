@@ -1,17 +1,50 @@
 * { box-sizing: border-box;}
 
+/* --- Karbon: het huislettertype van provincie Zuid-Holland ---
+   Zonder deze @font-face viel de site terug op Calibri/Arial.
+   Bestanden komen uit de 8kansen-export (zelfde webfonts als zuid-holland.nl). */
+@font-face {
+  font-family: 'Karbon';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/mobiliteit/fonts/Karbon-Regular.woff2') format('woff2'),
+       url('/mobiliteit/fonts/karbon-regular-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'Karbon';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/mobiliteit/fonts/Karbon-Medium.woff2') format('woff2'),
+       url('/mobiliteit/fonts/karbon-medium-webfont.woff') format('woff');
+}
+
+/* --- Huisstijlkleuren (wapenfeiten.zuid-holland.nl > bouwstenen > kleuren) --- */
+:root {
+  --pzh-blauw:        #281f6b;   /* koppen */
+  --pzh-donkerblauw:  #16113b;   /* broodtekst */
+  --pzh-groen:        #00804d;   /* links */
+  --pzh-donkergroen:  #004d2e;   /* link-hover */
+  --pzh-rood:         #d11f3d;
+  --pzh-geel:         #efcc36;
+  --pzh-lichtblauw-vlak: #e5eff8; /* PZH lichtblauw als rustig achtergrondvlak */
+}
+
 #pzhBlauw {color:#281f6b;}
 #pzhGeel {color:#efcc36;}
 #pzhRood {color:#d11f3d;}
 #p4 {background-color:#ffff00;}
 #p5 {background-color:#ff00ff;}
 
+/* Broodtekst online volgens het design system: Karbon regular 20 / 30 px */
 body{
     background: white;
+    color: var(--pzh-donkerblauw);
     font-family: Karbon,calibri,arial,sans-serif;
-    font-size: 1.1em;
+    font-size: 20px;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 30px;
       margin: 0;
       max-width: 100%
 }
@@ -38,7 +71,7 @@ body{
 }
 
 .topnav a:hover {
-  color: Red;
+  color: var(--pzh-rood);
 }
 
 .topnav a.active {
@@ -53,14 +86,78 @@ body{
 
 
 
+/* --- Koppen: Karbon medium in PZH-blauw, maten uit het PZH design system
+   (H1 48/56, H2 36/44, H3 24/32 op desktop) --- */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Karbon,calibri,arial,sans-serif;
+    font-weight: 500;
+    color: var(--pzh-blauw);
+}
 h1{
-    font-size: 2.5em;
-    line-height: 1.35em;
-    color : #281f6b;
-
+    font-size: 48px;
+    line-height: 56px;
+    margin: 0 0 15px;
+}
+h2{
+    font-size: 36px;
+    line-height: 44px;
+    margin: 40px 0 15px;
 }
 h3{
- color : #281f6b;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 32px 0 10px;
+}
+h4{
+    font-size: 20px;
+    line-height: 30px;
+    margin: 24px 0 10px;
+}
+
+p, ul, ol {
+    margin: 0 0 20px;
+}
+li > ul, li > ol {
+    margin-bottom: 0;
+}
+
+/* Ondertitel onder de H1: Georgia regular 20/30, conform de huisstijl */
+.ondertitel{
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--pzh-donkerblauw);
+    margin: 0 0 30px;
+}
+
+/* Quote: Georgia italic */
+blockquote{
+    font-family: Georgia, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 48px;
+    color: var(--pzh-blauw);
+    margin: 30px 0;
+    padding: 0;
+}
+
+/* Links in PZH-groen; kaartblokken houden hun eigen, rustige opmaak */
+.content a{
+    color: var(--pzh-groen);
+    text-decoration: underline;
+    text-decoration-thickness: from-font;
+    text-underline-offset: 2px;
+}
+.content a:hover{
+    color: var(--pzh-donkergroen);
+}
+.content .item-link{
+    color: var(--pzh-donkerblauw);
+    text-decoration: none;
+}
+.content .item-right h2 a{
+    color: var(--pzh-blauw);
+    text-decoration: none;
 }
 
 .content{
@@ -68,7 +165,6 @@ h3{
     padding-top: 25px;
     max-width: 1030px;
     margin: auto;
-    border-radius: 10px 100px 10px 10px;
 }
 
 /* --- Uniforme, responsive headerbanner ---
@@ -106,6 +202,34 @@ h3{
   height: auto;
 }
 
+/* Hoofdboodschap = rustig lichtblauw vlak, zoals het informatieblok op
+   8kansen en de meldingsblokken op zuid-holland.nl. Geen rand of schaduw:
+   het vlak zelf doet het werk. */
+.hoofdboodschap {
+  background-color: var(--pzh-lichtblauw-vlak);
+  padding: 24px 28px;
+  margin: 30px 0;
+}
+.hoofdboodschap h2 {
+  font-size: 24px;
+  line-height: 32px;
+  margin: 0 0 10px;
+}
+.hoofdboodschap ul {
+  margin: 0 0 20px;
+  padding-left: 22px;
+}
+.hoofdboodschap li {
+  margin-bottom: 6px;
+}
+.hoofdboodschap > :last-child {
+  margin-bottom: 0;
+}
+.hoofdboodschap .toelichting {
+  font-size: 18px;
+  line-height: 26px;
+}
+
 /* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
    zodat blokken met én zonder afbeelding er hetzelfde uitzien.
    Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
@@ -129,7 +253,9 @@ h3{
   width: 100%;
   border-collapse: collapse;
   margin: 1em 0;
-  font-family: sans-serif;
+  font-family: inherit;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .table-container th, .table-container td {
@@ -172,11 +298,18 @@ h3{
     text-align: left;
   }
   .content{
-      border-radius: 0px;
       padding-top: 10px;
       padding-left: 10px;
+      padding-right: 10px;
 
   }
+
+  /* Mobiele typeschaal uit het PZH design system */
+  h1{ font-size: 32px; line-height: 35px; }
+  h2{ font-size: 24px; line-height: 32px; margin-top: 32px; }
+  h3{ font-size: 22px; line-height: 30px; }
+  blockquote{ font-size: 28px; line-height: 34px; }
+  .hoofdboodschap{ padding: 20px; }
 
 
 }

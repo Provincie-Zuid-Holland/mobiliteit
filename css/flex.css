@@ -114,8 +114,13 @@
 }
 
 .item-right h2 {
-  margin-top: 0;
-  font-size: 1.5em;
+  margin: 0 0 10px;
+  font-size: 24px;      /* H3-maat uit het PZH design system */
+  line-height: 32px;
+}
+
+.item-right p {
+  margin: 0 0 10px;
 }
 
 /* Extra link onderin een blok (naast de hoofdlink van het blok zelf) */
