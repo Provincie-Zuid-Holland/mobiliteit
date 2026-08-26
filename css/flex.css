@@ -123,6 +123,27 @@
   margin: 0 0 10px;
 }
 
+/* Compacte variant van de lijst: beeld op ongeveer 1/6 in plaats van 1/3,
+   met kleinere kop en tekst. Gebruikt voor "Eerdere snelstudies". */
+.item-list--smal .item-left {
+  max-width: 17%;
+  min-width: 90px;
+}
+
+.item-list--smal .item-right h2 {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.item-list--smal .item-right p {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.item-list--smal .item-extra {
+  margin-top: 0.5em;
+}
+
 /* Extra link onderin een blok (naast de hoofdlink van het blok zelf) */
 .item-extra {
   margin: 0.8em 0 0;

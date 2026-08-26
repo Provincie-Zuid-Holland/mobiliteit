@@ -1,5 +1,16 @@
-{%- assign item_url = include.href | default: include.item.url -%}
-{%- if include.item.extra_url -%}
+{%- assign item_url = include.href | default: include.item.url | default: '' -%}
+{%- if item_url == '' -%}
+{%- comment -%} geen url: blok zonder link (bijvoorbeeld de studie waar je al op zit) {%- endcomment -%}
+<div class="item achtergrondWit">
+  <div class="item-left">
+    <img src="{{ include.item.image }}" alt="{{ include.item.title }}">
+  </div>
+  <div class="item-right">
+    <h2>{{ include.item.title }}</h2>
+    <p>{{ include.item.description }}</p>
+  </div>
+</div>
+{%- elsif include.item.extra_url -%}
 <div class="item achtergrondWit">
   <div class="item-left">
     <a href="{{ item_url }}" class="item-link"><img src="{{ include.item.image }}" alt="{{ include.item.title }}"></a>

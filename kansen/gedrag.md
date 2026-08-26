@@ -2,9 +2,9 @@
 layout: pzh
 title: Veranderingen draaien om gedrag
 header_image: /mobiliteit/kansen/img/kop-gedrag.jpg
+focus: 50% 15%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Veranderingen draaien om gedrag

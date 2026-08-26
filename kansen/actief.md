@@ -4,7 +4,6 @@ title: Prioriteit voor lopen & fietsen
 header_image: /mobiliteit/kansen/img/kop-actief.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Prioriteit voor lopen & fietsen
@@ -39,18 +38,9 @@ Heel Nederland fietst in 2040. Dat is waar de [Fietsersbond van droomt in haar f
 
 De fiets biedt niet alleen de gebruiker goedkoop vervoer, maar ook de overheid. Zo liggen de gezondheidsbaten van de fiets hoger dan de kosten voor infrastructuur en verkeersongevallen. De fiets is het enige vervoermiddel waarvan de baten groter zijn dan de kosten, concludeert het Kennisinstituut voor Mobiliteitsbeleid in de studie 'Op binnenlandse reis met fiets, auto en openbaar vervoer'.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
-  <img src="/mobiliteit/kansen/img/scholieren-smalle-fietspaden.jpg" alt="Scholieren op een smal fietspad" loading="lazy">
-  <figcaption>Meer fietsers en meer soorten fietsen vragen om bredere fietspaden</figcaption>
-</figure>
-
 ## Fietsfamilies
 
 Naast de vertrouwde (elektrische) fiets, ontstaan er fietsfamilies van bakfietsen, driewielers, fatbikes, speed pedelecs, transportfietsen, velomobielen ('bananen') en aangepaste fietsen voor mensen die minder mobiel zijn. Meer fietsers en al deze verschillende voertuigen met verschillende snelheden leggen extra druk op onze fietspaden. Dat vraagt om meer ruimte én veiligheid voor de fietser, zoals bredere en vrijliggende fietspaden. Ook met die extra ruimte voor de fietser blijft fietsen -- net als lopen -- een ruimte-efficiënte vorm van vervoer. Door op plekken waar ruimte schaars is voorrang te geven aan fietsen en lopen, blijft meer ruimte beschikbaar, bijvoorbeeld voor woningen, groen en speelplaatsen.
-
-</div>
 
 ## Da's zo gefietst
 

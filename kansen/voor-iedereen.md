@@ -4,7 +4,6 @@ title: Mobiliteit voor iedereen
 header_image: /mobiliteit/kansen/img/kop-voor-iedereen.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Mobiliteit voor iedereen

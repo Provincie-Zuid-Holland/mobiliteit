@@ -1,0 +1,72 @@
+# Eerdere snelstudies, zoals getoond onderaan kansen/index.html.
+# Volgorde en selectie zijn met de hand vastgesteld en wijken bewust af van
+# _data/items.yml (dat is het volledige overzicht op /snelstudie/).
+# Beelden: verkleinde kopieën in kansen/img/eerdere/.
+
+- title: Negen kansen voor bereikbaarheid (deze studie)
+  image: img/eerdere/negen-kansen.jpg
+  description: Opvolger van Acht kansen voor mobiliteit.
+
+- title: Zorg voor voorzieningen dichtbij
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/zorg-voor-voorzieningen-dichtbij.html
+  image: img/eerdere/voorzieningen-dichtbij.jpg
+  description: Een pleidooi voor nabijheid in Zuid-Holland.
+
+- title: 'Efficiëntere stationsstallingen: stimuleer de deelfiets meer'
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/fietsenstalling.html
+  image: img/eerdere/stationsstallingen.jpg
+  description: Tussen groepen fietsenstallers bestaan grote verschillen in de tijd dat hun fiets bij het station staat.
+
+- title: De kracht van nabijheid (2025)
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/nabijheid.html
+  image: img/eerdere/nabijheid.jpg
+  description: Met voorzieningen dichtbij hoeven bewoners minder ver te reizen, lopen ze vaker en fietsen ze meer.
+
+- title: Zuid-Holland, Ga gewoon fietsen (2025)
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/fiets.html
+  image: img/eerdere/ga-gewoon-fietsen.jpg
+  description: Hoe mooi kan Zuid-Holland worden als we de komende tien jaar flink meer gaan fietsen?
+
+- title: Wisselfiets
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/wisselfiets.html
+  image: img/eerdere/wisselfiets.jpg
+  description: Een kruising van een leasefiets en een deelfiets, die het ruimteprobleem bij stations oplost.
+
+- title: Mensen nemen vaker trein bij verbeterd deelfietsaanbod (2025)
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/treinfietscombi.html
+  image: img/eerdere/trein-deelfiets.jpg
+  description: Als je op je bestemming net zo makkelijk een fiets pakt als thuis, wordt de trein aantrekkelijker.
+
+- title: OV verbreden naar publiek vervoer (2024)
+  url: https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/ov.html
+  image: img/eerdere/publiek-vervoer.jpg
+  description: Publieke mobiliteit is de manier om van A naar B te komen als je niet met eigen vervoer reist.
+
+- title: De ideale woonwijk, nabij voorzieningen en OV
+  url: https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-ideale-woonwijk-nabij-voorzieningen-ov/
+  image: img/eerdere/ideale-woonwijk.jpg
+  description: Hoe ziet de ideale wijk eruit?
+  extra_url: /mobiliteit/snelstudie/pdf/Snelstudie-De-ideale-wijk-in-Zuid-Holland.pdf
+
+- title: Sneller reizen met de bus in Zuid-Holland
+  url: https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-sneller-reizen-bus-zuid-holland/
+  image: img/eerdere/sneller-met-de-bus.jpg
+  description: Het busvervoer staat onder druk. Snellere lijnen met minder haltes trekken meer reizigers.
+  extra_url: https://www.zuid-holland.nl/publish/pages/28794/snelstudiesnellerreizenmetdebusinzuid-holland.pdf
+
+- title: Dicht bij huis werken in de Thuiswerkhub
+  url: https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-dicht-huis-werken-thuiswerkhub/
+  image: img/eerdere/thuiswerkhub.jpg
+  description: Werken dicht bij huis, met de voordelen van kantoor én van thuis.
+  extra_url: https://www.zuid-holland.nl/publish/pages/28172/kansenvoordichtbijhuiswerkeninthuiswerkhubs.pdf
+
+- title: Kansen voor deelfiets en deelscooter in Zuid-Holland
+  url: https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/
+  image: img/eerdere/deelfiets-deelscooter.jpg
+  description: Er liggen kansen in Zuid-Holland voor deelfietsen en deelscooters.
+  extra_url: https://www.zuid-holland.nl/publish/pages/27859/briefvangedeputeerdevermeulenkansenvoordeelfietsendeelscooter.pdf
+
+- title: Hoe verleiden we reizigers om slimmer (dan met een auto) te reizen?
+  url: https://www.zuid-holland.nl/publish/pages/27681/hoeverleidenwereizigersomslimmertereizen.pdf
+  image: img/eerdere/slimmer-reizen.jpg
+  description: De eerste snelstudie, met een groot aantal maatregelen om mensen slimmer te laten reizen.

@@ -2,9 +2,6 @@
 layout: pzh
 title: Kansen voor bereikbaarheid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
-menu: |
-   <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
-
 ---
 # Negen kansen voor bereikbaarheid
 ### Grote opgaven: meer woningen, veel onderhoud en schaarste

@@ -2,9 +2,9 @@
 layout: pzh
 title: Voorzieningen dichtbij huis
 header_image: /mobiliteit/kansen/img/kop-nabijheid.jpg
+focus: 50% 40%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Voorzieningen dichtbij huis

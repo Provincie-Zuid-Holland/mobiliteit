@@ -4,7 +4,6 @@ title: Goed functionerende & circulaire infrastructuur
 header_image: /mobiliteit/kansen/img/kop-infra.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Goed functionerende & circulaire infrastructuur

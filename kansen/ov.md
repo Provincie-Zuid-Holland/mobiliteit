@@ -4,7 +4,6 @@ title: Ruim baan voor openbaar vervoer & publieke mobiliteit
 header_image: /mobiliteit/kansen/img/kop-ov.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/index.html">overzicht van snelstudies</a>
 
 ---
 # Ruim baan voor openbaar vervoer & publieke mobiliteit
