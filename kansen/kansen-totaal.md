@@ -37,7 +37,7 @@ Klik op een kans om naar de uitwerking verderop op deze pagina te springen.
 </div>
 <BR>
 
-## 1. Voorzieningen dichtbij huis {#kans-1}
+## 1. Zorg voor voorzieningen dichtbij {#kans-1}
 
 De woningnood is hoog in Zuid-Holland. Daarom wil de provincie 248.000 nieuwe woningen (laten) bouwen tot 2030. Dit biedt de kans om meteen goed te kijken waar we die nieuwe woningen neerzetten, want een slimme woningbouwstrategie draagt flink bij aan slimmere mobiliteit. Een woonwijk ligt er voor een paar honderd jaar, dus hoe slimmer de ruimtelijke ordening, hoe groter de effecten op lange termijn.
 
