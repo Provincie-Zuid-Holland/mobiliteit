@@ -2,6 +2,7 @@
 layout: pzh
 title: Ruim baan voor openbaar vervoer & publieke mobiliteit
 header_image: /mobiliteit/kansen/img/kop-ov.jpg
+focus: 50% 45%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
 
