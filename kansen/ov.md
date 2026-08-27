@@ -110,4 +110,6 @@ Publieke mobiliteit is een combinatie van OV (aangestuurd door de provincie), ta
 
 Bedenk dat publieke mobiliteit nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking (met gemeenten/regio's en marktpartijen) vraagt van de provincie. Laat het niet ten koste gaan van bus en trein, want die zijn voor iedereen te gebruiken tegen relatief lage tarieven en zonder app (niet iedereen kan een deelfiets gebruiken of mag een deelauto besturen).
 
+{% include leesmeer.html title="Sneller reizen met de bus in Zuid-Holland" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-sneller-reizen-bus-zuid-holland/" image="/mobiliteit/kansen/img/eerdere/sneller-met-de-bus.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

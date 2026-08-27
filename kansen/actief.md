@@ -120,4 +120,10 @@ Vergroenen van de openbare ruimte maakt lopen en fietsen aantrekkelijker. Steden
 
 Hoe je gedrag verandert (van auto naar lopen, fietsen en OV) staat beschreven in 'Promoting Mobility Behaviour Change' van Walk 21
 
+{% include leesmeer.html title="Zuid-Holland, Ga gewoon fietsen (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/fiets.html" image="/mobiliteit/kansen/img/eerdere/ga-gewoon-fietsen.jpg" %}
+
+{% include leesmeer.html title="Wisselfiets" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/wisselfiets.html" image="/mobiliteit/kansen/img/eerdere/wisselfiets.jpg" %}
+
+{% include leesmeer.html title="Mensen nemen vaker trein bij verbeterd deelfietsaanbod (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/treinfietscombi.html" image="/mobiliteit/kansen/img/eerdere/trein-deelfiets.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

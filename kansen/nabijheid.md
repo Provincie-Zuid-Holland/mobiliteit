@@ -49,4 +49,8 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 
 </div>
 
+{% include leesmeer.html title="De kracht van nabijheid (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/nabijheid.html" image="/mobiliteit/kansen/img/eerdere/nabijheid.jpg" %}
+
+{% include leesmeer.html title="De ideale woonwijk, nabij voorzieningen en OV" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-ideale-woonwijk-nabij-voorzieningen-ov/" image="/mobiliteit/kansen/img/eerdere/ideale-woonwijk.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

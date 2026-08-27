@@ -79,4 +79,6 @@ Zeker na corona, waarin reizigers deels wegbleven, verdient het OV een nieuwe im
 
 </div>
 
+{% include leesmeer.html title="Hoe verleiden we reizigers om slimmer (dan met een auto) te reizen?" url="https://www.zuid-holland.nl/publish/pages/27681/hoeverleidenwereizigersomslimmertereizen.pdf" image="/mobiliteit/kansen/img/eerdere/slimmer-reizen.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

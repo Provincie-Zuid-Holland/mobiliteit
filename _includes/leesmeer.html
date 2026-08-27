@@ -1,0 +1,15 @@
+{%- comment -%}
+Verwijzing naar een eerdere snelstudie: compact blauw balkje.
+Gebruik: {% include leesmeer.html title="..." url="..." image="..." %}
+{%- endcomment -%}
+<a href="{{ include.url }}" class="item-link leesmeer">
+  <div class="item">
+    <div class="item-left">
+      <img src="{{ include.image }}" alt="{{ include.title }}" loading="lazy">
+    </div>
+    <div class="item-right">
+      <p class="leesmeer-kop">Lees meer in de snelstudie</p>
+      <h2>{{ include.title }}</h2>
+    </div>
+  </div>
+</a>

@@ -339,6 +339,38 @@ blockquote{
   .uitspraak { font-size: 22px; line-height: 30px; }
 }
 
+/* Verwijzing naar een eerdere snelstudie: hetzelfde formaat als de compacte
+   lijst onderaan de kansenpagina, maar op het lichtblauwe vlak zodat het
+   aansluit bij de andere blauwe blokken. */
+.leesmeer {
+  display: block;
+  margin: 20px 0;
+}
+.leesmeer .item {
+  background-color: var(--pzh-lichtblauw-vlak);
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  align-items: center;
+}
+.leesmeer .item-left {
+  max-width: 17%;
+  min-width: 90px;
+}
+.leesmeer .leesmeer-kop {
+  font-size: 18px;
+  line-height: 26px;
+  margin: 0 0 4px;
+}
+.leesmeer .item-right h2 {
+  font-size: 22px;
+  line-height: 30px;
+  margin: 0;
+}
+.leesmeer:hover .item {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
 /* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
    zodat blokken met én zonder afbeelding er hetzelfde uitzien.
    Standaardkleur geel; overschrijf met een achtergrond*-klasse. */

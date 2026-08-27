@@ -121,4 +121,6 @@ Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen 
 
 </div>
 
+{% include leesmeer.html title="Kansen voor deelfiets en deelscooter in Zuid-Holland" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/" image="/mobiliteit/kansen/img/eerdere/deelfiets-deelscooter.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>
