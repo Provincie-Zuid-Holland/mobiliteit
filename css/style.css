@@ -315,6 +315,21 @@ blockquote{
   line-height: 26px;
 }
 
+/* Uitspraak: een citaat dat als los vlak in de tekst staat (zoals in de pdf's).
+   Georgia cursief, conform de huisstijl voor quotes. */
+.uitspraak {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 28px;
+  line-height: 38px;
+  color: var(--pzh-blauw);
+  margin: 0;
+}
+
+@media only screen and (max-width: 800px) {
+  .uitspraak { font-size: 22px; line-height: 30px; }
+}
+
 /* Tekstblok = kaart-look (zelfde rand/schaduw als .item in flex.css),
    zodat blokken met én zonder afbeelding er hetzelfde uitzien.
    Standaardkleur geel; overschrijf met een achtergrond*-klasse. */
