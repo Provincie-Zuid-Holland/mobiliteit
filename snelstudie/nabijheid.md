@@ -287,13 +287,18 @@ In de provincie Zuid-Holland is het autobezit en -gebruik de afgelopen twintig j
 Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
 </div>
 
-<div class="tekstblok achtergrondLichtBlauw" style="margin-top:2em;">
-<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
-<div style="flex:0 0 auto; max-width:280px;"><img src="img/img-nabijheid/rijksadviseurs.png" alt="College van Rijksadviseurs - Bouw in de buurt" style="max-width:100%;"></div>
-<div style="flex:1;">
-<h2>Bouw nabij voorzieningen en OV-haltes</h2>
-<p>"In plaats van grootschalige woningbouwprojecten in buitengebieden zouden kabinet en lagere overheden moeten inzetten op het bouwen van woningen voor starters en senioren in de buurt van bestaande voorzieningen" stelt het College van Rijksadviseurs <a href="https://www.trouw.nl/duurzaamheid-economie/rijksadviseurs-bouw-huizen-bij-bestaande-voorzieningen~b58930d3/">(Trouw 19 okt'22)</a> in hun <a href="https://www.collegevanrijksadviseurs.nl/actueel/nieuws/2022/10/18/rijksadviseurs-roepen-op-bouw-in-de-buurt">leidraad 'Bouw in de buurt'</a>. Vooral starters en senioren hebben behoefte aan een woning waarbij voorzieningen goed geregeld zijn waarmee de doorstroming op gang komt.</p>
-</div>
+<div class="voorbeeld" markdown="1">
+
+<figure class="fig fig--rechts fig--smal">
+  <img src="img/img-nabijheid/bouw-in-de-buurt.jpg" alt="Leidraad 'Bouw in de buurt' van het College van Rijksadviseurs" loading="lazy">
+  <figcaption>Leidraad 'Bouw in de buurt', College van Rijksadviseurs</figcaption>
+</figure>
+
+## Bouw bij stations en voorzieningen
+
+"In plaats van grootschalige woningbouwprojecten in buitengebieden zouden kabinet en lagere overheden moeten inzetten op het bouwen van woningen voor starters en senioren in de buurt van bestaande voorzieningen," stelt het College van Rijksadviseurs [(Trouw, 19 oktober 2022)](https://www.trouw.nl/duurzaamheid-economie/rijksadviseurs-bouw-huizen-bij-bestaande-voorzieningen~b58930d3/) in haar [leidraad 'Bouw in de buurt'](https://www.collegevanrijksadviseurs.nl/actueel/nieuws/2022/10/18/rijksadviseurs-roepen-op-bouw-in-de-buurt). Vooral starters en senioren hebben behoefte aan een woning met goede voorzieningen in de buurt. Als die groepen naar een nieuwe, geschiktere woning verhuizen, komt de doorstroming op de woningmarkt ook beter op gang.
+Verder geldt: bewegen vóór bouwen. Of de eerste paal een haltepaal: "als je er niet kunt komen, kun je er ook niet wonen". Dus zorg dat bewoners van een nieuwbouwwijk meteen goed OV hebben en daar niet eerst een paar jaar op moeten wachten, want dan zijn ze aan de auto gewend.
+
 </div>
 </div>
 
@@ -326,6 +331,36 @@ Meer info: <a href="https://maxkl.nl/">https://maxkl.nl</a>
    title="De 15-minutenstad: hoe doe je dat?"
    url="https://www.fietsersbond.nl/ons-werk/de-15-minutenstad-hoe-doe-je-dat/"
    text="Hoe krijgen we ondanks de toenemende drukte in de toekomst steden waar het fijn leven, wonen en werken is? Adviesbureau Rebel, Wandelnet en de Fietsersbond presenteren hun uitwerking van het 15-minutenstad-concept met zeven ontwerpprincipes." %}
+
+<div class="voorbeeld" markdown="1">
+
+<figure class="fig fig--links fig--smal">
+  <img src="img/img-nabijheid/kaft-ideale-wijk.jpg" alt="Omslag van de snelstudie De ideale woonwijk in Zuid-Holland" loading="lazy">
+  <figcaption>Snelstudie: De ideale woonwijk in Zuid-Holland</figcaption>
+</figure>
+
+## Creëer de ideale wijk
+
+Om te kijken waar Zuid-Holland het beste kan verstedelijken, hebben we een snelstudie uitgevoerd: [De ideale woonwijk in Zuid-Holland, nabij voorzieningen en hoogwaardig OV](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-de-ideale-woonwijk-voorzieningen-en-ov-nabij/). Hieruit blijkt dat een 15-minutenwijk veel voordelen biedt. [Zie ook de kaartviewer over de nabijheid van voorzieningen.](https://provincie-zuid-holland.github.io/mobiliteit/mapv.html)
+
+Zuid-Holland hanteert een [Verstedelijkingsstrategie](https://kennis.zuid-holland.nl/verstedelijkingsstrategie/) met daarin de forse woningbouwopgave. Thema's als betaalbaar wonen, circulaire economie, duurzame mobiliteit, energietransitie, klimaatadaptatie en kringlooplandbouw vragen allemaal schaarse ruimte. De provincie zet in op slim ruimtegebruik, vooral langs de 'Oude Lijn' (spoorlijn Leiden -- Den Haag -- Rotterdam -- Dordrecht). Twee derde van de verstedelijkingsopgave landt hier. Zo benutten we bestaande infra, bouwen we waar vraag is, versterken we de 'agglomeratiekracht' (meer economische groei en innovatie door concentratie van bedrijven, kennisinstellingen en menselijk kapitaal in stedelijke gebied) en houden we rekening met klimaatadaptatie. Haltes van hoogwaardige OV-lijnen, zoals [R-net](https://www.rnet.nl/), zijn ook goede vestigingsplekken.
+
+Verder verwijzen we ook naar het programma [MoVe](https://move-rdh.nl/default.aspx) (Mobiliteit en Verstedelijking) van de provincie en de Metropoolregio Rotterdam Den Haag, dat zich richt op zaken als duurzame mobiliteit, stedelijke planning, menselijk gedrag en technologische impact op mobiliteit en verstedelijking.
+
+</div>
+
+<div class="voorbeeld" markdown="1">
+
+<figure class="fig fig--rechts">
+  <img src="img/img-nabijheid/boekenberg-spijkenisse.jpg" alt="Bibliotheek De Boekenberg in Spijkenisse" loading="lazy">
+  <figcaption>Bibliotheek De Boekenberg in Spijkenisse</figcaption>
+</figure>
+
+## Stimuleer dicht bij huis werken en deel kantoren
+
+Corona heeft ons geleerd dat thuiswerken z'n voordelen heeft. Zo scheelt het in elk geval een hoop heen-en-weergereis. Dat heeft geleid tot het idee van de thuiswerkhub. Die combineert de voordelen van op kantoor werken (sociale interactie, scheiding werk en privé) met de voordelen van thuiswerken (minder reistijd, meer autonomie en flexibiliteit). Uit een snelstudie van de provincie blijkt dat thuiswerkhubs op talrijke locaties kansrijk zijn: [Kansen & voordelen van dicht-bij-huis-werkplekken](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-dicht-bij-huis-werken-in-de-thuiswerkhub/). Een succesvol voorbeeld van aanbieders die op centrale plekken flexwerkplekken en vergaderruimtes aanbieden is [Seats2meet](https://www.seats2meet.com/nl).
+
+</div>
 
 
 
