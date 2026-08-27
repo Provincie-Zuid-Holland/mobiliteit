@@ -54,6 +54,15 @@ body{
   align-items: center;      /* verticaal uitlijnen */
 }
 
+/* Het logo werkt als home-knop: terug naar de kansenpagina */
+.logo-link {
+  display: inline-block;
+  line-height: 0;           /* geen extra ruimte onder de afbeelding */
+}
+.logo-link img {
+  display: block;
+}
+
 .topnav {
   display: flex;
   align-items: center;
