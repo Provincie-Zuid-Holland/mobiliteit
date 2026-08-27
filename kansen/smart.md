@@ -4,6 +4,7 @@ title: Slimme mobiliteit
 header_image: /mobiliteit/kansen/img/kop-smart.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 
 ---
 # Slimme mobiliteit

@@ -57,7 +57,7 @@ En het dreigt vast te lopen: het wordt steeds drukker door enorme woningbouw, te
 
 **Trend 2: Functiemenging is verloren gegaan.** Het combineren van functies lijkt heel moeilijk geworden. Kijk maar naar een oude foto van een wijk: winkels, woningen, een paar bedrijfjes, een kroeg, alles door elkaar. Er worden zeker nog ontwerpen gemaakt voor gemengde wijken, maar ze worden nauwelijks gerealiseerd. Er zijn pleidooien voor functiemenging, maar in de praktijk blijkt het ingewikkeld.
 
-**De samenhang van functiemenging en nabijheid.** De twee hangen samen: met meer functiemenging krijg je meer nabijheid, en als je nabijheid tot belangrijk doel maakt, leidt dat vaak tot functiemenging. Om dit echt te veranderen, moeten we de achterliggende oorzaken begrijpen. Hieronder schetsen we vijf oorzaken die hierin een sterke rol spelen.
+**De samenhang van functiemenging en nabijheid.** De twee hangen samen: met meer functiemenging krijg je meer nabijheid, en als je nabijheid tot belangrijk doel maakt, leidt dat vaak tot functiemenging. Om dit echt te veranderen, moeten we de achterliggende oorzaken begrijpen. Hieronder schetsen we zes oorzaken die hierin een sterke rol spelen.
 
 ### De oorzaken
 
@@ -73,11 +73,11 @@ En het dreigt vast te lopen: het wordt steeds drukker door enorme woningbouw, te
 
 6. **De bestuurlijke terughoudendheid.** Het mengen van functies vraagt iets meer van bewoners en bedrijven; ze moeten meer rekening met elkaar houden. Dat is ook waarom veel gemeenten er, in ons gepolariseerde landschap, niet eens aan beginnen: het is "moeilijk en veel gedoe, met veel klagende bewoners", hoewel het vaak betere oplossingen voor de toekomst oplevert.
 
-**Twee onderliggende thema's.** De eerste drie oorzaken wortelen vooral in economische prioritering en marktdynamiek: schaalvoordeel, keuzevrijheid en kostenefficiëntie krijgen stelselmatig voorrang boven nabijheid, ook wanneer dat op de lange termijn duurder uitpakt. De laatste twee zitten vast in conventionele planningsprocedures en bestuurlijke gewoonten die verandering afremmen. Beide sporen wijzen naar dezelfde kern: een dominant economisch korte termijn perspectief overheerst in de ruimtelijke ordening, ook in de instrumenten die juist bedoeld zijn om dat te corrigeren.
+**Twee onderliggende thema's.** De eerste vier oorzaken wortelen vooral in economische prioritering en marktdynamiek: schaalvoordeel, keuzevrijheid en kostenefficiëntie krijgen stelselmatig voorrang boven nabijheid, ook wanneer dat op de lange termijn duurder uitpakt. De laatste twee zitten vast in conventionele planningsprocedures en bestuurlijke gewoonten die verandering afremmen. Beide sporen wijzen naar dezelfde kern: een dominant economisch korte termijn perspectief overheerst in de ruimtelijke ordening, ook in de instrumenten die juist bedoeld zijn om dat te corrigeren.
 
 ### De gevolgen
 
-Deze vijf oorzaken werken door in de fysieke en sociale werkelijkheid van Zuid-Holland. Zes gevolgen springen eruit, waarbij de rode draad is het verliezen van kleinschalige voorzieningen en ontmoetingsmogelijkheden in dorpen en wijken.
+Deze zes oorzaken werken door in de fysieke en sociale werkelijkheid van Zuid-Holland. Zes gevolgen springen eruit, waarbij de rode draad is het verliezen van kleinschalige voorzieningen en ontmoetingsmogelijkheden in dorpen en wijken.
 
 1. **Verspilling van ruimte.** Sinds 1950 is de bevolking van Zuid-Holland met 40% toegenomen, van 2,5 naar 3,5 miljoen. Het bebouwde oppervlak groeide in diezelfde periode tien keer zo hard: van circa 5% naar 25% van het grondoppervlak, een toename van 400%. Dit komt door autogerichte woon- en werkomgevingen, functiescheiding, vrijstaande en uitgebreide laagbouw, en bedrijventerreinen die door hindercontouren veel ruimte innemen. Als we zo doorgaan, blijft er weinig ruimte over in Zuid-Holland en moeten keuzes worden gemaakt zoals beschreven is in [de Ruimtelijke Koers van Zuid-Holland](https://www.zuid-holland.nl/onderwerpen/ruimte/ruimtelijke-koers/).
 

@@ -5,6 +5,7 @@ header_image: /mobiliteit/kansen/img/kop-gedrag.jpg
 focus: 50% 15%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 
 ---
 # Veranderingen draaien om gedrag

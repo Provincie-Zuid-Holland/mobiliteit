@@ -4,6 +4,7 @@ title: Duurzaam & schoon vervoer (mensen & goederen)
 header_image: /mobiliteit/kansen/img/kop-duurzaam.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 
 ---
 # Duurzaam & schoon vervoer (mensen & goederen)

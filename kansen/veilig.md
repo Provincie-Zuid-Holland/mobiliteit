@@ -4,6 +4,7 @@ title: Minder verkeersdoden en -gewonden
 header_image: /mobiliteit/kansen/img/kop-veilig.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 
 ---
 # Minder verkeersdoden en -gewonden

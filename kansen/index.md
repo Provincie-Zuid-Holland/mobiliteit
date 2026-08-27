@@ -3,6 +3,9 @@ layout: pzh
 title: Kansen voor bereikbaarheid
 header_image: /mobiliteit/kansen/img/kop-kansen.jpg
 focus: 50% 62%
+menu: |
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+
 ---
 # Negen kansen voor bereikbaarheid
 <p class="ondertitel">Grote opgaven: meer woningen, veel onderhoud en schaarste</p>
