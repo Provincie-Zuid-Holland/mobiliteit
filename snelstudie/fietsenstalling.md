@@ -3,7 +3,7 @@ layout: pzh
 title: Efficiëntere stationsstallingen
 header_image: img/OV-fietsen-gestald.jpg
 menu: |
-   <a href="index.html">Andere snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 ---
 # Efficiëntere stationsstallingen: stimuleer de deelfiets meer
 

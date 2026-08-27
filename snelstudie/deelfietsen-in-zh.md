@@ -4,7 +4,7 @@ title: Deelfiets Donkey Republic in meerderheid van Zuid-Hollandse gemeenten
 header_image: img/img-deelfietsen-in-zh/deelfietsen-in-zh.jpg
 banner_ratio: 3 / 1
 menu: |
-   <a href="index.html">Andere snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
 ---
 
 <p><em>Gepubliceerd op 17 april 2025</em></p>
