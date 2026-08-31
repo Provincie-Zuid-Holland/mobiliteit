@@ -3,7 +3,7 @@ layout: pzh
 title: OV verbreden naar publiek vervoer
 header_image: img/img-ov/praatplaat.jpg
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
 <p>De kansen van flextaxi's, deelvervoer &amp; meerijden</p>

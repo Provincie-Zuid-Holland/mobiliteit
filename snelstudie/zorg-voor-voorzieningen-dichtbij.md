@@ -3,7 +3,7 @@ layout: pzh
 title: Zorg voor voorzieningen dichtbij
 header_image: img/the-15-minute-city-paris-landscape-credit-micael.jpg
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 # Zorg voor voorzieningen dichtbij
 <p class="ondertitel">Een pleidooi om de trend van het vergroten van afstanden te doorbreken.</p>

@@ -4,7 +4,7 @@ title: Zorg voor voorzieningen dichtbij
 header_image: /mobiliteit/kansen/img/kop-nabijheid.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Zorg voor voorzieningen dichtbij
@@ -41,6 +41,13 @@ We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ru
 </div>
 </div>
 
+<figure class="fig">
+  <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Illustratie van een straat met bewoners van uiteenlopende leeftijden die elkaar tegenkomen" loading="lazy">
+  <figcaption>Diverse demografie. Beeld: Bas de Vries (Rooilijn).</figcaption>
+</figure>
+
+Lees meer over [de rol van de gebouwde omgeving bij eenzaamheid](https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/): een pleidooi om buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen.
+
 <div class="voorbeeld" markdown="1">
 
 In de bijbehorende snelstudie ['Zorg voor voorzieningen dichtbij'](/mobiliteit/snelstudie/zorg-voor-voorzieningen-dichtbij.html) gaan we nader in op de oorzaken en gevolgen van het gebrek aan nabijheid en waarom de afwenteling op mobiliteit juist nú vastloopt. Ook beschrijven we oplossingsrichtingen. Die we proberen toe te passen op concrete voorbeelden. Deze snelstudie is een co-productie van het [Laboratorium Verantwoorde Mobiliteit](https://labverantwoordemobiliteit.nl/) en de provincie Zuid-Holland ([Kennis Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/)). Snelstudies zijn ter inspiratie en gaan vaak een stapje verder dan vastgesteld beleid.
@@ -50,6 +57,8 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 </div>
 
 {% include leesmeer.html title="De kracht van nabijheid (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/nabijheid.html" image="/mobiliteit/kansen/img/eerdere/nabijheid.jpg" %}
+
+{% include leesmeer.html kop="Lees meer in het artikel" title="De verantwoordelijkheid van inwoners voor zorg- en energievoorzieningen op het platteland (Rooilijn, 2026)" url="https://rooilijn.nl/artikelen/de-verantwoordelijkheid-van-inwoners-voor-zorg-en-energievoorzieningen-op-het-platteland/" image="/mobiliteit/kansen/img/eerdere/rooilijn-platteland.jpg" %}
 
 {% include leesmeer.html title="De ideale woonwijk, nabij voorzieningen en OV" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-ideale-woonwijk-nabij-voorzieningen-ov/" image="/mobiliteit/kansen/img/eerdere/ideale-woonwijk.jpg" %}
 

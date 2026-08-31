@@ -5,7 +5,7 @@ header_image: /mobiliteit/kansen/img/kop-ov.jpg
 focus: 50% 45%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Ruim baan voor openbaar vervoer & publieke mobiliteit

@@ -4,7 +4,7 @@ title: Deelvervoer & hubs
 header_image: /mobiliteit/kansen/img/kop-deelvervoer.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Deelvervoer & hubs

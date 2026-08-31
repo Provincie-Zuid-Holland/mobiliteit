@@ -4,7 +4,7 @@ title: Herzien Omgevingsbeleid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Herzien Omgevingsbeleid

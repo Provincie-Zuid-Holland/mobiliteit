@@ -3,7 +3,7 @@ layout: pzh
 title: Kansen voor bereikbaarheid
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Negen kansen voor bereikbaarheid

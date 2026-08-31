@@ -4,7 +4,7 @@ title: Studenten in Zuid-Holland op deelfiets naar hun opleiding
 header_image: img/deelfietsstudenten.jpg
 banner_ratio: 3 / 1
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
    <a href="fietsenstalling.html">Snelstudie over fietsenstallingen</a>  
 ---
 # Studenten in Zuid-Holland op deelfiets naar hun opleiding

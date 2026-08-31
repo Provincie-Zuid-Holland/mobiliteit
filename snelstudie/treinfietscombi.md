@@ -4,7 +4,7 @@ title: Mensen nemen vaker trein bij verbeterd deelfietsaanbod
 header_image: img/img-treinfietscombi/treinfiets.jpg
 banner_ratio: auto
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
 <p>Nederlanders fietsen veel, maar buiten hun woonplaats ligt hun fietsgebruik 2 tot 4 keer lager. Dat is logisch, want buiten je woonplaats heb je vaak geen fiets. Wanneer mensen daar toch fietsen, dan is dit meestal met een 'tweede fiets'. Dat is een fiets die bijvoorbeeld op een station staat voor ritjes naar een bestemming waar je regelmatig heen gaat: je werk, studie, vriend(in) of familie. Een nadeel van tweede fietsen voor de samenleving is dat ze veel ruimte kosten in stationsstallingen. En voor de eigenaar is het nadeel dat je deze tweede fiets alleen kunt gebruiken in de stad waar hij staat, niet op andere plekken in Nederland waar je óók komt.</p>

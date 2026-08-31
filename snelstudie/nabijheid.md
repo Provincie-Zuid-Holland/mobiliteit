@@ -4,7 +4,7 @@ title: De kracht van nabijheid
 header_image: img/img-nabijheid/compactestad.png
 focus: 50% 100%
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 # De kracht van nabijheid
 

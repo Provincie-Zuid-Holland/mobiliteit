@@ -3,7 +3,7 @@ layout: pzh
 title: Breng voorzieningen dichterbij
 header_image: img/the-15-minute-city-paris-landscape-credit-micael.jpg
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 # Breng voorzieningen dichterbij
 

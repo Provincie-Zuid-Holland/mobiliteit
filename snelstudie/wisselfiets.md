@@ -4,7 +4,7 @@ title: Wisselfiets, deelfiets die het ruimte probleem oplost
 header_image: img/img-wisselfiets/wisselfiets.jpg
 banner_ratio: 2.5 / 1
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
 <blockquote class="wp-block-quote">

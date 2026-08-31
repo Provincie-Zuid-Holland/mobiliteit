@@ -4,7 +4,7 @@ title: Kansen voor bereikbaarheid
 header_image: /mobiliteit/kansen/img/kop-kansen.jpg
 focus: 50% 62%
 menu: |
-    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
 # Negen kansen voor bereikbaarheid

@@ -4,7 +4,7 @@ title: Zuid-Holland ga gewoon fietsen
 header_image: img/img-deelfiets/donkeyapp.png
 focus: 50% 100%
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
 <p>Onderdeel van de snelstudie '<a href="ov.html">OV verbreden naar publiek vervoer</a>'</p>

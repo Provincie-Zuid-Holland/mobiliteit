@@ -5,7 +5,7 @@ header_image: img/img-fiets/fiets.jpg
 banner_ratio: 2.5 / 1
 focus: 50% 30%
 menu: |
-   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer snelstudies</a>
+   <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
 <p>Hoe mooi kan Zuid-Holland worden als we de komende tien jaar flink meer gaan fietsen? En welke maatregelen kunnen we dan nemen? Dat zijn de vragen van deze snelstudie, een compact onderzoek binnen het onderzoeksplatform <a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/">Kennis Zuid-Holland</a> ter inspiratie. Eerder schreven we <a href="https://provincie-zuid-holland.github.io/mobiliteit/8kansen/8kansen.html">Acht kansen voor mobiliteit</a> met ook daarin een pleidooi voor lopen en fietsen.</p>
