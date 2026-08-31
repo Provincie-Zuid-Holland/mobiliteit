@@ -18,9 +18,7 @@ Er komen nieuwe soorten kleine lichte voertuigen (light electric vehicles of LEV
 Voor stedelijke gebieden gelden drie belangrijke akkoorden:
 
 -   Voor het beleveren van winkels in stadskernen ligt er de [Green Deal Zero Emissie Stadslogistiek](https://www.greendeals.nl/green-deals/zero-emission-stadslogistiek): vanaf 2026 met nul uitstoot (enkele uitzonderingen daargelaten).
-
 -   Voor bussen ligt er het landelijk [Bestuursakkoord Zero Emissie](https://zeroemissiebus.nl/bestuursakkoord/) Busvervoer. Daarin hebben de provincies afgesproken dat alle nieuwe OV-bussen vanaf 2025 nul uitstoot hebben en alle bestaande OV-bussen vanaf 2030 ook. In Nederland gaat dat om ongeveer 5.000 OV-bussen, waarvan naar schatting een derde in [Zuid-Holland](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/duurzaam-ov) (inclusief MRDH-gebied). Alle trams, metro's en treinen in Zuid-Holland rijden al op groene stroom.
-
 -   Voor het OV is er nu ook het Convenant Circulair Openbaar Vervoer. Doelen: 50 procent minder primaire grondstoffen (metaal, mineraal en fossiel) in 2030 ten opzichte van 2026 en in 2050 volledig circulair OV, conform het Nationaal Programma Circulaire Economie. Het gaat dan niet alleen om de voertuigen, maar ook om de bedrijfsvoering en infrastructuur.
 
 Voor de binnenvaart ligt er de [Green Deal Zeevaart en Binnenhavens](https://www.greendeals.nl/green-deals/green-deal-zeevaart-binnenvaart-en-havens). Doel is vanaf 2024 minimaal 20 procent minder uitstoot van CO₂ ten opzichte van 2015 én minder uitstoot van milieuverontreinigende stoffen door de binnenvaart met 10 procent ten opzichte van 2015.

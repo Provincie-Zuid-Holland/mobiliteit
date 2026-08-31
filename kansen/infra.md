@@ -36,15 +36,10 @@ Om impact te maken moeten overheden, marktpartijen en kennisinstellingen de hand
 ## Voorbeelden duurzame en/of circulaire infra
 
 -   De N211 tussen Den Haag en Poeldijk is de eerste CO₂-negatieve weg van Nederland.
-
 -   Zuid-Holland experimenteert met circulaire bushaltes waarvan de ondergrond bestaat uit 100 procent gerecycled sloopbeton en circulair asfalt.
-
 -   In CHAPLIN proberen we het fossiele bindmiddel in asfalt te vervangen door biobased grondstoffen.
-
 -   Er lopen experimenten met zonnepanelen in wegen, zoals met dit 'zonnefietspad' van Solaroad in Maartensdijk en de Wattway van bouwbedrijf BAM op de N401 bij Kockengen.
-
 -   Rijkswaterstaat bouwt bij Kampen het eerste betonnen circulaire viaduct van Nederland.
-
 -   De provincie Noord-Brabant heeft naast de N69 een duurzame fietsbrug geplaatst van beton dat bestaat uit hergebruikte grondstoffen, zónder cement.
 
 We staan nog aan het begin van duurzame en/of circulaire infrastructuur. Overheden en bedrijven zijn volop aan het experimenteren om verder te komen.

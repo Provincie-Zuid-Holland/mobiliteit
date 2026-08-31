@@ -74,7 +74,6 @@ Steeds meer gemeenten geven voorrang aan lopen en fietsen. In het filmpje hierna
 Een goed voorbeeld van ambitie op het vlak van zowel lopen als [fietsen](https://www.rotterdam.nl/wonen-leven/fietsstad/) is de gemeente Rotterdam.
 
 -   [Rotterdam Loopt 2025](https://www.rotterdam.nl/vrije-tijd/lopen/); de voetganger op een voetstuk. Lees [dit ambitiedocument](https://rotterdam.notubiz.nl/document/9251389/1/s20bb014740_4_60237_tds).
-
 -   [Fietskoers 2025;](https://www.rotterdam.nl/wonen-leven/fietsstad/Fietskoers_2025_Gemeente-Rotterdam.pdf) de fiets als hefboom in de Rotterdamse mobiliteitstransitie. Lees dit ambitiedocument.
 
 Zo heeft Rotterdam de Coolsingel van twee keer twee rijstroken 'versmald' naar twee keer één rijstrook, om zo ruimte vrij te spelen voor ruimere trottoirs, bredere fietspaden en meer groen. Ook het aangrenzende Hofplein is nu heringericht om meer ruimte te creëren voor voetgangers, fietsers en groen. Auto's die niet door de stad hoeven te rijden, worden geweerd. Opvallend is dat er verkeer 'verdampt' zodra er minder ruimte is voor de auto; mensen rijden om (over de snelweg), blijven thuis, pakken de fiets of kiezen het OV.
@@ -123,7 +122,7 @@ Vergroenen van de openbare ruimte maakt lopen en fietsen aantrekkelijker. Steden
 - [Metropolitane fietsrouters (van MRDH)](https://mrdh.nl/fietsroutes)
 - [Podcastserie Raad voor de Leefomgeving 'Nederland verbouwt in 7 vragen', aflevering mobiliteit](https://www.rli.nl/podcastserie/nederland-verbouwt-in-7-vragen/hoe-kan-mobiliteit-slimmer)
 - [Proef met plastic fietspad in Gouda (testen waterafvoer, onderhoudsvraag en mogelijk kleinere verzakkingskans)](https://fietsberaad.nl/kennisbank/proef-met-plastic-fietspad-in-gouda)
-- Hoe je gedrag verandert (van auto naar lopen, fietsen en OV) staat beschreven in 'Promoting Mobility Behaviour Change' van Walk 21
+- Hoe je gedrag verandert (van auto naar lopen, fietsen en OV) staat beschreven in ['Promoting Mobility Behaviour Change'](https://walk21.com/wp-content/uploads/2019/12/ONLINE__Promoting_Mobility_Behaviour_Change_20_JUNE_2019.pdf) van Walk21 (pdf, 2019)
 
 </div>
 

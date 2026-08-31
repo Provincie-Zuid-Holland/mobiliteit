@@ -24,9 +24,7 @@ Gedragsverandering kan ook plaatsvinden doordat alternatieven de 'makkelijkere' 
 ## Wat is gedrag?
 
 -   Alle acties en reacties van een persoon in relatie tot haar omgeving.
-
 -   In de gedragsaanpak focussen we alleen op **zichtbaar, waarneembaar gedrag: alles wat je kunt voordoen en nadoen**. Hoe concreter het gedragsdoel, hoe beter.
-
 -   Fietsen, autorijden, voertuigen delen, bijna alle keuzes voor mobiliteit zijn gedrag.
 
 ## Hoe verander je gedrag?

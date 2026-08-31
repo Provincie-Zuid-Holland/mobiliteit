@@ -50,21 +50,15 @@ Het dashboard deelmobiliteit geeft beleidsmakers inzicht hoe het met de deelvoer
 Een reis per fiets of auto gaat vaak van-deur-tot-deur. Op een andere manier reizen levert al snel een reis van losse schakels op. Hier komt het begrip 'ketenmobiliteit' vandaan. Ketenreizen bestaan vaak uit:
 
 1.  stukje lopen of fietsen vanaf huis +
-
 2.  traject met OV +
-
 3.  weer stukje lopen, [OV-fiets](https://www.ov-fiets.nl/) of andere deelfiets of deelscooter.
 
 ## Succesfactoren voor ketenvervoer
 
 -   gemakkelijk en snel kunnen overstappen
-
 -   redelijk snel in vergelijking met een autoreis
-
 -   voordeliger dan met de auto (al dan niet met subsidie)
-
 -   overzichtelijk aanbod van mogelijkheden (bijvoorbeeld met één app)
-
 -   goede reisinformatie over meerdere vervoerwijzen (vooraf én onderweg)
 
 ## Knooppunten of hubs
@@ -124,7 +118,7 @@ Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen 
 <div class="voorbeeld" markdown="1">
 
 - [Kamerbrief over Samenwerkingsprogramma Deelmobiliteit](https://www.rijksoverheid.nl/documenten/kamerstukken/2022/12/23/samenwerkingsprogramma-deelmobiliteit)
-- The state of shared mobility: Bike sharing in 2023 by Fresk.Digital
+- [The state of shared mobility: Bike sharing in 2023](https://fresk.digital/en/reports/shared-mobility-report) van Fresk.Digital
 - [Pilot deelmobiliteit op Zeeuwse mbo-scholen](https://fietsberaad.nl/kennisbank/pilot-deelmobiliteit-op-zeeuwse-mbo-scholen)
 
 </div>

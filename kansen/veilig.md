@@ -61,4 +61,8 @@ In het beleid hanteren we vaak de 3 E's om het verkeer veiliger te maken:
 
 Aangezien infrastructuur aanpassen duur is en lang duurt, verkeerseducatie lang niet alle weggebruikers bereikt of overtuigt en de pakkans bij verkeersmisdrijven en -overtredingen miniem is, is het de vraag of deze 3 E's toereikend zijn om het verkeer echt veiliger te maken.
 
+## Verder lezen
+
+{% include leesmeer.html kop="Lees meer op de website" title="Zuid-Holland maakt een punt van nul" tekst="Het ROV Zuid-Holland is een samenwerking tussen de provincie Zuid-Holland en de Metropoolregio Rotterdam Den Haag met als doel verkeersveilig gedrag te stimuleren." url="https://www.maakeenpuntvannul.nl/over-ons/" image="/mobiliteit/kansen/img/eerdere/rov-zuid-holland.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

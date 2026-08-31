@@ -1,7 +1,8 @@
 ---
 layout: pzh
 title: Mobiliteit voor iedereen
-header_image: /mobiliteit/kansen/img/kop-voor-iedereen.jpg
+header_image: /mobiliteit/kansen/img/kop-voor-iedereen-rover.jpg
+focus: 50% 45%
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
@@ -44,5 +45,11 @@ Bewoners van woonwijken met lage inkomens en relatief slecht OV lopen sterk verh
 
 ## Bestrijd vervoerarmoede
 Het bestrijden van vervoerarmoede begint met bewustzijn bij overheden. Maatregelen tegen vervoerarmoede zijn over het algemeen kleinschalig, staan nog in de kinderschoenen en vergen empathie voor de doelgroepen én een lange adem. Meer en beter OV in buitenwijken en in landelijk gebied zijn zulke maatregelen, zeker als je ze combineert met voorzieningen dichtbij, meer ruimte voor lopen en fietsen in stedelijk gebied. Je kunt vervoerarmoede ook van de andere kant bekijken: wegen aanleggen of verbreden is investeren in mobiliteit van mensen die wél een auto kunnen betalen en rijden.
+
+## Verder lezen
+
+{% include leesmeer.html kop="Lees meer in het artikel" title="Hoe maak je vervoersarmoede zichtbaar met verkeersmodellen? (2026)" tekst="De gemeenten Almere en Amsterdam, Goudappel en Dat.mobility vertaalden gesprekken met bewoners naar data, zodat vervoersarmoede ook in verkeersmodellen meetbaar wordt." url="https://www.mobiliteit.nl/beleid/2026/03/20/onderzoek-hoe-maak-je-vervoersarmoede-zichtbaar-met-verkeersmodellen/" image="/mobiliteit/kansen/img/eerdere/vervoersarmoede-verkeersmodellen.jpg" %}
+
+{% include leesmeer.html kop="Lees meer op de website" title="Van A naar Nergens: meldpunt vervoersarmoede van Rover" tekst="Rover vraagt reizigers welke ritten zij niet meer met het openbaar vervoer kunnen maken, om in kaart te brengen waar het OV geen serieuze keuze meer is." url="https://www.rover.nl/actueel/83-acties/2813-van-a-naar-nergens-rover-lanceert-meldpunt-vervoersarmoede" image="/mobiliteit/kansen/img/eerdere/rover-van-a-naar-nergens.jpg" %}
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>
