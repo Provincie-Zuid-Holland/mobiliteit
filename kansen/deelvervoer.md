@@ -10,11 +10,11 @@ menu: |
 # Deelvervoer & hubs
 <p class="ondertitel">Kans 4 van negen kansen voor bereikbaarheid</p>
 
-Je hoeft niet overal een fiets te hebben, maar wilt misschien wel overal een fiets kunnen gebruiken. Dat is de deelfiets. Omdat een deelfiets meerdere 'baasjes' na elkaar heeft, gebruikt hij minder ruimte dan tweede of derde privéfietsen die bij een station gestald staan. Er zijn ook deelbakfietsen, deelscooters en deelauto's. Om fiets, OV, deelvervoer en auto handig te kunnen combineren, moet je zo snel en makkelijk kunnen overstappen bij stations, R-nethaltes hubs of andere knooppunten.  De conclusie van de snelstudie '[kansen voor deelfiets en deelscooter in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/)' is dat deelfietsen en deelscooters bijdragen aan betere mobiliteit, omdat het een extra keuze is bovenop bestaand vervoer, vooral in het natransport op het OV (van de uitstaphalte naar je eindbestemming). Deze vormen van deelvervoer zijn schoon en nemen weinig ruimte in, wat wijken aantrekkelijker kan maken.
+Je hoeft niet overal een fiets te hebben, maar wilt misschien wel overal een fiets kunnen gebruiken. Dat is de deelfiets. Omdat een deelfiets meerdere 'baasjes' na elkaar heeft, gebruikt hij minder ruimte dan tweede of derde privéfietsen die bij een station gestald staan. Er zijn ook deelbakfietsen, deelscooters en deelauto's. Om fiets, OV, deelvervoer en auto handig te kunnen combineren, moet je zo snel en makkelijk kunnen overstappen bij stations, R-nethaltes hubs of andere knooppunten.  De conclusie van de snelstudie '[kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/)' is dat deelfietsen en deelscooters bijdragen aan betere mobiliteit, omdat het een extra keuze is bovenop bestaand vervoer, vooral in het natransport op het OV (van de uitstaphalte naar je eindbestemming). Deze vormen van deelvervoer zijn schoon en nemen weinig ruimte in, wat wijken aantrekkelijker kan maken.
 
 De provincie Zuid-Holland stimuleert deelfietsen op verschillende manieren. Lees er meer over op [kennis.zuid-holland.nl/deelfiets](https://kennis.zuid-holland.nl/deelfiets/).
 
-Ook in landelijk gebied kan -- met name elektrische -- deelmobiliteit bijdragen aan een betere bereikbaarheid en meer keuzevrijheid. Bovendien kunnen we kosten besparen bij drukke OV-knopen doordat deelvoertuigen korter en dichter op elkaar in stallingen staan, waardoor dure nieuwbouw van stallingen niet of pas later nodig is. Investeringen in dure fietsenstallingen kunnen daardoor mogelijk beperkt blijven. De wisselfiets -- een deelfiets die ook dienst doet in het 'voortransport' van huis naar het station -- is hiervoor een goede oplossing.
+Ook in landelijk gebied kan -- met name elektrische -- deelmobiliteit bijdragen aan een betere bereikbaarheid en meer keuzevrijheid. Bovendien kunnen we kosten besparen bij drukke OV-knopen doordat deelvoertuigen korter en dichter op elkaar in stallingen staan, waardoor dure nieuwbouw van stallingen niet of pas later nodig is. Investeringen in dure fietsenstallingen kunnen daardoor mogelijk beperkt blijven. De [wisselfiets](/mobiliteit/snelstudie/wisselfiets.html) -- een deelfiets die ook dienst doet in het 'voortransport' van huis naar het station -- is hiervoor een goede oplossing.
 
 ## Deelauto's & deelbakfietsen
 
@@ -24,13 +24,13 @@ Grotere voertuigen: dicht bij huis, in [buurthubs](https://smartmobilitymra.nl/a
 
 ## Stimuleer 'wolk' van deelmobiliteit
 
-Deelfiets en deelscooter verbeteren de bereikbaarheid, blijkt uit de snelstudie [Kansen voor deelfiets en deelscooter in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/).
+Deelfiets en deelscooter verbeteren de bereikbaarheid, blijkt uit de snelstudie [Kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/).
 
-Het zou mooi zijn als er in Zuid-Holland een 'wolk van deelvervoerwijzen' komt is, zodat er voor iedereen een passende oplossing bij zit (ook voor mensen die minder mobiel zijn). Niet alleen in de steden, maar ook in de rest van Zuid-Holland. Deelmobiliteit is ideaal om je zelf (individueel of in een klein groepje) te verplaatsen als je niet in de buurt van je huis bent (want daar staat vaak je eigen fiets al). Het is een nog ondergewaardeerde schakel voor bijvoorbeeld het laatste stukje van een OV-reis. Zo helpt deelvervoer de afstand van een uitstaphalte (R-net of station) tot je eindbestemming gemakkelijk en snel te overbruggen. De verwachting is dat er de komende jaren nieuwe vormen komen, zoals stepjes of andere lichte elektrische voertuigen.
+Het zou mooi zijn als er in Zuid-Holland een 'wolk van deelvervoerwijzen' komt, zodat er voor iedereen een passende oplossing bij zit (ook voor mensen die minder mobiel zijn). Niet alleen in de steden, maar ook in de rest van Zuid-Holland. Deelmobiliteit is ideaal om jezelf (individueel of in een klein groepje) te verplaatsen als je niet in de buurt van je huis bent (want daar staat vaak je eigen fiets al). Het is een nog ondergewaardeerde schakel voor bijvoorbeeld het laatste stukje van een OV-reis. Zo helpt deelvervoer de afstand van een uitstaphalte (R-net of station) tot je eindbestemming gemakkelijk en snel te overbruggen. De verwachting is dat er de komende jaren nieuwe vormen komen, zoals stepjes of andere lichte elektrische voertuigen.
 
 ## Zet SRM-subsidie in voor deelmobiliteit
 
-Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subsidieregeling mobiliteit Zuid-Holland (SRM)](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/ketenmobiliteit-2-3-2-srm/). Dit biedt aanbieders van deelmobiliteit en wegbeheerders in Zuid-Holland de mogelijkheid subsidie aan te vragen voor infrastructuur, ontwikkeling en exploitatie van deelvoertuigen. We denken graag met mee over de mogelijkheden.
+Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subsidieregeling mobiliteit Zuid-Holland (SRM)](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/ketenmobiliteit-2-3-2-srm/). Dit biedt aanbieders van deelmobiliteit en wegbeheerders in Zuid-Holland de mogelijkheid subsidie aan te vragen voor infrastructuur, ontwikkeling en exploitatie van deelvoertuigen. We denken graag met je mee over de mogelijkheden.
 
 <div class="voorbeeld" markdown="1">
 
@@ -44,14 +44,6 @@ Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subs
 Het dashboard deelmobiliteit geeft beleidsmakers inzicht hoe het met de deelvoertuigen op straat gaat. Worden ze goed gebruikt of staan ze te lang stil? Steeds meer gemeenten gebruiken deze open source software. Om het te kunnen gebruiken is het belangrijk dat gemeenten met aanbieders afspreken dat ze de data aanleveren. Bekijk de actuele situatie op [dashboarddeelmobiliteit.nl](https://dashboarddeelmobiliteit.nl/).
 
 </div>
-
-## Verder lezen ...
-
-[Kamerbrief over Samenwerkingsprogramma Deelmobiliteit](https://www.rijksoverheid.nl/documenten/kamerstukken/2022/12/23/samenwerkingsprogramma-deelmobiliteit)
-
-The state of shared mobility: Bike sharing in 2023 by Fresk.Digital
-
-[Pilot deelmobiliteit op Zeeuwse mbo-scholen](https://fietsberaad.nl/kennisbank/pilot-deelmobiliteit-op-zeeuwse-mbo-scholen)
 
 ## Hubs: naadloos overstappen
 
@@ -105,7 +97,7 @@ Er komen steeds meer partijen die reizigers de hele keten bieden. Zo ontwikkelt 
 
 ## Bied P+R's
 
-Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je algauw uit op P+R (Park + Ride) of transferia. In diverse steden staan gratis of betaalde P+R's, zoals [P+R Utrecht Westraven](https://www.p1.nl/parkeren/utrecht/p-r-westraven) aan de zuidkant van de stad. Daar kun je voor 10 euro een combikaartje voor parkeren én OV kopen: maximaal vijf inzittenden reizen dan met de sneltram of de bus 'gratis' heen en weer naar het stadscentrum. Een ander mooi voorbeeld is de 'ring' van vijftien [P+R terreinen om Rotterdam](https://www.rotterdam.nl/wonen-leven/p-r-terreinen/), vooral bij metrostations. Wie het OV gebruikt, mag daar gratis parkeren.
+Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je al gauw uit op P+R (Park + Ride) of transferia. In diverse steden staan gratis of betaalde P+R's, zoals [P+R Utrecht Westraven](https://www.p1.nl/parkeren/utrecht/p-r-westraven) aan de zuidkant van de stad. Daar kun je voor 10 euro een combikaartje voor parkeren én OV kopen: maximaal vijf inzittenden reizen dan met de sneltram of de bus 'gratis' heen en weer naar het stadscentrum. Een ander mooi voorbeeld is de 'ring' van vijftien [P+R terreinen om Rotterdam](https://www.rotterdam.nl/wonen-leven/p-r-terreinen/), vooral bij metrostations. Wie het OV gebruikt, mag daar gratis parkeren.
 
 </div>
 
@@ -121,6 +113,20 @@ Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen 
 
 </div>
 
-{% include leesmeer.html title="Kansen voor deelfiets en deelscooter in Zuid-Holland" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/" image="/mobiliteit/kansen/img/eerdere/deelfiets-deelscooter.jpg" %}
+## Verder lezen
+
+{% include leesmeer.html title="Kansen voor deelfiets en deelscooter in Zuid-Holland" tekst="Er liggen kansen in Zuid-Holland voor deelfietsen en deelscooters." url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/" image="/mobiliteit/kansen/img/eerdere/deelfiets-deelscooter.jpg" %}
+
+{% include leesmeer.html title="Efficiëntere stationsstallingen: stimuleer de deelfiets meer" tekst="Tussen groepen fietsenstallers bestaan grote verschillen in de tijd dat hun fiets bij het station staat." url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/fietsenstalling.html" image="/mobiliteit/kansen/img/eerdere/stationsstallingen.jpg" %}
+
+{% include leesmeer.html title="Wisselfiets" tekst="Een kruising van een leasefiets en een deelfiets, die het ruimteprobleem bij stations oplost." url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/wisselfiets.html" image="/mobiliteit/kansen/img/eerdere/wisselfiets.jpg" %}
+
+<div class="voorbeeld" markdown="1">
+
+- [Kamerbrief over Samenwerkingsprogramma Deelmobiliteit](https://www.rijksoverheid.nl/documenten/kamerstukken/2022/12/23/samenwerkingsprogramma-deelmobiliteit)
+- The state of shared mobility: Bike sharing in 2023 by Fresk.Digital
+- [Pilot deelmobiliteit op Zeeuwse mbo-scholen](https://fietsberaad.nl/kennisbank/pilot-deelmobiliteit-op-zeeuwse-mbo-scholen)
+
+</div>
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

@@ -15,24 +15,25 @@ Steeds meer overheden omarmen prioriteit voor de actieve vervoerwijzen lopen & f
 
 ## Ruimte voor lopen
 
-Alle gemeenten hebben fietsbeleid en steeds meer gemeenten ontwikkelen nu ook loopbeleid. Want lopen is van belang; naar school, winkel, OV-halte of voor je plezier: je moet kunnen [genieten van de omgeving](https://www.wandelnet.nl/l/library/download/urn:uuid:b5cb916f-a100-41ec-bbfe-731c762a8813/nationale+wandelmonitor+2021_wandelnet.pdf). Lopen is duurzaam, klimaatneutraal, goed voor de lokale economie en de regionale bereikbaarheid. Lopen leidt ook tot een betere gezondheid, meer zelfredzaamheid, meer sociale cohesie en meer ruimte voor woningbouw en groen. Daarom is [ruimte voor lopen](https://ruimtevoorlopen.nl) een goed idee. Sinds 2024 is er een 'Nationaal Masterplan Lopen; een rode loper voor de voetganger' van overheden en organisaties. Hoofddoel: elke gemeente heeft in 2030 een lokaal voetgangersnetwerk. De vijf doelen van het Masterplan
-→ 1. Nederland heeft loopcultuur
-• niet alleen functioneel ('lopen'), maar ook recreatief ('wandelen')
-→ 2. iedereen kan, durft en voelt zich welkom om te lopen
-• ook kinderen, jongeren en ouderen
-→ 3. voetgangers zijn en voelen zich veilig in de openbare ruimte
-• laag risico op vallen
-• lopen is ook sociaal veilig
-→ 4. openbare ruimte is loop- en beweegvriendelijk ingericht
-• iedereen heeft toegang tot groen in de directe woon- en werkomgeving (volgens de 3-30-300-regel van stadsecoloog Cecil Konijnendijk moeten mensen vanuit hun raam minstens 3 bomen zien, in een -- vanuit de lucht gezien -- 30 procent groene buurt wonen en maximaal 300 meter van een groene ruimte leven)
-• auto's op straat hebben deels plaatsgemaakt voor lopen, fietsen en OV
-→ 5. er is een uitstekend voetgangersnetwerk
-• in combinatie met het OV kun je te voet overal komen
-• de openbare ruimte nodigt uit tot verblijven.
+Alle gemeenten hebben fietsbeleid en steeds meer gemeenten ontwikkelen nu ook loopbeleid. Want lopen is van belang; naar school, winkel, OV-halte of voor je plezier: je moet kunnen [genieten van de omgeving](https://www.wandelnet.nl/l/library/download/urn:uuid:b5cb916f-a100-41ec-bbfe-731c762a8813/nationale+wandelmonitor+2021_wandelnet.pdf). Lopen is duurzaam, klimaatneutraal, goed voor de lokale economie en de regionale bereikbaarheid. Lopen leidt ook tot een betere gezondheid, meer zelfredzaamheid, meer sociale cohesie en meer ruimte voor woningbouw en groen. Daarom is [ruimte voor lopen](https://ruimtevoorlopen.nl) een goed idee. Sinds 2024 is er een 'Nationaal Masterplan Lopen; een rode loper voor de voetganger' van overheden en organisaties. Hoofddoel: elke gemeente heeft in 2030 een lokaal voetgangersnetwerk. Het Masterplan heeft vijf doelen:
+
+- **Nederland heeft loopcultuur**
+  - niet alleen functioneel ('lopen'), maar ook recreatief ('wandelen')
+- **iedereen kan, durft en voelt zich welkom om te lopen**
+  - ook kinderen, jongeren en ouderen
+- **voetgangers zijn en voelen zich veilig in de openbare ruimte**
+  - laag risico op vallen
+  - lopen is ook sociaal veilig
+- **de openbare ruimte is loop- en beweegvriendelijk ingericht**
+  - iedereen heeft toegang tot groen in de directe woon- en werkomgeving (volgens de 3-30-300-regel van stadsecoloog Cecil Konijnendijk moeten mensen vanuit hun raam minstens 3 bomen zien, in een -- vanuit de lucht gezien -- 30 procent groene buurt wonen en maximaal 300 meter van een groene ruimte leven)
+  - auto's op straat hebben deels plaatsgemaakt voor lopen, fietsen en OV
+- **er is een uitstekend voetgangersnetwerk**
+  - in combinatie met het OV kun je te voet overal komen
+  - de openbare ruimte nodigt uit tot verblijven
 
 ## Voorzieningen dichtbij en lopen versterken elkaar
 
-Lopen spreekt vanzelf voor veel verplaatsingen in de [15-minutenstad](https://www.15minutecity.com/). De stad met hoge nabijheidis een internationaal opkomend stedenbouwkundig concept, bedacht door de Colombiaans-Franse bouwkundige Carlos Moreno. Bewoners kunnen essentiële voorzieningen (OV-halte, park, school, werk, winkels, zorg) vanaf hun voordeur dan in maximaal 15 minuten lopen of fietsen bereiken. Daardoor zijn ze minder tijd kwijt aan reizen en hoeven ze niet altijd de auto te pakken. Zo worden buurten leefbaarder en mensen gezonder. Bij lopen en fietsen hebben bewoners ook meer sociaal contact. Een voorbeeld van een zo'n wijk is de nieuwbouwwijk Utrecht Merwede. Vergelijkbare elementen vind je ook in Eindhoven en Groningen. Ook kleinere plaatsen kunnen dit principe van nabije voorzieningen toepassen. Leestip: brochure 'De 15-minutenstad; hoe doe je dat?' van de Fietsersbond, bureau Rebel en Wandelnet.
+Nabijheid en lopen versterken elkaar. Staan school, winkel, werk en halte om de hoek, dan gaan mensen er lopend of fietsend heen; en juist waar veel mensen te voet zijn, houden die voorzieningen genoeg klandizie om te blijven. Wie ruimte maakt voor de voetganger werkt dus ook aan nabijheid, en andersom. Hoe je voorzieningen dichterbij brengt -- en wat de [15-minutenstad](https://www.15minutecity.com/) daarbij betekent -- staat bij [kans 1: zorg voor voorzieningen dichtbij](/mobiliteit/kansen/nabijheid.html).
 
 ## Vaker & verder fietsen
 
@@ -108,22 +109,22 @@ Vergroenen van de openbare ruimte maakt lopen en fietsen aantrekkelijker. Steden
 
 </div>
 
-## Verder ...
-
-[Beweegvriendelijk Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/beweegvriendelijk-zuid-holland/)
-
-[Metropolitane fietsrouters (van MRDH)](https://mrdh.nl/fietsroutes)
-
-[Podcastserie Raad voor de Leefomgeving 'Nederland verbouwt in 7 vragen', aflevering mobiliteit](https://www.rli.nl/podcastserie/nederland-verbouwt-in-7-vragen/hoe-kan-mobiliteit-slimmer)
-
-[Proef met plastic fietspad in Gouda (testen waterafvoer, onderhoudsvraag en mogelijk kleinere verzakkingskans)](https://fietsberaad.nl/kennisbank/proef-met-plastic-fietspad-in-gouda)
-
-Hoe je gedrag verandert (van auto naar lopen, fietsen en OV) staat beschreven in 'Promoting Mobility Behaviour Change' van Walk 21
+## Verder lezen
 
 {% include leesmeer.html title="Zuid-Holland, Ga gewoon fietsen (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/fiets.html" image="/mobiliteit/kansen/img/eerdere/ga-gewoon-fietsen.jpg" %}
 
 {% include leesmeer.html title="Wisselfiets" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/wisselfiets.html" image="/mobiliteit/kansen/img/eerdere/wisselfiets.jpg" %}
 
 {% include leesmeer.html title="Mensen nemen vaker trein bij verbeterd deelfietsaanbod (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/treinfietscombi.html" image="/mobiliteit/kansen/img/eerdere/trein-deelfiets.jpg" %}
+
+<div class="voorbeeld" markdown="1">
+
+- [Beweegvriendelijk Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/beweegvriendelijk-zuid-holland/)
+- [Metropolitane fietsrouters (van MRDH)](https://mrdh.nl/fietsroutes)
+- [Podcastserie Raad voor de Leefomgeving 'Nederland verbouwt in 7 vragen', aflevering mobiliteit](https://www.rli.nl/podcastserie/nederland-verbouwt-in-7-vragen/hoe-kan-mobiliteit-slimmer)
+- [Proef met plastic fietspad in Gouda (testen waterafvoer, onderhoudsvraag en mogelijk kleinere verzakkingskans)](https://fietsberaad.nl/kennisbank/proef-met-plastic-fietspad-in-gouda)
+- Hoe je gedrag verandert (van auto naar lopen, fietsen en OV) staat beschreven in 'Promoting Mobility Behaviour Change' van Walk 21
+
+</div>
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

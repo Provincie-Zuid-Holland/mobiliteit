@@ -77,28 +77,29 @@ Geef de stad terug aan de voetganger. Dat is het concept van de 'superblocks' di
 
 ## 2. Prioriteit voor lopen & fietsen {#kans-2}
 
-Steeds meer overheden omarmen het STOMP-principe. STOMP staat voor Stappen (lopen), Trappen (fietsen), OV (openbaar vervoer), MaaS (mobiliteitsdiensten, zoals deelvervoer) en Personenauto, in díe volgorde. Dus prioriteit voor de actieve vervoerwijzen lopen & fietsen, vooral in de bebouwde omgeving. Denk aan aantrekkelijke, groene en veilige loop- en (door)fietsroutes en aan voldoende mogelijkheden en ruimte om fietsen veilig te stallen. Lopen en fietsen is gezond, schoon en stil. Op het platteland blijft de auto belangrijk, omdat lopen, fietsen en OV in dunbevolkte gebieden lang niet altijd een reëel alternatief vormen.
+Steeds meer overheden omarmen prioriteit voor de actieve vervoerwijzen lopen & fietsen, vooral in de bebouwde omgeving. Denk aan aantrekkelijke, groene en veilige loop- en (door)fietsroutes en aan voldoende mogelijkheden en ruimte om fietsen veilig te stallen. Lopen en fietsen is gezond, schoon en stil. Op het platteland blijft de auto belangrijk, omdat lopen, fietsen en OV in dunbevolkte gebieden lang niet altijd een reëel alternatief vormen.
 
 ### Ruimte voor lopen
 
-Alle gemeenten hebben fietsbeleid en steeds meer gemeenten ontwikkelen nu ook loopbeleid. Want lopen is van belang; naar school, winkel, OV-halte of voor je plezier: je moet kunnen [genieten van de omgeving](https://www.wandelnet.nl/l/library/download/urn:uuid:b5cb916f-a100-41ec-bbfe-731c762a8813/nationale+wandelmonitor+2021_wandelnet.pdf). Lopen is duurzaam, klimaatneutraal, goed voor de lokale economie en de regionale bereikbaarheid. Lopen leidt ook tot een betere gezondheid, meer zelfredzaamheid, meer sociale cohesie en meer ruimte voor woningbouw en groen. Daarom moet volgens het STOMP-principe de voetganger het [uitgangspunt](https://ruimtevoorlopen.nl/activiteit/voetganger-eerst-omgekeerd-ontwerp/) zijn. Sinds 2024 is er een 'Nationaal Masterplan Lopen; een rode loper voor de voetganger' van overheden en organisaties. Hoofddoel: elke gemeente heeft in 2030 een lokaal voetgangersnetwerk. De vijf doelen van het Masterplan
-→ 1. Nederland heeft loopcultuur
-• niet alleen functioneel ('lopen'), maar ook recreatief ('wandelen')
-→ 2. iedereen kan, durft en voelt zich welkom om te lopen
-• ook kinderen, jongeren en ouderen
-→ 3. voetgangers zijn en voelen zich veilig in de openbare ruimte
-• laag risico op vallen
-• lopen is ook sociaal veilig
-→ 4. openbare ruimte is loop- en beweegvriendelijk ingericht
-• iedereen heeft toegang tot groen in de directe woon- en werkomgeving (volgens de 3-30-300-regel van stadsecoloog Cecil Konijnendijk moeten mensen vanuit hun raam minstens 3 bomen zien, in een -- vanuit de lucht gezien -- 30 procent groene buurt wonen en maximaal 300 meter van een groene ruimte leven)
-• auto's op straat hebben deels plaatsgemaakt voor lopen, fietsen en OV
-→ 5. er is een uitstekend voetgangersnetwerk
-• in combinatie met het OV kun je te voet overal komen
-• de openbare ruimte nodigt uit tot verblijven.
+Alle gemeenten hebben fietsbeleid en steeds meer gemeenten ontwikkelen nu ook loopbeleid. Want lopen is van belang; naar school, winkel, OV-halte of voor je plezier: je moet kunnen [genieten van de omgeving](https://www.wandelnet.nl/l/library/download/urn:uuid:b5cb916f-a100-41ec-bbfe-731c762a8813/nationale+wandelmonitor+2021_wandelnet.pdf). Lopen is duurzaam, klimaatneutraal, goed voor de lokale economie en de regionale bereikbaarheid. Lopen leidt ook tot een betere gezondheid, meer zelfredzaamheid, meer sociale cohesie en meer ruimte voor woningbouw en groen. Daarom is [ruimte voor lopen](https://ruimtevoorlopen.nl) een goed idee. Sinds 2024 is er een 'Nationaal Masterplan Lopen; een rode loper voor de voetganger' van overheden en organisaties. Hoofddoel: elke gemeente heeft in 2030 een lokaal voetgangersnetwerk. Het Masterplan heeft vijf doelen:
 
-### 15-minutenstad
+- **Nederland heeft loopcultuur**
+  - niet alleen functioneel ('lopen'), maar ook recreatief ('wandelen')
+- **iedereen kan, durft en voelt zich welkom om te lopen**
+  - ook kinderen, jongeren en ouderen
+- **voetgangers zijn en voelen zich veilig in de openbare ruimte**
+  - laag risico op vallen
+  - lopen is ook sociaal veilig
+- **de openbare ruimte is loop- en beweegvriendelijk ingericht**
+  - iedereen heeft toegang tot groen in de directe woon- en werkomgeving (volgens de 3-30-300-regel van stadsecoloog Cecil Konijnendijk moeten mensen vanuit hun raam minstens 3 bomen zien, in een -- vanuit de lucht gezien -- 30 procent groene buurt wonen en maximaal 300 meter van een groene ruimte leven)
+  - auto's op straat hebben deels plaatsgemaakt voor lopen, fietsen en OV
+- **er is een uitstekend voetgangersnetwerk**
+  - in combinatie met het OV kun je te voet overal komen
+  - de openbare ruimte nodigt uit tot verblijven
 
-Lopen spreekt vanzelf voor veel verplaatsingen in de [15-minutenstad](https://www.15minutecity.com/). De stad met hoge nabijheidis een internationaal opkomend stedenbouwkundig concept, bedacht door de Colombiaans-Franse bouwkundige Carlos Moreno. Bewoners kunnen essentiële voorzieningen (OV-halte, park, school, werk, winkels, zorg) vanaf hun voordeur dan in maximaal 15 minuten lopen of fietsen bereiken. Daardoor zijn ze minder tijd kwijt aan reizen en hoeven ze niet altijd de auto te pakken. Zo worden buurten leefbaarder en mensen gezonder. Bij lopen en fietsen hebben bewoners ook meer sociaal contact. Een voorbeeld van een zo'n wijk is de nieuwbouwwijk Utrecht Merwede. Vergelijkbare elementen vind je ook in Eindhoven en Groningen. Ook kleinere plaatsen kunnen dit principe van nabije voorzieningen toepassen. Leestip: brochure 'De 15-minutenstad; hoe doe je dat?' van de Fietsersbond, bureau Rebel en Wandelnet.
+### Voorzieningen dichtbij en lopen versterken elkaar
+
+Nabijheid en lopen versterken elkaar. Staan school, winkel, werk en halte om de hoek, dan gaan mensen er lopend of fietsend heen; en juist waar veel mensen te voet zijn, houden die voorzieningen genoeg klandizie om te blijven. Wie ruimte maakt voor de voetganger werkt dus ook aan nabijheid, en andersom. Hoe je voorzieningen dichterbij brengt -- en wat de [15-minutenstad](https://www.15minutecity.com/) daarbij betekent -- staat bij [kans 1: zorg voor voorzieningen dichtbij](/mobiliteit/kansen/nabijheid.html).
 
 ### Vaker & verder fietsen
 
@@ -112,7 +113,7 @@ Naast de vertrouwde (elektrische) fiets, ontstaan er fietsfamilies van bakfietse
 
 ### Da's zo gefietst
 
-Meer dan de helft van de autoverplaatsingen is [korter dan 7,5 kilometer](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). De opkomst van de elektrische fiets en de aanleg van [doorfietsroutes](https://kennis.zuid-holland.nl/oplossing-doorfietsroutes/) maakt dat steeds meer bestemmingen binnen 'fietsbereik' komen. Ruim 60 procent van werknemers woont [binnen 15 kilometer van hun werk](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). Werkgevers spelen hier vaker op in, met bijvoorbeeld een '[fiets van de zaak](https://www.rijksoverheid.nl/onderwerpen/fiets/fiets-van-de-zaak)', een douche op kantoor en een [goede reiskostenvergoeding](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/fiets-van-de-zaak) (net als de auto nu maximaal 25 cent per kilometer onbelast) voor gebruik van de fiets. Om fietsgebruik voor korte ritjes te bevorderen, voeren overheden nu de campagne Da's zo gefietst.
+Meer dan de helft van de autoverplaatsingen is [korter dan 7,5 kilometer](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). De opkomst van de elektrische fiets en de aanleg van [doorfietsroutes](https://kennis.zuid-holland.nl/oplossing-doorfietsroutes/) maakt dat steeds meer bestemmingen binnen 'fietsbereik' komen. Ruim 60 procent van werknemers woont [binnen 15 kilometer van hun werk](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). Werkgevers spelen hier vaker op in, met bijvoorbeeld een '[fiets van de zaak](https://www.rijksoverheid.nl/onderwerpen/fiets/fiets-van-de-zaak)', een douche op kantoor en een [goede reiskostenvergoeding](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/fiets-van-de-zaak) (net als de auto nu maximaal 25 cent per kilometer onbelast) voor gebruik van de fiets. Om fietsgebruik voor korte ritjes te bevorderen, voeren we  de campagne met een stimuleringsapp [Da's zo gefietst](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/samen-verder-fietsen/fiets-app-da-s-zo-gefietst/).
 
 ### Maak ruimte voor de fiets
 
@@ -165,7 +166,7 @@ Voor OV-reizigers is het voordeel dat ze hun reistijd nuttig kunnen besteden: in
 
 Overheden kunnen het OV versnellen & stimuleren, zodat het meer gebruikers trekt. In Zuid-Holland opereren twee opdrachtgevers van het OV, naast NS voor de treinen (ook wel: OV-autoriteiten):
 
-1\. De [Metropoolregio Rotterdam Den Haag](https://mrdh.nl/thema/openbaar-vervoer) gaat over het stedelijke OV (vooral stadsvervoer per bus, tram, metro en RandstadRail) in en om Haaglanden en Rotterdam.
+1. De [Metropoolregio Rotterdam Den Haag](https://mrdh.nl/thema/openbaar-vervoer) gaat over het stedelijke OV (vooral stadsvervoer per bus, tram, metro en RandstadRail) in en om Haaglanden en Rotterdam.
 2. De provincie gaat over het [regionale](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/provincie-opdrachtgever-openbaar-vervoer) OV in de rest van Zuid-Holland: de streekbussen in en om de [Drechtsteden](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/drechtsteden-molenlanden-gorinchem-dmg/), op de [Hoeksche Waard en Goeree-Overflakkee](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/hoeksche-waard-goeree-overflakkee-hwgo) en in [Zuid-Holland Noord](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/zuid-holland-noord-zhn); [openbaar vervoer over water](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/personenvervoer) (Rotterdam -- Drechtsteden) en de regionale treinen Gouda -- Alphen aan den Rijn en Dordrecht -- Geldermalsen ([MerwedeLingelijn](https://www.qbuzz.nl/dmg/reizen/merwedelingelijn), [merwedelingelijn.nl](https://www.merwedelingelijn.nl));
 
 ### Wint de trein het ooit van het vliegtuig?
@@ -185,7 +186,7 @@ Wegbeheerders als provincies en gemeenten kunnen het OV sneller en dus aantrekke
 ### Bouw R-net uit
 
 [R-net](https://www.rnet.nl/) is de merknaam van hoogwaardig openbaar vervoer, met de R van de Randstad. Dat zijn betrouwbare, comfortabele, frequente, herkenbare en snelle bussen, trams, metro's en regiotreinen. Met actuele reisinfo en overdekte wachtgelegenheid. De provincie Zuid-Holland heeft de afgelopen vijftien jaar veel buslijnen en haar twee regionale spoorlijnen [opgewaardeerd tot R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net).
-Bij buslijnen gebeurde dat vooral door lijnen te 'strekken' (rechter te trekken). Daardoor kronkelen ze niet meer door elk dorp, maar voeren ze vaker over de provinciale weg of rondweg. Zodoende snijdt het mes aan meer kanten: de bus wordt sneller, trekt daardoor meer (keuze)reizigers (ook uit de auto), rijdt daardoor efficiënter en kost minder subsidie. Zodoende kun je voor hetzelfde geld meer OV bieden. Het is wel zaak dat ook mensen die minder goed ter been zijn de HOV-haltes kunnen bereiken. Zuid-Holland werkt met andere overheden in de Randstad aan het [uitbouwen van R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net/buslijn-leiden-katwijk-noordwijk/).
+Bij buslijnen gebeurde dat vooral door lijnen te 'strekken' (rechter te trekken). Daardoor kronkelen ze niet meer door elk dorp, maar voeren ze vaker over de provinciale weg of rondweg. Zodoende snijdt het mes aan meer kanten: de bus wordt sneller, trekt daardoor meer (keuze)reizigers (ook uit de auto), rijdt daardoor efficiënter en kost minder subsidie. Zodoende kun je voor hetzelfde geld meer OV bieden. Het is wel zaak dat ook mensen die minder goed ter been zijn de HOV-haltes kunnen bereiken. Zuid-Holland werkt met andere overheden in de Randstad aan het [uitbouwen van R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net/buslijn-leiden-katwijk-noordwijk/). Een voorbeeld is [de nieuwe busbaan tussen Leiden en Katwijk](https://rnetbusbaan.nl/) langs de N206, die op 11 september 2026 feestelijk wordt geopend.
 
 ### Plan nieuw HOV & garandeer routes
 
@@ -196,10 +197,10 @@ Aangeven waar nieuwe R-net lijnen komen én garanderen dat hoogwaardige buslijne
 ### Maak het OV onweerstaanbaar
 Enkele hoofdlijnen van de provinciale OV-visie 'Naar onweerstaanbaar openbaar vervoer voor iedereen':
 
-• Waardeer HOV-lijnen zoals R-net op tot Bus Rapid Transit (hoogfrequente en snellere 'metrobussen' met bijna railkwaliteit) die de ruimtelijke ontwikkeling en stedelijke bereikbaarheid dragen.
-• Versterk het OV op kansrijke verbindingen, zoals de bus-assen Katwijk -- Leiden -- Zoetermeer, Alphen aan den Rijn -- Schiphol, Goeree-Overflakkee -- Hoeksche Waard -- Rotterdam.
-• Verbeter het overige regionale OV met hogere frequenties, snellere verbindingen en meer voorzieningen op haltes: aantrekkelijke loop- en fietsroutes, betere fietsplekken en meer deelfietsen.
-• In nieuwe gebieden en bij herinrichting van wijken staat het STOMP-principe centraal voor het verduurzamen van mobiliteit en verdelen van schaarse ruimte. Vooral het herinrichtenvan parkeerruimte in stedelijk gebied helpt mensen kiezen voor Stappen, Trappen en OV.
+- Waardeer HOV-lijnen zoals R-net op tot Bus Rapid Transit (hoogfrequente en snellere 'metrobussen' met bijna railkwaliteit) die de ruimtelijke ontwikkeling en stedelijke bereikbaarheid dragen.
+- Versterk het OV op kansrijke verbindingen, zoals de bus-assen Katwijk -- Leiden -- Zoetermeer, Alphen aan den Rijn -- Schiphol, Goeree-Overflakkee -- Hoeksche Waard -- Rotterdam.
+- Verbeter het overige regionale OV met hogere frequenties, snellere verbindingen en meer voorzieningen op haltes: aantrekkelijke loop- en fietsroutes, betere fietsplekken en meer deelfietsen.
+- In nieuwe gebieden en bij herinrichting van wijken staat het STOMP-principe centraal voor het verduurzamen van mobiliteit en verdelen van schaarse ruimte. Vooral het herinrichtenvan parkeerruimte in stedelijk gebied helpt mensen kiezen voor Stappen, Trappen en OV.
 
 ### Verbreed OV naar publieke mobiliteit
 
@@ -213,21 +214,21 @@ Zie onze snelstudie '[OV verbreden naar publiek vervoer](https://kennis.zuid-hol
 ### Kanttekeningen
 Publieke mobiliteit is een combinatie van OV (aangestuurd door de provincie), taxibusjes (aangestuurd door gemeenten of regio's) en deelvervoer (meestal van marktpartijen). Organisatorisch is dat complex en als het een succes wordt ook al snel duur. Zorg dus dat:
 
-1\. publieke mobiliteit het voor reizigers niet ingewikkelder maakt (OV is voor onervaren reizigers al ingewikkeld genoeg);
+1. publieke mobiliteit het voor reizigers niet ingewikkelder maakt (OV is voor onervaren reizigers al ingewikkeld genoeg);
 2. stipte dienstregelingen van het openbaar vervoer aansluiten op flexibele haal- en brengtijden (van kwartier eerder of kwartier later) van flexbusjes;
 3. publieke mobiliteit het voor reizigers niet duurder maakt (een deelauto gebruiken is een stuk duurder dan een busretourtje).
 
-Bedenk dat publieke mobiliteit nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking (met gemeenten/regio's en marktpartijen) vraagt van de provincie. Laat het niet ten koste gaan van bus en trein, want die zijn voor iedereen te gebruiken tegen relatief lage tarieven en zonder app (niet iedereen kan een deelfiets gebruiken of mag een deelauto besturen).
+Bedenk dat publieke mobiliteit nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking (met gemeenten/regio's en marktpartijen) vraagt van de provincie. Laat het niet ten koste gaan van bus en trein, want die kan iedereen gebruiken: zonder app, zonder abonnement en zonder rijbewijs (niet iedereen kan een deelfiets gebruiken of mag een deelauto besturen).
 
 [↑ terug naar de negen kansen](#negen-kansen)
 
 ## 4. Deelvervoer & hubs {#kans-4}
 
-Je hoeft niet overal een fiets te hebben, maar wilt misschien wel overal een fiets kunnen gebruiken. Dat is de deelfiets. Omdat een deelfiets meerdere 'baasjes' na elkaar heeft, gebruikt hij minder ruimte dan tweede of derde privéfietsen die bij een station gestald staan. Er zijn ook deelbakfietsen, deelscooters en deelauto's. Om fiets, OV, deelvervoer en auto handig te kunnen combineren, moet je zo snel en makkelijk kunnen overstappen bij stations, R-nethaltes hubs of andere knooppunten.  De conclusie van de snelstudie '[kansen voor deelfiets en deelscooter in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/)' is dat deelfietsen en deelscooters bijdragen aan betere mobiliteit, omdat het een extra keuze is bovenop bestaand vervoer, vooral in het natransport op het OV (van de uitstaphalte naar je eindbestemming). Deze vormen van deelvervoer zijn schoon en nemen weinig ruimte in, wat wijken aantrekkelijker kan maken.
+Je hoeft niet overal een fiets te hebben, maar wilt misschien wel overal een fiets kunnen gebruiken. Dat is de deelfiets. Omdat een deelfiets meerdere 'baasjes' na elkaar heeft, gebruikt hij minder ruimte dan tweede of derde privéfietsen die bij een station gestald staan. Er zijn ook deelbakfietsen, deelscooters en deelauto's. Om fiets, OV, deelvervoer en auto handig te kunnen combineren, moet je zo snel en makkelijk kunnen overstappen bij stations, R-nethaltes hubs of andere knooppunten.  De conclusie van de snelstudie '[kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/)' is dat deelfietsen en deelscooters bijdragen aan betere mobiliteit, omdat het een extra keuze is bovenop bestaand vervoer, vooral in het natransport op het OV (van de uitstaphalte naar je eindbestemming). Deze vormen van deelvervoer zijn schoon en nemen weinig ruimte in, wat wijken aantrekkelijker kan maken.
 
 De provincie Zuid-Holland stimuleert deelfietsen op verschillende manieren. Lees er meer over op [kennis.zuid-holland.nl/deelfiets](https://kennis.zuid-holland.nl/deelfiets/).
 
-Ook in landelijk gebied kan -- met name elektrische -- deelmobiliteit bijdragen aan een betere bereikbaarheid en meer keuzevrijheid. Bovendien kunnen we kosten besparen bij drukke OV-knopen doordat deelvoertuigen korter en dichter op elkaar in stallingen staan, waardoor dure nieuwbouw van stallingen niet of pas later nodig is. Investeringen in dure fietsenstallingen kunnen daardoor mogelijk beperkt blijven. De wisselfiets -- een deelfiets die ook dienst doet in het 'voortransport' van huis naar het station -- is hiervoor een goede oplossing.
+Ook in landelijk gebied kan -- met name elektrische -- deelmobiliteit bijdragen aan een betere bereikbaarheid en meer keuzevrijheid. Bovendien kunnen we kosten besparen bij drukke OV-knopen doordat deelvoertuigen korter en dichter op elkaar in stallingen staan, waardoor dure nieuwbouw van stallingen niet of pas later nodig is. Investeringen in dure fietsenstallingen kunnen daardoor mogelijk beperkt blijven. De [wisselfiets](/mobiliteit/snelstudie/wisselfiets.html) -- een deelfiets die ook dienst doet in het 'voortransport' van huis naar het station -- is hiervoor een goede oplossing.
 
 ### Deelauto's & deelbakfietsen
 
@@ -237,13 +238,13 @@ Grotere voertuigen: dicht bij huis, in [buurthubs](https://smartmobilitymra.nl/a
 
 ### Stimuleer 'wolk' van deelmobiliteit
 
-Deelfiets en deelscooter verbeteren de bereikbaarheid, blijkt uit de snelstudie [Kansen voor deelfiets en deelscooter in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/).
+Deelfiets en deelscooter verbeteren de bereikbaarheid, blijkt uit de snelstudie [Kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/).
 
-Het zou mooi zijn als er in Zuid-Holland een 'wolk van deelvervoerwijzen' komt is, zodat er voor iedereen een passende oplossing bij zit (ook voor mensen die minder mobiel zijn). Niet alleen in de steden, maar ook in de rest van Zuid-Holland. Deelmobiliteit is ideaal om je zelf (individueel of in een klein groepje) te verplaatsen als je niet in de buurt van je huis bent (want daar staat vaak je eigen fiets al). Het is een nog ondergewaardeerde schakel voor bijvoorbeeld het laatste stukje van een OV-reis. Zo helpt deelvervoer de afstand van een uitstaphalte (R-net of station) tot je eindbestemming gemakkelijk en snel te overbruggen. De verwachting is dat er de komende jaren nieuwe vormen komen, zoals stepjes of andere lichte elektrische voertuigen.
+Het zou mooi zijn als er in Zuid-Holland een 'wolk van deelvervoerwijzen' komt, zodat er voor iedereen een passende oplossing bij zit (ook voor mensen die minder mobiel zijn). Niet alleen in de steden, maar ook in de rest van Zuid-Holland. Deelmobiliteit is ideaal om jezelf (individueel of in een klein groepje) te verplaatsen als je niet in de buurt van je huis bent (want daar staat vaak je eigen fiets al). Het is een nog ondergewaardeerde schakel voor bijvoorbeeld het laatste stukje van een OV-reis. Zo helpt deelvervoer de afstand van een uitstaphalte (R-net of station) tot je eindbestemming gemakkelijk en snel te overbruggen. De verwachting is dat er de komende jaren nieuwe vormen komen, zoals stepjes of andere lichte elektrische voertuigen.
 
 ### Zet SRM-subsidie in voor deelmobiliteit
 
-Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subsidieregeling mobiliteit Zuid-Holland (SRM)](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/ketenmobiliteit-2-3-2-srm/). Dit biedt aanbieders van deelmobiliteit en wegbeheerders in Zuid-Holland de mogelijkheid subsidie aan te vragen voor infrastructuur, ontwikkeling en exploitatie van deelvoertuigen. We denken graag met mee over de mogelijkheden.
+Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subsidieregeling mobiliteit Zuid-Holland (SRM)](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/ketenmobiliteit-2-3-2-srm/). Dit biedt aanbieders van deelmobiliteit en wegbeheerders in Zuid-Holland de mogelijkheid subsidie aan te vragen voor infrastructuur, ontwikkeling en exploitatie van deelvoertuigen. We denken graag met je mee over de mogelijkheden.
 
 ### Gebruik Dashboard Deelmobiliteit
 
@@ -293,7 +294,7 @@ Er komen steeds meer partijen die reizigers de hele keten bieden. Zo ontwikkelt 
 
 ### Bied P+R's
 
-Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je algauw uit op P+R (Park + Ride) of transferia. In diverse steden staan gratis of betaalde P+R's, zoals [P+R Utrecht Westraven](https://www.p1.nl/parkeren/utrecht/p-r-westraven) aan de zuidkant van de stad. Daar kun je voor 10 euro een combikaartje voor parkeren én OV kopen: maximaal vijf inzittenden reizen dan met de sneltram of de bus 'gratis' heen en weer naar het stadscentrum. Een ander mooi voorbeeld is de 'ring' van vijftien [P+R terreinen om Rotterdam](https://www.rotterdam.nl/wonen-leven/p-r-terreinen/), vooral bij metrostations. Wie het OV gebruikt, mag daar gratis parkeren.
+Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je al gauw uit op P+R (Park + Ride) of transferia. In diverse steden staan gratis of betaalde P+R's, zoals [P+R Utrecht Westraven](https://www.p1.nl/parkeren/utrecht/p-r-westraven) aan de zuidkant van de stad. Daar kun je voor 10 euro een combikaartje voor parkeren én OV kopen: maximaal vijf inzittenden reizen dan met de sneltram of de bus 'gratis' heen en weer naar het stadscentrum. Een ander mooi voorbeeld is de 'ring' van vijftien [P+R terreinen om Rotterdam](https://www.rotterdam.nl/wonen-leven/p-r-terreinen/), vooral bij metrostations. Wie het OV gebruikt, mag daar gratis parkeren.
 
 ### Carpoolen nieuwe stijl?
 
@@ -320,16 +321,16 @@ In het landelijke Strategisch Plan Verkeersveiligheid 2030 schetsen de gezamenli
 ### Provinciaal beleid
 Het provinciaal beleid ligt vast in het Uitvoeringsprogramma Verkeersveiligheid Zuid-Holland 2021-2030. Zuid-Holland wil samen met het Rijk, de Metropoolregio Rotterdam Den Haag, de zes bestuurlijke regio's, de vijftig inliggende gemeenten, waterschappen, het ROV (Regionaal Ondersteuningsbureau Verkeersveiligheid van MRDH en provincie samen) en andere partners (politie, Openbaar Ministerie) het verkeer veiliger maken. Enkele praktische ambities tot 2030:
 
-• meer sturen op risico's (alle partijen)
-• steviger regie voeren (provincie)
-• krachtiger samenspel tussen partners (alle partijen)
-• 80 km-wegen veiliger inrichten (provincie, waterschappen)
-• polderwegen veiliger inrichten (waterschappen)
-• 50 km-wegen veiliger inrichten (gemeenten)
-• meer fietspaden langs 50 km-wegen (gemeenten)
-• meer 30 km-zones inrichten (gemeenten)
-• focus op fietsers, jongeren & ouderen (ROV)
-• vaker afspraken maken over handhaving (politie).
+- meer sturen op risico's (alle partijen)
+- steviger regie voeren (provincie)
+- krachtiger samenspel tussen partners (alle partijen)
+- 80 km-wegen veiliger inrichten (provincie, waterschappen)
+- polderwegen veiliger inrichten (waterschappen)
+- 50 km-wegen veiliger inrichten (gemeenten)
+- meer fietspaden langs 50 km-wegen (gemeenten)
+- meer 30 km-zones inrichten (gemeenten)
+- focus op fietsers, jongeren & ouderen (ROV)
+- vaker afspraken maken over handhaving (politie).
 
 ### Tussendoel: minder dan 100 doden
 Het tussendoel voor 2027 is: maximaal 95 verkeersdoden en 6.242 verkeersgewonden, oftewel minimaal 5 procent minder dan in het (vorige) piekjaar 2018. De stijgende lijn moet 2030 zijn omgebogen naar een dalende lijn. Dat lijkt niet te lukken: afgelopen jaren waren er steeds meer dan 100 verkeersdoden.
@@ -348,23 +349,27 @@ Aangezien infrastructuur aanpassen duur is en lang duurt, verkeerseducatie lang 
 Als voetganger met een beperking loop je regelmatig tegen obstakels aan. Niet iedereen durft te fietsen. Vrouwen voelen zich soms onveilig op straat of in het OV. Sommige parkeergarages voelen eng. En niet elk huishouden heeft genoeg geld voor een fiets, het OV of de auto. Maar iedereen moet kunnen meedoen: naar school, studie of werk. Iedereen moet naar de dokter of de winkel of wil naar het park, sportveld of theater. Daarom moet er voor iedereen geschikte, dus inclusieve mobiliteit zijn.
 
 ### Lopen
-• trottoirs die breed genoeg zijn, ook voor kinderwagens, rollators en rolstoelen
-• op- en afritjes voor kinderwagens, rollators en rolstoelen
-• geen laaghangende luifels en zo min mogelijk obstakels op het trottoir (containers, elektriciteitskastjes, laadkabels, verkeersborden, wild geparkeerde fietsen).
+
+- trottoirs die breed genoeg zijn, ook voor kinderwagens, rollators en rolstoelen
+- op- en afritjes voor kinderwagens, rollators en rolstoelen
+- geen laaghangende luifels en zo min mogelijk obstakels op het trottoir (containers, elektriciteitskastjes, laadkabels, verkeersborden, wild geparkeerde fietsen).
 
 ### Fietsen
-• fietspaden die breed genoeg, ook voor driewielers en scootmobielen
-• voldoende (bewaakte) stallingsmogelijkheden voor buitenformaatfietsen (bakfietsen, driewielers, ligfietsen, tandems) en gehandicaptenvoertuigen (rollators, scootmobielen).
+
+- fietspaden die breed genoeg, ook voor driewielers en scootmobielen
+- voldoende (bewaakte) stallingsmogelijkheden voor buitenformaatfietsen (bakfietsen, driewielers, ligfietsen, tandems) en gehandicaptenvoertuigen (rollators, scootmobielen).
 
 ### Openbaar vervoer
-• sociaal veilige loop- en fietsroutes naar haltes en stations
-• voor iedereen toegankelijke haltes (geleidelijnen, hogere halteperrons, bussen met lage instap), stations en voertuigen (contrastrijke stopknoppen, voldoende rolstoelplekken, toilet in elke trein)
-• goede verlichting (haltes, stations, loop- en fietsroutes)
-**•** voldoende sociale veiligheid (liever menselijk toezicht dan camera's)
-**•** (speelse) campagnes hoe medereizigers zo nodig de helpende hand te kunnen bieden.
+
+- sociaal veilige loop- en fietsroutes naar haltes en stations
+- voor iedereen toegankelijke haltes (geleidelijnen, hogere halteperrons, bussen met lage instap), stations en voertuigen (contrastrijke stopknoppen, voldoende rolstoelplekken, toilet in elke trein)
+- goede verlichting (haltes, stations, loop- en fietsroutes)
+- voldoende sociale veiligheid (liever menselijk toezicht dan camera's)
+- (speelse) campagnes hoe medereizigers zo nodig de helpende hand te kunnen bieden.
 
 ### Auto
-• sociaal veilige parkeerterreinen en parkeergarages (goede verlichting, ruime zichtlijnen, schoon).
+
+- sociaal veilige parkeerterreinen en parkeergarages (goede verlichting, ruime zichtlijnen, schoon).
 
 ### Vervoersarmoede
 Vervoersarmoede, ook wel vervoer- of mobiliteitsongelijkheid of bereikbaarheidstekort, is een relatief nieuw begrip. Het betekent dat je niet overal kunt komen waar je moet of wilt zijn. Een definitie: "Beperkte mogelijkheden om activiteitenlocaties te kunnen bereiken als gevolg van gebrekkige vervoermogelijkheden in combinatie met sociaal-economische omstandigheden of vaardigheden." Het gaat dus om mensen die onvoldoende kunnen meedoen in de samenleving door gebrek aan verplaatsingsmogelijkheden. Daardoor hebben ze minder kans op passend werk, op toegang tot voorzieningen of op sociale contacten. Volgens onderzoek in opdracht van de G4 (de vier grote steden) heeft zo'n 20 procent van de mensen in probleemwijken onvoldoende toegang tot OV.

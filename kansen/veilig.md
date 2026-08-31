@@ -37,16 +37,16 @@ In het landelijke Strategisch Plan Verkeersveiligheid 2030 schetsen de gezamenli
 ## Provinciaal beleid
 Het provinciaal beleid ligt vast in het Uitvoeringsprogramma Verkeersveiligheid Zuid-Holland 2021-2030. Zuid-Holland wil samen met het Rijk, de Metropoolregio Rotterdam Den Haag, de zes bestuurlijke regio's, de vijftig inliggende gemeenten, waterschappen, het ROV (Regionaal Ondersteuningsbureau Verkeersveiligheid van MRDH en provincie samen) en andere partners (politie, Openbaar Ministerie) het verkeer veiliger maken. Enkele praktische ambities tot 2030:
 
-• meer sturen op risico's (alle partijen)
-• steviger regie voeren (provincie)
-• krachtiger samenspel tussen partners (alle partijen)
-• 80 km-wegen veiliger inrichten (provincie, waterschappen)
-• polderwegen veiliger inrichten (waterschappen)
-• 50 km-wegen veiliger inrichten (gemeenten)
-• meer fietspaden langs 50 km-wegen (gemeenten)
-• meer 30 km-zones inrichten (gemeenten)
-• focus op fietsers, jongeren & ouderen (ROV)
-• vaker afspraken maken over handhaving (politie).
+- meer sturen op risico's (alle partijen)
+- steviger regie voeren (provincie)
+- krachtiger samenspel tussen partners (alle partijen)
+- 80 km-wegen veiliger inrichten (provincie, waterschappen)
+- polderwegen veiliger inrichten (waterschappen)
+- 50 km-wegen veiliger inrichten (gemeenten)
+- meer fietspaden langs 50 km-wegen (gemeenten)
+- meer 30 km-zones inrichten (gemeenten)
+- focus op fietsers, jongeren & ouderen (ROV)
+- vaker afspraken maken over handhaving (politie).
 
 </div>
 

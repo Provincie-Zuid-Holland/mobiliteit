@@ -41,9 +41,17 @@ We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ru
 </div>
 </div>
 
-<figure class="fig">
-  <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Diverse demografie. Beeld: Bas de Vries (Rooilijn)." loading="lazy">
-</figure>
+<div class="voorbeeld" markdown="1">
+
+## Voorzieningen dichtbij en lopen versterken elkaar
+
+Lopen spreekt vanzelf voor veel verplaatsingen in de [15-minutenstad](https://www.15minutecity.com/), een internationaal opkomend stedenbouwkundig concept van de Colombiaans-Franse bouwkundige Carlos Moreno. Bewoners bereiken essentiële voorzieningen (OV-halte, park, school, werk, winkels, zorg) vanaf hun voordeur in maximaal 15 minuten lopen of fietsen. Daardoor zijn ze minder tijd kwijt aan reizen en hoeven ze niet altijd de auto te pakken. Zo worden buurten leefbaarder en mensen gezonder, en hebben ze onderweg meer sociaal contact.
+
+Het werkt twee kanten op: staan voorzieningen dichtbij, dan gaan mensen lopen en fietsen; en juist waar veel mensen te voet zijn, houden die voorzieningen genoeg klandizie om te blijven. Nabijheid en [prioriteit voor lopen & fietsen](/mobiliteit/kansen/actief.html) versterken elkaar dus.
+
+Een voorbeeld van zo'n wijk is de nieuwbouwwijk Utrecht Merwede; vergelijkbare elementen vind je in Eindhoven en Groningen. Ook kleinere plaatsen kunnen dit principe toepassen. Leestip: de brochure 'De 15-minutenstad; hoe doe je dat?' van de Fietsersbond, bureau Rebel en Wandelnet.
+
+</div>
 
 <div class="voorbeeld" markdown="1">
 
@@ -52,6 +60,14 @@ In de bijbehorende snelstudie ['Zorg voor voorzieningen dichtbij'](/mobiliteit/s
 Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [Info@labverantwoordemobiliteit.nl](mailto:Info@labverantwoordemobiliteit.nl).
 
 </div>
+
+<figure class="fig">
+  <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Diverse demografie. Beeld: Bas de Vries (Rooilijn)." loading="lazy">
+</figure>
+
+## Verder lezen
+
+{% include leesmeer.html kop="Lees meer in de recensie" title="De kracht van nabijheid: The 15-Minute City van Carlos Moreno (Rooilijn, 2025)" tekst="Bjarne van der Drift en Ronald Haverman bespreken het boek waarin Moreno de 15-minutenstad uitwerkt." url="https://rooilijn.nl/recensies/de-kracht-van-nabijheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-15minutecity.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
 

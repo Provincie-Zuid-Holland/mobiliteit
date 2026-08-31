@@ -13,23 +13,27 @@ menu: |
 Als voetganger met een beperking loop je regelmatig tegen obstakels aan. Niet iedereen durft te fietsen. Vrouwen voelen zich soms onveilig op straat of in het OV. Sommige parkeergarages voelen eng. En niet elk huishouden heeft genoeg geld voor een fiets, het OV of de auto. Maar iedereen moet kunnen meedoen: naar school, studie of werk. Iedereen moet naar de dokter of de winkel of wil naar het park, sportveld of theater. Daarom moet er voor iedereen geschikte, dus inclusieve mobiliteit zijn.
 
 ## Lopen
-• trottoirs die breed genoeg zijn, ook voor kinderwagens, rollators en rolstoelen
-• op- en afritjes voor kinderwagens, rollators en rolstoelen
-• geen laaghangende luifels en zo min mogelijk obstakels op het trottoir (containers, elektriciteitskastjes, laadkabels, verkeersborden, wild geparkeerde fietsen).
+
+- trottoirs die breed genoeg zijn, ook voor kinderwagens, rollators en rolstoelen
+- op- en afritjes voor kinderwagens, rollators en rolstoelen
+- geen laaghangende luifels en zo min mogelijk obstakels op het trottoir (containers, elektriciteitskastjes, laadkabels, verkeersborden, wild geparkeerde fietsen).
 
 ## Fietsen
-• fietspaden die breed genoeg, ook voor driewielers en scootmobielen
-• voldoende (bewaakte) stallingsmogelijkheden voor buitenformaatfietsen (bakfietsen, driewielers, ligfietsen, tandems) en gehandicaptenvoertuigen (rollators, scootmobielen).
+
+- fietspaden die breed genoeg, ook voor driewielers en scootmobielen
+- voldoende (bewaakte) stallingsmogelijkheden voor buitenformaatfietsen (bakfietsen, driewielers, ligfietsen, tandems) en gehandicaptenvoertuigen (rollators, scootmobielen).
 
 ## Openbaar vervoer
-• sociaal veilige loop- en fietsroutes naar haltes en stations
-• voor iedereen toegankelijke haltes (geleidelijnen, hogere halteperrons, bussen met lage instap), stations en voertuigen (contrastrijke stopknoppen, voldoende rolstoelplekken, toilet in elke trein)
-• goede verlichting (haltes, stations, loop- en fietsroutes)
-**•** voldoende sociale veiligheid (liever menselijk toezicht dan camera's)
-**•** (speelse) campagnes hoe medereizigers zo nodig de helpende hand te kunnen bieden.
+
+- sociaal veilige loop- en fietsroutes naar haltes en stations
+- voor iedereen toegankelijke haltes (geleidelijnen, hogere halteperrons, bussen met lage instap), stations en voertuigen (contrastrijke stopknoppen, voldoende rolstoelplekken, toilet in elke trein)
+- goede verlichting (haltes, stations, loop- en fietsroutes)
+- voldoende sociale veiligheid (liever menselijk toezicht dan camera's)
+- (speelse) campagnes hoe medereizigers zo nodig de helpende hand te kunnen bieden.
 
 ## Auto
-• sociaal veilige parkeerterreinen en parkeergarages (goede verlichting, ruime zichtlijnen, schoon).
+
+- sociaal veilige parkeerterreinen en parkeergarages (goede verlichting, ruime zichtlijnen, schoon).
 
 ## Vervoersarmoede
 Vervoersarmoede, ook wel vervoer- of mobiliteitsongelijkheid of bereikbaarheidstekort, is een relatief nieuw begrip. Het betekent dat je niet overal kunt komen waar je moet of wilt zijn. Een definitie: "Beperkte mogelijkheden om activiteitenlocaties te kunnen bereiken als gevolg van gebrekkige vervoermogelijkheden in combinatie met sociaal-economische omstandigheden of vaardigheden." Het gaat dus om mensen die onvoldoende kunnen meedoen in de samenleving door gebrek aan verplaatsingsmogelijkheden. Daardoor hebben ze minder kans op passend werk, op toegang tot voorzieningen of op sociale contacten. Volgens onderzoek in opdracht van de G4 (de vier grote steden) heeft zo'n 20 procent van de mensen in probleemwijken onvoldoende toegang tot OV.

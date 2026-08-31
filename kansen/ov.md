@@ -19,7 +19,7 @@ Voor OV-reizigers is het voordeel dat ze hun reistijd nuttig kunnen besteden: in
 
 Overheden kunnen het OV versnellen & stimuleren, zodat het meer gebruikers trekt. In Zuid-Holland opereren twee opdrachtgevers van het OV, naast NS voor de treinen (ook wel: OV-autoriteiten):
 
-1\. De [Metropoolregio Rotterdam Den Haag](https://mrdh.nl/thema/openbaar-vervoer) gaat over het stedelijke OV (vooral stadsvervoer per bus, tram, metro en RandstadRail) in en om Haaglanden en Rotterdam.
+1. De [Metropoolregio Rotterdam Den Haag](https://mrdh.nl/thema/openbaar-vervoer) gaat over het stedelijke OV (vooral stadsvervoer per bus, tram, metro en RandstadRail) in en om Haaglanden en Rotterdam.
 2. De provincie gaat over het [regionale](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/provincie-opdrachtgever-openbaar-vervoer) OV in de rest van Zuid-Holland: de streekbussen in en om de [Drechtsteden](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/drechtsteden-molenlanden-gorinchem-dmg/), op de [Hoeksche Waard en Goeree-Overflakkee](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/hoeksche-waard-goeree-overflakkee-hwgo) en in [Zuid-Holland Noord](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/zuid-holland-noord-zhn); [openbaar vervoer over water](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/personenvervoer) (Rotterdam -- Drechtsteden) en de regionale treinen Gouda -- Alphen aan den Rijn en Dordrecht -- Geldermalsen ([MerwedeLingelijn](https://www.qbuzz.nl/dmg/reizen/merwedelingelijn), [merwedelingelijn.nl](https://www.merwedelingelijn.nl));
 
 <div class="voorbeeld" markdown="1">
@@ -59,7 +59,7 @@ Wegbeheerders als provincies en gemeenten kunnen het OV sneller en dus aantrekke
 ## Bouw R-net uit
 
 [R-net](https://www.rnet.nl/) is de merknaam van hoogwaardig openbaar vervoer, met de R van de Randstad. Dat zijn betrouwbare, comfortabele, frequente, herkenbare en snelle bussen, trams, metro's en regiotreinen. Met actuele reisinfo en overdekte wachtgelegenheid. De provincie Zuid-Holland heeft de afgelopen vijftien jaar veel buslijnen en haar twee regionale spoorlijnen [opgewaardeerd tot R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net).
-Bij buslijnen gebeurde dat vooral door lijnen te 'strekken' (rechter te trekken). Daardoor kronkelen ze niet meer door elk dorp, maar voeren ze vaker over de provinciale weg of rondweg. Zodoende snijdt het mes aan meer kanten: de bus wordt sneller, trekt daardoor meer (keuze)reizigers (ook uit de auto), rijdt daardoor efficiënter en kost minder subsidie. Zodoende kun je voor hetzelfde geld meer OV bieden. Het is wel zaak dat ook mensen die minder goed ter been zijn de HOV-haltes kunnen bereiken. Zuid-Holland werkt met andere overheden in de Randstad aan het [uitbouwen van R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net/buslijn-leiden-katwijk-noordwijk/).
+Bij buslijnen gebeurde dat vooral door lijnen te 'strekken' (rechter te trekken). Daardoor kronkelen ze niet meer door elk dorp, maar voeren ze vaker over de provinciale weg of rondweg. Zodoende snijdt het mes aan meer kanten: de bus wordt sneller, trekt daardoor meer (keuze)reizigers (ook uit de auto), rijdt daardoor efficiënter en kost minder subsidie. Zodoende kun je voor hetzelfde geld meer OV bieden. Het is wel zaak dat ook mensen die minder goed ter been zijn de HOV-haltes kunnen bereiken. Zuid-Holland werkt met andere overheden in de Randstad aan het [uitbouwen van R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net/buslijn-leiden-katwijk-noordwijk/). Een voorbeeld is [de nieuwe busbaan tussen Leiden en Katwijk](https://rnetbusbaan.nl/) langs de N206, die op 11 september 2026 feestelijk wordt geopend.
 
 <div class="voorbeeld" markdown="1">
 
@@ -78,10 +78,10 @@ Aangeven waar nieuwe R-net lijnen komen én garanderen dat hoogwaardige buslijne
 ## Maak het OV onweerstaanbaar
 Enkele hoofdlijnen van de provinciale OV-visie 'Naar onweerstaanbaar openbaar vervoer voor iedereen':
 
-• Waardeer HOV-lijnen zoals R-net op tot Bus Rapid Transit (hoogfrequente en snellere 'metrobussen' met bijna railkwaliteit) die de ruimtelijke ontwikkeling en stedelijke bereikbaarheid dragen.
-• Versterk het OV op kansrijke verbindingen, zoals de bus-assen Katwijk -- Leiden -- Zoetermeer, Alphen aan den Rijn -- Schiphol, Goeree-Overflakkee -- Hoeksche Waard -- Rotterdam.
-• Verbeter het overige regionale OV met hogere frequenties, snellere verbindingen en meer voorzieningen op haltes: aantrekkelijke loop- en fietsroutes, betere fietsplekken en meer deelfietsen.
-• In nieuwe gebieden en bij herinrichting van wijken staat het STOMP-principe centraal voor het verduurzamen van mobiliteit en verdelen van schaarse ruimte. Vooral het herinrichtenvan parkeerruimte in stedelijk gebied helpt mensen kiezen voor Stappen, Trappen en OV.
+- Waardeer HOV-lijnen zoals R-net op tot Bus Rapid Transit (hoogfrequente en snellere 'metrobussen' met bijna railkwaliteit) die de ruimtelijke ontwikkeling en stedelijke bereikbaarheid dragen.
+- Versterk het OV op kansrijke verbindingen, zoals de bus-assen Katwijk -- Leiden -- Zoetermeer, Alphen aan den Rijn -- Schiphol, Goeree-Overflakkee -- Hoeksche Waard -- Rotterdam.
+- Verbeter het overige regionale OV met hogere frequenties, snellere verbindingen en meer voorzieningen op haltes: aantrekkelijke loop- en fietsroutes, betere fietsplekken en meer deelfietsen.
+- In nieuwe gebieden en bij herinrichting van wijken staat het STOMP-principe centraal voor het verduurzamen van mobiliteit en verdelen van schaarse ruimte. Vooral het herinrichtenvan parkeerruimte in stedelijk gebied helpt mensen kiezen voor Stappen, Trappen en OV.
 
 <div class="voorbeeld" markdown="1">
 
@@ -104,11 +104,13 @@ Zie onze snelstudie '[OV verbreden naar publiek vervoer](https://kennis.zuid-hol
 ## Kanttekeningen
 Publieke mobiliteit is een combinatie van OV (aangestuurd door de provincie), taxibusjes (aangestuurd door gemeenten of regio's) en deelvervoer (meestal van marktpartijen). Organisatorisch is dat complex en als het een succes wordt ook al snel duur. Zorg dus dat:
 
-1\. publieke mobiliteit het voor reizigers niet ingewikkelder maakt (OV is voor onervaren reizigers al ingewikkeld genoeg);
+1. publieke mobiliteit het voor reizigers niet ingewikkelder maakt (OV is voor onervaren reizigers al ingewikkeld genoeg);
 2. stipte dienstregelingen van het openbaar vervoer aansluiten op flexibele haal- en brengtijden (van kwartier eerder of kwartier later) van flexbusjes;
 3. publieke mobiliteit het voor reizigers niet duurder maakt (een deelauto gebruiken is een stuk duurder dan een busretourtje).
 
-Bedenk dat publieke mobiliteit nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking (met gemeenten/regio's en marktpartijen) vraagt van de provincie. Laat het niet ten koste gaan van bus en trein, want die zijn voor iedereen te gebruiken tegen relatief lage tarieven en zonder app (niet iedereen kan een deelfiets gebruiken of mag een deelauto besturen).
+Bedenk dat publieke mobiliteit nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking (met gemeenten/regio's en marktpartijen) vraagt van de provincie. Laat het niet ten koste gaan van bus en trein, want die kan iedereen gebruiken: zonder app, zonder abonnement en zonder rijbewijs (niet iedereen kan een deelfiets gebruiken of mag een deelauto besturen).
+
+## Verder lezen
 
 {% include leesmeer.html title="OV verbreden naar publiek vervoer (2024)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/ov.html" image="/mobiliteit/kansen/img/eerdere/publiek-vervoer.jpg" %}
 
