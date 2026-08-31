@@ -64,22 +64,22 @@ In het landelijke Strategisch Plan Verkeersveiligheid 2030 schetsen de gezamenli
 2. Breder: elke partij heeft de maatschappelijke plicht het maximale te doen.
 3. Risicogestuurd: wegbeheerders brengen risico's in kaart en pakken die structureel aan.
 
-<div class="mediarij">
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/5EO1xIYsoTg" title="Risico-indicator veilige wegen (Kennisnetwerk SPV)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div markdown="1">
 
-### Kijk naar de maximumsnelheid en de inrichting van een weg
+## Kijk naar de maximumsnelheid en de inrichting van een weg
 
 De animatie [risico-indicator Veilige wegen](https://www.kennisnetwerkspv.nl/Nieuws/2022/Tweede-animatie-risico-indicator-Veilige-wegen) van het Kennisnetwerk SPV laat zien hoe snelheid en wegontwerp samen het risico bepalen.
 
 </div>
 </div>
 
-<div class="mediarij">
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/PjlOHT7Kvvw" title="Veilige fietspaden (Kennisnetwerk SPV)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div markdown="1">
 
-### Maak fietspaden veiliger
+## Maak fietspaden veiliger
 
 De animatie [risico-indicator Veilige fietspaden](https://www.kennisnetwerkspv.nl/Nieuws/Animatie-over-risico-indicator-Veilige-fietspaden) van het Kennisnetwerk SPV laat zien waar fietspaden op vastlopen: breedte, obstakels en de aansluiting op kruispunten.
 
@@ -100,17 +100,13 @@ Het provinciaal beleid ligt vast in het Uitvoeringsprogramma Verkeersveiligheid 
 - focus op fietsers, jongeren & ouderen (ROV)
 - vaker afspraken maken over handhaving (politie).
 
-## Veilig thuiskomen in Zuid-Holland
-
-Voor alle negen kansen in deze studie geldt: het aantal verkeersslachtoffers mag niet oplopen. Meer hierover staat in het [Uitvoeringsprogramma Verkeersveiligheid Zuid-Holland 2021-2030](https://www.zuid-holland.nl/publish/pages/28617/uitvoeringsprogrammaverkeersveiligheid2021-2030.pdf), met als ondertitel 'Iedereen komt veilig thuis in Zuid-Holland: maak een punt van nul verkeersslachtoffers'.
-
 ## Tussendoel: minder dan 100 doden
 Het tussendoel voor 2027 is: maximaal 95 verkeersdoden en 6.242 verkeersgewonden, oftewel minimaal 5 procent minder dan in het (vorige) piekjaar 2018. De stijgende lijn moet in 2030 zijn omgebogen naar een dalende lijn. Dat wordt een flinke uitdaging, waarbij de invloed van de provincie bovendien maar beperkt is.
 
 ## Verder lezen
 
-{% include leesmeer.html kop="Lees meer op de website" title="Zuid-Holland maakt een punt van nul" tekst="Het ROV Zuid-Holland is een samenwerking tussen de provincie Zuid-Holland en de Metropoolregio Rotterdam Den Haag met als doel verkeersveilig gedrag te stimuleren." url="https://www.maakeenpuntvannul.nl/over-ons/" image="/mobiliteit/kansen/img/eerdere/rov-zuid-holland.jpg" %}
+{% include leesmeer.html kop="Lees meer in het uitvoeringsprogramma" title="Veilig thuiskomen in Zuid-Holland" tekst="Voor alle negen kansen in deze studie geldt: het aantal verkeersslachtoffers mag niet oplopen. Hoe de provincie daaraan werkt staat in het Uitvoeringsprogramma Verkeersveiligheid Zuid-Holland 2021-2030 (pdf)." url="https://www.zuid-holland.nl/publish/pages/28617/uitvoeringsprogrammaverkeersveiligheid2021-2030.pdf" image="/mobiliteit/kansen/img/eerdere/uitvoeringsprogramma.jpg" %}
 
-{% include leesmeer.html kop="Lees meer in het uitvoeringsprogramma" title="Uitvoeringsprogramma Verkeersveiligheid Zuid-Holland 2021-2030" tekst="Iedereen komt veilig thuis in Zuid-Holland: maak een punt van nul verkeersslachtoffers (pdf, 2021)." url="https://www.zuid-holland.nl/publish/pages/28617/uitvoeringsprogrammaverkeersveiligheid2021-2030.pdf" image="/mobiliteit/kansen/img/eerdere/uitvoeringsprogramma.jpg" %}
+{% include leesmeer.html kop="Lees meer op de website" title="Zuid-Holland maakt een punt van nul" tekst="Het ROV Zuid-Holland is een samenwerking tussen de provincie Zuid-Holland en de Metropoolregio Rotterdam Den Haag met als doel verkeersveilig gedrag te stimuleren." url="https://www.maakeenpuntvannul.nl/over-ons/" image="/mobiliteit/kansen/img/eerdere/rov-zuid-holland.jpg" %}
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

@@ -61,18 +61,18 @@ Wegbeheerders als provincies en gemeenten kunnen het OV sneller en dus aantrekke
 [R-net](https://www.rnet.nl/) is de merknaam van hoogwaardig openbaar vervoer, met de R van de Randstad. Dat zijn betrouwbare, comfortabele, frequente, herkenbare en snelle bussen, trams, metro's en regiotreinen. Met actuele reisinfo en overdekte wachtgelegenheid. De provincie Zuid-Holland heeft de afgelopen vijftien jaar veel buslijnen en haar twee regionale spoorlijnen [opgewaardeerd tot R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net).
 Bij buslijnen gebeurde dat vooral door lijnen te 'strekken' (rechter te trekken). Daardoor kronkelen ze niet meer door elk dorp, maar voeren ze vaker over de provinciale weg of rondweg. Zodoende snijdt het mes aan meer kanten: de bus wordt sneller, trekt daardoor meer (keuze)reizigers (ook uit de auto), rijdt daardoor efficiënter en kost minder subsidie. Zodoende kun je voor hetzelfde geld meer OV bieden. Het is wel zaak dat ook mensen die minder goed ter been zijn de HOV-haltes kunnen bereiken. Zuid-Holland werkt met andere overheden in de Randstad aan het [uitbouwen van R-net](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/r-net/buslijn-leiden-katwijk-noordwijk/). Een voorbeeld is [de nieuwe busbaan tussen Leiden en Katwijk](https://rnetbusbaan.nl/) langs de N206, die op 11 september 2026 feestelijk wordt geopend.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/zuidtangent-hoofddorp.jpg" alt="Zuidtangent-bus bij station Hoofddorp" loading="lazy">
+  <figcaption>Afbeelding: <a href="https://nl.wikipedia.org/wiki/Hoogwaardig_openbaar_vervoer#/media/Bestand:Zuidtangent_Bus_Hoofddorp.jpg">Willem_90</a>, Wikimedia Commons</figcaption>
 </figure>
+<div markdown="1">
 
 ## Plan nieuw HOV & garandeer routes
 
 Aangeven waar nieuwe R-net lijnen komen én garanderen dat hoogwaardige buslijnen jarenlang blijven bestaan, kunnen ervoor zorgen dat huishoudens en bedrijven zich 'langs de lijn' vestigen. Zo groeien we toe naar een ruimtelijke ordening waar de mensen minder afhankelijk zijn van de auto. Het [OV-bureau Groningen Drenthe](https://ovbureau.nl/) behandelt de routes van hoogwaardig OV als ware het raillijnen. Ze zijn ze voor tien tot twintig jaar [vastgelegd](https://ovbureau.nl/het-ov-in-de-regio) in ruimtelijke plannen.
 
-*Afbeelding: [Willem_90](https://nl.wikipedia.org/wiki/Hoogwaardig_openbaar_vervoer#/media/Bestand:Zuidtangent_Bus_Hoofddorp.jpg), Wikimedia Commons*
-
+</div>
 </div>
 
 ## Maak het OV onweerstaanbaar
