@@ -21,9 +21,7 @@ Dit is hét moment voor de 'kracht van nabijheid': met een enorme woningbouwopga
 **De drie hoofdconclusies uit deze snelstudie:**
 
 1. De kansen van nabijheid van voorzieningen, werk en hoogwaardig openbaar vervoer zijn groot. Als mensen bestemmingen lopend of fietsend (of met OV) kunnen bereiken, biedt dat grote voordelen: betere kwaliteit van leven, minder vervoerarmoede, meer gelijkheid, kortere files en minder uitstoot van CO<sub>2</sub>, fijnstof en geluid.
-
 2. Deze kansen voor nabijheid kunnen we op vele manieren benutten. De aanpak kan per gebied verschillen. In het algemeen liggen er grote mogelijkheden voor het ontwikkelen van stationsgebieden (ook rond kleinere stations & drukke haltes), het verdichten van bebouwing en het mengen van functies. Hiernaast zijn er tal van andere maatregelen die de nabijheid kunnen verbeteren, zoals het ondersteunen van decentralisatie en verbeteren van infrastructuur voor actieve mobiliteit (lopen en fietsen).
-
 3. De kracht van nabijheid kunnen we overal in de provincie benutten: van hoogstedelijk tot landelijk gebied. Dat vraagt een gebiedsgerichte aanpak omdat de wensen en mogelijkheden per gebiedstype verschillen. Denk aan 15 minuten wijken en 30 minuten regio's, waarbij de auto vaker een rol zal spelen. Ook moeten we nader onderzoeken wat bewoners écht graag in de buurt willen, door mensen in verschillende gebiedstypen te ondervragen. Niet óver inwoners praten, maar mét hen.
 
 ## 1. Vraag: kansen van nabijheid?
