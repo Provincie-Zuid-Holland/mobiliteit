@@ -58,6 +58,7 @@ In het beleid hanteren we vaak de 3 E's om het verkeer veiliger te maken:
 1. Engineering = auto's en infrastructuur ontwerpen (denk aan NCAP-steren voor botsveiligheid en inrichting van 30 km-wegen)
 2. Education = gewenst gedrag creëren: campagnes (als BOB en Mono), verkeersexamens, verkeerseducatie, rijexamen, opfriscursussen.
 3. Enforcement = gewenst gedrag afdwingen: handhaving (boetes uitdelen, weggebruikers aanspreken).
+
 Aangezien infrastructuur aanpassen duur is en lang duurt, verkeerseducatie lang niet alle weggebruikers bereikt of overtuigt en de pakkans bij verkeersmisdrijven en -overtredingen miniem is, is het de vraag of deze 3 E's toereikend zijn om het verkeer echt veiliger te maken.
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

@@ -42,8 +42,6 @@ Op rivieren vindt zowel goederentransport (binnenvaart) plaats als reizigersverv
 
 De provincie is daarom ook betrokken bij de ontwikkelingen van de [Zero Emission Services](https://zeroemissionservices.nl/en/homepage/). ZES levert verwisselbare energiecontainers voor nieuwe en bestaande binnenvaartschepen. Het voordeel van ZES voor de gebruikers is 'pay-per-use': klanten betalen dus voor het gebruik en hoeven niet eerst te investeren in het ontwikkelen, bouwen en opschalen van het systeem. ZES heeft vanuit het Groeifonds subsidies ontvangen en werkt ook samen met investeerders.
 
-**Naar negen schone schepen**
-
 </div>
 
 ## Plaats elektrische laadpunten
@@ -53,9 +51,5 @@ De provincies Zuid-Holland en Zeeland helpen gemeenten om meer laadpunten te pla
 ## Geef transport over water een kans
 
 Waarom zou je in stedelijke gebieden afval afvoeren met vuilniswagens en bouwmaterialen aanvoeren of winkels bevoorraden met vrachtwagens als dat ook duurzamer en veiliger kan? Het lijkt erop dat transport over water opnieuw in opkomst is. Het begon met de 'bierboot' in Utrecht, nu volgen andere steden met vervoer over hun grachten. Een voorbeeld van zo'n waterlogistieke oplossingen is de CityBarge.
-
-## Maak busvervoer schoon, bijvoorbeeld met waterstofbussen
-
-Vervoerder Connexxion rijdt mede dankzij de provincie Zuid-Holland al met twintig waterstofbussen. In Heinenoord is een waterstoftankstation geopend met een toekomstige capaciteit voor vijftig bussen. Wel moeten we als samenleving zo snel mogelijk van grijze waterstof (uit fossiele brandstoffen) naar groene waterstof (uit zonne- en windenergie).
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

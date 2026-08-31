@@ -21,16 +21,6 @@ Een voorbeeld uit de praktijk van onbewuste gedragsbeïnvloeding ter bevordering
 
 Gedragsverandering kan ook plaatsvinden doordat alternatieven de 'makkelijkere' keuze worden. Bedenk je maar eens wat er zou gebeuren als biologisch vlees goedkoper zou worden dan kiloknallers. Of als je route naar werk, door een nieuwe bushalte in je buurt en gratis OV, een stuk makkelijker en goedkoper wordt dan met de auto.
 
-<div class="voorbeeld" markdown="1">
-
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ifQDV9pE3GM" title="Zuid-Holland Bereikbaar: afstemming tussen infrabeheerders" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Samen houden we Zuid-Holland in beweging. Doe mee!
-
-Het wordt steeds drukker in Zuid-Holland. De komende jaren worden ruim 200.000 woningen gebouwd. Ook hebben veel wegen, bruggen en tunnels groot onderhoud nodig. Dat leidt tot extra drukte op de wegen, op het water en in het openbaar vervoer. Als we niets doen, staan we in Zuid-Holland nog vaker stil. Daarom bundelen 8 publieke organisaties hun krachten in de samenwerkingsorganisatie Zuid-Holland Bereikbaar. Kijk op de site wat ze doen en hoe je kunt meedoen https://zuidhollandbereikbaar.nl
-
-</div>
-
 ## Wat is gedrag?
 
 -   Alle acties en reacties van een persoon in relatie tot haar omgeving.
@@ -51,7 +41,6 @@ Op deze pagina staan een paar voorbeelden van hoe je op het gebied van mobilitei
 
 Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met fiscaal voordeel, voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een spaarsysteem. De nieuwe samenwerkingsorganisatie Zuid-Holland Bereikbaar van overheden en bedrijfsleven kan hierbij helpen. Zo is er een uitprobeerpool waarbij werknemers een week lang een e-bike of speed pedelec (tot 45 km/u) aan de tand kunnen voelen. Ook kan Zuid-Holland zelf als werkgever het goede voorbeeld geven. Zo heeft de provincie het zilveren werkgeverscertificaat van de Fietsersbond ontvangen. Dat is een erkenning van de inspanningen die een werkgever doet om medewerkers te stimuleren op de fiets naar het werk te komen. Voor werkgevers heeft de Fietsersbond een checklist fietsvriendelijk bedrijf.
 
-*Afbeelding: cfe-certification.eu*
 
 <div class="voorbeeld" markdown="1">
 
