@@ -42,11 +42,8 @@ We realiseren ons dat de mobiliteitsmensen vaak niet aan de lat staan voor de ru
 </div>
 
 <figure class="fig">
-  <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Illustratie van een straat met bewoners van uiteenlopende leeftijden die elkaar tegenkomen" loading="lazy">
-  <figcaption>Diverse demografie. Beeld: Bas de Vries (Rooilijn).</figcaption>
+  <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Diverse demografie. Beeld: Bas de Vries (Rooilijn)." loading="lazy">
 </figure>
-
-Lees meer over [de rol van de gebouwde omgeving bij eenzaamheid](https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/): een pleidooi om buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen.
 
 <div class="voorbeeld" markdown="1">
 
@@ -55,6 +52,8 @@ In de bijbehorende snelstudie ['Zorg voor voorzieningen dichtbij'](/mobiliteit/s
 Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [Info@labverantwoordemobiliteit.nl](mailto:Info@labverantwoordemobiliteit.nl).
 
 </div>
+
+{% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
 
 {% include leesmeer.html title="De kracht van nabijheid (2025)" url="https://provincie-zuid-holland.github.io/mobiliteit/snelstudie/nabijheid.html" image="/mobiliteit/kansen/img/eerdere/nabijheid.jpg" %}
 

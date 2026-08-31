@@ -367,6 +367,11 @@ blockquote{
   line-height: 30px;
   margin: 0;
 }
+.leesmeer .leesmeer-tekst {
+  font-size: 18px;
+  line-height: 26px;
+  margin: 6px 0 0;
+}
 .leesmeer:hover .item {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }

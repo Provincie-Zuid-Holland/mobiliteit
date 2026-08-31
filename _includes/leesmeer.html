@@ -1,7 +1,8 @@
 {%- comment -%}
 Verwijzing naar een eerdere snelstudie: compact blauw balkje.
 Gebruik: {% include leesmeer.html title="..." url="..." image="..." %}
-Optioneel: kop="Lees meer in het artikel" voor een verwijzing die geen snelstudie is.
+Optioneel: kop="Lees meer in het artikel" voor een verwijzing die geen snelstudie is,
+en tekst="..." voor een regel toelichting onder de titel.
 
 Let op: de buitenste <div> is nodig. Kramdown ziet een blok dat begint met een
 inline-element (<a>) als een alinea en breekt die dan open op de <div> erin,
@@ -17,6 +18,7 @@ block-level element als eerste tag laat kramdown het hele blok met rust.
     <div class="item-right">
       <p class="leesmeer-kop">{{ include.kop | default: "Lees meer in de snelstudie" }}</p>
       <h2>{{ include.title }}</h2>
+      {%- if include.tekst %}<p class="leesmeer-tekst">{{ include.tekst }}</p>{% endif -%}
     </div>
   </div>
 </a>
