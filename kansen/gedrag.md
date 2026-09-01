@@ -40,14 +40,15 @@ Op deze pagina staan een paar voorbeelden van hoe je op het gebied van mobilitei
 Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met fiscaal voordeel, voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een spaarsysteem. De nieuwe samenwerkingsorganisatie Zuid-Holland Bereikbaar van overheden en bedrijfsleven kan hierbij helpen. Zo is er een uitprobeerpool waarbij werknemers een week lang een e-bike of speed pedelec (tot 45 km/u) aan de tand kunnen voelen. Ook kan Zuid-Holland zelf als werkgever het goede voorbeeld geven. Zo heeft de provincie het zilveren werkgeverscertificaat van de Fietsersbond ontvangen. Dat is een erkenning van de inspanningen die een werkgever doet om medewerkers te stimuleren op de fiets naar het werk te komen. Voor werkgevers heeft de Fietsersbond een checklist fietsvriendelijk bedrijf.
 
 
-<div class="voorbeeld" markdown="1">
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/jSeJ4BOKww8" title="Leefstraten in Gent" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ## Experimenteer met leefstraten
 
 Bij een leefstraat wordt een straat of plein een aantal maanden 'teruggegeven' aan de bewoners en wordt hij ingericht als veilige en rustige ontmoetingsplaats. Het gaat om locaties waar veel mensen wonen, maar elkaar ontmoeten niet altijd vanzelf spreekt. Bewoners kunnen bankjes neerzetten, uitgebreid met elkaar kletsen terwijl kinderen veilig kunnen spelen. Zie ook deze video over leefstraten in Gent.
 
+</div>
 </div>
 
 ## Voorbeeld: werkgeversaanpak beïnvloedt reisgedrag
@@ -56,14 +57,15 @@ Bedrijven kunnen het goede voorbeeld geven om het woon-werkverkeer van hun medew
 
 Betrek de inwoners, (participatie ) voorbeeld: https://slimmerreizen.zuid-holland.nl
 
-<div class="voorbeeld" markdown="1">
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://player.vimeo.com/video/379028081?dnt=1" title="Maak kennis met de OV-ambassadeurs van Ervaar het OV" loading="lazy" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ## Stimuleer OV met campagne & marketing
 
 Zeker na corona, waarin reizigers deels wegbleven, verdient het OV een nieuwe impuls als duurzaam en veilig alternatief voor de auto. Dat kan met campagnes (regionaal of landelijk) en marketing (probeeracties, proefabonnementen, reisadviezen), samen met MRDH (in Rotterdam en Haaglanden), vervoerbedrijven in Zuid-Holland (Connexxion, EBS, HTM, NS, Qbuzz en RET) en werkgevers. Sommige werkgevers vergoeden uit het oogpunt van duurzaamheid al geen autokosten meer als je de woon-werkrit redelijkerwijs ook met het OV kunt maken. De provincie Gelderland en de regionale vervoerders voeren een meerjarige campagne (met de website Ervaar het OV) om inwoners te verleiden het OV te proberen. Uit onderzoek blijkt dat mensen openstaan voor andere vormen van reizen bij grote veranderingen, zoals een nieuwe woonplaats, ander werk of langdurige wegwerkzaamheden.
 
+</div>
 </div>
 
 ## Verder lezen

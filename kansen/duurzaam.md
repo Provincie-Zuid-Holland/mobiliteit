@@ -27,12 +27,12 @@ Voor de binnenvaart ligt er de [Green Deal Zeevaart en Binnenhavens](https://www
 
 Stadsdistributiecentra of [(stads)logistieke hubs](https://www.slimschoononderweg.nl/logistieke-hubs) zijn verzamelplaatsen aan de rand van de stad waar leveranciers hun spullen met vrachtwagens afleveren, waarna kleinere (elektrische) voertuigen de spullen bezorgen bij horeca, instellingen en winkels in de stad. Als je dit als overheid én bedrijfsleven goed organiseert, zijn de voordelen legio: minder vrachtwagens in de stad, minder uitstoot in de stad, minder ruimtebeslag in de stad, veiliger verkeer. Kortom: duurzamere, efficiëntere en goedkopere stedelijke distributie. En je bent beter voorbereid op de zero emissie zones. Voorbeelden: [Cityhub](https://cityhub.nl/) (Leiden), [CityBarge](https://citybarge.eu/nl_nl/) en [Hubbel](https://hubbel.nl/) (Den Haag).
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/binnenvaart-elektrisch.jpg" alt="Elektrisch binnenvaartschip" loading="lazy">
   <figcaption>Elektrisch varen op de rivier</figcaption>
 </figure>
+<div markdown="1">
 
 ## Duurzaam varen op de rivier
 
@@ -40,6 +40,7 @@ Op rivieren vindt zowel goederentransport (binnenvaart) plaats als reizigersverv
 
 De provincie is daarom ook betrokken bij de ontwikkelingen van de [Zero Emission Services](https://zeroemissionservices.nl/en/homepage/). ZES levert verwisselbare energiecontainers voor nieuwe en bestaande binnenvaartschepen. Het voordeel van ZES voor de gebruikers is 'pay-per-use': klanten betalen dus voor het gebruik en hoeven niet eerst te investeren in het ontwikkelen, bouwen en opschalen van het systeem. ZES heeft vanuit het Groeifonds subsidies ontvangen en werkt ook samen met investeerders.
 
+</div>
 </div>
 
 ## Plaats elektrische laadpunten

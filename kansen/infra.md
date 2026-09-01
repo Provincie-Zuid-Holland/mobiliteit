@@ -14,24 +14,25 @@ Infrastructuur moet goed worden onderhouden. Veel naoorlogse auto-, spoor- en wa
 
 In Zuid-Holland wordt hard gewerkt aan aanleg en onderhoud van wandelpaden, fietspaden, auto-, spoor- en vaarwegen, bruggen, sluizen, tunnels en viaducten door 60 verschillende wegbeheerders, waaronder de provincie. Dit werken aan infrastructuur moet natuurlijk zo duurzaam mogelijk én circulair. Zo zorgen we ervoor dat we ons milieu schoner achterlaten voor volgende generaties en we minder afhankelijk worden van grondstoffen, ook uit andere landen.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/circulair-zuid-holland.png" alt="Circulair Zuid-Holland" loading="lazy">
 </figure>
+<div markdown="1">
 
 ## Aanpak duurzaam GWW & transitiepaden
 
 Om impact te maken moeten overheden, marktpartijen en kennisinstellingen de handen ineenslaan om de grond-, weg en waterbouw (GWW) te verduurzamen. Hierover zijn afspraken gemaakt in het landelijk manifest Duurzaam GWW. Onderdeel van dit manifest is dat we als sector werken volgens één uniforme aanpak: de Aanpak Duurzaam GWW. Deze Aanpak is een praktische werkwijze om duurzaamheid in GWW-projecten een plaats te geven en bevat ook transitiepaden.
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/n211-energie.png" alt="De N211 tussen Den Haag en Poeldijk" loading="lazy">
   <figcaption>De N211: de eerste CO₂-negatieve weg van Nederland</figcaption>
 </figure>
+<div markdown="1">
 
 ## Voorbeelden duurzame en/of circulaire infra
 
@@ -44,6 +45,7 @@ Om impact te maken moeten overheden, marktpartijen en kennisinstellingen de hand
 
 We staan nog aan het begin van duurzame en/of circulaire infrastructuur. Overheden en bedrijven zijn volop aan het experimenteren om verder te komen.
 
+</div>
 </div>
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

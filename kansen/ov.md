@@ -22,38 +22,40 @@ Overheden kunnen het OV versnellen & stimuleren, zodat het meer gebruikers trekt
 1. De [Metropoolregio Rotterdam Den Haag](https://mrdh.nl/thema/openbaar-vervoer) gaat over het stedelijke OV (vooral stadsvervoer per bus, tram, metro en RandstadRail) in en om Haaglanden en Rotterdam.
 2. De provincie gaat over het [regionale](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/provincie-opdrachtgever-openbaar-vervoer) OV in de rest van Zuid-Holland: de streekbussen in en om de [Drechtsteden](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/drechtsteden-molenlanden-gorinchem-dmg/), op de [Hoeksche Waard en Goeree-Overflakkee](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/hoeksche-waard-goeree-overflakkee-hwgo) en in [Zuid-Holland Noord](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/zuid-holland-noord-zhn); [openbaar vervoer over water](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/personenvervoer) (Rotterdam -- Drechtsteden) en de regionale treinen Gouda -- Alphen aan den Rijn en Dordrecht -- Geldermalsen ([MerwedeLingelijn](https://www.qbuzz.nl/dmg/reizen/merwedelingelijn), [merwedelingelijn.nl](https://www.merwedelingelijn.nl));
 
-<div class="voorbeeld" markdown="1">
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/pRAqOnXvvo0" title="Wint de trein het ooit van het vliegtuig? (NOS op 3)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ## Wint de trein het ooit van het vliegtuig?
 
 Door snelle treinen te stimuleren -- die liefst elk uur rijden -- wordt de internationale trein niet alleen een alternatief voor de auto, maar ook voor het vliegtuig. Dit geldt voor reizigers, maar ook voor pakketjes die nu nog met het vliegtuig gaan maar beter met de trein mee kunnen. De provincie is groot voorstander van [internationaal](https://omgevingsbeleid.zuid-holland.nl/detail/maatregelen/C7B66714-EEC6-43A2-B1DA-E137FC873C34) personen- en goederenvervoer per trein en werkt daar met andere overheden aan. De Europese Unie werkt aan een [Europese boekingsapp](https://www.bnr.nl/nieuws/internationaal/10488723/frans-timmermans-hekelt-europese-treinbedrijven-ik-ben-het-spuugzat#Echobox=1663746201).
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/AJ_ufgNVHDA" title="De keuze van de reiziger (ministerie van Infrastructuur en Waterstaat)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ## Herontwerp lijnen voor sneller OV
 
 Snellere bussen die stoppen op minder haltes verhogen de effectieve snelheid van de reiziger. De snelstudie '[Sneller reizen met de bus in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-sneller-reizen-met-de-bus-in-zuid-holland/)' laat zien wat mogelijk is. Deze gedachte wordt ook goed weergegeven in dit filmpje van het Kennisinstituut voor Mobiliteitsbeleid (KiM). In sommige dunbevolkte gebieden kunnen vraaggestuurd OV (flexbusjes) en deelmobiliteit het OV aanvullen of vervangen als een grote bus niet meer haalbaar is.
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/busbaan-bord-f17.svg" alt="Belgisch verkeersbord F17: busbaan" loading="lazy">
+  <figcaption>Afbeelding: <a href="https://nl.wikipedia.org/wiki/Busbaan#/media/Bestand:Belgian_road_sign_F17.svg">Vascer</a>, via <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a></figcaption>
 </figure>
+<div markdown="1">
 
 ## Laat OV vlotter doorstromen
 
 Wegbeheerders als provincies en gemeenten kunnen het OV sneller en dus aantrekkelijk maken door bussen vlotter te laten doorstromen. Dat kan bijvoorbeeld door de aanleg van [busbanen](https://nl.wikipedia.org/wiki/Busbaan) (twee richtingen), busstroken (één richting), doorsteekjes en eigen op- en afritten van de snelweg. Ook kunnen bussen prioriteit krijgen bij verkeerslichten. Een mooi voorbeeld van businfrastructuur is de [Zuidtangent](https://nl.wikipedia.org/wiki/Zuidtangent_(Noord-Holland)%3FMcasTsid%3D15600&McasCSRF=0730ad95c3e9b07ec28bed188de808d8c30d8a9dd33db3257c55a183892ae6c9) van ruim 50 kilometer lang. Verder zijn er steeds meer overheden die overwegen om rijstroken exclusief te bestemmen voor het openbaar vervoer (zie bijvoorbeeld de discussie in Rotterdam om twee van de vier rijstroken in de Maastunnel vrij te spelen voor het OV).
 
-*Afbeelding: [Vascer](https://nl.wikipedia.org/wiki/Busbaan#/media/Bestand:Belgian_road_sign_F17.svg), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)*
-
+</div>
 </div>
 
 ## Bouw R-net uit
@@ -83,17 +85,18 @@ Enkele hoofdlijnen van de provinciale OV-visie 'Naar onweerstaanbaar openbaar ve
 - Verbeter het overige regionale OV met hogere frequenties, snellere verbindingen en meer voorzieningen op haltes: aantrekkelijke loop- en fietsroutes, betere fietsplekken en meer deelfietsen.
 - In nieuwe gebieden en bij herinrichting van wijken staat het STOMP-principe centraal voor het verduurzamen van mobiliteit en verdelen van schaarse ruimte. Vooral het herinrichtenvan parkeerruimte in stedelijk gebied helpt mensen kiezen voor Stappen, Trappen en OV.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/praatplaat-publieke-mobiliteit.jpg" alt="Praatplaat publieke mobiliteit" loading="lazy">
   <figcaption>Praatplaat publieke mobiliteit (IPO & DOVA)</figcaption>
 </figure>
+<div markdown="1">
 
 ## Verbreed OV naar publieke mobiliteit
 
 Onder publieke mobiliteit vallen alle manieren om van A naar B te reizen als je niet met eigen vervoer rijdt. De basis blijft het openbaar vervoer, met daarnaast ook taxibusjes (van gemeenten of regio's) en deelvervoer (deelfiets, deelauto). Het idee is dan dat je (bijna) altijd overal kunt komen, ook zonder eigen auto of fiets: van 's ochtends vroeg tot 's avonds laat. Ook kunnen de provincie en regio's hun budgetten voor regionaal OV en gemeentelijke taxibusjes samenvoegen om publieke mobiliteit mogelijk te maken. Publieke mobiliteit is er voor iedereen: mensen met een beperking of een ziekte moeten makkelijker met het OV kunnen reizen en OV-reizigers moeten ook met taxibusjes mee kunnen.
 
+</div>
 </div>
 
 ## Waarom publieke mobiliteit?

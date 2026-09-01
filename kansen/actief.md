@@ -53,22 +53,23 @@ Meer dan de helft van de autoverplaatsingen is [korter dan 7,5 kilometer](https:
 
 Zorg voor meer en bredere fietspaden. Focus op eenrichtingsfietspaden om het veilig te houden.
 
-<div class="voorbeeld" markdown="1">
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/Boi0XEm9-4E" title="Utrecht: planning for people & bikes, not for cars" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ## Ontwerp voor mensen & fietsen
 
 Steeds meer gemeenten geven voorrang aan lopen en fietsen. In het filmpje hiernaast is te zien hoe Utrecht hier stappen in zet.
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/rotterdam-walks.jpg" alt="Kaart uit Rotterdam Loopt" loading="lazy">
   <figcaption>Uit: Rotterdam Loopt</figcaption>
 </figure>
+<div markdown="1">
 
 ## Rotterdam bijvoorbeeld
 Een goed voorbeeld van ambitie op het vlak van zowel lopen als [fietsen](https://www.rotterdam.nl/wonen-leven/fietsstad/) is de gemeente Rotterdam.
@@ -79,33 +80,34 @@ Een goed voorbeeld van ambitie op het vlak van zowel lopen als [fietsen](https:/
 Zo heeft Rotterdam de Coolsingel van twee keer twee rijstroken 'versmald' naar twee keer één rijstrook, om zo ruimte vrij te spelen voor ruimere trottoirs, bredere fietspaden en meer groen. Ook het aangrenzende Hofplein is nu heringericht om meer ruimte te creëren voor voetgangers, fietsers en groen. Auto's die niet door de stad hoeven te rijden, worden geweerd. Opvallend is dat er verkeer 'verdampt' zodra er minder ruimte is voor de auto; mensen rijden om (over de snelweg), blijven thuis, pakken de fiets of kiezen het OV.
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/van-a-naar-f.jpg" alt="Illustratie: van fietspad naar doorfietsroute" loading="lazy">
   <figcaption>Illustratie: DTV Consultants</figcaption>
 </figure>
+<div markdown="1">
 
 ## Maak doorfietsroutes
 
 [Doorfietsroutes](https://kennis.zuid-holland.nl/oplossing-doorfietsroutes/) (vroeger: snelfietspaden of fietssnelwegen) zijn aantrekkelijke, comfortabele, snelle en veilige fietspaden die woon- en werkgebieden verbinden. Er wordt gewerkt aan een [landelijk netwerk](https://www.fietsberaad.nl/getmedia/62641956-4d2b-470c-9aaa-18a64ccbca7b/kaart-nieuwsbericht-Wayfinding-Hoogwaardige-Fietsnetwerk-Birgit-Cannegieter.jpeg.aspx?width=2480&height=3507&ext=.jpeg) van regionale doorfietsroutes, onderdeel van het [Nationaal Toekomstbeeld Fiets](https://open.overheid.nl/repository/ronl-b8dfde44-a4b3-4351-a9c5-5ce5191b27b6/1/pdf/bijlage-nationaal-toekomstbeeld-fiets-op-hoofdlijnen.pdf). Zuid-Holland heeft het grootste netwerk van doorfietsroutes van Nederland. De provincie is ook onderdeel van twee landelijke, meer recreatieve fietsnetwerken: [fietsknooppunten](https://www.fietsknooppunten.nl/) en [langeafstandsfietsroutes](https://www.nederlandfietsland.nl/lf-routes/).
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/singelpark-leiden.jpg" alt="Het Singelpark in Leiden" loading="lazy">
-  <figcaption>Het Singelpark in Leiden</figcaption>
+  <figcaption>Het Singelpark in Leiden -- Afbeelding: <a href="https://www.commissiemer.nl/projectdocumenten/00008409.pdf">Ontwerp Omgevingsvisie Leiden 2040</a></figcaption>
 </figure>
+<div markdown="1">
 
 ## Richt steden groener in
 
 Vergroenen van de openbare ruimte maakt lopen en fietsen aantrekkelijker. Steden als Leiden ([groene ring Singelpark](https://sleutelstad.nl/2021/09/29/plan-voor-tweede-ring-groen-om-de-stad-voorgesteld-het-geuzenpark/)) en Rotterdam ([zeven stadsprojecten](https://kennis.zuid-holland.nl/oplossing-zeven-stadsprojecten-groener-rotterdam/)) geven het goede voorbeeld.
 
-*Afbeelding: [Ontwerp Omgevingsvisie Leiden 2040](https://www.commissiemer.nl/projectdocumenten/00008409.pdf)*
-
+</div>
 </div>
 
 ## Verder lezen

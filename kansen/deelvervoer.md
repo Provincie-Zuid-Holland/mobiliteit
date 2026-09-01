@@ -32,17 +32,18 @@ Het zou mooi zijn als er in Zuid-Holland een 'wolk van deelvervoerwijzen' komt, 
 
 Nieuw is de subsidieparagraaf voor Ketenmobiliteit (paragraaf 2.3.2) in de [Subsidieregeling mobiliteit Zuid-Holland (SRM)](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/ketenmobiliteit-2-3-2-srm/). Dit biedt aanbieders van deelmobiliteit en wegbeheerders in Zuid-Holland de mogelijkheid subsidie aan te vragen voor infrastructuur, ontwikkeling en exploitatie van deelvoertuigen. We denken graag met je mee over de mogelijkheden.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/dashboard-deelmobiliteit.jpg" alt="Dashboard Deelmobiliteit" loading="lazy">
   <figcaption>dashboarddeelmobiliteit.nl laat zien hoe deelvoertuigen gebruikt worden</figcaption>
 </figure>
+<div markdown="1">
 
 ## Gebruik Dashboard Deelmobiliteit
 
 Het dashboard deelmobiliteit geeft beleidsmakers inzicht hoe het met de deelvoertuigen op straat gaat. Worden ze goed gebruikt of staan ze te lang stil? Steeds meer gemeenten gebruiken deze open source software. Om het te kunnen gebruiken is het belangrijk dat gemeenten met aanbieders afspreken dat ze de data aanleveren. Bekijk de actuele situatie op [dashboarddeelmobiliteit.nl](https://dashboarddeelmobiliteit.nl/).
 
+</div>
 </div>
 
 ## Hubs: naadloos overstappen
@@ -65,46 +66,49 @@ Een reis per fiets of auto gaat vaak van-deur-tot-deur. Op een andere manier rei
 
 Een hub is een nieuwe benaming voor een overstappunt. Hoe naadlozer de overstap, hoe sneller en comfortabeler de reis. Er zijn veel verschillende hubs. Zo heb je hubs in woonwijken zoals een [buurthub](https://smartmobilitymra.nl/amsterdam-introduceert-buurthubs) of [eHub](https://ehubnijmegen.nl/) en hubs bij OV-haltes waar vervoermiddelen klaar staan voor de laatste schakel van je reis. Ook zijn er hubs voor [duurzame (stads)logistiek](https://www.hub010.nl/). Vraag is nog wel wie de hubs moet neerzetten, betalen, exploiteren en beheren.
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/fietsreservering.jpg" alt="Fiets mee in de trein" loading="lazy">
   <figcaption>Fiets en trein combineren</figcaption>
 </figure>
+<div markdown="1">
 
 ## Toekomstbeeld OV
 
 In de [Ontwikkelagenda Toekomstbeeld OV](https://www.rijksoverheid.nl/documenten/rapporten/2021/01/29/ontwikkelagenda-toekomstbeeld-ov) staat het volgende over hubs: "Ook in het regionaal OV is behoefte aan hoogwaardige knooppunten. De knooppunten en het netwerk moeten in hun kwaliteitsniveau op elkaar aansluiten. Bij een hoogwaardige bus hoort dus ook een hogere kwaliteit knooppunt \[...\] Het succesvolle [hub-concept in Groningen en Drenthe](https://www.reisviahub.nl/) is hier een mooi voorbeeld van."
 
 </div>
+</div>
 
 ## Ketenaanbieders
 
 Er komen steeds meer partijen die reizigers de hele keten bieden. Zo ontwikkelt NS zich tot een [ketenaanbieder](https://www.ns.nl/deur-tot-deur/regel-je-reis) (van-deur-tot-deur). En de slogan van [Gaiyo](https://gaiyo.com/) is "Eén app voor al je vervoer".
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--rechts">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/pr-terreinen-rotterdam.jpg" alt="Kaart met P+R-terreinen rond Rotterdam" loading="lazy">
   <figcaption>De ring van P+R-terreinen rond Rotterdam</figcaption>
 </figure>
+<div markdown="1">
 
 ## Bied P+R's
 
 Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je al gauw uit op P+R (Park + Ride) of transferia. In diverse steden staan gratis of betaalde P+R's, zoals [P+R Utrecht Westraven](https://www.p1.nl/parkeren/utrecht/p-r-westraven) aan de zuidkant van de stad. Daar kun je voor 10 euro een combikaartje voor parkeren én OV kopen: maximaal vijf inzittenden reizen dan met de sneltram of de bus 'gratis' heen en weer naar het stadscentrum. Een ander mooi voorbeeld is de 'ring' van vijftien [P+R terreinen om Rotterdam](https://www.rotterdam.nl/wonen-leven/p-r-terreinen/), vooral bij metrostations. Wie het OV gebruikt, mag daar gratis parkeren.
 
 </div>
+</div>
 
-<div class="voorbeeld" markdown="1">
-
-<figure class="fig fig--links">
+<div class="voorbeeld voorbeeld--media">
+<figure class="fig">
   <img src="/mobiliteit/kansen/img/carpoolen.jpg" alt="Auto’s op de snelweg" loading="lazy">
 </figure>
+<div markdown="1">
 
 ## Carpoolen nieuwe stijl?
 
 Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen er misschien nieuwe mogelijkheden van carpoolen 2.0 (ook wel: ride sharing), bijvoorbeeld met een innovatieve app (zoals [BlaBlaCar](https://www.blablacar.nl/carpool), [Twogo](https://www.twogo.com/nl/) of [Nabogo](https://nabogo.com/nl/)) die vraag en aanbod bij elkaar brengt.
 
+</div>
 </div>
 
 ## Verder lezen

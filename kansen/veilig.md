@@ -36,7 +36,7 @@ Nieuwe wegen aanleggen en bestaande aanpassen, en auto's veiliger ontwerpen -- d
 </div>
 <div class="blok" markdown="1">
 
-### 2. Educatie (education)
+### 2. Gedrag (education)
 
 Gewenst gedrag aanleren, vooral bij jongeren, fietsers, ouderen en leden van sportverenigingen: campagnes (zoals BOB en MONO), verkeersexamens, verkeerseducatie, het rijexamen en opfriscursussen.
 
@@ -68,7 +68,7 @@ In het landelijke Strategisch Plan Verkeersveiligheid 2030 schetsen de gezamenli
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/5EO1xIYsoTg" title="Risico-indicator veilige wegen (Kennisnetwerk SPV)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div markdown="1">
 
-## Kijk naar de maximumsnelheid en de inrichting van een weg
+### Kijk naar de maximumsnelheid en de inrichting van een weg
 
 De animatie [risico-indicator Veilige wegen](https://www.kennisnetwerkspv.nl/Nieuws/2022/Tweede-animatie-risico-indicator-Veilige-wegen) van het Kennisnetwerk SPV laat zien hoe snelheid en wegontwerp samen het risico bepalen.
 
@@ -79,7 +79,7 @@ De animatie [risico-indicator Veilige wegen](https://www.kennisnetwerkspv.nl/Nie
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/PjlOHT7Kvvw" title="Veilige fietspaden (Kennisnetwerk SPV)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div markdown="1">
 
-## Maak fietspaden veiliger
+### Maak fietspaden veiliger
 
 De animatie [risico-indicator Veilige fietspaden](https://www.kennisnetwerkspv.nl/Nieuws/Animatie-over-risico-indicator-Veilige-fietspaden) van het Kennisnetwerk SPV laat zien waar fietspaden op vastlopen: breedte, obstakels en de aansluiting op kruispunten.
 
