@@ -23,7 +23,7 @@ Gedragsverandering kan ook plaatsvinden doordat alternatieven de 'makkelijkere' 
 
 <div class="voorbeeld voorbeeld--geel" markdown="1">
 
-## Samen houden we Zuid-Holland in beweging. Doe mee!
+## Samen houden we Zuid-Holland bereikbaar.
 
 Het wordt steeds drukker in Zuid-Holland. De komende jaren worden zo'n 200 duizend extra woningen gebouwd. Ook hebben veel wegen, bruggen en tunnels groot onderhoud nodig. Dat leidt tot extra drukte op de wegen, op het water en in het openbaar vervoer. Als we niets doen, staan we in Zuid-Holland nog vaker stil. Daarom bundelen 8 publieke organisaties hun krachten in de samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://zuidhollandbereikbaar.nl/). Kijk op de site wat ze doen en hoe je mee kunt doen.
 
@@ -47,7 +47,7 @@ Op deze pagina staan een paar voorbeelden van hoe je op het gebied van mobilitei
 
 ## Stimuleer fietsgebruik vanuit werkgevers
 
-Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met [fiscaal voordeel](https://www.reizennaarjewerk.nl/page/fiscale-adviezen), voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een [spaarsysteem](https://site.trappers.net/). De samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://www.zuidhollandbereikbaar.nl/) van overheden en bedrijfsleven kan hierbij helpen. Zo is er een [uitprobeerpool](https://www.reizennaarjewerk.nl/page/altijd-de-wind-in-je-rug) waarbij werknemers een week lang een e-bike of speed pedelec (tot 45 km/u) aan de tand kunnen voelen. Ook kan Zuid-Holland zelf als werkgever het goede voorbeeld geven. Voor werkgevers heeft de Fietsersbond een [checklist fietsvriendelijk bedrijf](https://www.fietsersbond.nl/onderweg/fietsen-naar-het-werk/fietsvriendelijk-bedrijf/checklist-fietsvriendelijk-bedrijf/).
+Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met [fiscaal voordeel](https://www.reizennaarjewerk.nl/page/fiscale-adviezen), voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een [spaarsysteem](https://site.trappers.net/). Zo kunnen bedrijven hun werknemers een fiscaalvriendelijke ‘fiets van de zaak’ geven. Dat mag ook een e-bike of speed-pedelec zijn. De werkgever mag belastingvrij 25 cent per fietskilometer vergoeden. Extra lichaamsbeweging houdt werknemers vitaal: dat vertaalt zich vaak naar een lager ziekteverzuim. Ook carpoolen (samen reizen) komt in aanmerking voor een vergoeding van 23 cent per kilometer. De samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://www.zuidhollandbereikbaar.nl/) van overheden en bedrijfsleven kan hierbij helpen. Voor werkgevers heeft de Fietsersbond een [checklist fietsvriendelijk bedrijf](https://www.fietsersbond.nl/onderweg/fietsen-naar-het-werk/fietsvriendelijk-bedrijf/checklist-fietsvriendelijk-bedrijf/).
 
 </div>
 
@@ -63,17 +63,14 @@ Bij een leefstraat wordt een straat of plein een aantal maanden 'teruggegeven' a
 </div>
 </div>
 
-## Voorbeeld: werkgeversaanpak beïnvloedt reisgedrag
-
-Bedrijven kunnen het goede voorbeeld geven om het woon-werkverkeer van hun medewerkers in goede banen te leiden. De aanpak om het mobiliteitsbeleid zo vorm te geven dat het duurzaam reisgedrag stimuleert, heet werkgeversaanpak. Zo kunnen bedrijven hun werknemers een fiscaalvriendelijke 'fiets van de zaak' geven. Dat mag ook een e-bike (elektrisch ondersteund tot 25 km/h) of speed-pedelec (tot 45 km/h) zijn. De werkgever mag belastingvrij 25 cent per fietskilometer vergoeden (of zelfs meer binnen de belastingvrije ruimte). Extra lichaamsbeweging houdt werknemers vitaal: dat vertaalt zich vaak naar een lager ziekteverzuim. Ook carpoolen (samen reizen) komt in aanmerking voor een vergoeding van 23 cent per kilometer. Bedrijven die thuiswerken, fietsen, openbaar vervoer en carpoolen stimuleren zijn vaak minder geld kwijt aan autovergoedingen en parkeerplekken.
 
 <div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://player.vimeo.com/video/379028081?dnt=1" title="Maak kennis met de OV-ambassadeurs van Ervaar het OV" loading="lazy" allowfullscreen></iframe></div>
 <div markdown="1">
 
-## Stimuleer OV met campagne & marketing
+## Stimuleer OV met campagnes
 
-Zeker na corona, waarin reizigers deels wegbleven, verdient het OV een nieuwe impuls als duurzaam en veilig alternatief voor de auto. Dat kan met campagnes (regionaal of landelijk) en marketing (probeeracties, proefabonnementen, reisadviezen), samen met MRDH (in Rotterdam en Haaglanden), vervoerbedrijven in Zuid-Holland (Connexxion, EBS, HTM, NS, Qbuzz en RET) en werkgevers. Sommige werkgevers vergoeden uit het oogpunt van duurzaamheid al geen autokosten meer als je de woon-werkrit redelijkerwijs ook met het OV kunt maken. De provincie Gelderland en de regionale vervoerders voeren een meerjarige campagne (met de website Ervaar het OV) om inwoners te verleiden het OV te proberen. Uit onderzoek blijkt dat mensen openstaan voor andere vormen van reizen bij grote veranderingen, zoals een nieuwe woonplaats, ander werk of langdurige wegwerkzaamheden.
+Het OV kan gestimuleerd worden door het onder de aandacht te brengen met campagnes (regionaal of landelijk) en marketing (probeeracties, proefabonnementen, reisadviezen) De provincie Gelderland en de regionale vervoerders voeren een meerjarige campagne (met de website Ervaar het OV) om inwoners te verleiden het OV te proberen. Uit onderzoek blijkt dat mensen openstaan voor andere vormen van reizen bij grote veranderingen, zoals een nieuwe woonplaats, ander werk of langdurige wegwerkzaamheden.
 
 </div>
 </div>
