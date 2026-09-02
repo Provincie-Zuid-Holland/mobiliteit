@@ -3,8 +3,6 @@ layout: pzh
 title: Hubs en deelfietspotentie
 header_image: img/deelfiets_vaker_trein.jpg
 banner_ratio: auto
-menu: |
-   <a href="index.html">andere snelstudies</a>
 ---
 # Hubs en deelfietspotentie
 In het algemeen zijn deelfietsen een goede toevoeging aan een hub, zodat mensen eenvoudig de laatste kilometers naar hun bestemming kunnen fietsen als ze uit het ov stappen. Zo pakken veel mensen een deelfiets (bijvoorbeeld OV-fiets of oranje Donkey Republic) voor het laatste stukje van de reis naar hun werk of opleiding nadat ze uit de trein gestapt zijn.  Het is echter tot nu toe slecht te voorspellen op welke hubs deelfietsen een succes gaan worden.

@@ -23,7 +23,7 @@ Gedragsverandering kan ook plaatsvinden doordat alternatieven de 'makkelijkere' 
 
 <div class="voorbeeld voorbeeld--geel" markdown="1">
 
-## Samen houden we Zuid-Holland bereikbaar.
+## Samen houden we Zuid-Holland bereikbaar
 
 Het wordt steeds drukker in Zuid-Holland. De komende jaren worden zo'n 200 duizend extra woningen gebouwd. Ook hebben veel wegen, bruggen en tunnels groot onderhoud nodig. Dat leidt tot extra drukte op de wegen, op het water en in het openbaar vervoer. Als we niets doen, staan we in Zuid-Holland nog vaker stil. Daarom bundelen 8 publieke organisaties hun krachten in de samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://zuidhollandbereikbaar.nl/). Kijk op de site wat ze doen en hoe je mee kunt doen.
 
@@ -70,7 +70,7 @@ Bij een leefstraat wordt een straat of plein een aantal maanden 'teruggegeven' a
 
 ## Stimuleer OV met campagnes
 
-Het OV kan gestimuleerd worden door het onder de aandacht te brengen met campagnes (regionaal of landelijk) en marketing (probeeracties, proefabonnementen, reisadviezen) De provincie Gelderland en de regionale vervoerders voeren een meerjarige campagne (met de website Ervaar het OV) om inwoners te verleiden het OV te proberen. Uit onderzoek blijkt dat mensen openstaan voor andere vormen van reizen bij grote veranderingen, zoals een nieuwe woonplaats, ander werk of langdurige wegwerkzaamheden.
+Het OV kan gestimuleerd worden door het onder de aandacht te brengen met campagnes (regionaal of landelijk) en marketing (probeeracties, proefabonnementen, reisadviezen). De provincie Gelderland en de regionale vervoerders voeren een meerjarige campagne (met de website Ervaar het OV) om inwoners te verleiden het OV te proberen. Uit onderzoek blijkt dat mensen openstaan voor andere vormen van reizen bij grote veranderingen, zoals een nieuwe woonplaats, ander werk of langdurige wegwerkzaamheden.
 
 </div>
 </div>
