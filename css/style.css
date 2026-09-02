@@ -297,6 +297,16 @@ blockquote{
   margin-top: 0;
 }
 
+/* Geel voorbeeldvlak: zelfde blok, andere kleur. Voor een oproep of een
+   uitgelicht bericht dat geen 'voorbeeld' is. Links krijgen donkergroen, want
+   het gewone linkgroen haalt op lichtgeel geen 4,5:1 contrast. */
+.voorbeeld--geel {
+  background-color: var(--pzh-lichtgeel);
+}
+.voorbeeld--geel a {
+  color: var(--pzh-donkergroen);
+}
+
 /* --- Standaardopmaak voor een voorbeeldvlak met beeld ---
    Beeld op 1/3 links, tekst op 2/3 rechts; met --half allebei de helft; onder
    800 px onder elkaar (beeld boven). Werkt voor een <figure class="fig"> én voor een <div class="video">.
