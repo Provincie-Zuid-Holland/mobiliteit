@@ -25,7 +25,7 @@ Gedragsverandering kan ook plaatsvinden doordat alternatieven de 'makkelijkere' 
 
 ## Samen houden we Zuid-Holland bereikbaar
 
-Het wordt steeds drukker in Zuid-Holland. De komende jaren worden zo'n 200 duizend extra woningen gebouwd. Ook hebben veel wegen, bruggen en tunnels groot onderhoud nodig. Dat leidt tot extra drukte op de wegen, op het water en in het openbaar vervoer. Als we niets doen, staan we in Zuid-Holland nog vaker stil. Daarom bundelen 8 publieke organisaties hun krachten in de samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://zuidhollandbereikbaar.nl/). Kijk op de site wat ze doen en hoe je mee kunt doen.
+Het wordt steeds drukker in Zuid-Holland. De komende jaren worden zo'n 200 duizend extra woningen gebouwd. Ook hebben veel wegen, bruggen en tunnels groot onderhoud nodig. Dat leidt tot extra drukte op de wegen, op het water en in het openbaar vervoer. Als we niets doen, staan we in Zuid-Holland nog vaker stil. Daarom bundelen negen publieke organisaties hun krachten in de samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://zuidhollandbereikbaar.nl/). Kijk op de site wat ze doen en hoe je mee kunt doen.
 
 </div>
 

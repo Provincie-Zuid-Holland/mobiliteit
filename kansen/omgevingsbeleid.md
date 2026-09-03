@@ -7,8 +7,8 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Herzien Omgevingsbeleid
-<p class="ondertitel">Ambitie Bereikbaar Zuid-Holland</p>
+# Ambitie Bereikbaar Zuid-Holland
+<p class="ondertitel">Omgevingsbeleid (geldig vanaf sept 2026)</p>
 
 Zuid-Holland streeft naar een vitale provincie, met goed bereikbare steden en dorpscentra waar het fijn wonen, werken, leren en recreëren is. Waar mensen en goederen op een makkelijke, veilige en duurzame manier hun bestemming kunnen bereiken. De provincie richt zich op de toekomst. Dat betekent dat zij gezondheid, kwaliteit en veiligheid van de leefomgeving nadrukkelijk meeweegt in haar beleid.
 
@@ -24,7 +24,7 @@ Het reisgedrag van mensen veranderen is niet eenvoudig. Samen met 'Zuid-Holland 
 
 Door de veranderingen op het gebied van mobiliteit, wonen, energie en werken dienen zich kansen aan voor veilige, gezonde, slimme en duurzame mobiliteit die de provincie samen met andere overheden en maatschappelijke partners graag benut.
 
-## De 6 beleidskeuzes en 15 maatregelen
+## Duurzame en veilige bereikbaarheid voor iedereen (2.1)
 
 ### 2.1.1 Duurzaam, veilig en slim personenvervoer
 
@@ -58,10 +58,13 @@ Door de veranderingen op het gebied van mobiliteit, wonen, energie en werken die
 
 ### 2.1.6 Luchtvaart
 
+## Goed functionerende provinciale infrastructuur (2.2)
+
+### 2.1.1 Beheer en onderhoud: op orde en duurzaam
+
 <div class="voorbeeld" markdown="1">
 
-Het volledige beleid staat in [het Omgevingsbeleid van Zuid-Holland](https://omgevingsbeleid.zuid-holland.nl/). Deze samenvatting wordt later nog herzien.
-
+Het volledige beleid staat in [het Omgevingsbeleid van Zuid-Holland](https://omgevingsbeleid.zuid-holland.nl/).
 </div>
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>
