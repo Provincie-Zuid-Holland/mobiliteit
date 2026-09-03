@@ -95,7 +95,7 @@ Het provinciaal beleid ligt vast in het Uitvoeringsprogramma Verkeersveiligheid 
 - vaker afspraken maken over handhaving (politie).
 
 ## Tussendoel: minder dan 100 doden
-Het tussendoel voor 2027 is: maximaal 95 verkeersdoden en 6.242 verkeersgewonden, oftewel minimaal 5 procent minder dan in het (vorige) piekjaar 2018. De stijgende lijn moet in 2030 zijn omgebogen naar een dalende lijn. Dat wordt een flinke uitdaging, waarbij de invloed van de provincie bovendien maar beperkt is.
+Het tussendoel voor 2027 is: maximaal 95 verkeersdoden en 6.242 verkeersgewonden, oftewel minimaal 5 procent minder dan in het referentiejaar 2018. De stijgende lijn moet in 2030 zijn omgebogen naar een dalende lijn. Dat wordt een flinke uitdaging, waarbij de invloed van de provincie bovendien maar beperkt is.
 
 ## Verder lezen
 
