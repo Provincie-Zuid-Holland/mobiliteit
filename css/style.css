@@ -499,11 +499,21 @@ blockquote{
   }
 }
 
-/* --- Uitklapper (details/summary) ---
-   Gebruikt op de snelstudiepagina's voor aanbevelingen die je open kunt
-   klappen. Krijgt de grijze bloktint, zodat een uitklapper zich als lid van
-   dezelfde blokkenfamilie leest. Het browserdriehoekje maakt plaats voor een
-   chevron in het linkgroen, die meedraait bij openen. */
+/* --- Uitklappers (details/summary) ---
+   Twee vormen, allebei in de grijze bloktint zodat ze bij de blokkenfamilie
+   horen:
+
+   1. Een losse `<details>` staat op zichzelf als grijs kaartje.
+   2. Meerdere bij elkaar zet je in `<div class="uitklap">`. Dan worden het
+      regels in één lijst met haarlijnen ertussen, en het geopende item wordt
+      wit. Geef de details een `name` (allemaal dezelfde binnen één lijst), dan
+      is het een echte accordeon: openklappen sluit het vorige item. Dat is puur
+      HTML; een browser die `name` niet kent laat er meerdere openstaan.
+      Met `uitklap--score` erbij komt een `<span class="score">` rechts in de
+      klapregel te staan, zodat een dichtgeklapt item al informatie draagt.
+
+   Het browserdriehoekje is verborgen; ervoor in de plaats komt een chevron in
+   het linkgroen die meedraait bij openen. */
 details {
   background-color: var(--pzh-lichtgrijs);
   border: 1px solid #ddd;
@@ -545,11 +555,85 @@ details > summary:focus-visible {
   outline: 2px solid var(--pzh-blauw);
   outline-offset: 3px;
 }
+details > :last-child {
+  margin-bottom: 0;
+}
+
+/* Ingesloten video op ware verhouding, zonder inline style in de pagina. */
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Lijstvorm: meerdere uitklappers in één omhulsel. */
+.uitklap {
+  background-color: var(--pzh-lichtgrijs);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 30px 0;
+}
+.uitklap details {
+  border: 0;
+  border-top: 1px solid #e4e4e4;
+  border-radius: 0;
+  margin: 0;
+  background-color: transparent;
+}
+.uitklap details:first-child {
+  border-top: 0;
+}
+.uitklap details[open] {
+  background-color: #fff;
+}
+
+/* Label rechts in de klapregel, bijvoorbeeld een score of een jaartal. */
+.uitklap--score details > summary {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+}
+.uitklap--score details > summary > :first-child {
+  flex: 1;
+  min-width: 0;
+}
+.uitklap--score .score {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5c5c5c;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 560px) {
+  .uitklap--score details > summary {
+    flex-direction: column;
+    gap: 2px;
+  }
+}
 
 @media (prefers-reduced-motion: reduce) {
   details > summary::before,
   .voorbeeld-link .voorbeeld {
     transition: none;
+  }
+}
+
+/* In een afdruk (en dus in de pdf) bestaat een dichtgeklapte uitklapper niet.
+   Zet ze bij het printen allemaal open en haal de chevron weg. */
+@media print {
+  details > *:not(summary) {
+    display: block;
+  }
+  details > summary::before {
+    display: none;
+  }
+  details > summary {
+    padding-left: 0;
+  }
+  .uitklap details[open],
+  .uitklap {
+    background-color: transparent;
   }
 }
 

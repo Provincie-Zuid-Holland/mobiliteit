@@ -15,21 +15,20 @@ menu: |
 
 <p>In de snelstudie <a href="https://web.archive.org/web/20251218232306/https://kennis.zuidholland.nl/wp-content/uploads/2024/11/Snelstudie_treingebruik_deelfietsaanbod-1.pdf" target="_blank" rel="noreferrer noopener">Effecten treingebruik bij verbeterd deelfietsaanbod op stations (pdf)</a> van Studio Bereikbaar is op basis van data-analyse gekeken naar groei van het treingebruik als er op meer stations deelfietsen te huur zouden zijn. Vier conclusies <em>(klik op ▶ om toelichting uit te klappen)</em></p>
 
-<details style="background-color:#8dd2fc30"><summary>1. In onze woonplaats fietsen we vier keer vaker dan als we op bezoek zijn in een andere stad. Meer deelfietsen op andere bestemmingen kunnen leiden tot een hoger fietsgebruik.</summary>
+<div class="uitklap">
+<details name="treinfietscombi-1"><summary>1. In onze woonplaats fietsen we vier keer vaker dan als we op bezoek zijn in een andere stad. Meer deelfietsen op andere bestemmingen kunnen leiden tot een hoger fietsgebruik.</summary>
 <p>Dat is logisch: thuis heb je een eigen fiets. Hoe makkelijk zou het zijn als je op andere plaatsen een deelfiets kunt pakken voor het laatste stukje van het station naar je bestemming?</p>
 </details>
-
-<details class="has-cyan-bluish-gray-background-color has-background"><summary>2. Vanaf huis fietsen mensen gerust 3 km naar het station maar mensen die op meer dan 1 km van het station werken neigen naar de auto voor hun hele reis (omdat ze niet de beschikking hebben over een fiets op het station).</summary>
+<details name="treinfietscombi-1"><summary>2. Vanaf huis fietsen mensen gerust 3 km naar het station maar mensen die op meer dan 1 km van het station werken neigen naar de auto voor hun hele reis (omdat ze niet de beschikking hebben over een fiets op het station).</summary>
 <p>Bij een afstand die te fietsen is – zeg anderhalve tot vijf kilometer – fietsen mensen vaker van huis naar hun vertrekstation dan van het aankomststation naar hun eindbestemming. Zo zien we bij een afstand van 3 tot 4 km tussen woning en vertrekstation een gemiddeld 2,5 keer hoger treingebruik dan als de bestemming op 3 tot 4 km van het aankomststation ligt.</p>
 </details>
-
-<details style="background-color:#8dd2fc30"><summary>3. Sommige treinreizigers zetten een 'tweede fiets' op een aankomststation bij hun werk of studie. Dat helpt om meer te fietsen, maar kost ruimte in stationsstallingen.</summary>
+<details name="treinfietscombi-1"><summary>3. Sommige treinreizigers zetten een 'tweede fiets' op een aankomststation bij hun werk of studie. Dat helpt om meer te fietsen, maar kost ruimte in stationsstallingen.</summary>
 <p>Dat inefficiënte gebruik komt doordat 'tweede fietsen' gemiddeld langer stilstaan in de stationsstalling: ze worden gemiddeld maar eens per 3,5 dag gebruikt (onderzocht door KIM).</p>
 </details>
-
-<details class="has-cyan-bluish-gray-background-color has-background"><summary>4. Deelfietsen kunnen huren op meer bestemmingsstations leidt tot een derde meer treingebruik.</summary>
+<details name="treinfietscombi-1"><summary>4. Deelfietsen kunnen huren op meer bestemmingsstations leidt tot een derde meer treingebruik.</summary>
 <p>Als we op onze bestemming net zo makkelijk een fiets zouden kunnen pakken als thuis – bijvoorbeeld met deelfietsen op meer stations – dan groeit het gebruik van de trein 33 procent en daalt het gebruik van de auto 5 procent in Nederland. Dat geldt voor alle verplaatsingen van in totaal 10 kilometer en meer. Wat opvalt is dat maar 10 procent van die extra treinritten in de spits valt of naar stadscentra voert. De rest valt in de rustige uren en gaat naar de randen van de stad of kleinere plaatsen. Op die rustiger ritten en trajecten is er nog volop plek in de trein. Daar groeit het treingebruik met 40 tot 100 procent als er deelfietsen op meer stations komen. Deze groeicijfers gelden ook voor Zuid-Holland, blijkt uit de snelstudie.</p>
 </details>
+</div>
 
 <p>Figuur 1 toont hoe de trein minder gebruikt wordt bij toenemende afstand tot het station. In de figuur is zichtbaar dat als een overige bestemming op 4 km van een station ligt, de trein slechts voor 6,7% van de gemaakte verplaatsingen gebruikt wordt. Dat is bijna 3 keer lager dan als de woning op 4 km van een station ligt, in welk geval gemiddeld 17,3% van de gemaakte reizen per trein wordt gemaakt.</p>
 

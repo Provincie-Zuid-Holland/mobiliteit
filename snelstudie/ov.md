@@ -90,7 +90,8 @@ deze snelstudie hebben we veel ideeën opgehaald bij deskundigen<sup><a href="#f
 
 ## Aanbevelingen
 
-<details class="wp-block-details has-background is-layout-flow wp-block-details-is-layout-flow" style="background-color:#eb718517"><summary>Algemene aanbevelingen voor OV: versterk en garandeer snel &amp; frequent (H)OV</summary>
+<div class="uitklap">
+<details name="ov-1"><summary>Algemene aanbevelingen voor OV: versterk en garandeer snel &amp; frequent (H)OV</summary>
 <ul class="wp-block-list">
 <li>Maak 'dikke' (bus)lijnen hoogwaardiger: sneller, frequenter en
 comfortabeler en vindt de spiraal omhoog: snellere en frequentere lijnen
@@ -108,8 +109,7 @@ te baseren.&nbsp;</li>
 <li>Denk na of je als provincie het OV in landelijk gebied wilt verbreden naar publiek vervoer.</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-black-color has-text-color has-background has-link-color is-layout-flow wp-block-details-is-layout-flow" style="background-color:#7aacde29"><summary>Hou de regie en denk vanuit de reiziger</summary>
+<details name="ov-1"><summary>Hou de regie en denk vanuit de reiziger</summary>
 <ul class="wp-block-list">
 <li>Ontwikkel als provincie een breder mobiliteitsbeleid, meer gestoeld
 op 'brede welvaart' (bereikbare, duurzame, gezonde, leefbare en veilige
@@ -126,8 +126,7 @@ of geen extra geld voor bijvoorbeeld groei, inflatiecorrectie,
 kwaliteit en/of verbreding).</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-background is-layout-flow wp-block-details-is-layout-flow" style="background-color:#f2dd7e30"><summary>Vervoerssysteem: maak er één geheel van</summary>
+<details name="ov-1"><summary>Vervoerssysteem: maak er één geheel van</summary>
 <ul class="wp-block-list">
 <li>Hou het publieke vervoersysteem zo aantrekkelijk, eenvoudig en vanzelfsprekend mogelijk.</li>
 <li>Sluit bij voorkeur aan bij bewezen succesformules, zoals de buurtbus, OV-fiets en Vlinder.</li>
@@ -148,8 +147,7 @@ steeds betere afwegingen kunt maken (ook met het oog op brede
 welvaart).&nbsp;</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-background is-layout-flow wp-block-details-is-layout-flow" style="background-color:#eb718517"><summary>Verzorg hulpmiddelen voor de reiziger: reisplanner, MaaS-app &amp; regiecentrale</summary>
+<details name="ov-1"><summary>Verzorg hulpmiddelen voor de reiziger: reisplanner, MaaS-app &amp; regiecentrale</summary>
 <ul class="wp-block-list">
 <li>Maak het plannen, boeken en betalen van flextaxi's en deelvervoer zo
 eenvoudig mogelijk. Voeg flextaxi's, deelvervoer en zo mogelijk ook
@@ -166,15 +164,13 @@ aanstuurt. Medewerkers van het callcenter moeten de 'taal' spreken van
 de reiziger die belt (in plaats van online reserveert).</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-black-color has-text-color has-background has-link-color is-layout-flow wp-block-details-is-layout-flow" style="background-color:#7aacde29"><summary>Op nationaal niveau: volg de ontwikkelingen</summary>
+<details name="ov-1"><summary>Op nationaal niveau: volg de ontwikkelingen</summary>
 <ul class="wp-block-list">
 <li>Sluit aan bij nationale initiatieven, zoals afsprakenkader '<a href="https://www.knv.nl/maas-lab/">MaaS-Lab</a>' van brancheorganisatie KNV, <a href="https://web.archive.org/web/20251214022630/https://www.crow.nl/kennis/bibliotheek-verkeer-en-vervoer/kennisdocumenten/maaswaardige-ov-concessies">MaaS-waardige bestekeisen</a> van CROW-DOVA (OV-autoriteiten), programma '<a href="https://www.crow.nl/over-crow/nieuws/2023/juli/natuurlijk-deelmobiliteit-vijfjarig-programma">Natuurlijk!Deelmobiliteit</a>' van de gezamenlijke overheden en '<a href="https://dova.nu/nieuws/themas-uitgelicht-flexvervoer">Netwerk Flexvervoer</a>' van DOVA.&nbsp;</li>
 <li>Volg ontwikkelingen in andere provincies, zoals '<a href="https://www.publiekvervoer.nl/">Publiek Vervoer</a>' in Groningen-Drenthe, '<a href="https://www.brabant.nl/onderwerpen/verkeer-en-vervoer/verkeers-en-vervoersbeleid/vernieuwing-ov">Gedeelde Mobiliteit</a>' in Noord-Brabant en '<a href="https://www.zeeland.nl/sites/default/files/2022-10/RegionaleMobiliteitsstrategie_digitoegankelijk.pdf">Zeeuwse Mobiliteitsstrategie 2025</a>' in Zeeland.</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-background is-layout-flow wp-block-details-is-layout-flow" style="background-color:#f2dd7e30"><summary>Weeg als provincie af of je OV in het landelijk gebied wilt verbreden naar publiek vervoer, zo ja:</summary>
+<details name="ov-1"><summary>Weeg als provincie af of je OV in het landelijk gebied wilt verbreden naar publiek vervoer, zo ja:</summary>
 <ul class="wp-block-list">
 <li>Neem in het bestek voor de aanbesteding eisen op die het samenspel tussen OV-bedrijf en andere mobiliteitsaanbieders waarborgen.</li>
 <li>Stel strakke eisen voor een OV-basisnetwerk, met duidelijke garanties voor de bewoners.</li>
@@ -208,8 +204,7 @@ naar publiek vervoer, of vraag de vervoerder om een klantenpanel op te
 richten om zo de te zorgen dat de wens van de reiziger gehoord blijft.</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-black-color has-text-color has-background has-link-color is-layout-flow wp-block-details-is-layout-flow" style="background-color:#eb718517"><summary>Kanttekening bij publiek vervoer: bezint eer ge begint</summary>
+<details name="ov-1"><summary>Kanttekening bij publiek vervoer: bezint eer ge begint</summary>
 <ul class="wp-block-list">
 <li>Publiek vervoer ontstaat niet vanzelf, maar moet je hard voor
 werken. Het vraagt meer afstemming (met Rijk, buurtprovincies,
@@ -242,8 +237,7 @@ taxivervoer. Deze Wp2000 is (nog) niet toegesneden op publiek vervoer.
 Maar wat de wetgever niet heeft verboden, mag in principe.</li>
 </ul>
 </details>
-
-<details class="wp-block-details has-black-color has-text-color has-background has-link-color is-layout-flow wp-block-details-is-layout-flow" style="background-color:#7aacde29"><summary>Ook gedurende een OV-concessie kan je aan het werk</summary>
+<details name="ov-1"><summary>Ook gedurende een OV-concessie kan je aan het werk</summary>
 <ul class="wp-block-list">
 <li>Bedenk wat je als provincie/regio/gemeente kunt doen naast/tijdens
 de concessie om het OV te verbreden. Ook in het geval dat de vervoerder
@@ -260,6 +254,7 @@ nog niet gebruik maken van openbaar- of publiek vervoer uit de auto te
 lokken.</li>
 </ul>
 </details>
+</div>
 
 ## Conclusie
 

@@ -60,33 +60,29 @@ Deelfietsen zijn ideaal voor het laatste stuk van je reis: 1 tot 3 km (of 4 à 7
 
 <p>De Provincie Zuid-Holland ziet dat openbaar vervoer + deelfiets (voor de laatste paar km) een mooi alternatief kan zijn voor een reis met de auto. Daarom stimuleren we dat graag. Dat is vastgelegd in ons Omgevingsbeleid én in het coalitieakkoord. Hieronder zetten we een aantal elementen op een rij die we belangrijk vinden:</p>
 
-<details><summary>Efficiënt, duurzaam en gezond</summary>
+<div class="uitklap">
+<details name="deelfiets-1"><summary>Efficiënt, duurzaam en gezond</summary>
 <p>Deelfietsen dienen vele doelen. Fietsen is gezond en duurzaam. Een deelfiets staat vaak maar kort stil omdat hij steeds van baasje wisselt. Het ruimtegebruik is daardoor relatief laag. Al met al zeker het stimuleren waard.</p>
 </details>
-
-<details><summary>Deelfietsen hebben extra voordelen boven deelscooters</summary>
+<details name="deelfiets-1"><summary>Deelfietsen hebben extra voordelen boven deelscooters</summary>
 <p>Deelfietsen hebben extra voordelen zoals het gezondheidsaspect door bewegen, lager milieuimpact en lagere exploitatiekosten. Daarom kiezen we ervoor om deelfietsen te promoten. Het liefst fietsen waarbij je zelf trapt, maar voor grotere afstanden (&gt;3 km) stimuleren we ook graag e-bikes. E-scooters ziet de provincie ook als een bruikbare oplossing maar om bovengenoemde redenen stimuleren we die niet extra maar laten dat aan de markt over.</p>
 </details>
-
-<details><summary>Inzet op combinatie openbaar vervoer én deelfiets voor de laatste km's</summary>
+<details name="deelfiets-1"><summary>Inzet op combinatie openbaar vervoer én deelfiets voor de laatste km's</summary>
 <p>Juist de ketenreis van OV, gevolgd door een deelfietsrit voor de laatste paar kilometers is een goed alternatief voor een rit per auto. Daarom zetten we vooral op die combinatie in. Andere ritten (niet OV-gerelateerd) zijn ook uitstekend maar hebben niet onze focus. Omdat we inzetten op combinatie OV+deelfiets, moet de deelfiets goed verkrijgbaar zijn op meerdere stations en grote OV-haltes (hoe meer hoe beter omdat er een sterk netwerkeffect in zit). Dat is een groot aandachtspunt!</p>
 </details>
-
-<details><summary>Inzet op frequent gebruik, bijvoorbeeld werk- of opleiding-gerelateerd</summary>
+<details name="deelfiets-1"><summary>Inzet op frequent gebruik, bijvoorbeeld werk- of opleiding-gerelateerd</summary>
 <p>We willen graag frequent gebruik stimuleren (bijvoorbeeld forensen en scholieren die een aantal keer per week de reis maken) omdat dat in totaal veel OV+deelfiets ritten kan opleveren. Een abonnementsstructuur is al snel voordeliger dan een vast tarief per rit.</p>
 </details>
-
-<details><summary>Automobilisten verleiden en dus ook inzetten op nieuwe reizigers</summary>
+<details name="deelfiets-1"><summary>Automobilisten verleiden en dus ook inzetten op nieuwe reizigers</summary>
 <p>De focus ligt niet uitsluitend op mensen die nu al het OV gebruiken maar zeker ook op automobilisten die met de OV+deelfiets een extra reismogelijkheid krijgen (auto dagje laten staan).</p>
 </details>
-
-<details><summary>Te gebruiken in gebieden waar de provincie verantwoordelijk is voor het openbaar vervoer</summary>
+<details name="deelfiets-1"><summary>Te gebruiken in gebieden waar de provincie verantwoordelijk is voor het openbaar vervoer</summary>
 <p>In Zuid-Holland is de verantwoordelijkheid voor het OV verdeeld over twee vervoersautoriteiten: MRDH verzorgt het OV in MRDH-gebied. De provincie doet dat in de overige gemeenten in Zuid-Holland. Hoewel we deelfietsen graag in heel Zuid-Holland zien, focussen we met de stimulering op deelfietsen die in ieder geval verkrijgbaar zijn in het gebied waar we voor OV verantwoordelijk zijn (zoals de Drechtsteden).</p>
 </details>
-
-<details><summary>Kosten efficiënt stimuleren (groots mogelijk effect tegen laagste maatschappelijke kosten)</summary>
+<details name="deelfiets-1"><summary>Kosten efficiënt stimuleren (groots mogelijk effect tegen laagste maatschappelijke kosten)</summary>
 <p>Bij onze keuze speelt een rol hoe we zo veel mogelijk mensen zoveel mogelijk deelfietsritten kunnen laten maken bij een gegeven budget. Ook werken we graag samen met anderen om de stimulering gezamenlijk ter hand te nemen. Gegeven bovenstaande elementen kiezen we nu voor een stimuleringsactie met Donkey Republic deelfietsen. In Zuid-Holland zijn ze op veel plekken al aanwezig bij stations en OV-haltes. We zien ook graag meer OV-fiets ritten in Zuid-Holland. We hebben echter de indruk dat de bottleneck hier niet ligt bij de stimulering van mensen maar bij het zorgen van voldoende OV-fietsen op de stations. Op dit moment zien we geen andere deelfietsaanbieders die op een significant aantal OV-punten aanwezig is (maar dat kan natuurlijk in de toekomst wijzigen).</p>
 </details>
+</div>
 
 <p><strong>Verder lezen</strong><br>
 <a href="https://web.archive.org/web/20251214013035/https://kennis.zuidholland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a><br>

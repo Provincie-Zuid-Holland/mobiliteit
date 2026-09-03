@@ -81,12 +81,13 @@ Gesloten gevels aan de straat over een lange afstand. Onnodige voorzieningen in 
 
 
 
-<details><summary><strong>Verbeter wandel- en fietspaden</strong></summary>
+<div class="uitklap">
+<details name="voorzieningen-dichterbij-1"><summary><strong>Verbeter wandel- en fietspaden</strong></summary>
 <p>Lopen en fietsen passen bij een goede nabijheid. Betere kwaliteit en beleving van wandel- en fietsnetwerken (aantrekkelijke, veiliger routes, betere paden, bredere paden, doorfietsroutes, nieuwe routes) vergroot het gebruik. Dit levert <a href="https://kennis.Zuid-Holland.nl/fiets/">allerlei voordelen</a> op voor zowel de wandelaar/fietser zelf, als de <a href="https://www.kimnet.nl/publicaties/publicaties/2023/12/04/nieuwe-waarderingskengetallen-voor-reistijd-betrouwbaarheid-en-comfort">samenleving als geheel</a> (<a href="https://web.archive.org/web/20260309155219/https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/communicatie-bij-werkzaamheden/werkwijzer-hinderaanpak/toolbox-slim-reizen/factsheet-upgrade-fietsinfrastructuur">maatschappelijke baten</a>). Cruciaal is dat we niet alleen netwerken verbeteren, maar dat we ook bestemmingen eenvoudiger toegankelijk maken voor wandelaars en fietsers (denk aan stallingen).</p>
 </details>
-
-<details><summary><strong>Verlaag parkeernormen</strong></summary>
+<details name="voorzieningen-dichterbij-1"><summary><strong>Verlaag parkeernormen</strong></summary>
 <p>Het verdichten van leefgebieden en mengen van functies is vaak moeilijk vanwege hoge parkeernormen (veel parkeerplekken) voor woningen en werkbestemmingen. Met de mogelijkheid om te differentiëren met parkeernormen per gebied, wordt mengen haalbaarder en wordt autogebruik voor korte ritjes minder aantrekkelijk. Voor nieuwe gebouwen bij grote stations liggen de parkeernormen vaak lager, maar bij kleine stations of HOV-haltes kunnen parkeernormen ook omlaag. Deelvervoer kan de vervoerbehoefte op die plekken ondersteunen.</p>
 </details>
+</div>
 
 
