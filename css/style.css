@@ -30,6 +30,7 @@
   --pzh-geel:         #efcc36;
   --pzh-lichtblauw-vlak: #e5eff8; /* PZH lichtblauw als rustig achtergrondvlak */
   --pzh-lichtgeel:    #f1db7e;   /* PZH lichtgeel, voor de sporen-blokken */
+  --pzh-lichtgrijs:   #f8f8f8;   /* rustig grijs vlak, voor verwijzingsblokken */
 }
 
 #pzhBlauw {color:#281f6b;}
@@ -307,30 +308,70 @@ blockquote{
   color: var(--pzh-donkergroen);
 }
 
-/* --- Standaardopmaak voor een voorbeeldvlak met beeld ---
+/* Grijs blok: zelfde familie, andere kleur. Voor een verwijzing naar een
+   rapport, een artikel of een andere pagina. Wordt gebruikt door blok.html. */
+.voorbeeld--grijs {
+  background-color: var(--pzh-lichtgrijs);
+}
+
+/* Een blok dat zélf een link is, krijgt een kaart-look: rand, ronde hoek en een
+   lichte schaduw die bij hover oplicht. De kaart-look zegt dus "hier kun je op
+   klikken" en hoort niet bij een kleur. */
+.voorbeeld-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.voorbeeld-link .voorbeeld {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease;
+}
+.voorbeeld-link:hover .voorbeeld,
+.voorbeeld-link:focus-visible .voorbeeld {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.voorbeeld-link:focus-visible {
+  outline: 2px solid var(--pzh-blauw);
+  outline-offset: 3px;
+}
+
+/* --- Standaardopmaak voor een blok met beeld ---
    Beeld op 1/3 links, tekst op 2/3 rechts; met --half allebei de helft; onder
-   800 px onder elkaar (beeld boven). Werkt voor een <figure class="fig"> én voor een <div class="video">.
-   Het bijschrift hoort in de <figcaption>, niet als losse regel onder de tekst. */
+   800 px onder elkaar (beeld boven). Werkt voor een <figure class="fig"> én
+   voor een <div class="video">. Het bijschrift hoort in de <figcaption>, niet
+   als losse regel onder de tekst.
+   Flexbox, net als de blokken die blok.html maakt: één techniek voor alle
+   blokken, en één breekpunt. */
 .voorbeeld--media {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
+  display: flex;
   gap: 30px;
-  align-items: start;
+  align-items: flex-start;
+}
+/* De tekstkolom krijgt 2 delen, de beeldkolom 1. min-width:0 laat lange woorden
+   en brede tabellen krimpen in plaats van het blok op te rekken. */
+.voorbeeld--media > * {
+  flex: 2 1 0;
+  min-width: 0;
+}
+.voorbeeld--media > .fig,
+.voorbeeld--media > .video {
+  flex: 1 1 0;
+  margin: 0;
 }
 /* Halfom: beeld en tekst allebei de helft. Voor video's, want 1/3 is te smal
    om een filmpje in te bekijken. Gebruik: class="voorbeeld voorbeeld--media
    voorbeeld--half". */
-.voorbeeld--media.voorbeeld--half {
-  grid-template-columns: 1fr 1fr;
+.voorbeeld--media.voorbeeld--half > * {
+  flex: 1 1 0;
 }
-.voorbeeld--media .fig,
-.voorbeeld--media .video {
-  margin: 0;
-}
-.voorbeeld--media > div > :first-child {
+.voorbeeld--media > div > :first-child,
+.voorbeeld-tekst > :first-child {
   margin-top: 0;
 }
-.voorbeeld--media > div > :last-child {
+.voorbeeld--media > div > :last-child,
+.voorbeeld-tekst > :last-child {
   margin-bottom: 0;
 }
 .voorbeeld--media figcaption {
@@ -339,7 +380,7 @@ blockquote{
 
 @media only screen and (max-width: 800px) {
   .voorbeeld--media {
-    grid-template-columns: 1fr;
+    flex-direction: column;
     gap: 20px;
   }
 }
@@ -455,6 +496,60 @@ blockquote{
 @media only screen and (max-width: 800px) {
   .blokkenrij {
     grid-template-columns: 1fr;
+  }
+}
+
+/* --- Uitklapper (details/summary) ---
+   Gebruikt op de snelstudiepagina's voor aanbevelingen die je open kunt
+   klappen. Krijgt de grijze bloktint, zodat een uitklapper zich als lid van
+   dezelfde blokkenfamilie leest. Het browserdriehoekje maakt plaats voor een
+   chevron in het linkgroen, die meedraait bij openen. */
+details {
+  background-color: var(--pzh-lichtgrijs);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 14px 20px;
+  margin: 10px 0;
+}
+details > summary {
+  font-weight: 500;
+  color: var(--pzh-blauw);
+  cursor: pointer;
+  position: relative;
+  padding-left: 30px;
+  list-style: none;          /* Firefox */
+}
+details > summary::-webkit-details-marker {
+  display: none;             /* Safari en oudere Chrome */
+}
+details > summary::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 0.45em;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--pzh-groen);
+  border-bottom: 2px solid var(--pzh-groen);
+  transform: rotate(-45deg);
+  transition: transform 0.15s ease;
+}
+details[open] > summary::before {
+  transform: rotate(45deg);
+  top: 0.55em;
+}
+details[open] > summary {
+  margin-bottom: 12px;
+}
+details > summary:focus-visible {
+  outline: 2px solid var(--pzh-blauw);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  details > summary::before,
+  .voorbeeld-link .voorbeeld {
+    transition: none;
   }
 }
 

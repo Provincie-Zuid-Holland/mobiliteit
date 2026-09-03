@@ -1,34 +1,39 @@
 {%- comment -%}
-  Generiek blok met kaart-look. Parameters:
-    text     (verplicht)  tekst; mag Markdown bevatten
-    title    (optioneel)  kop boven de tekst
-    img      (optioneel)  afbeelding; zonder img = tekst-only kaart
-    positie  links | rechts   (default links)  kant van de afbeelding
-    breedte  33 | 50          (default 33)     breedte van de afbeeldingskolom
-    kleur    (optioneel)  kleurnaam, bijv. LichtBlauw -> class achtergrondLichtBlauw
-    bg       (optioneel)  losse hex-achtergrondkleur (inline style)
-    url      (optioneel)  maakt het hele blok klikbaar
-    alt      (optioneel)  alt-tekst van de afbeelding
+  Blok uit de voorbeeld-familie, in het lichtgrijs. Zelfde HTML en zelfde CSS
+  als een blauw of geel blok dat je met de hand schrijft:
+
+    <div class="voorbeeld voorbeeld--media">
+      <figure class="fig">…</figure>
+      <div markdown="1">…</div>
+    </div>
+
+  Parameters:
+    text   (verplicht)  tekst; mag Markdown bevatten
+    title  (optioneel)  kop boven de tekst
+    img    (optioneel)  afbeelding links op 1/3; zonder img een blok zonder beeld
+    url    (optioneel)  maakt het hele blok klikbaar en geeft het een kaart-look
+    alt    (optioneel)  alt-tekst van de afbeelding; valt terug op title
+
+  Let op: de buitenste <div> is nodig. Kramdown ziet een blok dat begint met een
+  inline-element (<a>) als een alinea en breekt die dan open op de <div> erin,
+  waardoor de link leeg wordt en de </a> als tekst op de pagina belandt. Met een
+  block-level element als eerste tag laat kramdown het hele blok met rust.
 {%- endcomment -%}
-{%- assign klassen = 'item' -%}
-{%- if include.positie == 'rechts' -%}{%- assign klassen = klassen | append: ' beeld-rechts' -%}{%- endif -%}
-{%- if include.breedte == '50' -%}{%- assign klassen = klassen | append: ' beeld-50' -%}{%- endif -%}
-{%- if include.kleur -%}{%- assign klassen = klassen | append: ' achtergrond' | append: include.kleur -%}{%- endif -%}
-{%- assign style = '' -%}
-{%- if include.bg -%}{%- assign style = ' style="background-color:' | append: include.bg | append: ';"' -%}{%- endif -%}
-<div class="item-list">
-{%- if include.url %}<a href="{{ include.url }}" class="item-link">{% endif -%}
-<div class="{{ klassen }}"{{ style }}>
+{%- assign klassen = 'voorbeeld voorbeeld--grijs' -%}
+{%- if include.img -%}{%- assign klassen = klassen | append: ' voorbeeld--media' -%}{%- endif -%}
+<div class="voorbeeld-blok">
+{%- if include.url %}<a href="{{ include.url }}" class="voorbeeld-link">{% endif %}
+<div class="{{ klassen }}">
   {%- if include.img %}
-  <div class="item-left">
-    <img src="{{ include.img }}" alt="{{ include.alt | default: include.title | default: 'Afbeelding' }}">
-  </div>
+  <figure class="fig">
+    <img src="{{ include.img }}" alt="{{ include.alt | default: include.title | default: '' }}" loading="lazy">
+  </figure>
   {%- endif %}
-  <div class="item-right">
+  <div class="voorbeeld-tekst">
     {%- if include.title %}
     <h2>{{ include.title }}</h2>
     {%- endif %}
-    <p>{{ include.text | markdownify }}</p>
+    {{ include.text | markdownify }}
   </div>
 </div>
 {%- if include.url %}</a>{% endif -%}
