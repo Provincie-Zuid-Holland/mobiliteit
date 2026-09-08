@@ -15,28 +15,34 @@
 
 html,body{margin:0;padding:0;width:100%;height:100%;background-color:transparent;
   font-family:"Karbon",Arial,Helvetica,sans-serif}
-body{overflow:hidden}
 
-.agenda{--maat:24px;--verstreken:#b4b4b4;--komt:#16113b;--nu:#281f6b;--let:#ff6b02;
+.blad{--maat:24px;--verstreken:#b4b4b4;--komt:#16113b;--nu:#281f6b;--let:#ff6b02;
+  box-sizing:border-box;width:100%;min-height:100%;padding:calc(var(--maat)*1.4);
+  display:flex;flex-direction:column;
   font-size:var(--maat);line-height:1.25;color:var(--komt)}
-.agenda h2{font-weight:500;font-size:calc(var(--maat)*1.4);line-height:1.15;color:var(--nu);
-  margin:0 0 calc(var(--maat)*0.5);padding-bottom:calc(var(--maat)*0.3);
+
+/* kopbalk: logo links, titel ernaast, streep eronder */
+.kop{display:flex;align-items:center;gap:calc(var(--maat)*1.2);
+  padding-bottom:calc(var(--maat)*0.45);margin-bottom:calc(var(--maat)*0.75);
   border-bottom:2px solid var(--nu)}
+.kop img{height:calc(var(--maat)*2.8);width:auto;display:block;flex:none}
+.kop h1{font-weight:500;font-size:calc(var(--maat)*1.4);line-height:1.15;color:var(--nu);
+  margin:0;min-width:0}
+.kop.leeg{display:none}
 
 .agenda ol{list-style:none;margin:0;padding:0}
-.agenda.metklok ol{padding-bottom:calc(var(--maat)*1.6)}
 .agenda li{display:grid;grid-template-columns:auto 1fr auto;gap:0 calc(var(--maat)*0.9);
   align-items:baseline;padding:calc(var(--maat)*0.12) 0;
-  transition:color .4s ease,opacity .4s ease}
+  transition:color .4s ease}
 .agenda .tijd{font-variant-numeric:tabular-nums;white-space:nowrap}
 .agenda .wat{min-width:0}
 .agenda .rest{font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:500;
   color:var(--let);text-align:right}
 
 /* actuele tijd, rechtsonder */
-.nutijd{position:fixed;right:0;bottom:0;font-variant-numeric:tabular-nums;
-  font-weight:500;font-size:calc(var(--maat)*1.15);line-height:1;color:var(--nu);
-  padding:calc(var(--maat)*0.15) 0 0 calc(var(--maat)*0.6)}
+.nutijd{align-self:flex-end;margin-top:calc(var(--maat)*0.6);
+  font-variant-numeric:tabular-nums;font-weight:500;
+  font-size:calc(var(--maat)*1.15);line-height:1;color:var(--nu)}
 
 /* verstreken */
 .agenda li.af{color:var(--verstreken)}
@@ -48,13 +54,24 @@ body{overflow:hidden}
 </style>
 </head>
 <body>
-<div class="agenda" id="agenda"><ol id="lijst"></ol>
-<div class="nutijd" id="nutijd"></div></div>
+<div class="blad" id="blad">
+  <div class="kop" id="kop">
+    <img id="logo" src="img/PZHlogo253x84.png" alt="provincie Zuid-Holland">
+    <h1 id="titel"></h1>
+  </div>
+  <div class="agenda" id="agenda"><ol id="lijst"></ol></div>
+  <div class="nutijd" id="nutijd"></div>
+</div>
 
 <script>
 /* ------------------------------------------------------------------
    agenda.html — agenda die meeloopt met de klok.
    Zusje van klok.html; zelfde parameters waar het kan.
+
+   Vult het hele venster: provincielogo linksboven met de titel ernaast,
+   streep eronder, de agenda daaronder en rechtsonder de actuele tijd.
+   Daardoor bruikbaar als iframe in een slide en als losse pagina.
+   De lettergrootte past zich vanzelf aan de hoogte aan.
 
    Parameters (querystring):
      a=<agenda>          de agenda in de URL zelf, kortste vorm:
@@ -63,13 +80,14 @@ body{overflow:hidden}
                          Staat er een ';' of '&' in je tekst, gebruik dan %3B of %26.
      json=<json>         hetzelfde maar als JSON (url-encoded)
      src=agenda.json     JSON uit een bestand (relatief pad of volledige URL)
-     titel=Agenda        kop boven de lijst; leeg = geen kop
+     titel=Agenda        titel rechts naast het logo; leeg = geen titel
      eind=17:30          eindtijd van het laatste item, als dat er zelf geen heeft
      warn=5              vanaf hoeveel minuten resterend het item oranje wordt
      size=auto           standaard: de tekst wordt zo groot gemaakt als past.
                          Geef een getal (size=24) om het zelf vast te zetten.
      bg=white            achtergrondkleur (standaard doorzichtig)
      fg=#16113b          kleur van items die nog moeten komen
+     logo=nee            het provincielogo weglaten
      tijd=nee            de actuele tijd rechtsonder weglaten (standaard staat hij er)
      nu=16:45            doe alsof het dit tijdstip is — om te controleren
 
@@ -130,26 +148,14 @@ function leesAgenda(ruw){
   return {titel:titel, eind:eind, items:items};
 }
 
-/* Tekent de agenda in een container.
+/* Tekent de lijst in een container.
    agenda = resultaat van leesAgenda(), nuMin = minuten sinds middernacht,
-   opties = {warn, eind, titel} */
+   opties = {warn, eind} */
 function toonAgenda(container, agenda, nuMin, opties){
   opties = opties || {};
   var warn = opties.warn != null ? opties.warn : 5;
   var items = agenda.items;
   var lijst = container.querySelector("ol") || container;
-  var titelTekst = opties.titel != null ? opties.titel
-                 : (agenda.titel != null ? agenda.titel : null);
-
-  // kop
-  var oudeKop = container.querySelector("h2");
-  if(titelTekst){
-    if(!oudeKop){
-      oudeKop=document.createElement("h2");
-      container.insertBefore(oudeKop, lijst);
-    }
-    if(oudeKop.textContent!==titelTekst) oudeKop.textContent=titelTekst;
-  } else if(oudeKop){ oudeKop.remove(); }
 
   // einde van het laatste item: expliciete eindtijd, anders heeft het geen duur
   var slot = naarMinuten(opties.eind != null ? opties.eind : agenda.eind);
@@ -192,49 +198,55 @@ function toonAgenda(container, agenda, nuMin, opties){
 /* ---------------- alleen uitvoeren als losse pagina ---------------- */
 if(typeof window!=="undefined" && !window.__agendaAlsModule){
   (function(){
+    var blad=document.getElementById("blad");
     var doel=document.getElementById("agenda");
-    var opties={
-      warn: Number(param("warn")) || 5,
-      eind: param("eind"),
-      titel: param("titel")!==null ? param("titel") : undefined
-    };
+    var kop=document.getElementById("kop");
+    var titelEl=document.getElementById("titel");
+    var logoEl=document.getElementById("logo");
+    var klokje=document.getElementById("nutijd");
+
+    var opties={ warn: Number(param("warn")) || 5, eind: param("eind") };
+
+    if(param("logo")==="nee" || param("logo")==="geen"){ logoEl.remove(); logoEl=null; }
+    if(param("tijd")==="nee" || param("tijd")==="geen"){ klokje.remove(); klokje=null; }
 
     var vasteMaat=Number(param("size"));
-    if(vasteMaat) doel.style.setProperty("--maat", vasteMaat+"px");
-
-    // Zoekt de grootste lettermaat waarbij de agenda nog in het venster past.
-    // De hoogte loopt vrijwel recht evenredig met de maat, dus één schatting
-    // plus twee correctierondes (voor tekst die terugloopt) is genoeg.
-    function passendMaken(){
-      if(vasteMaat) return;
-      var ruimte = doel.parentNode ? window.innerHeight : 0;
-      if(!ruimte) return;
-      var maat = 20;
-      doel.style.setProperty("--maat", maat+"px");
-      for(var ronde=0; ronde<3; ronde++){
-        var hoog = doel.scrollHeight;
-        if(!hoog) return;
-        maat = maat * (ruimte / hoog);
-        maat = Math.max(11, Math.min(46, maat));
-        doel.style.setProperty("--maat", maat.toFixed(2)+"px");
-        if(Math.abs(doel.scrollHeight - ruimte) < 4) break;
-      }
-      // laatste veiligheidsronde: nog te hoog? dan iets terug
-      var over = doel.scrollHeight - ruimte;
-      if(over > 0){
-        maat = Math.max(11, maat * (ruimte / doel.scrollHeight));
-        doel.style.setProperty("--maat", maat.toFixed(2)+"px");
-      }
-    }
+    if(vasteMaat) blad.style.setProperty("--maat", vasteMaat+"px");
     var bg=param("bg"); if(bg) document.body.style.backgroundColor=bg;
     var fg=param("fg");
-    if(fg) doel.style.setProperty("--komt", /^[0-9a-fA-F]{3,8}$/.test(fg) ? "#"+fg : fg);
+    if(fg) blad.style.setProperty("--komt", /^[0-9a-fA-F]{3,8}$/.test(fg) ? "#"+fg : fg);
 
-    var klokje=document.getElementById("nutijd");
-    if(param("tijd")==="nee" || param("tijd")==="geen"){ klokje.remove(); klokje=null; }
-    else { doel.classList.add("metklok"); }
+    // Zoekt de grootste lettermaat waarbij alles nog in het venster past.
+    // Alle maten zijn afgeleid van --maat, dus de hoogte loopt recht evenredig
+    // mee; één schatting plus twee correctierondes (voor tekst die terugloopt)
+    // is genoeg.
+    function passendMaken(){
+      if(vasteMaat) return;
+      var ruimte = window.innerHeight;
+      if(!ruimte) return;
+      var maat = 20;
+      blad.style.setProperty("--maat", maat+"px");
+      for(var ronde=0; ronde<3; ronde++){
+        var hoog = blad.scrollHeight;
+        if(!hoog) return;
+        maat = Math.max(11, Math.min(46, maat * (ruimte / hoog)));
+        blad.style.setProperty("--maat", maat.toFixed(2)+"px");
+        if(Math.abs(blad.scrollHeight - ruimte) < 4) break;
+      }
+      if(blad.scrollHeight > ruimte){   // nog te hoog? dan iets terug
+        maat = Math.max(11, maat * (ruimte / blad.scrollHeight));
+        blad.style.setProperty("--maat", maat.toFixed(2)+"px");
+      }
+    }
 
     var agenda={titel:null,eind:null,items:[]};
+
+    function zetKop(){
+      var tekst = param("titel")!==null ? param("titel")
+                : (agenda.titel!=null ? agenda.titel : "");
+      titelEl.textContent = tekst;
+      if(!tekst && !logoEl) kop.classList.add("leeg");
+    }
 
     function tik(){
       var nuMin;
@@ -245,16 +257,21 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
       if(klokje) klokje.textContent = alsTijd(nuMin);
     }
 
+    function melding(tekst){
+      doel.querySelector("ol").innerHTML='<li style="color:#d11f3d">'+tekst+'</li>';
+    }
+
     function start(ruw){
       agenda=leesAgenda(ruw);
+      zetKop();
       if(!agenda.items.length){
-        doel.querySelector("ol").innerHTML=
-          '<li style="color:#d11f3d">Geen agenda-items gevonden — controleer src= of json=</li>';
+        melding("Geen agenda-items gevonden — controleer a=, json= of src=");
         return;
       }
       tik();
       passendMaken();
       if(document.fonts && document.fonts.ready) document.fonts.ready.then(passendMaken);
+      if(logoEl) logoEl.addEventListener("load", passendMaken);
       window.addEventListener("resize", passendMaken);
       setInterval(tik, 1000);
     }
@@ -266,15 +283,14 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
       start(leesKort(kort));
     } else if(inline){
       try { start(JSON.parse(inline)); }
-      catch(e){ doel.querySelector("ol").innerHTML=
-        '<li style="color:#d11f3d">json= is geen geldige JSON</li>'; }
+      catch(e){ zetKop(); melding("json= is geen geldige JSON"); }
     } else if(bron){
       fetch(bron, {cache:"no-store"})
         .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
         .then(start)
-        .catch(function(e){ doel.querySelector("ol").innerHTML=
-          '<li style="color:#d11f3d">Kon '+bron+' niet laden ('+e.message+')</li>'; });
+        .catch(function(e){ zetKop(); melding("Kon "+bron+" niet laden ("+e.message+")"); });
     } else {
+      zetKop();
       doel.querySelector("ol").innerHTML=
         '<li style="color:#5c5c5c">Geef een agenda mee met <code>?a=</code>, <code>?json=</code> of <code>?src=</code></li>';
     }
