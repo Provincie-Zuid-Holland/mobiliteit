@@ -128,6 +128,6 @@ Je hebt hier dus geen voucher voor nodig.</p>
 
 <p><a href="deelfiets.html" target="_blank" rel="noreferrer noopener">kennis.Zuid-Holland.nl/deelfiets</a></p>
 
-<p><a href="https://web.archive.org/web/20251222051443/https://kennis.Zuid-Holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-Zuid-Holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a></p>
+<p><a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a></p>
 
 <p><a href="https://www.zuidhollandbereikbaar.nl/deelfietsacties" target="_blank" rel="noreferrer noopener">Overzicht deelfiets acties bij Zuid Holland Bereikbaar</a></p>

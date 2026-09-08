@@ -85,5 +85,5 @@ Deelfietsen zijn ideaal voor het laatste stuk van je reis: 1 tot 3 km (of 4 à 7
 </div>
 
 <p><strong>Verder lezen</strong><br>
-<a href="https://web.archive.org/web/20251214013035/https://kennis.zuidholland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a><br>
+<a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/">Kansen voor deelfiets en deelscooter in Zuid-Holland</a><br>
 <a href="http://www.crow.nl/over-crow/nieuws/2023/juli/natuurlijk-deelmobiliteit-vijfjarig-programma">Natuurlijk!Deelmobiliteit – Vijfjarig programma rond deelmobiliteit van start</a></p>

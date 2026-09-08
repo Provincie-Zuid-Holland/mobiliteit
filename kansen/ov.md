@@ -39,7 +39,7 @@ Door snelle treinen te stimuleren -- die liefst elk uur rijden -- wordt de inter
 
 ## Herontwerp lijnen voor sneller OV
 
-Snellere bussen die stoppen op minder haltes verhogen de effectieve snelheid van de reiziger. De snelstudie '[Sneller reizen met de bus in Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/snelstudie-sneller-reizen-met-de-bus-in-zuid-holland/)' laat zien wat mogelijk is. Deze gedachte wordt ook goed weergegeven in dit filmpje van het Kennisinstituut voor Mobiliteitsbeleid (KiM). In sommige dunbevolkte gebieden kunnen vraaggestuurd OV (flexbusjes) en deelmobiliteit het OV aanvullen of vervangen als een grote bus niet meer haalbaar is.
+Snellere bussen die stoppen op minder haltes verhogen de effectieve snelheid van de reiziger. De snelstudie '[Sneller reizen met de bus in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-sneller-reizen-bus-zuid-holland/)' laat zien wat mogelijk is. Deze gedachte wordt ook goed weergegeven in dit filmpje van het Kennisinstituut voor Mobiliteitsbeleid (KiM). In sommige dunbevolkte gebieden kunnen vraaggestuurd OV (flexbusjes) en deelmobiliteit het OV aanvullen of vervangen als een grote bus niet meer haalbaar is.
 
 </div>
 </div>
@@ -102,7 +102,7 @@ Onder publieke mobiliteit vallen alle manieren om van A naar B te reizen als je 
 ## Waarom publieke mobiliteit?
 Ons land staat voor grote opgaven om te komen tot duurzame, gezonde en sterke steden en dorpen. We willen dat er genoeg bereikbare woningen zijn in een aantrekkelijke leefomgeving. Met de ontwikkeling van brede welvaart (hier en nu, maar ook elders en later) beogen we dat iedereen kan meedoen en streven we naar een sterke economie en een gezond klimaat. Met slimme combinaties van lopen, fietsen, openbaar vervoer en deelmobiliteit waarin we ook auto's optimaal benutten, maken reizigers een mobiliteitstransitie. Daarmee verminderen we uitstoot van CO₂, stikstof, fijnstof en geluid en bieden met ruimte-efficiënt vervoer meer plaats voor een prettige leefomgeving.
 
-Zie onze snelstudie '[OV verbreden naar publiek vervoer](https://kennis.zuid-holland.nl/ov/)' voor meer informatie en een overzicht van de mogelijkheden.
+Zie onze snelstudie '[OV verbreden naar publiek vervoer](/mobiliteit/snelstudie/ov.html)' voor meer informatie en een overzicht van de mogelijkheden.
 
 ## Kanttekeningen
 Publieke mobiliteit is een combinatie van OV (aangestuurd door de provincie), taxibusjes (aangestuurd door gemeenten of regio's) en deelvervoer (meestal van marktpartijen). Organisatorisch is dat complex en als het een succes wordt ook al snel duur. Zorg dus dat:

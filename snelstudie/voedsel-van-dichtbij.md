@@ -9,7 +9,7 @@ menu: |
 ## Meer volume én efficiëntie
 
 <div class="tekstblok">
-  Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>.
+  Deze snelstudie is een samenwerking van provincie Zuid-Holland (<a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/" target="_blank">kennis Zuid-Holland</a>) en <a href="https://labverantwoordemobiliteit.nl/" target="_blank">LVM</a>.
  
 </div>
 <br>

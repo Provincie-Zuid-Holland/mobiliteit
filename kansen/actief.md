@@ -120,7 +120,7 @@ Vergroenen van de openbare ruimte maakt lopen en fietsen aantrekkelijker. Steden
 
 <div class="voorbeeld" markdown="1">
 
-- [Beweegvriendelijk Zuid-Holland](https://kennis.zuid-holland.nl/onderzoeken/beweegvriendelijk-zuid-holland/)
+- [Beweegvriendelijk Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/beweegvriendelijk-zuid-holland/)
 - [Metropolitane fietsrouters (van MRDH)](https://mrdh.nl/fietsroutes)
 - [Podcastserie Raad voor de Leefomgeving 'Nederland verbouwt in 7 vragen', aflevering mobiliteit](https://www.rli.nl/podcastserie/nederland-verbouwt-in-7-vragen/hoe-kan-mobiliteit-slimmer)
 - [Proef met plastic fietspad in Gouda (testen waterafvoer, onderhoudsvraag en mogelijk kleinere verzakkingskans)](https://fietsberaad.nl/kennisbank/proef-met-plastic-fietspad-in-gouda)

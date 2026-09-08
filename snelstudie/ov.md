@@ -8,7 +8,7 @@ menu: |
 
 <p>De kansen van flextaxi's, deelvervoer &amp; meerijden</p>
 
-<p>Onderdeel van:&nbsp;<strong><a href="https://web.archive.org/web/20251214022630/https://kennis.zuid-holland.nl/snelstudie/" target="_blank" rel="noreferrer noopener">Programma snelstudies</a></strong>&nbsp;</p>
+<p>Onderdeel van:&nbsp;<strong><a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/" target="_blank" rel="noreferrer noopener">Programma snelstudies</a></strong>&nbsp;</p>
 
 <hr>
 
@@ -248,7 +248,7 @@ bijvoorbeeld in de Drechtsteden met vervoerder Qbuzz, gemeenten en
 regiecentrale Stroomlijn.</li>
 <li>Experimenteer met deelfietsen en maak concrete prestatieafspraken in
 de vorm van ritaantallen (of kijk naar gebieden die experimenteren met
-deelfietsen en leer daarvan). Zie snelstudie '<a href="https://web.archive.org/web/20251214022630/https://kennis.zuid-holland.nl/onderzoeken/snelstudie-kansen-voor-deelfiets-en-deelscooter-in-zuid-holland/">Kansen voor deelfietsen</a>'.</li>
+deelfietsen en leer daarvan). Zie snelstudie '<a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/">Kansen voor deelfietsen</a>'.</li>
 <li>Zie een beheer- of onderhoudssituatie als een kans om reizigers die
 nog niet gebruik maken van openbaar- of publiek vervoer uit de auto te
 lokken.</li>

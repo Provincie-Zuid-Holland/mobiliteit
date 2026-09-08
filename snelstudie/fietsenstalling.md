@@ -301,6 +301,6 @@ De provincie Zuid-Holland heeft zich de afgelopen jaren al [flink sterk gemaakt 
 
 <div class="voorbeeld" markdown="1">
 
-Deze snelstudie is een samenwerking van provincie Zuid-Holland ([Kennis Zuid-Holland](https://kennis.zuid-holland.nl/)) en het [Laboratorium Verantwoorde Mobiliteit](https://labverantwoordemobiliteit.nl/). Meer over [hoe een snelstudie werkt](werkwijzer.html).
+Deze snelstudie is een samenwerking van provincie Zuid-Holland ([Kennis Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/)) en het [Laboratorium Verantwoorde Mobiliteit](https://labverantwoordemobiliteit.nl/). Meer over [hoe een snelstudie werkt](werkwijzer.html).
 
 </div>

@@ -10,7 +10,7 @@ menu: |
 
 
 <div class="tekstblok">
-  Deze nieuwe snelstudie is 11 februari 2026 gestart en zal in maart/april hier gepubliceerd worden.  Deze studie is een smanewerking van Haagse Hogeschool en de provincie Zuid-Holland (<a href="https://kennis.zuid-holland.nl/" target="_blank">kennis Zuid-Holland</a>) . 
+  Deze nieuwe snelstudie is 11 februari 2026 gestart en zal in maart/april hier gepubliceerd worden.  Deze studie is een smanewerking van Haagse Hogeschool en de provincie Zuid-Holland (<a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/" target="_blank">kennis Zuid-Holland</a>) . 
  
 </div>
 <br>
