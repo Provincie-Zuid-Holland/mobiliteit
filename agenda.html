@@ -18,14 +18,15 @@ html,body{margin:0;padding:0;width:100%;height:100%;background-color:transparent
 body{overflow:hidden}
 
 .agenda{--maat:24px;--verstreken:#b4b4b4;--komt:#16113b;--nu:#281f6b;--let:#ff6b02;
-  font-size:var(--maat);line-height:1.35;color:var(--komt)}
-.agenda h2{font-weight:500;font-size:calc(var(--maat)*1.55);line-height:1.15;color:var(--nu);
-  margin:0 0 calc(var(--maat)*0.7);padding-bottom:calc(var(--maat)*0.45);
+  font-size:var(--maat);line-height:1.25;color:var(--komt)}
+.agenda h2{font-weight:500;font-size:calc(var(--maat)*1.4);line-height:1.15;color:var(--nu);
+  margin:0 0 calc(var(--maat)*0.5);padding-bottom:calc(var(--maat)*0.3);
   border-bottom:2px solid var(--nu)}
 
 .agenda ol{list-style:none;margin:0;padding:0}
+.agenda.metklok ol{padding-bottom:calc(var(--maat)*1.6)}
 .agenda li{display:grid;grid-template-columns:auto 1fr auto;gap:0 calc(var(--maat)*0.9);
-  align-items:baseline;padding:calc(var(--maat)*0.28) 0;
+  align-items:baseline;padding:calc(var(--maat)*0.12) 0;
   transition:color .4s ease,opacity .4s ease}
 .agenda .tijd{font-variant-numeric:tabular-nums;white-space:nowrap}
 .agenda .wat{min-width:0}
@@ -65,7 +66,8 @@ body{overflow:hidden}
      titel=Agenda        kop boven de lijst; leeg = geen kop
      eind=17:30          eindtijd van het laatste item, als dat er zelf geen heeft
      warn=5              vanaf hoeveel minuten resterend het item oranje wordt
-     size=24             basisgrootte in px
+     size=auto           standaard: de tekst wordt zo groot gemaakt als past.
+                         Geef een getal (size=24) om het zelf vast te zetten.
      bg=white            achtergrondkleur (standaard doorzichtig)
      fg=#16113b          kleur van items die nog moeten komen
      tijd=nee            de actuele tijd rechtsonder weglaten (standaard staat hij er)
@@ -197,14 +199,40 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
       titel: param("titel")!==null ? param("titel") : undefined
     };
 
-    var maat=Number(param("size"));
-    if(maat) doel.style.setProperty("--maat", maat+"px");
+    var vasteMaat=Number(param("size"));
+    if(vasteMaat) doel.style.setProperty("--maat", vasteMaat+"px");
+
+    // Zoekt de grootste lettermaat waarbij de agenda nog in het venster past.
+    // De hoogte loopt vrijwel recht evenredig met de maat, dus één schatting
+    // plus twee correctierondes (voor tekst die terugloopt) is genoeg.
+    function passendMaken(){
+      if(vasteMaat) return;
+      var ruimte = doel.parentNode ? window.innerHeight : 0;
+      if(!ruimte) return;
+      var maat = 20;
+      doel.style.setProperty("--maat", maat+"px");
+      for(var ronde=0; ronde<3; ronde++){
+        var hoog = doel.scrollHeight;
+        if(!hoog) return;
+        maat = maat * (ruimte / hoog);
+        maat = Math.max(11, Math.min(46, maat));
+        doel.style.setProperty("--maat", maat.toFixed(2)+"px");
+        if(Math.abs(doel.scrollHeight - ruimte) < 4) break;
+      }
+      // laatste veiligheidsronde: nog te hoog? dan iets terug
+      var over = doel.scrollHeight - ruimte;
+      if(over > 0){
+        maat = Math.max(11, maat * (ruimte / doel.scrollHeight));
+        doel.style.setProperty("--maat", maat.toFixed(2)+"px");
+      }
+    }
     var bg=param("bg"); if(bg) document.body.style.backgroundColor=bg;
     var fg=param("fg");
     if(fg) doel.style.setProperty("--komt", /^[0-9a-fA-F]{3,8}$/.test(fg) ? "#"+fg : fg);
 
     var klokje=document.getElementById("nutijd");
     if(param("tijd")==="nee" || param("tijd")==="geen"){ klokje.remove(); klokje=null; }
+    else { doel.classList.add("metklok"); }
 
     var agenda={titel:null,eind:null,items:[]};
 
@@ -225,6 +253,9 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
         return;
       }
       tik();
+      passendMaken();
+      if(document.fonts && document.fonts.ready) document.fonts.ready.then(passendMaken);
+      window.addEventListener("resize", passendMaken);
       setInterval(tik, 1000);
     }
 
