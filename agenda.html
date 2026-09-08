@@ -216,6 +216,17 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
     var fg=param("fg");
     if(fg) blad.style.setProperty("--komt", /^[0-9a-fA-F]{3,8}$/.test(fg) ? "#"+fg : fg);
 
+    // Werkelijke hoogte van de inhoud. Let op: .blad heeft min-height:100%,
+    // dus scrollHeight geeft anders altijd minstens de vensterhoogte terug —
+    // dan lijkt elke maat te passen en blijft de tekst op de startwaarde staan.
+    function inhoudshoogte(){
+      var minH=blad.style.minHeight, h=blad.style.height;
+      blad.style.minHeight="0"; blad.style.height="auto";
+      var hoog=blad.scrollHeight;
+      blad.style.minHeight=minH; blad.style.height=h;
+      return hoog;
+    }
+
     // Zoekt de grootste lettermaat waarbij alles nog in het venster past.
     // Alle maten zijn afgeleid van --maat, dus de hoogte loopt recht evenredig
     // mee; één schatting plus twee correctierondes (voor tekst die terugloopt)
@@ -226,15 +237,15 @@ if(typeof window!=="undefined" && !window.__agendaAlsModule){
       if(!ruimte) return;
       var maat = 20;
       blad.style.setProperty("--maat", maat+"px");
-      for(var ronde=0; ronde<3; ronde++){
-        var hoog = blad.scrollHeight;
+      for(var ronde=0; ronde<4; ronde++){
+        var hoog = inhoudshoogte();
         if(!hoog) return;
-        maat = Math.max(11, Math.min(46, maat * (ruimte / hoog)));
+        maat = Math.max(11, Math.min(60, maat * (ruimte / hoog)));
         blad.style.setProperty("--maat", maat.toFixed(2)+"px");
-        if(Math.abs(blad.scrollHeight - ruimte) < 4) break;
+        if(Math.abs(inhoudshoogte() - ruimte) < 3) break;
       }
-      if(blad.scrollHeight > ruimte){   // nog te hoog? dan iets terug
-        maat = Math.max(11, maat * (ruimte / blad.scrollHeight));
+      while(inhoudshoogte() > ruimte && maat > 11){   // nooit over de rand
+        maat = maat * 0.97;
         blad.style.setProperty("--maat", maat.toFixed(2)+"px");
       }
     }
