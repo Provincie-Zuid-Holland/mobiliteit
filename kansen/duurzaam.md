@@ -54,4 +54,8 @@ Daarnaast bestaat er de [Nationale Agenda Laadinfrastructuur](https://www.agenda
 
 Waarom zou je in stedelijke gebieden afval afvoeren met vuilniswagens en bouwmaterialen aanvoeren of winkels bevoorraden met vrachtwagens als dat ook duurzamer en veiliger kan? Het lijkt erop dat transport over water opnieuw in opkomst is. Het begon met de 'bierboot' in Utrecht, nu volgen andere steden met vervoer over hun grachten. Een voorbeeld van zo'n waterlogistieke oplossingen is de CityBarge.
 
+## Verder lezen
+
+{% include leesmeer.html kop="Lees meer" title="nog aanmaken" tekst="nog aanmaken" url="#" image="/mobiliteit/kansen/img/eerdere/negen-kansen.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>
