@@ -1,8 +1,8 @@
 ---
 layout: pzh
 title: Duurzaam & schoon vervoer (mensen & goederen)
-header_image: /mobiliteit/kansen/img/kop-duurzaam-alphenaar.jpg
-header_alt: "Het elektrisch aangedreven containerschip Alphenaar onderweg. Foto: Vereniging De Binnenvaart."
+header_image: /mobiliteit/kansen/img/kop-duurzaam-clinsh.jpg
+header_alt: "Een beladen containerschip vaart over de rivier, langs zandplaten en uiterwaarden met een stad aan de horizon. Beeld: CLINSH."
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
