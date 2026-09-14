@@ -100,7 +100,7 @@ Onder publieke mobiliteit vallen alle manieren om van A naar B te reizen als je 
 </div>
 
 ## Waarom publieke mobiliteit?
-Ons land staat voor grote opgaven om te komen tot duurzame, gezonde en sterke steden en dorpen. We willen dat er genoeg bereikbare woningen zijn in een aantrekkelijke leefomgeving. Met de ontwikkeling van brede welvaart (hier en nu, maar ook elders en later) beogen we dat iedereen kan meedoen en streven we naar een sterke economie en een gezond klimaat. Met slimme combinaties van lopen, fietsen, openbaar vervoer en deelmobiliteit waarin we ook auto's optimaal benutten, maken reizigers een mobiliteitstransitie. Daarmee verminderen we uitstoot van CO₂, stikstof, fijnstof en geluid en bieden met ruimte-efficiënt vervoer meer plaats voor een prettige leefomgeving.
+Ons land staat voor grote opgaven om te komen tot duurzame, gezonde en sterke steden en dorpen. We willen dat er genoeg bereikbare woningen zijn in een aantrekkelijke leefomgeving. Met de ontwikkeling van brede welvaart (hier en nu, maar ook elders en later) beogen we dat iedereen kan meedoen en streven we naar een sterke economie en een gezond klimaat. Met slimme combinaties van lopen, fietsen, openbaar vervoer en deelmobiliteit waarin we ook auto's optimaal benutten, maken reizigers een mobiliteitstransitie. Daarmee verminderen we uitstoot van CO₂, stikstofoxiden (NOx), fijnstof en geluid en bieden met ruimte-efficiënt vervoer meer plaats voor een prettige leefomgeving.
 
 Zie onze snelstudie '[OV verbreden naar publiek vervoer](/mobiliteit/snelstudie/ov.html)' voor meer informatie en een overzicht van de mogelijkheden.
 

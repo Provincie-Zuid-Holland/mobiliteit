@@ -37,7 +37,7 @@ Nabijheid en lopen versterken elkaar. Staan school, winkel, werk en halte om de 
 
 ## Vaker & verder fietsen
 
-Heel Nederland fietst in 2040. Dat is waar de [Fietsersbond van droomt in haar fietsvisie](https://www.fietsersbond.nl/ons-werk/fietsvisie-2040/onze-ambitie-in-2040/): "De fiets is voor de korte en middellange afstand de belangrijkste manier om je te verplaatsen". De fiets is een laagdrempelig en goedkoop vervoermiddel. Hij stelt ook mensen zonder auto in staat om deel te nemen aan de maatschappij. Door meer te fietsen, bewegen we bovendien in een gezondere omgeving, met betere luchtkwaliteit en minder geluid. Daarnaast draagt fietsen bij aan minder uitstoot van CO₂ en stikstof.
+Heel Nederland fietst in 2040. Dat is waar de [Fietsersbond van droomt in haar fietsvisie](https://www.fietsersbond.nl/ons-werk/fietsvisie-2040/onze-ambitie-in-2040/): "De fiets is voor de korte en middellange afstand de belangrijkste manier om je te verplaatsen". De fiets is een laagdrempelig en goedkoop vervoermiddel. Hij stelt ook mensen zonder auto in staat om deel te nemen aan de maatschappij. Door meer te fietsen, bewegen we bovendien in een gezondere omgeving, met betere luchtkwaliteit en minder geluid. Daarnaast draagt fietsen bij aan minder uitstoot van CO₂ en stikstofoxiden (NOx).
 
 De fiets biedt niet alleen de gebruiker goedkoop vervoer, maar ook de overheid. Zo liggen de gezondheidsbaten van de fiets hoger dan de kosten voor infrastructuur en verkeersongevallen. De fiets is het enige vervoermiddel waarvan de baten groter zijn dan de kosten, concludeert het Kennisinstituut voor Mobiliteitsbeleid in de studie 'Op binnenlandse reis met fiets, auto en openbaar vervoer'.
 

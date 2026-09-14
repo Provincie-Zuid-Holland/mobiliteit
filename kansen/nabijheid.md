@@ -53,9 +53,11 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
   <img src="/mobiliteit/kansen/img/rooilijn-diverse-demografie.jpg" alt="Diverse demografie. Beeld: Bas de Vries (Rooilijn)." loading="lazy">
 </figure>
 
-{% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
-
 ## Verder lezen
+
+{% include leesmeer.html kop="Lees meer in de gids" title="Hoe houden gemeentes voorzieningen dichtbij?" url="https://natuurenmilieu.nl/onderwerpen/reizen-vervoer/bereikbaarheid/hoe-houden-gemeentes-voorzieningen-dichtbij/" image="/mobiliteit/snelstudie/img/img-voorzieningen/gids-natuur-en-milieu.jpg" %}
+
+{% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in de recensie" title="De kracht van nabijheid: The 15-Minute City van Carlos Moreno (Rooilijn, 2025)" tekst="Bjarne van der Drift en Ronald Haverman bespreken het boek waarin Moreno de 15-minutenstad uitwerkt." url="https://rooilijn.nl/recensies/de-kracht-van-nabijheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-15minutecity.jpg" %}
 
