@@ -52,7 +52,7 @@ Daarnaast bestaat er de [Nationale Agenda Laadinfrastructuur](https://www.agenda
 
 ## Geef transport over spoor en water een kans
 
-Waarom zou je alles vervoeren met vrachtwagens en het bevoorraden  van winkels aaltijd met vrachtwagens doen als dat ook duurzamer en veiliger kan? Het zou goed zijn om transport over water en spoor nieuwe kansen te geven. Naast dat het duurzaam is, creert het ook ruimte op onze volle wegen.
+Waarom zou je alles vervoeren met vrachtwagens en het bevoorraden van winkels altijd met vrachtwagens doen als dat ook duurzamer en veiliger kan? Het zou goed zijn om transport over water en spoor nieuwe kansen te geven. Naast dat het duurzaam is, creëert het ook ruimte op onze volle wegen.
 
 ## Verder lezen
 
