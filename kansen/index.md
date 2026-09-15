@@ -24,7 +24,7 @@ Het oplossen van grote opgaven kost tijd, ruimte en geld: allemaal schaarse zake
 <li><b>Technologie:</b> groene mobiliteit, circulaire infrastructuur en slimme mobiliteit.</li>
 <li>Gedragsverandering is hierbij cruciaal.</li>
 </ul>
-<p class="toelichting">Snelstudies zijn onderdeel van de [Kennis Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/) en dienen ter inspiratie voor gedeputeerden, Statenleden & beleidsmedewerkers van de provincie en wethouders, raadsleden & beleidsmedewerkers van gemeenten.</p>
+<p class="toelichting">Snelstudies zijn onderdeel van de <a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/">Kennis Zuid-Holland</a> en dienen ter inspiratie voor gedeputeerden, Statenleden & beleidsmedewerkers van de provincie en wethouders, raadsleden & beleidsmedewerkers van gemeenten.</p>
 </div>
 
 ## Negen kansen

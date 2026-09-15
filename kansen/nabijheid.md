@@ -69,4 +69,6 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 
 {% include leesmeer.html title="De ideale woonwijk, nabij voorzieningen en OV" url="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-ideale-woonwijk-nabij-voorzieningen-ov/" image="/mobiliteit/kansen/img/eerdere/ideale-woonwijk.jpg" %}
 
+{% include leesmeer.html kop="Lees meer in het verhaal" title="Bouwen aan een gezonde, toekomstbestendige leefomgeving" tekst="Een veerkrachtige stad ontstaat als we positieve gezondheid leidend maken in hoe we ruimte vormgeven." url="https://storymaps.arcgis.com/stories/15d0019ae9214b5282e9fbac67f0b2a8" image="/mobiliteit/kansen/img/eerdere/gezonde-leefomgeving-storymap.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

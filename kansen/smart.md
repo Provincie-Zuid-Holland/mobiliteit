@@ -51,4 +51,8 @@ Drones ('vervoer door de lucht') kunnen helpen bij het bezorgen van spoedeisende
 
 Bedrijven, overheden en andere organisaties verzamelen steeds meer data. Ook op het vlak van mobiliteit. Dat doen ze bijvoorbeeld met boordcomputers, GPS, infrarood, sensoren en tellussen. Zo ontstaan er talloze gegevens over gebruik van vervoerswijzen en wegen, gebruikers, gedrag van reizigers, technische staat van infrastructuur, enzovoort. Uit die vele data ('big data') kun je allerlei patronen en tendensen herleiden. Daarmee kunnen overheden en bedrijven hun voordeel doen om beleid te maken of bij te stellen en diensten te ontwikkelen. De provincie voert een modern databeleid en nodigt alle partijen uit om data te verzamelen, te delen en te veredelen. In het programma 'Digitalisering Overheden' werken we samen aan de Data Top-15. Ook werken we via het [Nationaal Dataportaal Wegverkeer (NDW)](https://www.ndw.nu/) aan het Nationaal Wegenbestand. Deze overheidsorganisatie heeft ook alle verkeersborden laten inscannen. Navigatiesystemen maken dankbaar gebruik van NDW-data.
 
+## Verder lezen
+
+{% include leesmeer.html kop="Lees meer" title="Visie personenmobiliteit over de weg (ANWB, 2021)" tekst="De ANWB wil dat het autoverkeer in 2050 veilig, schoon, efficiënt en inclusief is en bouwt die visie op uit zes bouwstenen: robuuste infrastructuur, elektrisch rijden, de vraag spreiden door betalen naar gebruik, datagedreven verkeersmanagement, autonoom rijden, en hubs met deelmobiliteit." url="https://www.anwb.nl/belangenbehartiging/mobiliteit/visie-personenmobiliteit-over-de-weg" image="/mobiliteit/kansen/img/eerdere/anwb-visie-personenmobiliteit.jpg" %}
+
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>
