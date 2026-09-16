@@ -17,7 +17,7 @@ block-level element als eerste tag laat kramdown het hele blok met rust.
     </div>
     <div class="item-right">
       <p class="leesmeer-kop">{{ include.kop | default: "Lees meer in de snelstudie" }}</p>
-      <h2>{{ include.title }}</h2>
+      <h3>{{ include.title }}</h3>
       {%- if include.tekst %}<p class="leesmeer-tekst">{{ include.tekst }}</p>{% endif -%}
     </div>
   </div>
