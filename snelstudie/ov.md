@@ -106,317 +106,7 @@ In de bijlage zoomen we in op een aantal onderdelen die we hieronder al kort noe
 
 {% include klikblok.html img="img/img-ov/hubs.jpg" title="Haltes en hubs" url="#hubs" text="Vormen de schakel voor een soepele overstap" %}
 
-### 4.1 Buurtbus: vijf sterke punten {#buurtbus}
-De buurtbus stamt af van de Britse *community bus*. In Nederland rijdt hij sinds 1977 in landelijke gebieden met te weinig reizigers voor een gewone bus. Vrijwillige chauffeurs, vaak gepensioneerden, besturen de buurtbus. Per rit kunnen er maximaal acht passagiers mee in het 9-persoonsbusje. Nederland telt nu zo'n tweehonderd, meestal succesvolle buurtbusprojecten. Per project is er een vereniging van 25 tot 40 vrijwilligers actief: een bestuur en chauffeurs. De buurtbus rijdt vaak één keer per uur volgens dienstregeling. Meestal sluit hij op een halte of station aan op ander OV. Vanwege de vrijwilligers en kleinere bus is het laten rijden van een buurtbus goedkoper dan een gewone bus. Een buurtbusproject kost ongeveer 50.000 tot 70.000 euro per jaar. Die kosten zijn uiteindelijk voor de provincie. Soms betalen gemeente(n) of sponsors mee. Het OV-bedrijf stelt het busje in OV-huisstijl beschikbaar.
-
-{% include blok.html
-   img="img/img-ov/buurtbus.jpg"
-   title="Voordelen van de buurtbus"
-   text="+ landelijke formule: bijna iedereen kent hem<br>+ makkelijk te vinden: dienstregeling zit in OV-reisplanners<br>+ je hoeft niet van tevoren te reserveren, zoals bij flextaxi's<br>+ betaalbaar voor zowel reiziger als overheid<br>+ geworteld in de samenleving: chauffeurs kennen hun klanten" %}
-
-Omdat de vrijwilligers uit de buurt komen, geeft het reizigers de kans om een praatje te maken. Zo krijgt de buurtbus ook een sociale functie. Sommige buurtbusverenigingen hebben het na corona moeilijk om voldoende vrijwilligers te werven en te houden. Meer achtergrond staat in het [Handboek buurtbus](https://www.crow.nl/kennisproducten/handboek-buurtbus) van CROW.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Meer buurtbussen mogelijk maken en buurtbusverenigingen steunen.
-
-</div>
-
-### Even tussendoor: hubs zijn knooppunten {#hubs}
-Hub is de hippe naam voor een knooppunt waar verschillende vormen van vervoer samenkomen: OV, flextaxi's en deelvervoer. Je kunt er overstappen, je fiets of auto parkeren, je e-bike of e-auto opladen of een deelfiets of deelauto pakken. En liefst ook naar de wc, een kop koffie kopen, water tappen of een pakketje ophalen/achterlaten. Goede voorbeelden zijn de hubs in [Gieten](https://www.reisviahub.nl/hubs/gieten-ov-knooppunt-n33-n34/) en Borger langs HOV-buslijn 300 van Groningen naar Emmen. Bij station Rotterdam Centraal is een kleinere deelvervoerhub te vinden.
-
-{% include blok.html
-   img="img/img-ov/hubs.jpg"
-   title="Kansrijk maar complex"
-   text="Veel provincies en grotere gemeenten werken aan hub-beleid, maar de meeste hubs bestaan alleen nog op papier. Ze zijn [kansrijk maar complex](https://www.kimnet.nl/actueel/nieuws/2021/05/31/de-mobiliteitshub-een-kansrijk-maar-complex-beleidsinstrument), aldus kennisinstituut KiM. Zo is er onzekerheid over de kosten van aanleg, exploitatie en beheer. Hubs kunnen werken voor verschillende schaalniveaus: buurt, wijk, stad of regio. Een hub kan ook gewoon een busstation zijn met extra voorzieningen." %}
-
-### 4.2 Taxi: twee hoofdvormen {#taxi}
-
-1. **taxi**: één taxi per rit (commercieel vervoer)
-2. **deeltaxi/flextaxi**: taxibusje voor verschillende reizigers/ritten (gesubsidieerd doelgroepenvervoer).
-
-**Flextaxi: vraagafhankelijk OV**  
-Een flextaxi is een deeltaxi (busje of personenauto) die vraagafhankelijk rijdt, dus alleen als reizigers zich van tevoren hebben aangemeld (per app of telefoon). Zo voorkom je dat voertuigen leeg rondrijden. Als dat past voor de route, worden ritten van verschillende reizigers gecombineerd. Hoe hoger deze 'combinatiegraad', hoe efficiënter deze flex- of deeltaxi. Daardoor – en ook door subsidie – kan een deeltaxirit minder duur zijn dan een gewone taxirit.
-
-Vraagafhankelijk OV kent [veel varianten](https://www.crow.nl/thema-s/collectief-vervoer/flexwaaier): wel of geen vaste lijn, wel of geen vaste dienstregeling, wel of geen vaste haltes, deur-halte (hoger tarief dan OV-tarief), halte-halte, halte-hub en zelfs deur-deurvervoer (taxitarief). De uitvoering van vraagafhankelijk vervoer ligt meestal bij regionale taxibedrijven, de regie meestal bij een regiecentrale. Nadeel is dat deeltaxi's vaak niet te herkennen zijn als onderdeel van het OV. Vraagafhankelijk OV opereert ook onder namen als Belbus, Halte- en Hubtaxi, OV-op-Maat of Regiotaxi.
-
-{% include blok.html
-   img="img/img-ov/flextaxi.webp"
-   title="Voor- en nadelen flextaxi"
-   text="+ rijdt alleen als de reiziger zich heeft aangemeld (per app of telefoon)<br>+ vaak rechtstreekse rit<br>+ vaak snelste route<br>&ndash; vaak duurder dan dezelfde reis per OV<br>&ndash; minimaal een of twee uur van tevoren reserveren<br>&ndash; vooraf reserveren is een drempel waardoor veel OV-reizigers afhaken (40 tot 60 procent)<br>&ndash; de flextaxi kan een kwartier eerder tot een kwartier later komen<br>&ndash; de flextaxi moet soms omrijden om andere reizigers op te pikken of af te zetten<br>&ndash; je weet niet zeker hoelang je reis gaat duren<br>&ndash; je weet niet zeker of je een eventuele OV-aansluiting haalt<br>&ndash; te weinig capaciteit bij plotselinge drukte of piek (evenement, slecht weer)" %}
-
-<div class="uitklap">
-<details name="ov-taxi"><summary>Taxi: ook Uber en Bolt</summary>
-<p>Sinds 2012 rijdt <a href="https://www.uber.com/nl/nl/">Uber</a> in Nederland, vooral in grotere steden. En ook <a href="https://bolt.eu/nl/">Bolt</a> in tien grote steden, zoals Den Haag en Rotterdam. Hun apps werken als taxicentrale: zij verbinden klanten met taxichauffeurs en privéchauffeurs. Ubers en Bolts zijn een comfortabele manier om van deur tot deur te reizen. Het tarief is hoger dan van het OV maar lager dan van een traditionele (straat)taxi. Overigens zijn er in steeds meer landelijke gebieden geen of nauwelijks taxi's meer te krijgen, omdat die markt te klein is geworden.</p>
-</details>
-<details name="ov-taxi"><summary>Halte- en Hubtaxi</summary>
-<p>Provincies als Groningen/Drenthe, Noord-Brabant en Zeeland hanteren deze eigen varianten op de flextaxi, namen die waarschijnlijk gangbaar gaan worden:</p>
-<ol>
-<li><strong>Haltetaxi</strong>: taxi van halte naar halte</li>
-<li><strong><a href="https://ovbureau.nl/hubtaxi/">Hubtaxi</a></strong>: taxi van halte naar hub/knooppunt/station (voor aansluiting op OV).</li>
-</ol>
-<p>Let op: volgens de Wet personenvervoer 2000 rijdt OV van halte naar halte volgens dienstregeling. Een door de overheid gesubsidieerde OV-taxi mag in het kader van mededingingsregels niet van deur tot deur rijden, omdat hij anders oneerlijk zou concurreren met een commerciële taxi die géén subsidie ontvangt.</p>
-</details>
-<details name="ov-taxi"><summary>Doelgroepenvervoer van gemeenten, Rijk &amp; zorgverzekeraars</summary>
-<p>Het grootste deel van de taximarkt is het vervoer van 'doelgroepen':</p>
-<ol>
-<li><strong>In opdracht van gemeenten</strong>: vervoer naar dagbesteding (Jeugdwet), naar speciaal onderwijs, naar sociale werkvoorziening (Participatiewet) en regionaal vervoer voor geïndiceerde ouderen en mensen met een beperking (Wet maatschappelijke ondersteuning).</li>
-<li><strong>In opdracht van het Rijk</strong>: bovenregionaal vervoer voor geïndiceerde ouderen en mensen met een beperking (<a href="https://valys.nl">Valys</a>), naar dagbesteding/dagbehandeling (Wet langdurige zorg) en naar werk (Wet werk en inkomen naar arbeidsvermogen).</li>
-<li><strong>In opdracht van zorgverzekeraars</strong>: naar instelling of zorgverlener (zittend ziekenvervoer).</li>
-</ol>
-</details>
-<details name="ov-taxi"><summary>Alle taxibusjes voor iedereen?</summary>
-<p>In het doelgroepenvervoer gaat bijna net zoveel subsidie om als in het OV. Steeds meer gemeenten proberen uit oogpunt van lagere kosten en meer zelfredzaamheid hun Wmo'ers – al dan niet met ondersteuning van <a href="https://haltetaxi.rrreis.nl/OV-ambassadeurs">OV-ambassadeurs</a> en/of apps – met het OV te laten reizen. Een voorbeeld is de Voor Elkaar Pas van vervoerder Arriva in de Achterhoek en Limburg. Pashouders mogen gratis een begeleider meenemen.</p>
-<p>Een ideaalbeeld is om álle taxibusjes voor iedereen beschikbaar te maken. Dat heet 'ontschotten' (op één hoop vegen), ook van de bijbehorende subsidies. Ontschotting eist samenwerking tussen Rijk, gemeenten en zorgverzekeraars, los van de vraag of alle doelgroepen wel bij elkaar in een busje willen en (qua reiswensen) passen. Zie ook het <a href="https://muconsult.nl/cases/onderzoek-publieke-waarde-van-wmo-en-hubtaxi-in-maas/">onderzoek naar de publieke waarde van Wmo- en hubtaxi</a> van MuConsult.</p>
-</details>
-<details name="ov-taxi"><summary>Zes succesfactoren voor flextaxi's</summary>
-<ol>
-<li><strong>Geen vooraanmeldtijd.</strong> Succesvol flexvervoer kent (in het buitenland) geen minimale vooraanmeldtijd, terwijl reizigers in Nederland zich vaak minimaal een of twee uur van tevoren moeten aanmelden. Omdat een voertuig eerst naar de instapplek moet rijden, zal er altijd wachttijd zijn: gemiddeld zo'n 20 minuten.</li>
-<li><strong>Eenvoudig boeken &amp; betalen.</strong> Meer gebruiksgemak krijg je ook als reizigers eenvoudig kunnen boeken en betalen. Bijvoorbeeld via een MaaS-app of via <a href="https://www.ovpay.nl">OVpay</a> (OV-chipkaart, bankpas, creditcard of smartphone).</li>
-<li><strong>Samenhang met OV.</strong> Flexvervoer opnemen in het OV vergroot de kans op succes. Zorg dat het flexvervoer aansluit op lijndiensten, zowel fysiek (op haltes, hubs, knooppunten, stations) als digitaal (in reisinformatie).</li>
-<li><strong>Geen vaste route.</strong> Een vaste route beperkt de flexibiliteit. Software om efficiënt routes te plannen en ritten te combineren wordt steeds slimmer. Hanteer wel een netwerk van (echte of virtuele) haltes.</li>
-<li><strong>Breed bekend &amp; marketing.</strong> Een (nieuw) vervoersysteem moet breed (liefst landelijk) bekend zijn, bijvoorbeeld met marketing onder scholieren, forensen, dagjesmensen en ouderen. Kies voor een uniforme, bij het OV passende uitstraling (naam, huisstijl, voertuigen).</li>
-<li><strong>Betrouwbaar &amp; garanties.</strong> Maak het flexvervoer betrouwbaar en geef reizigers garanties: op vaste dagen en tijden beschikbaar, je haalt je aansluiting op de trein. Geef veranderingen tijdig door aan huidige en potentiële reizigers.</li>
-</ol>
-<p>(samenvatting van de whitepaper 'Flexvervoer – het streekvervoer van de toekomst' van bureau Berenschot)</p>
-</details>
-</div>
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Mogelijkheden verkennen voor het combineren van Wmo-taxibusjes én OV tot publiek vervoer.
-- De vervoervraag in beeld brengen, kijken naar de behoeften van de reiziger (én de net-niet-reiziger) en daar aanvullend OV op inrichten en blijven verbeteren.
-
-</div>
-
-### 4.3 Vlinder: brug tussen bus en flextaxi {#vlinder}
-De [Vlinder](https://www.arriva.nl/over-je-reis/met-de-bus/met-de-arriva-vlinder) is een 9-persoons taxibusje dat 's avonds klaarstaat bij een station (of HOV-knooppunt) en volgens dienstregeling gaat rijden als er (trein)reizigers aankomen die naar huis willen. Mensen die op andere haltes of opstappunten willen instappen, moeten kort van tevoren reserveren (per app of telefoon). Gemiddeld duurt het dan 12 minuten voordat het busje arriveert. Daarmee vormt de Vlinder een brug tussen bus (rijden volgens dienstregeling) én flextaxi (vooraf reserveren). De Vlinder wordt ook wel 'de Uber van het OV' genoemd.
-
-{% include blok.html
-   img="img/img-ov/vlinder.webp"
-   title="Voor- en nadelen Vlinder"
-   text="+ staat 's avonds klaar op station of ander knooppunt (overdag lijnbus)<br>+ vertrekt in principe elk half uur volgens dienstregeling, in aansluiting op aankomst (H)OV<br>+ vaak kortere, snellere route (dan buslijn) naar de uitstaphalte<br>+ bij reizigersgroei weer makkelijk terug te schalen naar buslijn<br>+ mooie mix van OV en taxi (potentie voor reizigersgroei)<br>&ndash; voor de route naar het station wél altijd reserveren (kan kort van tevoren)<br>&ndash; alleen nog aangeboden door vervoerder Arriva" %}
-
-<div class="uitklap">
-<details name="ov-vlinder"><summary>Uber van het OV</summary>
-<p>De Vlinder rijdt dus alleen 's avonds, als er te weinig reizigers zijn voor een gewone lijnbus, zoals die overdag rijdt. De software berekent continu de efficiëntste route. Het kan dus zijn dat hij een deel van de route overslaat als daar geen reizigers willen in- of uitstappen. De Vlinder rijdt inmiddels in Alphen aan den Rijn, Doetinchem, Hengelo, Laren, Leeuwarden, Lochem, Sittard, Tiel, Venlo en Zaltbommel. Het aantal Vlinderreizigers <a href="https://www.ovmagazine.nl/article/arriva-geeft-boost-aan-flexibele-vlinder-2">groeit</a>. De Vlinder is nu van vervoerder Arriva. Een soortgelijke vervoerformule kan ook worden ingezet vanaf andere knooppunten, bijvoorbeeld hubs of busstations (zoals Heinenoord in de Hoeksche Waard), als je zo'n formule als provincie maar uitvraagt in je OV-aanbesteding.</p>
-</details>
-<details name="ov-vlinder"><summary>Overdag ander OV dan 's avonds</summary>
-<p>Een nieuw inzicht is om het OV overdag anders in te richten dan 's avonds en in het weekend, omdat de vervoervraag dan anders is. Overdag vooral gestrekte HOV-lijnen, gewone buslijnen en scholierenlijnen die scholen, werklocaties en stations bedienen; 's avonds vooral HOV-lijnen en gewone buslijnen, vanaf knooppunten aangevuld met Vlinder-achtige taxibusjes die dieper in kernen komen en mensen dus dichter bij huis oppikken en afzetten.</p>
-</details>
-</div>
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Nadenken over het inzetten van Vlinder-achtige taxibusjes vanaf knooppunten.
-- Vlinder-achtige taxibusjes uitvragen in nieuwe OV-concessies.
-
-</div>
-
-### 4.4 ANWB AutoMaatje en andere lokale initiatieven
-Een bekende lokale vervoervorm is [ANWB AutoMaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/mobiliteit/automaatje). Daarbij vervoeren vrijwillige chauffeurs minder mobiele plaatsgenoten voor 35 cent per kilometer. ANWB AutoMaatje is actief in 115 gemeenten, waaronder Hoeksche Waard en Goeree-Overflakkee.
-
-<div class="uitklap">
-<details name="ov-lokaal"><summary>Voor- en nadelen AutoMaatje</summary>
-<p>+ landelijke formule (veel mensen kennen het)<br>+ goed voor zelfredzaamheid &amp; sociaal contact<br>+ particulier initiatief<br>&ndash; minimaal 24 uur van tevoren aanmelden (niet flexibel)<br>&ndash; niet voor iedereen</p>
-</details>
-<details name="ov-lokaal"><summary>Meer lokale vervoerinitiatieven</summary>
-<p>Er bestaan meer lokale vervoerinitiatieven. Zij mikken vaak op mensen zonder eigen vervoer, zoals senioren zonder auto of mensen met een beperking. De diensten worden aangeboden door dorpsraden of -verenigingen, kerken, welzijnsorganisaties of ziekenhuizen. Het gaat vooral om deur-deur- of deur-bestemmingvervoer (activiteit, supermarkt, uitje, ziekenhuis). Doelgroepen en reisdoelen overlappen met Wmo-vervoer. Verschillen zijn er ook: uitgevoerd door vrijwilligers, geen commercieel karakter en geen onderdeel van de provinciale OV-concessie of het gemeentelijke deeltaxicontract. Soms ontvangen lokale initiatieven subsidie. Door corona en de hogere pensioenleeftijd lukt het niet om overal en altijd voldoende vrijwilligers te vinden en te behouden.</p>
-<p>Verder lezen: <a href="https://indd.adobe.com/view/da283abc-493d-4f21-9bca-82e90b779db3">Kleine Kernen Magazine, themanummer mobiliteit</a>.</p>
-</details>
-</div>
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Nadenken of we als provincie of met gemeenten vervoersystemen met vrijwilligers (AutoMaatje, lokale initiatieven) willen steunen — goedkoop en sociaal — of juist niet: minder betrouwbaar en minder geschikt voor bezoekers van buiten de regio.
-- Zo ja, deze initiatieven steunen met beleid, ondersteuning en zo nodig subsidie.
-- Erop aandringen dat deze vervoervormen vindbaar zijn (aanmelden, vervoersoort, tarieven, voorwaarden) in reisplanners en ook beschikbaar zijn voor mensen van buiten de regio.
-
-</div>
-
-### 4.5 Zelfrijdende bus: toekomstmuziek
-Aanvullingen op het OV zijn te verdelen in zelf sturen (eigen fiets, deelvervoer) en je laten rijden (meerijden). We maken dit onderscheid omdat arbeid al snel de grootste kostenpost is. Zo vormt de buschauffeur – naast de afschrijving en energie voor de bus – bijna 70 procent van de totale kosten in het OV. Zelfrijdende bussen zijn nog toekomstmuziek en worden naar schatting hooguit 30 procent goedkoper in het gebruik, omdat deze futuristische bussen duurder zullen zijn in aanschaf en hogere kosten zullen kennen voor hard- en software.
-
-### 4.6 Zelf sturen: eigen vervoer en deelvervoer
-
-**Hele reis met eigen vervoer**  
-Als mensen de hele reis met eigen vervoer (fiets, auto) afleggen, hebben ze geen OV nodig. Met de opkomst van de e-bike (elektrisch ondersteunde fiets tot 25 km/u) is de afstand die je per fiets kunt overbruggen gegroeid: van zeg 5 à 7 naar 12 à 15 kilometer. De e-bike kan daarmee in principe ook autoritten vervangen. Zo'n e-bike kan verder een uitkomst zijn voor jongeren die in landelijk gebied naar school gaan. De speed pedelec (e-bike tot 45 km/u) vergroot de actieradius nóg verder: tot 15 à 20 kilometer.
-
-<div class="uitklap">
-<details name="ov-zelf"><summary>Kanttekeningen bij de e-bike</summary>
-<p>&ndash; meer fietsers met hogere snelheden, dus meer kans op ongevallen<br>&ndash; meer snelheidsverschil op het fietspad, dus meer letsel bij ongevallen<br>&ndash; ouderen boven de 70 zijn kwetsbaar in het verkeer, ook op de fiets<br>&ndash; niet iedereen wil op de e-bike als het koud, nat en donker is</p>
-</details>
-<details name="ov-zelf"><summary>STOP: Stappen, Trappen, OV &amp; Personenauto</summary>
-<p>Nabijheid van voorzieningen (scholen, werk, winkels, zorg) zorgt ervoor dat mensen makkelijker kunnen lopen en fietsen. Steeds meer overheden omarmen het uit Vlaanderen overgewaaide <a href="https://www.duurzame-mobiliteit.be/">STOP-principe</a>: Stappen, Trappen, OV en Personenauto. Oftewel lopen, fietsen, OV en auto, in díe volgorde: eerst actieve vervoerwijzen, dan collectief vervoer en tot slot pas de individuele auto. Sommigen spreken ook van STOMP, met de M van mobiliteitsdiensten, zoals deelvervoer.</p>
-<p><strong>collectief vervoer</strong>: meer veiligheid, minder vrijheid, duurzamer<br><strong>individueel vervoer</strong>: meer vrijheid, minder veiligheid, auto minder duurzaam</p>
-</details>
-</div>
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Nabijheid van voorzieningen stimuleren (ruimtelijke ordening, de '[15-minutenwijk](nabijheid.html)').
-- Lopen en fietsen stimuleren: betere en meer wandel- en fietspaden, uitgebreide wandel- en fietsnetwerken, betere en meer stallingen, veiliger oversteken van drukke wegen.
-
-</div>
-
-**Eerste deel van de reis met eigen vervoer**  
-Bij een reis met het OV hoort de vraag hoe je naar de (opstap)halte komt. Dat heet voortransport of *first mile*. Als de halte of het station dichtbij is, lopen of fietsen de meeste mensen erheen.
-
-<div class="voorbeeld voorbeeld--geel" markdown="1">
-
-**Van huis naar NS-station**  
-30 procent lopen · 40 procent fietsen · 20 procent OV · 10 procent auto  
-(bron: [Fietsfeiten 2023](https://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023), KiM)
-
-</div>
-
-Van de busreizigers loopt 80 procent naar de halte. Buslijnen met een hogere frequentie en snelheid, zoals R-net, trekken in het voortransport grofweg [twee keer zoveel fietsers](https://www.ovmagazine.nl/nieuws/hov-bus-trekt-twee-keer-zoveel-fietsers) (20 procent) als gewone buslijnen (10 procent).
-
-**P+R: Parkeren + Reizen**  
-Een combinatie van individueel plus collectief vervoer is P+R: je auto parkeren en verder reizen met het openbaar vervoer. Je combineert dan *individuele* voordelen van de auto (voor de deur instappen, vertrekken wanneer je wilt) met *collectieve* voordelen van het OV (snel de stad in, geen parkeergedoe). P+R is vooral aantrekkelijk als er genoeg parkeerruimte is, parkeren gratis of goedkoop is, het overstappen snel en gemakkelijk verloopt en het OV frequent rijdt. Een P+R heet soms ook [transferium](https://nl.wikipedia.org/wiki/Transferium). Maatschappelijk nadeel is dat een P+R veel schaarse (parkeer)ruimte bij stations vraagt voor relatief weinig reizigers, zeker vergeleken met fietsenstallingen.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Meer bouwen bij HOV-haltes en stations (ruimtelijke ordening, 'verdichting').
-- Lopen en fietsen naar halte of station stimuleren: logische looproutes, betere fietspaden, goede stallingsmogelijkheden.
-- HOV bevorderen: meer lijnen, hogere snelheid, hogere frequenties, probeeracties.
-- P+R-haltes, -stations en -terreinen (ook wel: hubs) aanleggen, verbeteren en vergroten, als andere manieren om het station te bereiken onvoldoende zijn.
-
-</div>
-
-**Laatste deel van de reis met een deelfiets**{: #deelfiets}  
-Het laatste stuk van een OV-reis – van uitstaphalte of eindstation naar je bestemming – noemen we natransport of *last mile*. Van uitstaphalte of eindstation loopt ruim de helft van de mensen (tot zo'n anderhalve kilometer) naar hun bestemming.
-
-<div class="voorbeeld voorbeeld--geel" markdown="1">
-
-**Van NS-station naar bestemming**  
-60 procent lopen · 10 procent fietsen (weinig mensen hebben daar een eigen fiets) · 25 procent OV · 5 procent auto  
-(bron: [Fietsfeiten 2023](https://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023), KiM)
-
-</div>
-
-Deelfietsen zijn ideaal voor een iets langer laatste stuk van je reis: tot circa 3 kilometer, of ongeveer 5 à 7 kilometer met een e-deelfiets. Je stapt uit de trein, metro of bus en hup, de deelfiets op. Een deelfiets is een huurfiets die je betaalt per tijdseenheid (minuut, uur, dag) met een app of OV-chipkaart. Gezien het grote verschil tussen het hoge fietsgebruik 'naar de opstaphalte' en het lage fietsgebruik 'vanaf de uitstaphalte' ligt er veel potentie voor de fiets in het natransport. De [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), te vinden op de meeste stations en enkele andere OV-knooppunten, is de bekendste deelfiets.
-
-{% include blok.html
-   img="img/img-ov/donkeyapp.png"
-   title="Voor- en nadelen OV-fiets"
-   text="+ landelijke formule<br>+ snel en gemakkelijk te huur<br>+ tarief te vergelijken met twee busritten<br>&ndash; te duur bij frequent gebruik (niet interessant voor forensen en studenten)<br>&ndash; hij moet weer terug naar het uitgiftepunt<br>&ndash; voor te weinig reizigers beschikbaar; regelmatig op bij drukte of mooi weer<br>&ndash; niet te huur in landelijk gebied, zoals Hoeksche Waard of Goeree-Overflakkee" %}
-
-Naast de beschikbaarheid van deelfietsen op bushaltes (meestal niet) kan de afstand tot de bestemming een uitdaging zijn in landelijk gebied: soms is het te ver om te fietsen.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Zorgen voor deelfietsen als de OV-fiets (of e-bikes bij grotere afstanden tot bestemmingen) op drukkere HOV-haltes, hubs en knooppunten — zoals busstation Heinenoord, Oude-Tonge en Stellendam — en op fietsafstand van bedrijventerreinen.
-- Zorgen dat deelfietsen makkelijk en voordelig zijn te gebruiken, ook bij regelmatig gebruik.
-- Zorgen dat deelfietsen flexibel zijn te gebruiken (op meer locaties zijn achter te laten).
-- Zorgen dat er altijd vervoer is voor je terugreis.
-- Zorgen dat deelfietsen geen overlast of verrommeling veroorzaken (deelfietsparkeerbeleid).
-
-</div>
-
-**Hele reis met deelvervoer op twee wielen**  
-Je kunt ook een deelfiets of deelscooter voor de héle reis gebruiken. In steden als Rotterdam en Den Haag zien we de deelscooter al concurreren met bus, tram en fiets. Kanttekening: scooters zijn relatief vaak betrokken bij ongevallen.
-
-Deelfietsen, deelscooters en deelauto's zijn tot nu toe commerciële producten van marktpartijen. Het neerzetten van deelvervoermiddelen in landelijk gebied is voor hen vaak niet rendabel, omdat het gebruik daar lager ligt dan in stedelijk gebied. Als een overheid deelvervoer wil als aanvulling op het OV, dan kan zij een contract sluiten met een of meer aanbieders. Dat kost de provincie en gemeenten uiteraard wel tijd en geld.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Nadenken of we als overheden ook deelvervoer willen in landelijk gebied en zo ja: wat, waar en wat dat de samenleving mag kosten.
-- Contracten sluiten met (en/of subsidie verlenen aan) aanbieders van gewenst deelvervoer.
-
-</div>
-
-**Hele reis met een deelauto**{: #deelauto}  
-Deelauto's, bijvoorbeeld van [Greenwheels](https://www.greenwheels.com/) en [MyWheels](https://mywheels.nl/), zijn vaak te vinden in centra, dicht bij huis ('buurthub') in woonwijken en bij stations. Je gebruikt ze voor de heen- en terugreis. Steeds meer deelauto's zijn elektrisch.
-
-{% include blok.html
-   img="img/img-ov/deelauto.jpg"
-   title="Voor- en nadelen deelauto"
-   text="+ je betaalt alleen voor de tijd en kilometers die je gebruikt<br>+ geen omkijken naar afschrijving, onderhoud en wegenbelasting<br>+ vaak een vaste parkeerplek voor de deelauto<br>+ een deelauto wordt intensiever gebruikt dan een privéauto en vraagt daardoor minder ruimte<br>+ je hebt zelf geen (tweede) auto meer nodig<br>+ deelautorijders maken een bewustere keuze en gebruiken daardoor vaker fiets en OV<br>&ndash; je moet een deelauto reserveren om niet mis te grijpen<br>&ndash; een deelauto is relatief duur per uur en per kilometer (niet interessant als je veel rijdt)<br>&ndash; een deelauto is nauwelijks beschikbaar in landelijk gebied" %}
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Deelautogebruik bevorderen met beleid, parkeervergunningen en promotieacties.
-
-</div>
-
-### 4.7 Meerijden: iemand anders stuurt {#meerijden}
-Bij 'meerijden' stap je in bij een chauffeur die de rit zonder medereizigers ook zou hebben gemaakt. Voorbeelden zijn carpoolen en liften.
-
-**Carpoolen**  
-Bij carpoolen rijden bijvoorbeeld collega's op vaste dagen of tijden met elkaar mee naar het werk. Dat kan op initiatief van werknemers zelf of van de werkgever, vaak vanuit het oogpunt van kostenbesparing en/of kilometervermindering. Dankzij dienstverleners zoals [BlaBlaCar](https://www.blablacar.nl), [Nabogo](https://nabogo.com) (Denemarken), [RezoPouce](https://www.rezopouce.fr/) (Frankrijk) en [Toogethr](https://www.toogethr.com/) wordt het steeds makkelijker om ritten te delen, ook met onbekenden. In opdracht van overheden kan Nabogo bijvoorbeeld 10 cent per kilometer betalen aan automobilisten die iemand via de app mee laten rijden. Toogethr neemt werkgevers ook een deel van de administratie uit handen.
-
-**Liften**  
-Een klassieke vorm van meerijden is liften, waarbij reizigers zich langs de weg opstellen voor een rit. Een aantal gemeenten, zoals Nijmegen en die in De Kempen, hebben weer oog voor liften. Vooral voor incidentele en langere reizen geldt liften als geschikte vervoerwijze. [Stichting NederlandLift](https://nederlandlift.nl/) zet zich in om liften meer bekendheid te geven, vooral bij gemeenten.
-
-{% include blok.html
-   img="img/img-ov/carpool.jpg"
-   title="Voor- en nadelen"
-   text="**Carpoolen**<br>+ meer mensen per voertuig (duurzamer)<br>+ relatief goedkoop<br>&ndash; je moet afspraken maken<br>&ndash; minder flexibiliteit &amp; vrijheid<br><br>**Liften**<br>+ flexibel<br>+ gratis<br>&ndash; je weet niet hoe je reis verloopt (aantal ritten, totale reisduur, aankomstplek)<br>&ndash; je weet niet wat voor chauffeur je treft (sociale veiligheid)" %}
-
-Met de komst van apps vervaagt het onderscheid tussen carpoolen en liften. Carpoolen is meer 'afgesproken werk' met bekenden, terwijl liften spontaner is met onbekenden.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Meeliften met proeven, zoals Nabogo in Drechtsteden, West-Brabant en Zeeland.
-- Gemeenten helpen met het ontwikkelen van lokale lift- en carpoolinitiatieven.
-- Lift- en carpoolplaatsen inrichten, bijvoorbeeld bij busstations en hubs.
-- Liften en carpoolen meer onder de aandacht brengen.
-
-</div>
-
-### 4.8 Hulpmiddelen voor reizigers: reisplanners, MaaS-apps & regiecentrale {#hulpmiddelen}
-Als je als reiziger naast OV ook flex- en deelmobiliteit wilt gebruiken, moet je natuurlijk wel weten dat het bestaat, hoe je het gebruikt, wat het kost en hoe je het boekt. Dat kan met grofweg drie hulpmiddelen: reisplanners, MaaS-apps en regiecentrales.
-
-**Reisplanners: steeds meer flex- en deelvervoer**  
-Steeds meer OV-reisplanners, zoals [9292](https://9292.nl) en de [NS-reisplanner](https://www.ns.nl/reisplanner), verbreden zich met flex- en deelvervoer. Maar lang niet alle aanbieders van mobiliteit zijn al aangesloten. Dat hangt vaak samen met contracten/geld en actuele/open data. Flextaxi's zonder vaste dienstregeling en/of vaste haltes, opstappunten of routes laten zich soms lastig opnemen in reisplanners.
-
-**MaaS: app voor plannen, boeken & betalen**  
-[Mobility as a Service](https://www.tno.nl/nl/digitaal/intelligent-verkeer-vervoer/maatschappelijke-impact/mobility-as-service/) betekent: mobiliteit als dienst. En dus niet als product: je hoeft zelf geen vervoermiddelen te bezitten, maar kunt wel overal een fiets of auto gebruiken. Het OV ís al een dienst. Mobiliteit als dienst reikt verder: individueel én collectief vervoer dat je met ict aan elkaar knoopt, via je smartphone. Simpel gezegd: MaaS is een app waarmee je verschillende vervoervormen voor een reis kunt opzoeken, plannen, boeken/reserveren én betalen. En zo nodig kunt laten bijsturen als er onderweg onverhoopt iets misgaat.
-
-Via de nationale MaaS-proeven zijn de afgelopen jaren tal van MaaS-apps ontwikkeld. Veel kleinschalige vervoervormen zijn nog geen onderdeel van zulke apps. Ook kan het gebruiksgemak beter. Bekende MaaS-apps zijn [Gaiyo](https://gaiyo.com/), [Glimble](https://glimble.nl/) en [Tranzer](https://www.tranzer.com/). 9292 en de NS-reisplanner groeien ook uit tot MaaS-apps.
-
-{% include blok.html
-   img="img/img-ov/maas-pilot.jpg"
-   title="Regiecentrale: spreek de 'taal' van de reiziger"
-   text="Als een MaaS-app allerlei vervoervormen aan elkaar knoopt, moet dat vervoer (vooral van flextaxi's) ook geregeld worden. Dat kan via een regionale regiecentrale of mobiliteitsplatform. Het idee is dat ritten vooral digitaal worden geboekt. Maar een deel van de reizigers zal willen bellen. Dat moet ook kunnen. Belangrijk is dat medewerkers hun 'taal' spreken, dus ook het gebied, de vervoervormen en de voorwaarden op hun duimpje kennen." %}
-
-[Stroomlijn](https://www.stroomlijn.nl/wat-doet-stroomlijn) in Dordrecht is een goed voorbeeld van zo'n regionale regiecentrale: dat organiseert al het vervoer in de Drechtsteden voor mensen die niet makkelijk zelf kunnen reizen. De beoogde [Zeeuwse Mobiliteitscentrale](https://www.zeeland.nl/actueel/rijk-investeert-zes-miljoen-euro-om-publiek-vervoer-zeeland-mogelijk-te-maken) gaat nog verder: daar moet ál het met publiek geld georganiseerde vervoer samenkomen: openbaar vervoer, Wmo-vervoer, deelvervoer én leerlingenvervoer. De data komen (met waarborging van privacy) beschikbaar voor MaaS-dienstverleners. De Zeeuwse Mobiliteitscentrale ontschot vervoervormen en verdeelt de juiste geldstromen over de juiste partijen. Zo creëert deze mobiliteitscentrale publiek vervoer, is het idee.
-
-Om te voorkomen dat commerciële belangen van aanbieders de boventoon voeren, lijkt het logisch om ook in Zuid-Holland te kiezen voor een *publieke* regiecentrale, waarbij de overheid optreedt als marktmeester en maatschappelijke doelen kan nastreven.
-
-<div class="voorbeeld" markdown="1">
-
-**Wat kunnen we doen**
-
-- Zorgen dat alle data rond OV en publiek vervoer actueel en open zijn.
-- Bevorderen dat reisplanners ook flextaxi's en deelvervoer meenemen in reisadviezen.
-- Een (liefst landelijke) betrouwbare, complete en gebruiksvriendelijke MaaS-app uitvragen, al dan niet met andere overheden.
-- Een publiek regionaal mobiliteitsplatform oprichten voor online én telefonische boekingen.
-
-</div>
-
-## 5. Aanbevelingen
+## 4. Aanbevelingen
 
 <div class="uitklap">
 <details name="ov-1"><summary>Algemene aanbevelingen voor OV: versterk en garandeer snel &amp; frequent (H)OV</summary>
@@ -584,9 +274,321 @@ lokken.</li>
 </details>
 </div>
 
-## 6. Samenvatting & conclusie
+## 5. Samenvatting & conclusie
 
 {% include blok.html img="img/img-ov/praatplaat-klein.jpg" alt="Praatplaat publiek vervoer" text="Bij publiek vervoer verbreed je het OV met flextaxi's (ook van gemeenten), deelvervoer (van mobiliteitsaanbieders) en meerijden (vaak via apps), zodat reizigers meer vervoermogelijkheden krijgen. Als je dat als provincie wilt, is stap 1 het inbouwen van ruimte in aanbestedingen van OV-concessies, zodat je tijdens de volgende concessie kunt experimenteren. Bedenk wel dat publiek vervoer op dit moment nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking vraagt van de provincie dan alleen OV. Vergeet niet om het Hoogwaardig OV en de buslijnen met genoeg reizigers te versterken, omdat die vervoervormen het meest inclusief zijn: voor iedereen te gebruiken tegen relatief lage tarieven. En kijk goed naar bewezen, landelijke en simpele oplossingen als Buurtbus, OV-fiets en Vlinder. Want de reiziger moet altijd centraal staan." %}
+
+## Bijlage: de onderdelen nader bekeken
+
+### 1. Buurtbus: vijf sterke punten {#buurtbus}
+De buurtbus stamt af van de Britse *community bus*. In Nederland rijdt hij sinds 1977 in landelijke gebieden met te weinig reizigers voor een gewone bus. Vrijwillige chauffeurs, vaak gepensioneerden, besturen de buurtbus. Per rit kunnen er maximaal acht passagiers mee in het 9-persoonsbusje. Nederland telt nu zo'n tweehonderd, meestal succesvolle buurtbusprojecten. Per project is er een vereniging van 25 tot 40 vrijwilligers actief: een bestuur en chauffeurs. De buurtbus rijdt vaak één keer per uur volgens dienstregeling. Meestal sluit hij op een halte of station aan op ander OV. Vanwege de vrijwilligers en kleinere bus is het laten rijden van een buurtbus goedkoper dan een gewone bus. Een buurtbusproject kost ongeveer 50.000 tot 70.000 euro per jaar. Die kosten zijn uiteindelijk voor de provincie. Soms betalen gemeente(n) of sponsors mee. Het OV-bedrijf stelt het busje in OV-huisstijl beschikbaar.
+
+{% include blok.html
+   img="img/img-ov/buurtbus.jpg"
+   title="Voordelen van de buurtbus"
+   text="+ landelijke formule: bijna iedereen kent hem<br>+ makkelijk te vinden: dienstregeling zit in OV-reisplanners<br>+ je hoeft niet van tevoren te reserveren, zoals bij flextaxi's<br>+ betaalbaar voor zowel reiziger als overheid<br>+ geworteld in de samenleving: chauffeurs kennen hun klanten" %}
+
+Omdat de vrijwilligers uit de buurt komen, geeft het reizigers de kans om een praatje te maken. Zo krijgt de buurtbus ook een sociale functie. Sommige buurtbusverenigingen hebben het na corona moeilijk om voldoende vrijwilligers te werven en te houden. Meer achtergrond staat in het [Handboek buurtbus](https://www.crow.nl/kennisproducten/handboek-buurtbus) van CROW.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Meer buurtbussen mogelijk maken en buurtbusverenigingen steunen.
+
+</div>
+
+### Even tussendoor: hubs zijn knooppunten {#hubs}
+Hub is de hippe naam voor een knooppunt waar verschillende vormen van vervoer samenkomen: OV, flextaxi's en deelvervoer. Je kunt er overstappen, je fiets of auto parkeren, je e-bike of e-auto opladen of een deelfiets of deelauto pakken. En liefst ook naar de wc, een kop koffie kopen, water tappen of een pakketje ophalen/achterlaten. Goede voorbeelden zijn de hubs in [Gieten](https://www.reisviahub.nl/hubs/gieten-ov-knooppunt-n33-n34/) en Borger langs HOV-buslijn 300 van Groningen naar Emmen. Bij station Rotterdam Centraal is een kleinere deelvervoerhub te vinden.
+
+{% include blok.html
+   img="img/img-ov/hubs.jpg"
+   title="Kansrijk maar complex"
+   text="Veel provincies en grotere gemeenten werken aan hub-beleid, maar de meeste hubs bestaan alleen nog op papier. Ze zijn [kansrijk maar complex](https://www.kimnet.nl/actueel/nieuws/2021/05/31/de-mobiliteitshub-een-kansrijk-maar-complex-beleidsinstrument), aldus kennisinstituut KiM. Zo is er onzekerheid over de kosten van aanleg, exploitatie en beheer. Hubs kunnen werken voor verschillende schaalniveaus: buurt, wijk, stad of regio. Een hub kan ook gewoon een busstation zijn met extra voorzieningen." %}
+
+### 2. Taxi: twee hoofdvormen {#taxi}
+
+1. **taxi**: één taxi per rit (commercieel vervoer)
+2. **deeltaxi/flextaxi**: taxibusje voor verschillende reizigers/ritten (gesubsidieerd doelgroepenvervoer).
+
+**Flextaxi: vraagafhankelijk OV**  
+Een flextaxi is een deeltaxi (busje of personenauto) die vraagafhankelijk rijdt, dus alleen als reizigers zich van tevoren hebben aangemeld (per app of telefoon). Zo voorkom je dat voertuigen leeg rondrijden. Als dat past voor de route, worden ritten van verschillende reizigers gecombineerd. Hoe hoger deze 'combinatiegraad', hoe efficiënter deze flex- of deeltaxi. Daardoor – en ook door subsidie – kan een deeltaxirit minder duur zijn dan een gewone taxirit.
+
+Vraagafhankelijk OV kent [veel varianten](https://www.crow.nl/thema-s/collectief-vervoer/flexwaaier): wel of geen vaste lijn, wel of geen vaste dienstregeling, wel of geen vaste haltes, deur-halte (hoger tarief dan OV-tarief), halte-halte, halte-hub en zelfs deur-deurvervoer (taxitarief). De uitvoering van vraagafhankelijk vervoer ligt meestal bij regionale taxibedrijven, de regie meestal bij een regiecentrale. Nadeel is dat deeltaxi's vaak niet te herkennen zijn als onderdeel van het OV. Vraagafhankelijk OV opereert ook onder namen als Belbus, Halte- en Hubtaxi, OV-op-Maat of Regiotaxi.
+
+{% include blok.html
+   img="img/img-ov/flextaxi.webp"
+   title="Voor- en nadelen flextaxi"
+   text="+ rijdt alleen als de reiziger zich heeft aangemeld (per app of telefoon)<br>+ vaak rechtstreekse rit<br>+ vaak snelste route<br>&ndash; vaak duurder dan dezelfde reis per OV<br>&ndash; minimaal een of twee uur van tevoren reserveren<br>&ndash; vooraf reserveren is een drempel waardoor veel OV-reizigers afhaken (40 tot 60 procent)<br>&ndash; de flextaxi kan een kwartier eerder tot een kwartier later komen<br>&ndash; de flextaxi moet soms omrijden om andere reizigers op te pikken of af te zetten<br>&ndash; je weet niet zeker hoelang je reis gaat duren<br>&ndash; je weet niet zeker of je een eventuele OV-aansluiting haalt<br>&ndash; te weinig capaciteit bij plotselinge drukte of piek (evenement, slecht weer)" %}
+
+<div class="uitklap">
+<details name="ov-taxi"><summary>Taxi: ook Uber en Bolt</summary>
+<p>Sinds 2012 rijdt <a href="https://www.uber.com/nl/nl/">Uber</a> in Nederland, vooral in grotere steden. En ook <a href="https://bolt.eu/nl/">Bolt</a> in tien grote steden, zoals Den Haag en Rotterdam. Hun apps werken als taxicentrale: zij verbinden klanten met taxichauffeurs en privéchauffeurs. Ubers en Bolts zijn een comfortabele manier om van deur tot deur te reizen. Het tarief is hoger dan van het OV maar lager dan van een traditionele (straat)taxi. Overigens zijn er in steeds meer landelijke gebieden geen of nauwelijks taxi's meer te krijgen, omdat die markt te klein is geworden.</p>
+</details>
+<details name="ov-taxi"><summary>Halte- en Hubtaxi</summary>
+<p>Provincies als Groningen/Drenthe, Noord-Brabant en Zeeland hanteren deze eigen varianten op de flextaxi, namen die waarschijnlijk gangbaar gaan worden:</p>
+<ol>
+<li><strong>Haltetaxi</strong>: taxi van halte naar halte</li>
+<li><strong><a href="https://ovbureau.nl/hubtaxi/">Hubtaxi</a></strong>: taxi van halte naar hub/knooppunt/station (voor aansluiting op OV).</li>
+</ol>
+<p>Let op: volgens de Wet personenvervoer 2000 rijdt OV van halte naar halte volgens dienstregeling. Een door de overheid gesubsidieerde OV-taxi mag in het kader van mededingingsregels niet van deur tot deur rijden, omdat hij anders oneerlijk zou concurreren met een commerciële taxi die géén subsidie ontvangt.</p>
+</details>
+<details name="ov-taxi"><summary>Doelgroepenvervoer van gemeenten, Rijk &amp; zorgverzekeraars</summary>
+<p>Het grootste deel van de taximarkt is het vervoer van 'doelgroepen':</p>
+<ol>
+<li><strong>In opdracht van gemeenten</strong>: vervoer naar dagbesteding (Jeugdwet), naar speciaal onderwijs, naar sociale werkvoorziening (Participatiewet) en regionaal vervoer voor geïndiceerde ouderen en mensen met een beperking (Wet maatschappelijke ondersteuning).</li>
+<li><strong>In opdracht van het Rijk</strong>: bovenregionaal vervoer voor geïndiceerde ouderen en mensen met een beperking (<a href="https://valys.nl">Valys</a>), naar dagbesteding/dagbehandeling (Wet langdurige zorg) en naar werk (Wet werk en inkomen naar arbeidsvermogen).</li>
+<li><strong>In opdracht van zorgverzekeraars</strong>: naar instelling of zorgverlener (zittend ziekenvervoer).</li>
+</ol>
+</details>
+<details name="ov-taxi"><summary>Alle taxibusjes voor iedereen?</summary>
+<p>In het doelgroepenvervoer gaat bijna net zoveel subsidie om als in het OV. Steeds meer gemeenten proberen uit oogpunt van lagere kosten en meer zelfredzaamheid hun Wmo'ers – al dan niet met ondersteuning van <a href="https://haltetaxi.rrreis.nl/OV-ambassadeurs">OV-ambassadeurs</a> en/of apps – met het OV te laten reizen. Een voorbeeld is de Voor Elkaar Pas van vervoerder Arriva in de Achterhoek en Limburg. Pashouders mogen gratis een begeleider meenemen.</p>
+<p>Een ideaalbeeld is om álle taxibusjes voor iedereen beschikbaar te maken. Dat heet 'ontschotten' (op één hoop vegen), ook van de bijbehorende subsidies. Ontschotting eist samenwerking tussen Rijk, gemeenten en zorgverzekeraars, los van de vraag of alle doelgroepen wel bij elkaar in een busje willen en (qua reiswensen) passen. Zie ook het <a href="https://muconsult.nl/cases/onderzoek-publieke-waarde-van-wmo-en-hubtaxi-in-maas/">onderzoek naar de publieke waarde van Wmo- en hubtaxi</a> van MuConsult.</p>
+</details>
+<details name="ov-taxi"><summary>Zes succesfactoren voor flextaxi's</summary>
+<ol>
+<li><strong>Geen vooraanmeldtijd.</strong> Succesvol flexvervoer kent (in het buitenland) geen minimale vooraanmeldtijd, terwijl reizigers in Nederland zich vaak minimaal een of twee uur van tevoren moeten aanmelden. Omdat een voertuig eerst naar de instapplek moet rijden, zal er altijd wachttijd zijn: gemiddeld zo'n 20 minuten.</li>
+<li><strong>Eenvoudig boeken &amp; betalen.</strong> Meer gebruiksgemak krijg je ook als reizigers eenvoudig kunnen boeken en betalen. Bijvoorbeeld via een MaaS-app of via <a href="https://www.ovpay.nl">OVpay</a> (OV-chipkaart, bankpas, creditcard of smartphone).</li>
+<li><strong>Samenhang met OV.</strong> Flexvervoer opnemen in het OV vergroot de kans op succes. Zorg dat het flexvervoer aansluit op lijndiensten, zowel fysiek (op haltes, hubs, knooppunten, stations) als digitaal (in reisinformatie).</li>
+<li><strong>Geen vaste route.</strong> Een vaste route beperkt de flexibiliteit. Software om efficiënt routes te plannen en ritten te combineren wordt steeds slimmer. Hanteer wel een netwerk van (echte of virtuele) haltes.</li>
+<li><strong>Breed bekend &amp; marketing.</strong> Een (nieuw) vervoersysteem moet breed (liefst landelijk) bekend zijn, bijvoorbeeld met marketing onder scholieren, forensen, dagjesmensen en ouderen. Kies voor een uniforme, bij het OV passende uitstraling (naam, huisstijl, voertuigen).</li>
+<li><strong>Betrouwbaar &amp; garanties.</strong> Maak het flexvervoer betrouwbaar en geef reizigers garanties: op vaste dagen en tijden beschikbaar, je haalt je aansluiting op de trein. Geef veranderingen tijdig door aan huidige en potentiële reizigers.</li>
+</ol>
+<p>(samenvatting van de whitepaper 'Flexvervoer – het streekvervoer van de toekomst' van bureau Berenschot)</p>
+</details>
+</div>
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Mogelijkheden verkennen voor het combineren van Wmo-taxibusjes én OV tot publiek vervoer.
+- De vervoervraag in beeld brengen, kijken naar de behoeften van de reiziger (én de net-niet-reiziger) en daar aanvullend OV op inrichten en blijven verbeteren.
+
+</div>
+
+### 3. Vlinder: brug tussen bus en flextaxi {#vlinder}
+De [Vlinder](https://www.arriva.nl/over-je-reis/met-de-bus/met-de-arriva-vlinder) is een 9-persoons taxibusje dat 's avonds klaarstaat bij een station (of HOV-knooppunt) en volgens dienstregeling gaat rijden als er (trein)reizigers aankomen die naar huis willen. Mensen die op andere haltes of opstappunten willen instappen, moeten kort van tevoren reserveren (per app of telefoon). Gemiddeld duurt het dan 12 minuten voordat het busje arriveert. Daarmee vormt de Vlinder een brug tussen bus (rijden volgens dienstregeling) én flextaxi (vooraf reserveren). De Vlinder wordt ook wel 'de Uber van het OV' genoemd.
+
+{% include blok.html
+   img="img/img-ov/vlinder.webp"
+   title="Voor- en nadelen Vlinder"
+   text="+ staat 's avonds klaar op station of ander knooppunt (overdag lijnbus)<br>+ vertrekt in principe elk half uur volgens dienstregeling, in aansluiting op aankomst (H)OV<br>+ vaak kortere, snellere route (dan buslijn) naar de uitstaphalte<br>+ bij reizigersgroei weer makkelijk terug te schalen naar buslijn<br>+ mooie mix van OV en taxi (potentie voor reizigersgroei)<br>&ndash; voor de route naar het station wél altijd reserveren (kan kort van tevoren)<br>&ndash; alleen nog aangeboden door vervoerder Arriva" %}
+
+<div class="uitklap">
+<details name="ov-vlinder"><summary>Uber van het OV</summary>
+<p>De Vlinder rijdt dus alleen 's avonds, als er te weinig reizigers zijn voor een gewone lijnbus, zoals die overdag rijdt. De software berekent continu de efficiëntste route. Het kan dus zijn dat hij een deel van de route overslaat als daar geen reizigers willen in- of uitstappen. De Vlinder rijdt inmiddels in Alphen aan den Rijn, Doetinchem, Hengelo, Laren, Leeuwarden, Lochem, Sittard, Tiel, Venlo en Zaltbommel. Het aantal Vlinderreizigers <a href="https://www.ovmagazine.nl/article/arriva-geeft-boost-aan-flexibele-vlinder-2">groeit</a>. De Vlinder is nu van vervoerder Arriva. Een soortgelijke vervoerformule kan ook worden ingezet vanaf andere knooppunten, bijvoorbeeld hubs of busstations (zoals Heinenoord in de Hoeksche Waard), als je zo'n formule als provincie maar uitvraagt in je OV-aanbesteding.</p>
+</details>
+<details name="ov-vlinder"><summary>Overdag ander OV dan 's avonds</summary>
+<p>Een nieuw inzicht is om het OV overdag anders in te richten dan 's avonds en in het weekend, omdat de vervoervraag dan anders is. Overdag vooral gestrekte HOV-lijnen, gewone buslijnen en scholierenlijnen die scholen, werklocaties en stations bedienen; 's avonds vooral HOV-lijnen en gewone buslijnen, vanaf knooppunten aangevuld met Vlinder-achtige taxibusjes die dieper in kernen komen en mensen dus dichter bij huis oppikken en afzetten.</p>
+</details>
+</div>
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Nadenken over het inzetten van Vlinder-achtige taxibusjes vanaf knooppunten.
+- Vlinder-achtige taxibusjes uitvragen in nieuwe OV-concessies.
+
+</div>
+
+### 4. ANWB AutoMaatje en andere lokale initiatieven
+Een bekende lokale vervoervorm is [ANWB AutoMaatje](https://www.anwb.nl/lidmaatschap/maatschappelijk/mobiliteit/automaatje). Daarbij vervoeren vrijwillige chauffeurs minder mobiele plaatsgenoten voor 35 cent per kilometer. ANWB AutoMaatje is actief in 115 gemeenten, waaronder Hoeksche Waard en Goeree-Overflakkee.
+
+<div class="uitklap">
+<details name="ov-lokaal"><summary>Voor- en nadelen AutoMaatje</summary>
+<p>+ landelijke formule (veel mensen kennen het)<br>+ goed voor zelfredzaamheid &amp; sociaal contact<br>+ particulier initiatief<br>&ndash; minimaal 24 uur van tevoren aanmelden (niet flexibel)<br>&ndash; niet voor iedereen</p>
+</details>
+<details name="ov-lokaal"><summary>Meer lokale vervoerinitiatieven</summary>
+<p>Er bestaan meer lokale vervoerinitiatieven. Zij mikken vaak op mensen zonder eigen vervoer, zoals senioren zonder auto of mensen met een beperking. De diensten worden aangeboden door dorpsraden of -verenigingen, kerken, welzijnsorganisaties of ziekenhuizen. Het gaat vooral om deur-deur- of deur-bestemmingvervoer (activiteit, supermarkt, uitje, ziekenhuis). Doelgroepen en reisdoelen overlappen met Wmo-vervoer. Verschillen zijn er ook: uitgevoerd door vrijwilligers, geen commercieel karakter en geen onderdeel van de provinciale OV-concessie of het gemeentelijke deeltaxicontract. Soms ontvangen lokale initiatieven subsidie. Door corona en de hogere pensioenleeftijd lukt het niet om overal en altijd voldoende vrijwilligers te vinden en te behouden.</p>
+<p>Verder lezen: <a href="https://indd.adobe.com/view/da283abc-493d-4f21-9bca-82e90b779db3">Kleine Kernen Magazine, themanummer mobiliteit</a>.</p>
+</details>
+</div>
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Nadenken of we als provincie of met gemeenten vervoersystemen met vrijwilligers (AutoMaatje, lokale initiatieven) willen steunen — goedkoop en sociaal — of juist niet: minder betrouwbaar en minder geschikt voor bezoekers van buiten de regio.
+- Zo ja, deze initiatieven steunen met beleid, ondersteuning en zo nodig subsidie.
+- Erop aandringen dat deze vervoervormen vindbaar zijn (aanmelden, vervoersoort, tarieven, voorwaarden) in reisplanners en ook beschikbaar zijn voor mensen van buiten de regio.
+
+</div>
+
+### 5. Zelfrijdende bus: toekomstmuziek
+Aanvullingen op het OV zijn te verdelen in zelf sturen (eigen fiets, deelvervoer) en je laten rijden (meerijden). We maken dit onderscheid omdat arbeid al snel de grootste kostenpost is. Zo vormt de buschauffeur – naast de afschrijving en energie voor de bus – bijna 70 procent van de totale kosten in het OV. Zelfrijdende bussen zijn nog toekomstmuziek en worden naar schatting hooguit 30 procent goedkoper in het gebruik, omdat deze futuristische bussen duurder zullen zijn in aanschaf en hogere kosten zullen kennen voor hard- en software.
+
+### 6. Zelf sturen: eigen vervoer en deelvervoer
+
+**Hele reis met eigen vervoer**  
+Als mensen de hele reis met eigen vervoer (fiets, auto) afleggen, hebben ze geen OV nodig. Met de opkomst van de e-bike (elektrisch ondersteunde fiets tot 25 km/u) is de afstand die je per fiets kunt overbruggen gegroeid: van zeg 5 à 7 naar 12 à 15 kilometer. De e-bike kan daarmee in principe ook autoritten vervangen. Zo'n e-bike kan verder een uitkomst zijn voor jongeren die in landelijk gebied naar school gaan. De speed pedelec (e-bike tot 45 km/u) vergroot de actieradius nóg verder: tot 15 à 20 kilometer.
+
+<div class="uitklap">
+<details name="ov-zelf"><summary>Kanttekeningen bij de e-bike</summary>
+<p>&ndash; meer fietsers met hogere snelheden, dus meer kans op ongevallen<br>&ndash; meer snelheidsverschil op het fietspad, dus meer letsel bij ongevallen<br>&ndash; ouderen boven de 70 zijn kwetsbaar in het verkeer, ook op de fiets<br>&ndash; niet iedereen wil op de e-bike als het koud, nat en donker is</p>
+</details>
+<details name="ov-zelf"><summary>STOP: Stappen, Trappen, OV &amp; Personenauto</summary>
+<p>Nabijheid van voorzieningen (scholen, werk, winkels, zorg) zorgt ervoor dat mensen makkelijker kunnen lopen en fietsen. Steeds meer overheden omarmen het uit Vlaanderen overgewaaide <a href="https://www.duurzame-mobiliteit.be/">STOP-principe</a>: Stappen, Trappen, OV en Personenauto. Oftewel lopen, fietsen, OV en auto, in díe volgorde: eerst actieve vervoerwijzen, dan collectief vervoer en tot slot pas de individuele auto. Sommigen spreken ook van STOMP, met de M van mobiliteitsdiensten, zoals deelvervoer.</p>
+<p><strong>collectief vervoer</strong>: meer veiligheid, minder vrijheid, duurzamer<br><strong>individueel vervoer</strong>: meer vrijheid, minder veiligheid, auto minder duurzaam</p>
+</details>
+</div>
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Nabijheid van voorzieningen stimuleren (ruimtelijke ordening, de '[15-minutenwijk](nabijheid.html)').
+- Lopen en fietsen stimuleren: betere en meer wandel- en fietspaden, uitgebreide wandel- en fietsnetwerken, betere en meer stallingen, veiliger oversteken van drukke wegen.
+
+</div>
+
+**Eerste deel van de reis met eigen vervoer**  
+Bij een reis met het OV hoort de vraag hoe je naar de (opstap)halte komt. Dat heet voortransport of *first mile*. Als de halte of het station dichtbij is, lopen of fietsen de meeste mensen erheen.
+
+<div class="voorbeeld voorbeeld--geel" markdown="1">
+
+**Van huis naar NS-station**  
+30 procent lopen · 40 procent fietsen · 20 procent OV · 10 procent auto  
+(bron: [Fietsfeiten 2023](https://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023), KiM)
+
+</div>
+
+Van de busreizigers loopt 80 procent naar de halte. Buslijnen met een hogere frequentie en snelheid, zoals R-net, trekken in het voortransport grofweg [twee keer zoveel fietsers](https://www.ovmagazine.nl/nieuws/hov-bus-trekt-twee-keer-zoveel-fietsers) (20 procent) als gewone buslijnen (10 procent).
+
+**P+R: Parkeren + Reizen**  
+Een combinatie van individueel plus collectief vervoer is P+R: je auto parkeren en verder reizen met het openbaar vervoer. Je combineert dan *individuele* voordelen van de auto (voor de deur instappen, vertrekken wanneer je wilt) met *collectieve* voordelen van het OV (snel de stad in, geen parkeergedoe). P+R is vooral aantrekkelijk als er genoeg parkeerruimte is, parkeren gratis of goedkoop is, het overstappen snel en gemakkelijk verloopt en het OV frequent rijdt. Een P+R heet soms ook [transferium](https://nl.wikipedia.org/wiki/Transferium). Maatschappelijk nadeel is dat een P+R veel schaarse (parkeer)ruimte bij stations vraagt voor relatief weinig reizigers, zeker vergeleken met fietsenstallingen.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Meer bouwen bij HOV-haltes en stations (ruimtelijke ordening, 'verdichting').
+- Lopen en fietsen naar halte of station stimuleren: logische looproutes, betere fietspaden, goede stallingsmogelijkheden.
+- HOV bevorderen: meer lijnen, hogere snelheid, hogere frequenties, probeeracties.
+- P+R-haltes, -stations en -terreinen (ook wel: hubs) aanleggen, verbeteren en vergroten, als andere manieren om het station te bereiken onvoldoende zijn.
+
+</div>
+
+**Laatste deel van de reis met een deelfiets**{: #deelfiets}  
+Het laatste stuk van een OV-reis – van uitstaphalte of eindstation naar je bestemming – noemen we natransport of *last mile*. Van uitstaphalte of eindstation loopt ruim de helft van de mensen (tot zo'n anderhalve kilometer) naar hun bestemming.
+
+<div class="voorbeeld voorbeeld--geel" markdown="1">
+
+**Van NS-station naar bestemming**  
+60 procent lopen · 10 procent fietsen (weinig mensen hebben daar een eigen fiets) · 25 procent OV · 5 procent auto  
+(bron: [Fietsfeiten 2023](https://www.kimnet.nl/publicaties/publicaties/2023/11/28/fietsfeiten-2023), KiM)
+
+</div>
+
+Deelfietsen zijn ideaal voor een iets langer laatste stuk van je reis: tot circa 3 kilometer, of ongeveer 5 à 7 kilometer met een e-deelfiets. Je stapt uit de trein, metro of bus en hup, de deelfiets op. Een deelfiets is een huurfiets die je betaalt per tijdseenheid (minuut, uur, dag) met een app of OV-chipkaart. Gezien het grote verschil tussen het hoge fietsgebruik 'naar de opstaphalte' en het lage fietsgebruik 'vanaf de uitstaphalte' ligt er veel potentie voor de fiets in het natransport. De [OV-fiets](https://www.ns.nl/deur-tot-deur/ov-fiets), te vinden op de meeste stations en enkele andere OV-knooppunten, is de bekendste deelfiets.
+
+{% include blok.html
+   img="img/img-ov/donkeyapp.png"
+   title="Voor- en nadelen OV-fiets"
+   text="+ landelijke formule<br>+ snel en gemakkelijk te huur<br>+ tarief te vergelijken met twee busritten<br>&ndash; te duur bij frequent gebruik (niet interessant voor forensen en studenten)<br>&ndash; hij moet weer terug naar het uitgiftepunt<br>&ndash; voor te weinig reizigers beschikbaar; regelmatig op bij drukte of mooi weer<br>&ndash; niet te huur in landelijk gebied, zoals Hoeksche Waard of Goeree-Overflakkee" %}
+
+Naast de beschikbaarheid van deelfietsen op bushaltes (meestal niet) kan de afstand tot de bestemming een uitdaging zijn in landelijk gebied: soms is het te ver om te fietsen.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Zorgen voor deelfietsen als de OV-fiets (of e-bikes bij grotere afstanden tot bestemmingen) op drukkere HOV-haltes, hubs en knooppunten — zoals busstation Heinenoord, Oude-Tonge en Stellendam — en op fietsafstand van bedrijventerreinen.
+- Zorgen dat deelfietsen makkelijk en voordelig zijn te gebruiken, ook bij regelmatig gebruik.
+- Zorgen dat deelfietsen flexibel zijn te gebruiken (op meer locaties zijn achter te laten).
+- Zorgen dat er altijd vervoer is voor je terugreis.
+- Zorgen dat deelfietsen geen overlast of verrommeling veroorzaken (deelfietsparkeerbeleid).
+
+</div>
+
+**Hele reis met deelvervoer op twee wielen**  
+Je kunt ook een deelfiets of deelscooter voor de héle reis gebruiken. In steden als Rotterdam en Den Haag zien we de deelscooter al concurreren met bus, tram en fiets. Kanttekening: scooters zijn relatief vaak betrokken bij ongevallen.
+
+Deelfietsen, deelscooters en deelauto's zijn tot nu toe commerciële producten van marktpartijen. Het neerzetten van deelvervoermiddelen in landelijk gebied is voor hen vaak niet rendabel, omdat het gebruik daar lager ligt dan in stedelijk gebied. Als een overheid deelvervoer wil als aanvulling op het OV, dan kan zij een contract sluiten met een of meer aanbieders. Dat kost de provincie en gemeenten uiteraard wel tijd en geld.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Nadenken of we als overheden ook deelvervoer willen in landelijk gebied en zo ja: wat, waar en wat dat de samenleving mag kosten.
+- Contracten sluiten met (en/of subsidie verlenen aan) aanbieders van gewenst deelvervoer.
+
+</div>
+
+**Hele reis met een deelauto**{: #deelauto}  
+Deelauto's, bijvoorbeeld van [Greenwheels](https://www.greenwheels.com/) en [MyWheels](https://mywheels.nl/), zijn vaak te vinden in centra, dicht bij huis ('buurthub') in woonwijken en bij stations. Je gebruikt ze voor de heen- en terugreis. Steeds meer deelauto's zijn elektrisch.
+
+{% include blok.html
+   img="img/img-ov/deelauto.jpg"
+   title="Voor- en nadelen deelauto"
+   text="+ je betaalt alleen voor de tijd en kilometers die je gebruikt<br>+ geen omkijken naar afschrijving, onderhoud en wegenbelasting<br>+ vaak een vaste parkeerplek voor de deelauto<br>+ een deelauto wordt intensiever gebruikt dan een privéauto en vraagt daardoor minder ruimte<br>+ je hebt zelf geen (tweede) auto meer nodig<br>+ deelautorijders maken een bewustere keuze en gebruiken daardoor vaker fiets en OV<br>&ndash; je moet een deelauto reserveren om niet mis te grijpen<br>&ndash; een deelauto is relatief duur per uur en per kilometer (niet interessant als je veel rijdt)<br>&ndash; een deelauto is nauwelijks beschikbaar in landelijk gebied" %}
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Deelautogebruik bevorderen met beleid, parkeervergunningen en promotieacties.
+
+</div>
+
+### 7. Meerijden: iemand anders stuurt {#meerijden}
+Bij 'meerijden' stap je in bij een chauffeur die de rit zonder medereizigers ook zou hebben gemaakt. Voorbeelden zijn carpoolen en liften.
+
+**Carpoolen**  
+Bij carpoolen rijden bijvoorbeeld collega's op vaste dagen of tijden met elkaar mee naar het werk. Dat kan op initiatief van werknemers zelf of van de werkgever, vaak vanuit het oogpunt van kostenbesparing en/of kilometervermindering. Dankzij dienstverleners zoals [BlaBlaCar](https://www.blablacar.nl), [Nabogo](https://nabogo.com) (Denemarken), [RezoPouce](https://www.rezopouce.fr/) (Frankrijk) en [Toogethr](https://www.toogethr.com/) wordt het steeds makkelijker om ritten te delen, ook met onbekenden. In opdracht van overheden kan Nabogo bijvoorbeeld 10 cent per kilometer betalen aan automobilisten die iemand via de app mee laten rijden. Toogethr neemt werkgevers ook een deel van de administratie uit handen.
+
+**Liften**  
+Een klassieke vorm van meerijden is liften, waarbij reizigers zich langs de weg opstellen voor een rit. Een aantal gemeenten, zoals Nijmegen en die in De Kempen, hebben weer oog voor liften. Vooral voor incidentele en langere reizen geldt liften als geschikte vervoerwijze. [Stichting NederlandLift](https://nederlandlift.nl/) zet zich in om liften meer bekendheid te geven, vooral bij gemeenten.
+
+{% include blok.html
+   img="img/img-ov/carpool.jpg"
+   title="Voor- en nadelen"
+   text="**Carpoolen**<br>+ meer mensen per voertuig (duurzamer)<br>+ relatief goedkoop<br>&ndash; je moet afspraken maken<br>&ndash; minder flexibiliteit &amp; vrijheid<br><br>**Liften**<br>+ flexibel<br>+ gratis<br>&ndash; je weet niet hoe je reis verloopt (aantal ritten, totale reisduur, aankomstplek)<br>&ndash; je weet niet wat voor chauffeur je treft (sociale veiligheid)" %}
+
+Met de komst van apps vervaagt het onderscheid tussen carpoolen en liften. Carpoolen is meer 'afgesproken werk' met bekenden, terwijl liften spontaner is met onbekenden.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Meeliften met proeven, zoals Nabogo in Drechtsteden, West-Brabant en Zeeland.
+- Gemeenten helpen met het ontwikkelen van lokale lift- en carpoolinitiatieven.
+- Lift- en carpoolplaatsen inrichten, bijvoorbeeld bij busstations en hubs.
+- Liften en carpoolen meer onder de aandacht brengen.
+
+</div>
+
+### 8. Hulpmiddelen voor reizigers: reisplanners, MaaS-apps & regiecentrale {#hulpmiddelen}
+Als je als reiziger naast OV ook flex- en deelmobiliteit wilt gebruiken, moet je natuurlijk wel weten dat het bestaat, hoe je het gebruikt, wat het kost en hoe je het boekt. Dat kan met grofweg drie hulpmiddelen: reisplanners, MaaS-apps en regiecentrales.
+
+**Reisplanners: steeds meer flex- en deelvervoer**  
+Steeds meer OV-reisplanners, zoals [9292](https://9292.nl) en de [NS-reisplanner](https://www.ns.nl/reisplanner), verbreden zich met flex- en deelvervoer. Maar lang niet alle aanbieders van mobiliteit zijn al aangesloten. Dat hangt vaak samen met contracten/geld en actuele/open data. Flextaxi's zonder vaste dienstregeling en/of vaste haltes, opstappunten of routes laten zich soms lastig opnemen in reisplanners.
+
+**MaaS: app voor plannen, boeken & betalen**  
+[Mobility as a Service](https://www.tno.nl/nl/digitaal/intelligent-verkeer-vervoer/maatschappelijke-impact/mobility-as-service/) betekent: mobiliteit als dienst. En dus niet als product: je hoeft zelf geen vervoermiddelen te bezitten, maar kunt wel overal een fiets of auto gebruiken. Het OV ís al een dienst. Mobiliteit als dienst reikt verder: individueel én collectief vervoer dat je met ict aan elkaar knoopt, via je smartphone. Simpel gezegd: MaaS is een app waarmee je verschillende vervoervormen voor een reis kunt opzoeken, plannen, boeken/reserveren én betalen. En zo nodig kunt laten bijsturen als er onderweg onverhoopt iets misgaat.
+
+Via de nationale MaaS-proeven zijn de afgelopen jaren tal van MaaS-apps ontwikkeld. Veel kleinschalige vervoervormen zijn nog geen onderdeel van zulke apps. Ook kan het gebruiksgemak beter. Bekende MaaS-apps zijn [Gaiyo](https://gaiyo.com/), [Glimble](https://glimble.nl/) en [Tranzer](https://www.tranzer.com/). 9292 en de NS-reisplanner groeien ook uit tot MaaS-apps.
+
+{% include blok.html
+   img="img/img-ov/maas-pilot.jpg"
+   title="Regiecentrale: spreek de 'taal' van de reiziger"
+   text="Als een MaaS-app allerlei vervoervormen aan elkaar knoopt, moet dat vervoer (vooral van flextaxi's) ook geregeld worden. Dat kan via een regionale regiecentrale of mobiliteitsplatform. Het idee is dat ritten vooral digitaal worden geboekt. Maar een deel van de reizigers zal willen bellen. Dat moet ook kunnen. Belangrijk is dat medewerkers hun 'taal' spreken, dus ook het gebied, de vervoervormen en de voorwaarden op hun duimpje kennen." %}
+
+[Stroomlijn](https://www.stroomlijn.nl/wat-doet-stroomlijn) in Dordrecht is een goed voorbeeld van zo'n regionale regiecentrale: dat organiseert al het vervoer in de Drechtsteden voor mensen die niet makkelijk zelf kunnen reizen. De beoogde [Zeeuwse Mobiliteitscentrale](https://www.zeeland.nl/actueel/rijk-investeert-zes-miljoen-euro-om-publiek-vervoer-zeeland-mogelijk-te-maken) gaat nog verder: daar moet ál het met publiek geld georganiseerde vervoer samenkomen: openbaar vervoer, Wmo-vervoer, deelvervoer én leerlingenvervoer. De data komen (met waarborging van privacy) beschikbaar voor MaaS-dienstverleners. De Zeeuwse Mobiliteitscentrale ontschot vervoervormen en verdeelt de juiste geldstromen over de juiste partijen. Zo creëert deze mobiliteitscentrale publiek vervoer, is het idee.
+
+Om te voorkomen dat commerciële belangen van aanbieders de boventoon voeren, lijkt het logisch om ook in Zuid-Holland te kiezen voor een *publieke* regiecentrale, waarbij de overheid optreedt als marktmeester en maatschappelijke doelen kan nastreven.
+
+<div class="voorbeeld" markdown="1">
+
+**Wat kunnen we doen**
+
+- Zorgen dat alle data rond OV en publiek vervoer actueel en open zijn.
+- Bevorderen dat reisplanners ook flextaxi's en deelvervoer meenemen in reisadviezen.
+- Een (liefst landelijke) betrouwbare, complete en gebruiksvriendelijke MaaS-app uitvragen, al dan niet met andere overheden.
+- Een publiek regionaal mobiliteitsplatform oprichten voor online én telefonische boekingen.
+
+</div>
 
 ## Verder lezen
 
