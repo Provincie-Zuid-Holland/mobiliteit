@@ -85,7 +85,7 @@ Wat te doen als er niet genoeg reizigers (meer) zijn om een buslijn te rechtvaar
 
 
 ### Van OV naar publiek vervoer?
-Bijna iedere provincie is, ook in het kader van het Toekomstbeeld OV 2040, op zoek naar aanvullingen op en alternatieven voor OV in gebieden met weinig vervoervraag. Ze noemen de mogelijke oplossing vaak [gedeelde mobiliteit](https://www.brabant.nl/onderwerpen/verkeer-en-vervoer/verkeers-en-vervoersbeleid/vernieuwing-ov) of publiek vervoer:
+Bijna iedere provincie is, ook in het kader van het Toekomstbeeld OV 2040, op zoek naar aanvullingen op en alternatieven voor OV in gebieden met weinig vervoervraag. Ze noemen de mogelijke oplossing vaak [gedeelde mobiliteit](https://www.brabant.nl/onderwerpen/verkeer-en-vervoer/verkeers-en-vervoersbeleid/vernieuwing-ov) of publiek vervoer.
 
 
 In de bijlage zoomen we in op een aantal onderdelen die we hieronder al kort noemen.
@@ -100,11 +100,11 @@ In de bijlage zoomen we in op een aantal onderdelen die we hieronder al kort noe
 
 {% include klikblok.html img="img/img-ov/deelauto.jpg" title="Deelauto" url="#deelauto" text="De deelauto (en -bakfiets) kan dienen als vervanging van de (tweede) privéauto. Tot nu toe vooral succesvol in steden" %}
 
-{% include klikblok.html img="img/img-ov/carpool.jpg" title="Meerijden" url="#meerijden" text="Meerijden met iemand die de rit tóch al zou maken. Kent twee vormen: carpoolen (met app) en liften" %}
+{% include klikblok.html img="/mobiliteit/kansen/img/carpoolen.jpg" title="Meerijden" url="#meerijden" text="Meerijden met iemand die de rit tóch al zou maken. Kent twee vormen: carpoolen (met app) en liften" %}
 
-{% include klikblok.html img="img/img-ov/maas-pilot.jpg" title="Regiecentrale &amp; platforms" url="#hulpmiddelen" text="Om het voor de reiziger makkelijker te maken: reisplanner, MaaS en de regiecentrale" %}
+{% include klikblok.html img="img/img-ov/reizigersservices.jpg" title="Regiecentrale &amp; platforms" url="#hulpmiddelen" text="Om het voor de reiziger makkelijker te maken: reisplanner, MaaS en de regiecentrale" %}
 
-{% include klikblok.html img="img/img-ov/hubs.jpg" title="Haltes en hubs" url="#hubs" text="Vormen de schakel voor een soepele overstap" %}
+{% include klikblok.html img="img/busstationleiden.jpg" title="Haltes en hubs" url="#hubs" text="Vormen de schakel voor een soepele overstap" %}
 
 ## 4. Aanbevelingen
 
@@ -276,7 +276,7 @@ lokken.</li>
 
 ## 5. Samenvatting & conclusie
 
-{% include blok.html img="img/img-ov/praatplaat-klein.jpg" alt="Praatplaat publiek vervoer" text="Bij publiek vervoer verbreed je het OV met flextaxi's (ook van gemeenten), deelvervoer (van mobiliteitsaanbieders) en meerijden (vaak via apps), zodat reizigers meer vervoermogelijkheden krijgen. Als je dat als provincie wilt, is stap 1 het inbouwen van ruimte in aanbestedingen van OV-concessies, zodat je tijdens de volgende concessie kunt experimenteren. Bedenk wel dat publiek vervoer op dit moment nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking vraagt van de provincie dan alleen OV. Vergeet niet om het Hoogwaardig OV en de buslijnen met genoeg reizigers te versterken, omdat die vervoervormen het meest inclusief zijn: voor iedereen te gebruiken tegen relatief lage tarieven. En kijk goed naar bewezen, landelijke en simpele oplossingen als Buurtbus, OV-fiets en Vlinder. Want de reiziger moet altijd centraal staan." %}
+{% include blok.html img="/mobiliteit/kansen/img/praatplaat-publieke-mobiliteit.jpg" alt="Praatplaat publiek vervoer" text="Bij publiek vervoer verbreed je het OV met flextaxi's (ook van gemeenten), deelvervoer (van mobiliteitsaanbieders) en meerijden (vaak via apps), zodat reizigers meer vervoermogelijkheden krijgen. Als je dat als provincie wilt, is stap 1 het inbouwen van ruimte in aanbestedingen van OV-concessies, zodat je tijdens de volgende concessie kunt experimenteren. Bedenk wel dat publiek vervoer op dit moment nog in de kinderschoenen staat en meer inspanning, kennis, regie en samenwerking vraagt van de provincie dan alleen OV. Vergeet niet om het Hoogwaardig OV en de buslijnen met genoeg reizigers te versterken, omdat die vervoervormen het meest inclusief zijn: voor iedereen te gebruiken tegen relatief lage tarieven. En kijk goed naar bewezen, landelijke en simpele oplossingen als Buurtbus, OV-fiets en Vlinder. Want de reiziger moet altijd centraal staan." %}
 
 ## Bijlage: de onderdelen nader bekeken
 
@@ -302,7 +302,7 @@ Omdat de vrijwilligers uit de buurt komen, geeft het reizigers de kans om een pr
 Hub is de hippe naam voor een knooppunt waar verschillende vormen van vervoer samenkomen: OV, flextaxi's en deelvervoer. Je kunt er overstappen, je fiets of auto parkeren, je e-bike of e-auto opladen of een deelfiets of deelauto pakken. En liefst ook naar de wc, een kop koffie kopen, water tappen of een pakketje ophalen/achterlaten. Goede voorbeelden zijn de hubs in [Gieten](https://www.reisviahub.nl/hubs/gieten-ov-knooppunt-n33-n34/) en Borger langs HOV-buslijn 300 van Groningen naar Emmen. Bij station Rotterdam Centraal is een kleinere deelvervoerhub te vinden.
 
 {% include blok.html
-   img="img/img-ov/hubs.jpg"
+   img="img/busstationleiden.jpg"
    title="Kansrijk maar complex"
    text="Veel provincies en grotere gemeenten werken aan hub-beleid, maar de meeste hubs bestaan alleen nog op papier. Ze zijn [kansrijk maar complex](https://www.kimnet.nl/actueel/nieuws/2021/05/31/de-mobiliteitshub-een-kansrijk-maar-complex-beleidsinstrument), aldus kennisinstituut KiM. Zo is er onzekerheid over de kosten van aanleg, exploitatie en beheer. Hubs kunnen werken voor verschillende schaalniveaus: buurt, wijk, stad of regio. Een hub kan ook gewoon een busstation zijn met extra voorzieningen." %}
 
@@ -542,7 +542,7 @@ Bij carpoolen rijden bijvoorbeeld collega's op vaste dagen of tijden met elkaar 
 Een klassieke vorm van meerijden is liften, waarbij reizigers zich langs de weg opstellen voor een rit. Een aantal gemeenten, zoals Nijmegen en die in De Kempen, hebben weer oog voor liften. Vooral voor incidentele en langere reizen geldt liften als geschikte vervoerwijze. [Stichting NederlandLift](https://nederlandlift.nl/) zet zich in om liften meer bekendheid te geven, vooral bij gemeenten.
 
 {% include blok.html
-   img="img/img-ov/carpool.jpg"
+   img="/mobiliteit/kansen/img/carpoolen.jpg"
    title="Voor- en nadelen"
    text="**Carpoolen**<br>+ meer mensen per voertuig (duurzamer)<br>+ relatief goedkoop<br>&ndash; je moet afspraken maken<br>&ndash; minder flexibiliteit &amp; vrijheid<br><br>**Liften**<br>+ flexibel<br>+ gratis<br>&ndash; je weet niet hoe je reis verloopt (aantal ritten, totale reisduur, aankomstplek)<br>&ndash; je weet niet wat voor chauffeur je treft (sociale veiligheid)" %}
 
@@ -571,7 +571,7 @@ Steeds meer OV-reisplanners, zoals [9292](https://9292.nl) en de [NS-reisplanner
 Via de nationale MaaS-proeven zijn de afgelopen jaren tal van MaaS-apps ontwikkeld. Veel kleinschalige vervoervormen zijn nog geen onderdeel van zulke apps. Ook kan het gebruiksgemak beter. Bekende MaaS-apps zijn [Gaiyo](https://gaiyo.com/), [Glimble](https://glimble.nl/) en [Tranzer](https://www.tranzer.com/). 9292 en de NS-reisplanner groeien ook uit tot MaaS-apps.
 
 {% include blok.html
-   img="img/img-ov/maas-pilot.jpg"
+   img="img/img-ov/reizigersservices.jpg"
    title="Regiecentrale: spreek de 'taal' van de reiziger"
    text="Als een MaaS-app allerlei vervoervormen aan elkaar knoopt, moet dat vervoer (vooral van flextaxi's) ook geregeld worden. Dat kan via een regionale regiecentrale of mobiliteitsplatform. Het idee is dat ritten vooral digitaal worden geboekt. Maar een deel van de reizigers zal willen bellen. Dat moet ook kunnen. Belangrijk is dat medewerkers hun 'taal' spreken, dus ook het gebied, de vervoervormen en de voorwaarden op hun duimpje kennen." %}
 
