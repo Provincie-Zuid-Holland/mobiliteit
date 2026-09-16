@@ -8,7 +8,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Prioriteit voor lopen & fietsen
 <p class="ondertitel">Kans 2 van negen kansen voor bereikbaarheid</p>
 
 Steeds meer overheden omarmen prioriteit voor de actieve vervoerwijzen lopen & fietsen, vooral in de bebouwde omgeving. Denk aan aantrekkelijke, groene en veilige loop- en (door)fietsroutes en aan voldoende mogelijkheden en ruimte om fietsen veilig te stallen. Lopen en fietsen is gezond, schoon en stil. Op het platteland blijft de auto belangrijk, omdat lopen, fietsen en OV in dunbevolkte gebieden lang niet altijd een reëel alternatief vormen.
@@ -47,7 +46,7 @@ Naast de vertrouwde (elektrische) fiets, ontstaan er fietsfamilies van bakfietse
 
 ## Da's zo gefietst
 
-Meer dan de helft van de autoverplaatsingen is [korter dan 7,5 kilometer](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). De opkomst van de elektrische fiets en de aanleg van [doorfietsroutes](https://kennis.zuid-holland.nl/oplossing-doorfietsroutes/) maakt dat steeds meer bestemmingen binnen 'fietsbereik' komen. Ruim 60 procent van werknemers woont [binnen 15 kilometer van hun werk](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). Werkgevers spelen hier vaker op in, met bijvoorbeeld een '[fiets van de zaak](https://www.rijksoverheid.nl/onderwerpen/fiets/fiets-van-de-zaak)', een douche op kantoor en een [goede reiskostenvergoeding](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/fiets-van-de-zaak) (net als de auto nu maximaal 25 cent per kilometer onbelast) voor gebruik van de fiets. Om fietsgebruik voor korte ritjes te bevorderen, voeren we  de campagne met een stimuleringsapp [Da's zo gefietst](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/samen-verder-fietsen/fiets-app-da-s-zo-gefietst/).
+Ongeveer de helft van de autoverplaatsingen is [korter dan 7,5 kilometer](https://www.kimnet.nl/documenten/2023/11/28/fietsfeiten-2023). De opkomst van de elektrische fiets en de aanleg van [doorfietsroutes](https://kennis.zuid-holland.nl/oplossing-doorfietsroutes/) maakt dat steeds meer bestemmingen binnen 'fietsbereik' komen. Ruim 60 procent van werknemers woont [binnen 15 kilometer van hun werk](https://open.overheid.nl/documenten/ronl-1f7b7558-4628-477d-8542-9508d913ab2c/pdf). Werkgevers spelen hier vaker op in, met bijvoorbeeld een '[fiets van de zaak](https://www.rijksoverheid.nl/onderwerpen/fiets/fiets-van-de-zaak)', een douche op kantoor en een [goede reiskostenvergoeding](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/fiets-van-de-zaak) (net als de auto nu maximaal 25 cent per kilometer onbelast) voor gebruik van de fiets. Om fietsgebruik voor korte ritjes te bevorderen, voeren we  de campagne met een stimuleringsapp [Da's zo gefietst](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/samen-verder-fietsen/fiets-app-da-s-zo-gefietst/).
 
 ## Maak ruimte voor de fiets
 
@@ -72,12 +71,12 @@ Steeds meer gemeenten geven voorrang aan lopen en fietsen. In het filmpje hierna
 <div markdown="1">
 
 ## Rotterdam bijvoorbeeld
-Een goed voorbeeld van ambitie op het vlak van zowel lopen als [fietsen](https://www.rotterdam.nl/wonen-leven/fietsstad/) is de gemeente Rotterdam.
+Rotterdam toont ambitie op het vlak van zowel lopen als [fietsen](https://www.rotterdam.nl/fietsen-in-rotterdam).
 
--   [Rotterdam Loopt 2025](https://www.rotterdam.nl/vrije-tijd/lopen/); de voetganger op een voetstuk. Lees [dit ambitiedocument](https://rotterdam.notubiz.nl/document/9251389/1/s20bb014740_4_60237_tds).
--   [Fietskoers 2025;](https://www.rotterdam.nl/wonen-leven/fietsstad/Fietskoers_2025_Gemeente-Rotterdam.pdf) de fiets als hefboom in de Rotterdamse mobiliteitstransitie. Lees dit ambitiedocument.
+-   [Rotterdam Loopt 2025](https://www.rotterdam.nl/lopen): de voetganger op een voetstuk. Lees [het ambitiedocument](https://rotterdam.notubiz.nl/document/9251389/1/s20bb014740_4_60237_tds).
+-   [Fietskoers 2025](https://rotterdam.raadsinformatie.nl/document/7829652/1): de fiets als hefboom in de mobiliteitstransitie.
 
-Zo heeft Rotterdam de Coolsingel van twee keer twee rijstroken 'versmald' naar twee keer één rijstrook, om zo ruimte vrij te spelen voor ruimere trottoirs, bredere fietspaden en meer groen. Ook het aangrenzende Hofplein is nu heringericht om meer ruimte te creëren voor voetgangers, fietsers en groen. Auto's die niet door de stad hoeven te rijden, worden geweerd. Opvallend is dat er verkeer 'verdampt' zodra er minder ruimte is voor de auto; mensen rijden om (over de snelweg), blijven thuis, pakken de fiets of kiezen het OV.
+De Coolsingel ging van twee keer twee rijstroken naar twee keer één: ruimte voor bredere trottoirs en fietspaden en meer groen. Het Hofplein kreeg dezelfde behandeling en doorgaand autoverkeer wordt geweerd. Opvallend is dat verkeer 'verdampt' zodra de auto minder ruimte krijgt: mensen rijden om, blijven thuis, pakken de fiets of het OV.
 
 </div>
 </div>
@@ -99,7 +98,7 @@ Zo heeft Rotterdam de Coolsingel van twee keer twee rijstroken 'versmald' naar t
 <div class="voorbeeld voorbeeld--media">
 <figure class="fig">
   <img src="/mobiliteit/kansen/img/singelpark-leiden.jpg" alt="Het Singelpark in Leiden" loading="lazy">
-  <figcaption>Het Singelpark in Leiden -- Afbeelding: <a href="https://www.commissiemer.nl/projectdocumenten/00008409.pdf">Ontwerp Omgevingsvisie Leiden 2040</a></figcaption>
+  <figcaption>Het Singelpark in Leiden -- Afbeelding: <a href="https://lokaleregelgeving.overheid.nl/CVDR756299/1">Omgevingsvisie Leiden 2040</a></figcaption>
 </figure>
 <div markdown="1">
 

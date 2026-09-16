@@ -8,7 +8,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Mobiliteit voor iedereen
 <p class="ondertitel">Kans 6 van negen kansen voor bereikbaarheid</p>
 
 Als voetganger met een beperking loop je regelmatig tegen obstakels aan. Niet iedereen durft te fietsen. Mensen voelen zich soms onveilig op straat of in het OV. Sommige parkeergarages voelen eng. En niet elk huishouden heeft genoeg geld voor een fiets, het OV of de auto. Maar iedereen moet kunnen meedoen: naar school, studie of werk. Iedereen moet naar de dokter of de winkel of wil naar het park, sportveld of theater. Daarom moet er voor iedereen geschikte, dus inclusieve mobiliteit zijn. Aandachtspunten zijn:

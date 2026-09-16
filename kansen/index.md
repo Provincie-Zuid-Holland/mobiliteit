@@ -1,13 +1,13 @@
 ---
 layout: pzh
 title: Kansen voor bereikbaarheid
+kop: "Negen kansen voor bereikbaarheid"
 header_image: /mobiliteit/kansen/img/kop-kansen.jpg
 focus: 50% 62%
 menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Negen kansen voor bereikbaarheid
 <p class="ondertitel">Grote opgaven: meer woningen, veel onderhoud en schaarste</p>
 
 Zuid-Holland staat voor grote opgaven. Denk aan het [bouwen van 248.000 woningen](https://www.zuid-holland.nl/onderwerpen/ruimte/verstedelijking/), het verdelen van schaarse ruimte [in de ruimtelijke puzzel](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zuid-holland.nl/publish/besluitenattachments/aanbiedingsbrieven-van-ruimtelijk-voorstel-aan-partners/ruimtelijk-voorstel-ruimtelijke-koers-voor-zuid-holland-6-maart-2024.pdf&ved=2ahUKEwj_r8LN7uWVAxVE8LsIHTD6MoIQFnoECB8QAQ&usg=AOvVaw3YfufsgerWHfJlepAfkrK5) en het aanjagen van de [economie](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zuid-holland.nl/publish/pages/34745/ruimtelijk_economische_visie_2025-2050.pdf&ved=2ahUKEwjL2r2E7-WVAxWQ87sIHbKxAZAQFnoECA0QAQ&usg=AOvVaw3xrb4pp59lMuROgeI85jsg) en energietransitie. Wegen en fietspaden worden hierdoor steeds drukker. Het onderhoud van wegen en bruggen gaat de komende jaren voor hinder en extra kosten zorgen, terwijl het geld en de ruimte ontbreekt om veel nieuwe wegen, ov-verbindingen en fietspaden aan te leggen. 

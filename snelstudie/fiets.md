@@ -8,11 +8,11 @@ menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
 
-<p>Hoe mooi kan Zuid-Holland worden als we de komende tien jaar flink meer gaan fietsen? En welke maatregelen kunnen we dan nemen? Dat zijn de vragen van deze snelstudie, een compact onderzoek binnen het onderzoeksplatform <a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/">Kennis Zuid-Holland</a> ter inspiratie. Eerder schreven we <a href="https://provincie-zuid-holland.github.io/mobiliteit/8kansen/8kansen.html">Acht kansen voor mobiliteit</a> met ook daarin een pleidooi voor lopen en fietsen.</p>
+<p>Hoe mooi kan Zuid-Holland worden als we de komende tien jaar flink meer gaan fietsen? En welke maatregelen kunnen we dan nemen? Dat zijn de vragen van deze snelstudie, een compact onderzoek binnen het onderzoeksplatform <a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/">Kennis Zuid-Holland</a> ter inspiratie.</p>
 
 <p>Fietsen doen we in Nederland al twee eeuwen. Dat is niet zonder reden: het is een leuke, gezonde en goedkope manier van verplaatsen. Daarnaast is fietsen duurzaam en ruimte-efficiënt, wat Zuid-Holland goed van pas komt bij de uitdagingen waar we voor staan. Fietsen biedt dus veel voordelen, zowel voor de fietser zelf als voor de hele samenleving. Daarom doet de provincie Zuid-Holland de oproep: 'Ga gewoon fietsen'.</p>
 
-<p>Stel je eens voor dat we <a href="https://www.zuidholland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/" target="_blank" rel="noreferrer noopener">onze ruimtelijke puzzel</a> zó leggen dat veel woningen, werklocaties en voorzieningen binnen een kwartiertje fietsen (of lopen) te bereiken zijn. Niet alleen in stedelijk gebied, maar ook daarbuiten. Door de komst van de e-bike is dat steeds haalbaarder. Zo pakken steeds meer mensen de fiets en kunnen mensen (en goederen) die wél op de (vracht)auto zijn aangewezen, met minder files doorrijden naar hun bestemming.</p>
+<p>Stel je eens voor dat we <a href="https://www.zuid-holland.nl/onderwerpen/ruimte/ruimtelijke-koers/" target="_blank" rel="noreferrer noopener">onze ruimtelijke puzzel</a> zó leggen dat veel woningen, werklocaties en voorzieningen binnen een kwartiertje fietsen (of lopen) te bereiken zijn. Niet alleen in stedelijk gebied, maar ook daarbuiten. Door de komst van de e-bike is dat steeds haalbaarder. Zo pakken steeds meer mensen de fiets en kunnen mensen (en goederen) die wél op de (vracht)auto zijn aangewezen, met minder files doorrijden naar hun bestemming.</p>
 
 <p>Stel je eens voor dat we voor de komende jaren een ambitieus 'Fietsplan 2025–2035' opstellen, waarmee we streven naar flink meer fietskilometers in 2040. We vertalen hiermee de landelijke ambities (40% meer) in het 'Nationaal Toekomstbeeld Fiets' naar provinciale doelen. Dat zou onze provincie veel goeds brengen. Om dat te realiseren moet er natuurlijk wel een tandje bij en is bovendien ook meer geld nodig.</p>
 
@@ -69,7 +69,7 @@ Als meer mensen gaan fietsen, is er minder ruimte nodig voor auto's. Dat komt go
 
 <div class="uitklap">
 <details name="fiets-2"><summary>1 De fiets neemt minder ruimte in op de weg én fiets stallen kost minder ruimte dan auto parkeren</summary>
-<p>Het <a href="https://www.zuidholland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/" target="_blank" rel="noreferrer noopener">Ruimtelijk Voorstel van de provincie Zuid-Holland</a> zet in op verdichting en functiemenging; wonen en werken worden zoveel mogelijk geconcentreerd in (hoog)stedelijke gebieden. Nabijheid is hier een sleutelbegrip voor de kwaliteit van leven; dit zorgt voor minder verplaatsingen over lange afstand. De fiets past uitstekend bij compacte steden. In combinatie met beter ov, waardoor je altijd dichtbij in (hoogwaardig) openbaar vervoer kunt stappen, verbetert de fiets de bereikbaarheid. Alles compact en dichtbij leidt wel tot een ander probleem: er blijft weinig ruimte over.</p>
+<p>Het <a href="https://www.zuid-holland.nl/onderwerpen/ruimte/ruimtelijke-koers/" target="_blank" rel="noreferrer noopener">Ruimtelijk Voorstel van de provincie Zuid-Holland</a> zet in op verdichting en functiemenging; wonen en werken worden zoveel mogelijk geconcentreerd in (hoog)stedelijke gebieden. Nabijheid is hier een sleutelbegrip voor de kwaliteit van leven; dit zorgt voor minder verplaatsingen over lange afstand. De fiets past uitstekend bij compacte steden. In combinatie met beter ov, waardoor je altijd dichtbij in (hoogwaardig) openbaar vervoer kunt stappen, verbetert de fiets de bereikbaarheid. Alles compact en dichtbij leidt wel tot een ander probleem: er blijft weinig ruimte over.</p>
 <p>Verder neemt een gestalde fiets minstens vijf keer minder ruimte in beslag dan een geparkeerde auto. Simpel gezegd: fietsen kunnen ruimte besparen, die we hard nodig hebben voor andere voorzieningen.</p>
 </details>
 <details name="fiets-2"><summary>2 Fiets brengt bestemmingen dichterbij</summary>
@@ -157,7 +157,7 @@ Hoe ouder hoe kwetsbaarder: verkeersdeelnemers van 70 jaar en ouder worden kwets
 <li>Samenwerking Rijk en decentrale overheden.</li>
 </ol>
 </details>
-<details name="fiets-4"><summary>Het fietsbeleid in Zuid-Holland komt voort uit het provinciaal fietsplan '<a href="https://www.zuidholland.nl/onderwerpen/verkeer-vervoer/samen-verder-fietsen/fietsplan-samen/">Samen verder fietsen 2016-2025</a>'.</summary>
+<details name="fiets-4"><summary>Het fietsbeleid in Zuid-Holland komt voort uit het provinciaal fietsplan '<a href="https://www.zuid-holland.nl/publish/pages/12709/fietsplanpzh2016-2025.pdf">Samen verder fietsen 2016-2025</a>'.</summary>
 <div class="wp-block-group has-luminous-vivid-amber-background-color has-background">
 <p>Zuid-Holland wil de best bereikbare provincie zijn, ook per fiets." De drie fietsambities uit 2016:</p>
 <ul>
@@ -168,10 +168,10 @@ Hoe ouder hoe kwetsbaarder: verkeersdeelnemers van 70 jaar en ouder worden kwets
 <p>Bij dit Fietsplan hoort ook het Uitvoeringsprogramma 'Samen verder fietsen'.</p>
 </div>
 </details>
-<details name="fiets-4"><summary>In het <a href="https://www.zuidholland.nl/politiek-bestuur/coalitieakkoord-2023-2027/">coalitieakkoord 2023-2027</a> wordt uitgesproken om meer in te zetten op fietsen en in het omgevingsbeleid op "vaker en verder fietsen".</summary>
+<details name="fiets-4"><summary>In het <a href="https://www.zuid-holland.nl/politiek-bestuur/coalitieakkoord-2023-2027/">coalitieakkoord 2023-2027</a> wordt uitgesproken om meer in te zetten op fietsen en in het omgevingsbeleid op "vaker en verder fietsen".</summary>
 <div class="wp-block-group has-luminous-vivid-amber-background-color has-background">
 <p>In het coalitieakkoord 2023–2027 'Krachtig Zuid-Holland' spreekt de provincie uit dat we meer inzetten op fietsen, vooral met het oog op verstedelijking. Verder geeft de provincie prioriteit aan het STOMP-principe, dus éérst lopen en fietsen en dan collectief vervoer en mobiliteitsdiensten en pas daarna de privé-auto. Ook alle Zuid-Holland gemeenten noemen de fiets in hun coalitieakkoorden.</p>
-<p>Zie <a href="https://www.zuidholland.nl/politiek-bestuur/coalitieakkoord-2023-2027/">coalitieakkoord</a> en <a href="https://omgevingsbeleid.zuidholland.nl/omgevingsvisie/beleidskeuzes/b20cb97f-9029-4787-917c-8c21bef604e9">beleidskeuze fiets</a>.</p>
+<p>Zie <a href="https://www.zuid-holland.nl/politiek-bestuur/coalitieakkoord-2023-2027/">coalitieakkoord</a> en <a href="https://omgevingsbeleid.zuid-holland.nl/omgevingsvisie/beleidskeuzes/b20cb97f-9029-4787-917c-8c21bef604e9">beleidskeuze fiets</a>.</p>
 </div>
 </details>
 <details name="fiets-4"><summary>Meeste geld gaat naar wegen (85%). Circa 5% voor fiets.</summary>
@@ -184,7 +184,7 @@ Hoe ouder hoe kwetsbaarder: verkeersdeelnemers van 70 jaar en ouder worden kwets
 <figure><img src="img/img-fiets/investering-pzi.png" alt="Investeringskredieten PZI" width="1024" height="619"></figure>
 </div>
 </div>
-<p>In Zuid-Holland kunnen gemeenten en andere wegbeheerders subsidie aanvragen voor fietsprojecten en fietsparkeervoorzieningen vanuit de <a href="https://www.zuidholland.nl/online-regelen/subsidies/subsidies/mobiliteit-srm/" target="_blank" rel="noreferrer noopener">subsidieregeling mobiliteit</a>. Een fietsproject moet het fietsnetwerk verbeteren. En een fietsparkeervoorziening moet leiden tot betere en meer fietsplekken bij haltes of knooppunten van ov of bij parkeerplaatsen.</p>
+<p>In Zuid-Holland kunnen gemeenten en andere wegbeheerders subsidie aanvragen voor fietsprojecten en fietsparkeervoorzieningen vanuit de <a href="https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/paragrafen-subsidie/fietsprojecten-en-fietsparkeervoorzieningen-s-2-3/" target="_blank" rel="noreferrer noopener">subsidieregeling mobiliteit</a>. Een fietsproject moet het fietsnetwerk verbeteren. En een fietsparkeervoorziening moet leiden tot betere en meer fietsplekken bij haltes of knooppunten van ov of bij parkeerplaatsen.</p>
 </details>
 </div>
 
@@ -311,7 +311,6 @@ Harde randvoorwaarde: het aantal verkeersdoden en -gewonden onder fietsers mag, 
 <li>Campagnes draaien voor meer (korte) ritten op de fiets (zoals <a href="https://www.daszogefietst.nl/">Da's zo gefietst</a>)</li>
 <li>Werkgeversaanpak, bijvoorbeeld probeeracties om meer mensen op de fiets naar werk te krijgen, voordeligere fietsvergoedingen en fietsvoorzieningen op werk</li>
 <li>Subsidies uitbreiden zodat meer gemeentes, wegbeheerders of organisaties in zelf ook aan fietsstimulering kunnen werken</li>
-<li>Uitdelen van <a href="https://www.zuid-holland.nl/actueel/kennis-zuid-holland/actie/">deelfiets-probeer-vouchers</a></li>
 </ul>
 </details>
 </div>

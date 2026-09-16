@@ -5,7 +5,6 @@ header_image: img/the-15-minute-city-paris-landscape-credit-micael.jpg
 menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
-# Zorg voor voorzieningen dichtbij
 <p class="ondertitel">Een pleidooi om de trend van het vergroten van afstanden te doorbreken.</p>
 
 Decennialang hebben schaalvergroting en centralisatie (van voorzieningen zoals winkels, gezondheidszorg) en het scheiden van wonen en werken ervoor gezorgd dat mensen vaker en verder moesten gaan reizen. Dat proces gaat nog steeds door, versterkt door een toename van autobezit en digitalisering (waaronder internetwinkelen). De mobiliteitssector heeft de gevolgen hiervan altijd opgevangen door te zorgen dat steeds meer mensen zich sneller kunnen verplaatsen (bijvoorbeeld door het aanleggen van wegen en uitbreiding van OV).

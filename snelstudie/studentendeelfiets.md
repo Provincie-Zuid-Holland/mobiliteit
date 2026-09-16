@@ -7,7 +7,6 @@ menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
    <a href="fietsenstalling.html">Snelstudie over fietsenstallingen</a>  
 ---
-# Studenten in Zuid-Holland op deelfiets naar hun opleiding
 
 Een eerste opzet voor een plan om studenten die thuis wonen te verleiden om naar hun opleiding te gaan met de deelfiets. Dit combineert veel aanbevelingen uit de [Naar efficiënter gebruik van stationsstallingen](fietsenstalling.html). Het kan een mooie bijdrage leveren om het aantal tweede fietsjes te beperken in studentensteden. Dit plan kan in Delft, Den Haag, Dordrecht en Leiden en wellicht nog in andere steden nog dit jaar van start.
 

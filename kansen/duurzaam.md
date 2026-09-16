@@ -8,7 +8,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Duurzaam & schoon vervoer (mensen & goederen)
 <p class="ondertitel">Kans 8 van negen kansen voor bereikbaarheid</p>
 
 Het overgrote deel van de voer- en vaartuigen in Zuid-Holland gebruikt nog fossiele brandstoffen. Dat veroorzaakt het broeikasgas CO₂ en schadelijk fijnstof en stikstofoxiden (NOx). De ambitie is om met grote stappen naar nul uitstoot te gaan, uiterlijk in 2050. Auto's, bussen, bestelwagens, vrachtwagens en schepen: die kunnen allemaal vooruit op elektriciteit. Inmiddels hebben al vijf Zuid-Hollandse gemeenten een zero-emissiezone ingevoerd: Delft, Den Haag, Gouda, Leiden en Rotterdam. Alphen aan den Rijn volgt op 1 januari 2027.
@@ -18,7 +17,7 @@ Er komen nieuwe soorten kleine lichte voertuigen (light electric vehicles of LEV
 
 Voor stedelijke gebieden gelden drie belangrijke akkoorden:
 
--   Voor het beleveren van winkels in stadskernen ligt er de [Green Deal Zero Emissie Stadslogistiek](https://www.greendeals.nl/green-deals/zero-emission-stadslogistiek): vanaf 2026 met nul uitstoot (enkele uitzonderingen daargelaten).
+-   Voor het beleveren van winkels in stadskernen ligt er de [Green Deal Zero Emissie Stadslogistiek](https://www.opwegnaarzes.nl/over/green-deal-zes): vanaf 2026 met nul uitstoot (enkele uitzonderingen daargelaten).
 -   Voor bussen ligt er het landelijk [Bestuursakkoord Zero Emissie](https://zeroemissiebus.nl/bestuursakkoord/) Busvervoer. Daarin hebben de provincies afgesproken dat alle nieuwe OV-bussen vanaf 2025 nul uitstoot hebben en alle bestaande OV-bussen vanaf 2030 ook. In Nederland gaat dat om ongeveer 5.000 OV-bussen, waarvan naar schatting een derde in [Zuid-Holland](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/openbaar-vervoer/duurzaam-ov) (inclusief MRDH-gebied). Alle trams, metro's en treinen in Zuid-Holland rijden al op groene stroom.
 -   Voor het OV is er nu ook het Convenant Circulair Openbaar Vervoer. Doelen: 50 procent minder primaire grondstoffen (metaal, mineraal en fossiel) in 2030 ten opzichte van 2026 en in 2050 volledig circulair OV, conform het Nationaal Programma Circulaire Economie. Het gaat dan niet alleen om de voertuigen, maar ook om de bedrijfsvoering en infrastructuur.
 
@@ -26,7 +25,7 @@ Voor de binnenvaart ligt er de [Green Deal Zeevaart, Binnenvaart en Havens](http
 
 ## Ontwikkel stadslogistieke hubs & zero emissie zones
 
-Stadsdistributiecentra of [(stads)logistieke hubs](https://www.slimschoononderweg.nl/logistieke-hubs) zijn verzamelplaatsen aan de rand van de stad waar leveranciers hun spullen met vrachtwagens afleveren, waarna kleinere (elektrische) voertuigen de spullen bezorgen bij horeca, instellingen en winkels in de stad. Als je dit als overheid én bedrijfsleven goed organiseert, zijn de voordelen legio: minder vrachtwagens in de stad, minder uitstoot in de stad, minder ruimtebeslag in de stad, veiliger verkeer. Kortom: duurzamere, efficiëntere en goedkopere stedelijke distributie. En je bent beter voorbereid op de zero emissie zones. Voorbeelden: [Cityhub](https://cityhub.nl/) (Leiden) en [Hubbel](https://hubbel.nl/) (Den Haag).
+Stadsdistributiecentra of [(stads)logistieke hubs](https://www.kimnet.nl/documenten/2026/03/17/stadslogistiek-en-hubs) zijn verzamelplaatsen aan de rand van de stad waar leveranciers hun spullen met vrachtwagens afleveren, waarna kleinere (elektrische) voertuigen de spullen bezorgen bij horeca, instellingen en winkels in de stad. Als je dit als overheid én bedrijfsleven goed organiseert, zijn de voordelen legio: minder vrachtwagens in de stad, minder uitstoot in de stad, minder ruimtebeslag in de stad, veiliger verkeer. Kortom: duurzamere, efficiëntere en goedkopere stedelijke distributie. En je bent beter voorbereid op de zero emissie zones. Voorbeelden: [Cityhub](https://cityhub.nl/) (Leiden) en [Hubbel](https://hubbel.nl/) (Den Haag).
 
 <div class="voorbeeld voorbeeld--media">
 <figure class="fig">

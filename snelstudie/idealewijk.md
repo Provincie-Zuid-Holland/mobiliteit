@@ -1,12 +1,12 @@
 ---
 layout: pzh
 title: Nabijheid als sturend principe voor ideale wijken
+kop: "Nabijheid als sturend principe voor ideale wijken (werktitel)"
 header_image: /mobiliteit/snelstudie/img/fietswijk.jpg
 menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Nabijheid als sturend principe voor ideale wijken (werktitel) 
 
 
 <div class="tekstblok">

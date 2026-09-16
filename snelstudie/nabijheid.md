@@ -6,7 +6,6 @@ focus: 50% 100%
 menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
-# De kracht van nabijheid
 <p class="ondertitel">Kansen van voorzieningen en hoogwaardig OV dichtbij</p>
 
 ## Samenvatting: breng voorzieningen dichterbij
@@ -17,7 +16,7 @@ Het Rijk hanteert sinds voorjaar 2025 het 'bereikbaarheidspeil' om de bereikbaar
 
 Voor Zuid-Holland is dit een uitstekende basis al is het advies om ook naar bredere voorzieningen te kijken, omdat die bijdragen aan brede welvaart en een prettig leven. Denk aan de nabijheid van sport & cultuur, horeca, recreatie & groen. En natuurlijk van werk!
 
-Dit is hét moment voor de 'kracht van nabijheid': met een enorme woningbouwopgave (248.000 woningen tot 2030), de [nieuwe Ruimtelijke koers](https://www.Zuid-Holland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/) en de [Ruimtelijk Economische Visie 2025-2050](https://www.Zuid-Holland.nl/actueel/nieuws/december-2024/provincie-Zuid-Holland-lanceert-ruimtelijk/) gaat Zuid-Holland de komende jaren flink op de schop. Dat biedt kansen om in verschillende gebieden te streven naar betere nabijheid. Het kabinet zet het onderwerp bereikbaarheid hoog op de agenda. Kansen liggen er niet alleen bij nieuwbouw, maar ook voor meer nabijheid in bestaande wijken.
+Dit is hét moment voor de 'kracht van nabijheid': met een enorme woningbouwopgave (248.000 woningen tot 2030), de [nieuwe Ruimtelijke koers](https://www.Zuid-Holland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/) en de [Ruimtelijk Economische Visie 2025-2050](https://www.zuid-holland.nl/publish/pages/34745/ruimtelijk_economische_visie_2025-2050.pdf) gaat Zuid-Holland de komende jaren flink op de schop. Dat biedt kansen om in verschillende gebieden te streven naar betere nabijheid. Het kabinet zet het onderwerp bereikbaarheid hoog op de agenda. Kansen liggen er niet alleen bij nieuwbouw, maar ook voor meer nabijheid in bestaande wijken.
 
 **De drie hoofdconclusies uit deze snelstudie:**
 
@@ -31,7 +30,7 @@ Zuid-Holland is de provincie met de meeste inwoners en banen per vierkante kilom
 
 **Voorzieningen én hoogwaardig OV**
 
-Wáár mensen wonen, werken en recreëren, bepaalt grotendeels hun vervoerskeuze. Een grote afstand betekent haast automatisch langer reizen naar een bestemming en vaker met de auto. Maar als wonen en werken dichtbij voorzieningen en hoogwaardig openbaar vervoer liggen, dan verleid je mensen juist om te lopen, te fietsen of de trein of de bus te pakken. Zie bijvoorbeeld het boek [The 15-Minute City van Carlos Moreno](https://www.rooilijn.nl/publicaties/the-15-minute-city-a-solution-to-saving-our-time-and-our-planet/).
+Wáár mensen wonen, werken en recreëren, bepaalt grotendeels hun vervoerskeuze. Een grote afstand betekent haast automatisch langer reizen naar een bestemming en vaker met de auto. Maar als wonen en werken dichtbij voorzieningen en hoogwaardig openbaar vervoer liggen, dan verleid je mensen juist om te lopen, te fietsen of de trein of de bus te pakken. Zie bijvoorbeeld het boek [The 15-Minute City van Carlos Moreno](https://rooilijn.nl/recensies/de-kracht-van-nabijheid/).
 Nog een voordeel: met goede bereikbaarheid te voet of per fiets worden bestemmingen voor (bijna) iedereen toegankelijk. Het biedt inwoners met beperkte mogelijkheden de kans om voorzieningen te gebruiken waartoe ze anders geen toegang hebben. Zo vermindert bereikbaarheid vervoerarmoede en helpt het klimaatdoelen te halen.
 
 **Onderzoeksvraag**
@@ -194,7 +193,7 @@ Hieronder staan voorbeelden per *stedelijkheidsklasse* (op basis van het aantal 
 <li>goede voorzieningen</li>
 </ul>
 <p>Kansen voor suburbane gebieden: <a href="https://www.bnr.nl/podcast/vastgoed-gezocht/10561689/veel-woningbouw-mogelijk-in-kleinere-stationsgebieden">verdichting</a> en meer functiemenging (voorzieningen, wonen én werken).</p>
-<p>Andere suburbane voorbeelden: Hoekse Lijn, <a href="https://dezwartehond.nl/van-strand-tot-stad-de-zwarte-hond-onderzoekt-de-ontwikkelkansen-aan-de-hoekse-lijn/">van strand tot stad</a>: meer wonen, werken &amp; voorzieningen rond metrostations; Stationsgebied Leidschenveen: rond het <a href="https://studiosk.nl/projecten/lokale-stations/station-leidschenveen/">station</a> zijn woningen en verbinding met RandstadRail en ander HOV (tram en bus).</p>
+<p>Andere suburbane voorbeelden: Hoekse Lijn, <a href="https://dezwartehond.nl/van-strand-tot-stad-de-zwarte-hond-onderzoekt-de-ontwikkelkansen-aan-de-hoekse-lijn/">van strand tot stad</a>: meer wonen, werken &amp; voorzieningen rond metrostations; Stationsgebied Leidschenveen: rond het station zijn woningen en verbinding met RandstadRail en ander HOV (tram en bus).</p>
 </details>
 
 <details name="gebied"><summary><span>Laag suburbaan: Hellevoetsluis</span><span class="score">nabijheidsscore 6,0 – 7,8</span></summary>
@@ -299,7 +298,7 @@ En door MKB'ers te ondersteunen hun bedrijfspanden te behouden, kunnen kernen le
 
 ## Reisgedrag in suburbane gebieden
 
-Tot slot het afstudeeronderzoek dat Max Klapwijk bij de provincie uitvoerde: *[Travel behaviour in suburban areas: a case study in the province of Zuid-Holland](https://maxkl.nl/pdf)* (pdf).
+Tot slot het afstudeeronderzoek dat Max Klootwijk bij de provincie uitvoerde: *[Travel behaviour in suburban areas: a case study in the province of Zuid-Holland](https://maxkl.nl/Article_Max_Klootwijk_03_12_2024_DEF.pdf)* (pdf).
 
 In Zuid-Holland zijn autobezit en -gebruik de afgelopen twintig jaar sterk toegenomen. Die stijging brengt uitdagingen mee: meer ruimtebeslag, langere files en lastiger woningbouw (waar laten we die auto's, hoe laden we ze op). De stijging is vooral te zien buiten de grote steden, op het platteland, maar ook in suburbane gebieden tussen stad en platteland — denk aan de randen van Rotterdam en Den Haag, de gemeenten rond Leiden en de Drechtsteden.
 
@@ -383,8 +382,8 @@ Corona heeft ons geleerd dat thuiswerken z'n voordelen heeft. Zo scheelt het in 
 
 - [Omgevingsbeleid bereikbaar Zuid-Holland](https://omgevingsbeleid.Zuid-Holland.nl/omgevingsvisie/ambities/44d0fb02-3625-464b-8c20-40947626a184) (februari 2025)
 - [Ruimtelijke koers voor Zuid-Holland](https://www.Zuid-Holland.nl/onderwerpen/ruimte/ruimte/ruimtelijke-koers/) (maart 2024)
-- [Ruimtelijk Economische Visie 2025-2050 Zuid-Holland](https://www.Zuid-Holland.nl/actueel/nieuws/december-2024/provincie-Zuid-Holland-lanceert-ruimtelijk/) (december 2024)
-- [*The 15-Minute City*, Carlos Moreno](https://www.rooilijn.nl/publicaties/the-15-minute-city-a-solution-to-saving-our-time-and-our-planet/) (boekrecensie)
+- [Ruimtelijk Economische Visie 2025-2050 Zuid-Holland](https://www.zuid-holland.nl/publish/pages/34745/ruimtelijk_economische_visie_2025-2050.pdf) (december 2024)
+- [*The 15-Minute City*, Carlos Moreno](https://rooilijn.nl/recensies/de-kracht-van-nabijheid/) (boekrecensie)
 
 </div>
 

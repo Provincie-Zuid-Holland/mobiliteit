@@ -8,7 +8,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Veranderingen draaien om gedrag
 <p class="ondertitel">Bij alle negen kansen speelt gedrag een hoofdrol</p>
 
 Om de kansen voor mobiliteit optimaal te benutten en effectief beleid te maken, moeten we in alle stadia van beleidsvorming rekening houden met menselijk gedrag. We moeten ons bewust zijn dat mensen zich niet altijd rationeel gedragen en dat er geen verandering kan plaatsvinden zonder mensen mee te krijgen.
@@ -101,7 +100,7 @@ Op deze pagina staan een paar voorbeelden van hoe je op het gebied van mobilitei
 
 ## Stimuleer fietsgebruik vanuit werkgevers
 
-Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met [fiscaal voordeel](https://www.reizennaarjewerk.nl/page/fiscale-adviezen), voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een [spaarsysteem](https://site.trappers.net/). Zo kunnen bedrijven hun werknemers een fiscaalvriendelijke ‘fiets van de zaak’ geven. Dat mag ook een e-bike of speed-pedelec zijn. De werkgever mag belastingvrij 25 cent per fietskilometer vergoeden. Extra lichaamsbeweging houdt werknemers vitaal: dat vertaalt zich vaak naar een lager ziekteverzuim. Ook carpoolen (samen reizen) komt in aanmerking voor een vergoeding van 23 cent per kilometer. De samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://www.zuidhollandbereikbaar.nl/) van overheden en bedrijfsleven kan hierbij helpen. Voor werkgevers heeft de Fietsersbond een [checklist fietsvriendelijk bedrijf](https://www.fietsersbond.nl/onderweg/fietsen-naar-het-werk/fietsvriendelijk-bedrijf/checklist-fietsvriendelijk-bedrijf/).
+Werkgevers kunnen het gebruik van de fiets door hun werknemers stimuleren. Dat kan bijvoorbeeld met [fiscaal voordeel](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/fiets-van-de-zaak), voorzieningen (fietsenstalling, oplaadpunten, omkleedruimte, douche) en een [spaarsysteem](https://trappersshop.fiscfree.nl/). Zo kunnen bedrijven hun werknemers een fiscaalvriendelijke ‘fiets van de zaak’ geven. Dat mag ook een e-bike of speed-pedelec zijn. De werkgever mag belastingvrij 25 cent per fietskilometer vergoeden. Extra lichaamsbeweging houdt werknemers vitaal: dat vertaalt zich vaak naar een lager ziekteverzuim. Ook carpoolen (samen reizen) komt in aanmerking voor diezelfde vergoeding. De samenwerkingsorganisatie [Zuid-Holland Bereikbaar](https://www.zuidhollandbereikbaar.nl/) van overheden en bedrijfsleven kan hierbij helpen. Voor werkgevers heeft de Fietsersbond een [checklist fietsvriendelijk bedrijf](https://www.fietsersbond.nl/onderweg/fietsen-naar-het-werk/fietsvriendelijk-bedrijf/checklist-fietsvriendelijk-bedrijf/).
 
 </div>
 

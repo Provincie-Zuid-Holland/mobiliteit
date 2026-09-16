@@ -40,7 +40,6 @@ abonnement aanvragen (*in samenwerking met <em>Zuid-Holland Bereikbaar</em> en d
 <li>Je zit nergens aan vast, stopt vanzelf.</li>
 <li>Je fiets dan overal gratis waar Donkey Republic-fietsen staan.</li>
 </ul>
-<p style="text-align: center;"><a href="https://www.zuidhollandbereikbaar.nl/reizigers/acties-voor-reizigers/3-maanden-gratis-een-donkey-deelfiets" target="_blank" rel="noreferrer noopener"><strong>Haal je vouchercode op bij Zuid-Holland Bereikbaar</strong></a></p>
 <p style="text-align: center;"><strong><a href="#toelichting">De vouchercode staat ook onderaan deze pagina bij de toelichting over Donkey en de actie</a>.</strong></p>
 </div>
 </div>

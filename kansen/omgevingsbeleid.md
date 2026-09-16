@@ -1,13 +1,13 @@
 ---
 layout: pzh
 title: Herzien Omgevingsbeleid
+kop: "Ambitie Bereikbaar Zuid-Holland"
 header_image: /mobiliteit/img/zandmotorstrand.jpg
 menu: |
     <a href="/mobiliteit/kansen/index.html">Negen kansen voor bereikbaarheid</a>
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Ambitie Bereikbaar Zuid-Holland
 <p class="ondertitel">Omgevingsbeleid (geldig vanaf sept 2026)</p>
 
 Zuid-Holland streeft naar een vitale provincie, met goed bereikbare steden en dorpscentra waar het fijn wonen, werken, leren en recreëren is. Waar mensen en goederen op een makkelijke, veilige en duurzame manier hun bestemming kunnen bereiken. De provincie richt zich op de toekomst. Dat betekent dat zij gezondheid, kwaliteit en veiligheid van de leefomgeving nadrukkelijk meeweegt in haar beleid.

@@ -13,7 +13,7 @@ menu: |
 
 <p>Een deelfiets is een oplossing om vaker buiten je woonplaats te kunnen fietsen. Een deelfiets is een fiets die niet van jou is, maar die je snel en gemakkelijk ergens huurt als je hem nodig hebt. Een bekend voorbeeld is de OV-fiets, maar er zijn meer aanbieders.</p>
 
-<p>In de snelstudie <a href="https://web.archive.org/web/20251218232306/https://kennis.zuidholland.nl/wp-content/uploads/2024/11/Snelstudie_treingebruik_deelfietsaanbod-1.pdf" target="_blank" rel="noreferrer noopener">Effecten treingebruik bij verbeterd deelfietsaanbod op stations (pdf)</a> van Studio Bereikbaar is op basis van data-analyse gekeken naar groei van het treingebruik als er op meer stations deelfietsen te huur zouden zijn. Vier conclusies <em>(klik op ▶ om toelichting uit te klappen)</em></p>
+<p>In de snelstudie <a href="/mobiliteit/snelstudie/pdf/snelstudie-treingebruik-deelfietsaanbod.pdf" target="_blank" rel="noreferrer noopener">Effecten treingebruik bij verbeterd deelfietsaanbod op stations (pdf)</a> van Studio Bereikbaar is op basis van data-analyse gekeken naar groei van het treingebruik als er op meer stations deelfietsen te huur zouden zijn. Vier conclusies <em>(klik op ▶ om toelichting uit te klappen)</em></p>
 
 <div class="uitklap">
 <details name="treinfietscombi-1"><summary>1. In onze woonplaats fietsen we vier keer vaker dan als we op bezoek zijn in een andere stad. Meer deelfietsen op andere bestemmingen kunnen leiden tot een hoger fietsgebruik.</summary>
@@ -45,5 +45,5 @@ menu: |
 <div class="wp-block-media-text alignwide is-stacked-on-mobile ss-example ss-example-1"><figure class="wp-block-media-text__media"><img src="img/img-treinfietscombi/treinfiets-studio.jpg" alt="Studio Bereikbaar" width="1024" height="683"></figure><div class="wp-block-media-text__content">
 <h2>Totstandkoming</h2>
 
-<p>Deze snelstudie is door Studio Bereikbaar uitgevoerd in opdracht van de provincie Zuid-Holland (binnen het programma Kennis Zuid-Holland). De link naar de volledige studie: <a href="https://web.archive.org/web/20251218232306/https://kennis.zuidholland.nl/wp-content/uploads/2024/11/Snelstudie_treingebruik_deelfietsaanbod-1.pdf" target="_blank" rel="noreferrer noopener">Effecten treingebruik bij verbeterd deelfietsaanbod op stations (pdf)</a>.</p>
+<p>Deze snelstudie is door Studio Bereikbaar uitgevoerd in opdracht van de provincie Zuid-Holland (binnen het programma Kennis Zuid-Holland). De link naar de volledige studie: <a href="/mobiliteit/snelstudie/pdf/snelstudie-treingebruik-deelfietsaanbod.pdf" target="_blank" rel="noreferrer noopener">Effecten treingebruik bij verbeterd deelfietsaanbod op stations (pdf)</a>.</p>
 </div></div>

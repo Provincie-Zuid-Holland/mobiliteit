@@ -7,7 +7,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Deelvervoer & hubs
 <p class="ondertitel">Kans 4 van negen kansen voor bereikbaarheid</p>
 
 Je hoeft niet overal een fiets te hebben, maar wilt misschien wel overal een fiets kunnen gebruiken. Dat is de deelfiets. Omdat een deelfiets meerdere 'baasjes' na elkaar heeft, gebruikt hij minder ruimte dan tweede of derde privéfietsen die bij een station gestald staan. Er zijn ook deelbakfietsen, deelscooters en deelauto's. Om fiets, OV, deelvervoer en auto handig te kunnen combineren, moet je zo snel en makkelijk kunnen overstappen bij stations, R-nethaltes hubs of andere knooppunten.  De conclusie van de snelstudie '[kansen voor deelfiets en deelscooter in Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/onderzoeken-1/overzicht-onderzoeken/snelstudie-kansen-deelfiets-deelscooter-zuid/)' is dat deelfietsen en deelscooters bijdragen aan betere mobiliteit, omdat het een extra keuze is bovenop bestaand vervoer, vooral in het natransport op het OV (van de uitstaphalte naar je eindbestemming). Deze vormen van deelvervoer zijn schoon en nemen weinig ruimte in, wat wijken aantrekkelijker kan maken.
@@ -18,9 +17,9 @@ Ook in landelijk gebied kan -- met name elektrische -- deelmobiliteit bijdragen 
 
 ## Deelauto's & deelbakfietsen
 
-Ook andere deelvoertuigen zoals deelauto's leveren een positieve bijdrage aan de mobiliteitstransitie. Denk aan deelauto's ([Amber](https://driveamber.com/nl/), [Greenwheels](https://www.greenwheels.nl/), [MyWheels](https://mywheels.nl/), [We Drive Solar](https://www.wedrivesolar.nl/)). En de nieuwste trend: deelbakfietsen ([BAQME](https://www.baqme.com/), [Cargoroo](https://cargoroo.nl/)) voor mensen die zonder auto grotere spullen willen vervoeren. Door vervoermiddelen te delen, kunnen we het milieu sparen, net als geld en ruimte. Een privéauto staat gemiddeld 23 uur per dag stil. Eén deelauto kan wel door twintig huishoudens worden gebruikt. Dat kan extra leefruimte op straat opleveren, bijvoorbeeld voor groen of speelplaatsen. Autodelers gebruiken ook vaker de fiets en het OV. Gemeenten kunnen deelvervoer stimuleren (zie [Basis voor sturing op deelmobiliteit](https://static1.squarespace.com/static/5818ae386a49632b8ef6ad95/t/61d5cada6da95c310c2e7847/1641401050718/Handleiding_basis-sturing_deelmobiliteit_MRA-smart-mobility.def_.pdf) en [Leidraad gemeentelijk beleid deelmobiliteit](https://www.fietsberaad.nl/Kennisbank/Fietsberaadpublicatie-37-Leidraad-gemeentelijk-bel)).
+Ook andere deelvoertuigen zoals deelauto's leveren een positieve bijdrage aan de mobiliteitstransitie. Denk aan deelauto's ([Greenwheels](https://www.greenwheels.com/), [MyWheels](https://mywheels.nl/), [We Drive Solar](https://www.wedrivesolar.nl/)). En de nieuwste trend: deelbakfietsen ([BAQME](https://www.baqme.com/), [Cargoroo](https://cargoroo.nl/)) voor mensen die zonder auto grotere spullen willen vervoeren. Door vervoermiddelen te delen, kunnen we het milieu sparen, net als geld en ruimte. Een privéauto staat gemiddeld 23 uur per dag stil. Eén deelauto kan wel door twintig huishoudens worden gebruikt. Dat kan extra leefruimte op straat opleveren, bijvoorbeeld voor groen of speelplaatsen. Autodelers gebruiken ook vaker de fiets en het OV. Gemeenten kunnen deelvervoer stimuleren (zie [Basis voor sturing op deelmobiliteit](https://static1.squarespace.com/static/5818ae386a49632b8ef6ad95/t/61d5cada6da95c310c2e7847/1641401050718/Handleiding_basis-sturing_deelmobiliteit_MRA-smart-mobility.def_.pdf) en [Leidraad gemeentelijk beleid deelmobiliteit](https://www.fietsberaad.nl/Kennisbank/Fietsberaadpublicatie-37-Leidraad-gemeentelijk-bel)).
 
-Grotere voertuigen: dicht bij huis, in [buurthubs](https://smartmobilitymra.nl/amsterdam-introduceert-buurthubs) of [Ehubs](https://ehubnijmegen.nl/).
+Grotere voertuigen: dicht bij huis, in [buurthubs](https://www.rekenkamer.amsterdam.nl/onderzoek/buurthubs-voor-deelmobiliteit/) of [Ehubs](https://ehubnijmegen.nl/).
 
 ## Stimuleer 'wolk' van deelmobiliteit
 
@@ -64,7 +63,7 @@ Een reis per fiets of auto gaat vaak van-deur-tot-deur. Op een andere manier rei
 
 ## Knooppunten of hubs
 
-Een hub is een nieuwe benaming voor een overstappunt. Hoe naadlozer de overstap, hoe sneller en comfortabeler de reis. Er zijn veel verschillende hubs. Zo heb je hubs in woonwijken zoals een [buurthub](https://smartmobilitymra.nl/amsterdam-introduceert-buurthubs) of [eHub](https://ehubnijmegen.nl/) en hubs bij OV-haltes waar vervoermiddelen klaar staan voor de laatste schakel van je reis. Ook zijn er hubs voor [duurzame (stads)logistiek](https://www.hub010.nl/). Vraag is nog wel wie de hubs moet neerzetten, betalen, exploiteren en beheren.
+Een hub is een nieuwe benaming voor een overstappunt. Hoe naadlozer de overstap, hoe sneller en comfortabeler de reis. Er zijn veel verschillende hubs. Zo heb je hubs in woonwijken zoals een [buurthub](https://www.rekenkamer.amsterdam.nl/onderzoek/buurthubs-voor-deelmobiliteit/) of [eHub](https://ehubnijmegen.nl/) en hubs bij OV-haltes waar vervoermiddelen klaar staan voor de laatste schakel van je reis. Ook zijn er hubs voor [duurzame (stads)logistiek](https://www.hub010.nl/). Vraag is nog wel wie de hubs moet neerzetten, betalen, exploiteren en beheren.
 
 <div class="voorbeeld voorbeeld--media">
 <figure class="fig">
@@ -106,7 +105,7 @@ Als de auto het eerste onderdeel vormt van een ketenreis, dan kom je al gauw uit
 
 ## Carpoolen nieuwe stijl?
 
-Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen er misschien nieuwe mogelijkheden van carpoolen 2.0 (ook wel: ride sharing), bijvoorbeeld met een innovatieve app (zoals [BlaBlaCar](https://www.blablacar.nl/carpool), [Twogo](https://www.twogo.com/nl/) of [Nabogo](https://nabogo.com/nl/)) die vraag en aanbod bij elkaar brengt.
+Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen er misschien nieuwe mogelijkheden van carpoolen 2.0 (ook wel: ride sharing), bijvoorbeeld met een innovatieve app (zoals [BlaBlaCar](https://www.blablacar.nl/carpool) of [Nabogo](https://nabogo.com/nl/)) die vraag en aanbod bij elkaar brengt.
 
 </div>
 </div>
@@ -121,7 +120,7 @@ Carpoolen (meerijden met iemand anders) is nooit populair geworden. Toch liggen 
 
 <div class="voorbeeld" markdown="1">
 
-- [Kamerbrief over Samenwerkingsprogramma Deelmobiliteit](https://www.rijksoverheid.nl/documenten/kamerstukken/2022/12/23/samenwerkingsprogramma-deelmobiliteit)
+- [Voortgangsbrief en ontwikkelingen deelmobiliteit (2024)](https://www.rijksoverheid.nl/documenten/2024/05/30/voortgangsbrief-en-ontwikkelingen-deelmobiliteit)
 - [The state of shared mobility: Bike sharing in 2023](https://fresk.digital/en/reports/shared-mobility-report) van Fresk.Digital
 - [Pilot deelmobiliteit op Zeeuwse mbo-scholen](https://fietsberaad.nl/kennisbank/pilot-deelmobiliteit-op-zeeuwse-mbo-scholen)
 

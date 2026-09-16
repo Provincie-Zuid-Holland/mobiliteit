@@ -7,7 +7,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Goed functionerende & circulaire infrastructuur
 <p class="ondertitel">Kans 7 van negen kansen voor bereikbaarheid</p>
 
 Infrastructuur moet goed worden onderhouden. Veel naoorlogse auto-, spoor- en waterwegen, bruggen, tunnels en viaducten zijn aan groot onderhoud toe, ook door meer en zwaardere voertuigen. Dat kost veel tijd en geld en moeten we dus slim doen. De provincie Zuid-Holland wil in 2050 circulair zijn, dus reststromen volledig opnieuw benutten. Oók op het gebied van infrastructuur. Circulaire infra zorgt ervoor dat we ons milieu schoner achterlaten en minder afhankelijk worden van grondstoffen, ook uit andere landen.

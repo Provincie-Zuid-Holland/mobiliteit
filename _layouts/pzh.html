@@ -42,6 +42,7 @@
        style="object-position: {{ page.focus | default: '50% 50%' }};">
   </div>
    <div class="content" id="content">   
+    <h1>{{ page.kop | default: page.title | escape }}</h1>
     {{ content }}
   </body>
 </html>

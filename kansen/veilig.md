@@ -7,7 +7,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Minder verkeersdoden en -gewonden
 <p class="ondertitel">Kans 5 van negen kansen voor bereikbaarheid</p>
 
 Het aantal verkeersdoden en -gewonden stijgt zowel in Nederland als in Zuid-Holland. In 2025 vielen er 112 verkeersdoden in Zuid-Holland, meer dan in 2024 (107) en 2023 (101); daarnaast raken er [jaarlijks ongeveer 6.500 mensen gewond](https://www.zuid-holland.nl/onderwerpen/verkeer-vervoer/wegverkeer/verkeersveiligheid/). Een klein deel (circa 10 procent) valt op provinciale wegen. De rest komt om op gemeentelijke wegen (grootste deel) en autosnelwegen (kleinste deel). De provincie doet altijd onderzoek naar een dodelijk ongeval op een provinciale weg: Bijna altijd ligt een ongeval aan (onveilige) gedrag. De aantallen verkeersslachtoffers stijgen onder andere door een combinatie van meer inwoners, meer ouderen, meer voertuigen, grotere voertuigen, snellere voertuigen, meer snelheidsverschillen en meer afleiding. Om het verkeer veiliger te maken, zijn extra maatregelen nodig: betere wegen (meer 30 km-zones, bredere fietspaden), meer verkeersonderwijs en striktere handhaving. De -- landelijke en provinciale -- ambitie blijft nul verkeersdoden in 2050 ('[Maak een punt van nul](https://www.maakeenpuntvannul.nl/)').

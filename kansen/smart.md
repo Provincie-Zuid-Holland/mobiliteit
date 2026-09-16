@@ -7,7 +7,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Slimme mobiliteit
 <p class="ondertitel">Kans 9 van negen kansen voor bereikbaarheid</p>
 
 Smart mobility is een term die vaak valt voor het oplossen van mobiliteitsproblemen. Het gaat over het sturen van vraag en aanbod om zo te zorgen dat er meer verkeer soepeler over de infrastructuur kan. Denk aan verkeersmanagement voor 'groene golven', kleinere kans op ongevallen, de kortste brugopeningen, de snelste ritten en minder hinder bij werkzaamheden aan de weg. Of denk zelfs aan zelfrijdende auto's, bussen, metro's, vrachtwagens en autonome vaartuigen. Deze slimme mobiliteit kan helpen ons verkeer aantrekkelijker, duurzamer, efficiënter, schoner, toegankelijker én veiliger te maken, ook door alternatieven als lopen, fietsen en OV bij automobilisten in beeld te brengen.
@@ -53,6 +52,6 @@ Bedrijven, overheden en andere organisaties verzamelen steeds meer data. Ook op 
 
 ## Verder lezen
 
-{% include leesmeer.html kop="Lees meer" title="Visie personenmobiliteit over de weg (ANWB, 2021)" tekst="De ANWB wil dat het autoverkeer in 2050 veilig, schoon, efficiënt en inclusief is en bouwt die visie op uit zes bouwstenen: robuuste infrastructuur, elektrisch rijden, de vraag spreiden door betalen naar gebruik, datagedreven verkeersmanagement, autonoom rijden, en hubs met deelmobiliteit." url="https://www.anwb.nl/belangenbehartiging/mobiliteit/visie-personenmobiliteit-over-de-weg" image="/mobiliteit/kansen/img/eerdere/anwb-visie-personenmobiliteit.jpg" %}
+{% include leesmeer.html kop="Lees meer" title="Visie personenmobiliteit over de weg (ANWB)" tekst="De ANWB wil dat het autoverkeer in 2050 veilig, schoon, efficiënt en inclusief is en bouwt die visie op uit zes bouwstenen: robuuste infrastructuur, elektrisch rijden, de vraag spreiden door betalen naar gebruik, datagedreven verkeersmanagement, autonoom rijden, en hubs met deelmobiliteit." url="https://www.anwb.nl/belangenbehartiging/mobiliteit/visie-personenmobiliteit-over-de-weg" image="/mobiliteit/kansen/img/eerdere/anwb-visie-personenmobiliteit.jpg" %}
 
 <p class="terug"><a href="/mobiliteit/kansen/index.html">← terug naar de negen kansen</a></p>

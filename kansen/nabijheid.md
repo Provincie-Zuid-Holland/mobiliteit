@@ -7,7 +7,6 @@ menu: |
     <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 
 ---
-# Zorg voor voorzieningen dichtbij
 <p class="ondertitel">Een pleidooi om de trend van het vergroten van afstanden te doorbreken.</p>
 
 Decennialang hebben schaalvergroting en centralisatie (van voorzieningen zoals winkels, gezondheidszorg) en het scheiden van wonen en werken ervoor gezorgd dat mensen vaker en verder moesten gaan reizen. Dat proces gaat nog steeds door, versterkt door een toename van autobezit en digitalisering (waaronder internetwinkelen). De mobiliteitssector heeft de gevolgen hiervan altijd opgevangen door te zorgen dat steeds meer mensen zich sneller kunnen verplaatsen (bijvoorbeeld door het aanleggen van wegen en uitbreiding van OV).
@@ -56,6 +55,8 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 ## Verder lezen
 
 {% include leesmeer.html kop="Lees meer in de gids" title="Hoe houden gemeentes voorzieningen dichtbij?" url="https://natuurenmilieu.nl/onderwerpen/reizen-vervoer/bereikbaarheid/hoe-houden-gemeentes-voorzieningen-dichtbij/" image="/mobiliteit/snelstudie/img/img-voorzieningen/gids-natuur-en-milieu.jpg" %}
+
+{% include leesmeer.html kop="Lees meer in de leidraad" title="Bouw in de buurt (College van Rijksadviseurs, 2022)" tekst="In plaats van grootschalige woningbouw in buitengebieden zouden overheden moeten inzetten op woningen voor starters en senioren dicht bij bestaande voorzieningen en OV-haltes." url="https://www.collegevanrijksadviseurs.nl/actueel/nieuws/2022/10/18/rijksadviseurs-roepen-op-bouw-in-de-buurt" image="/mobiliteit/kansen/img/eerdere/bouw-in-de-buurt.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in de folder" title="Een waardevolle reis (2026)" tekst="Ruben Mossel en Timothy Meijer kijken naar bereikbaarheid vanuit reiservaring in plaats van reistijd: hoe prettiger de reis, hoe groter de actieradius." url="/mobiliteit/snelstudie/pdf/een-waardevolle-reis.pdf" image="/mobiliteit/kansen/img/eerdere/waardevolle-reis.jpg" %}
 

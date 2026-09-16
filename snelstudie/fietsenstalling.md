@@ -5,7 +5,6 @@ header_image: img/OV-fietsen-gestald.jpg
 menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
-# Efficiëntere stationsstallingen
 <p class="ondertitel">stimuleer de deelfiets meer</p>
 
 Steeds meer mensen komen met de fiets naar het station of gebruiken de fiets als laatste schakel na hun treinreis. Een positieve ontwikkeling, want treinreizigers rijden niet met auto's over drukke wegen. Dat is duurzamer, gezonder, veiliger en kost minder wegruimte. Al die fietsers zorgen wel voor overvolle fietsenstallingen bij stations. Bij die stationsstallingen geldt - net als bij andere infrastructuur - dat 'beter benutten' minder geld, ruimte en tijd kost dan 'bijbouwen'. De uitdaging is om méér treinreizigers die per fiets aankomen of vertrekken stallingsruimte te bieden, en meteen te zorgen dat hun fietsen in de stationsstalling zo kort mogelijk stilstaan: hoe sneller die rouleren, hoe meer plek er resteert voor andere fietsen.
@@ -285,7 +284,7 @@ De provincie Zuid-Holland heeft zich de afgelopen jaren al [flink sterk gemaakt 
 
 {% include leesmeer.html title="Zuid-Holland: Ga gewoon fietsen" tekst="Wat er nodig is om meer mensen vaker op de fiets te krijgen." url="fiets.html" image="/mobiliteit/kansen/img/eerdere/ga-gewoon-fietsen.jpg" %}
 
-{% include leesmeer.html kop="Lees meer in het pleidooi" title="Pleidooi voor schaalsprong in deelfietsgebruik natransport" tekst="Met snelle, comfortabele en betaalbare deelfietsen op veel OV-knooppunten kan het aantal deelfietsritten vertienvoudigen." url="https://idealedeelfiets.nl/pleidooi/" image="img/pleidooi-deelfiets.jpg" %}
+{% include leesmeer.html kop="Lees meer in het pleidooi" title="Pleidooi voor schaalsprong in deelfietsgebruik natransport" tekst="Met snelle, comfortabele en betaalbare deelfietsen op veel OV-knooppunten kan het aantal deelfietsritten vertienvoudigen." url="https://idealedeelfiets.nl/" image="img/pleidooi-deelfiets.jpg" %}
 
 <div class="voorbeeld" markdown="1">
 
@@ -301,6 +300,6 @@ De provincie Zuid-Holland heeft zich de afgelopen jaren al [flink sterk gemaakt 
 
 <div class="voorbeeld" markdown="1">
 
-Deze snelstudie is een samenwerking van provincie Zuid-Holland ([Kennis Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/)) en het [Laboratorium Verantwoorde Mobiliteit](https://labverantwoordemobiliteit.nl/). Meer over [hoe een snelstudie werkt](werkwijzer.html).
+Deze snelstudie is een samenwerking van provincie Zuid-Holland ([Kennis Zuid-Holland](https://www.zuid-holland.nl/actueel/kennis-zuid-holland/)) en het [Laboratorium Verantwoorde Mobiliteit](https://labverantwoordemobiliteit.nl/).
 
 </div>
