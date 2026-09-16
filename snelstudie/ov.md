@@ -104,7 +104,7 @@ In de bijlage zoomen we in op een aantal onderdelen die we hieronder al kort noe
 
 {% include klikblok.html img="img/img-ov/reizigersservices.jpg" title="Regiecentrale &amp; platforms" url="#hulpmiddelen" text="Om het voor de reiziger makkelijker te maken: reisplanner, MaaS en de regiecentrale" %}
 
-{% include klikblok.html img="img/busstationleiden.jpg" title="Haltes en hubs" url="#hubs" text="Vormen de schakel voor een soepele overstap" %}
+{% include klikblok.html img="img/img-ov/hub-bord.jpg" title="Haltes en hubs" url="#hubs" text="Vormen de schakel voor een soepele overstap" %}
 
 ## 4. Aanbevelingen
 
@@ -302,7 +302,8 @@ Omdat de vrijwilligers uit de buurt komen, geeft het reizigers de kans om een pr
 Hub is de hippe naam voor een knooppunt waar verschillende vormen van vervoer samenkomen: OV, flextaxi's en deelvervoer. Je kunt er overstappen, je fiets of auto parkeren, je e-bike of e-auto opladen of een deelfiets of deelauto pakken. En liefst ook naar de wc, een kop koffie kopen, water tappen of een pakketje ophalen/achterlaten. Goede voorbeelden zijn de hubs in [Gieten](https://www.reisviahub.nl/hubs/gieten-ov-knooppunt-n33-n34/) en Borger langs HOV-buslijn 300 van Groningen naar Emmen. Bij station Rotterdam Centraal is een kleinere deelvervoerhub te vinden.
 
 {% include blok.html
-   img="img/busstationleiden.jpg"
+   img="img/img-ov/hub-bord.jpg"
+   alt="Groen bord met het woord 'hub' bij een knooppunt"
    title="Kansrijk maar complex"
    text="Veel provincies en grotere gemeenten werken aan hub-beleid, maar de meeste hubs bestaan alleen nog op papier. Ze zijn [kansrijk maar complex](https://www.kimnet.nl/actueel/nieuws/2021/05/31/de-mobiliteitshub-een-kansrijk-maar-complex-beleidsinstrument), aldus kennisinstituut KiM. Zo is er onzekerheid over de kosten van aanleg, exploitatie en beheer. Hubs kunnen werken voor verschillende schaalniveaus: buurt, wijk, stad of regio. Een hub kan ook gewoon een busstation zijn met extra voorzieningen." %}
 
