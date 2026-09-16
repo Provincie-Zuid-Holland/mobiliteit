@@ -1,24 +1,15 @@
 ---
 layout: pzh
-title: OV verbreden naar 'publiek vervoer'?
+title: OV verbreden naar 'publiek vervoer'
 header_image: img/img-ov/praatplaat.jpg
 menu: |
    <a href="/mobiliteit/snelstudie/disclaimer.html">disclaimer</a>
 ---
-<p class="ondertitel">Snelstudie naar kansen van flextaxi's, deelvervoer &amp; meerijden</p>
 
-## 1. Hoofdvraag: hoe ziet het ideale OV eruit en moeten we het verbreden?
-
-<div class="voorbeeld voorbeeld--geel" markdown="1">
-
-**Hoe ziet het ideale openbaar vervoer eruit voor reizigers in Zuid-Holland en moeten we dat OV verbreden naar 'publiek vervoer'?**
-
-</div>
-
-Dat is de hoofdvraag van deze snelstudie, een compact onderzoek naar een afgebakend onderwerp.
+Hoe ziet het ideale openbaar vervoer eruit voor reizigers in Zuid-Holland en moeten we dat OV verbreden naar 'publiek vervoer'?. Dat is de hoofdvraag van deze snelstudie.
 
 ### Publiek vervoer: ook flextaxi, deelvervoer & meerijden
-Naast openbaar vervoer – bus, tram, metro en trein – kunnen andere vormen van vervoer de bereikbaarheid van een gebied of de keuze van de reiziger vergroten. Denk aan flexvervoer (taxibusjes), deelvervoer (deelfietsen, deelauto's) en meerijden (carpoolen, liften), al dan niet te regelen via een app. Breder OV mét deze vervoervormen erbij noemen we 'publiek vervoer'. Publiek vervoer kan ervoor zorgen dat het vervoer beter aansluit bij wensen van mensen en wellicht ook minder belastinggeld kost.
+Naast openbaar vervoer – bus, tram, metro en trein – kunnen andere vormen van vervoer de bereikbaarheid van een gebied of de keuze van de reiziger vergroten. Denk aan flexvervoer (taxibusjes), deelvervoer (deelfietsen, deelauto's) en meerijden (carpoolen, liften). Breder OV mét deze vervoervormen erbij noemen we 'publiek vervoer'. Publiek vervoer kan ervoor zorgen dat het vervoer beter aansluit bij wensen van mensen en wellicht ook minder belastinggeld kost.
 
 ### Focus op landelijk gebied
 De focus van deze snelstudie ligt op het landelijk gebied. Denk aan de OV-gebieden Drechtsteden, Molenlanden en Gorinchem (DMG), Hoekse Waard/Goeree-Overflakkee (HWGO) en Zuid-Holland Noord (ZHN: rond Alphen aan den Rijn en Leiden). Stedelijke gebieden als de Metropoolregio Rotterdam-Den Haag (MRDH) hebben fijnmaziger en meer OV.
@@ -26,31 +17,24 @@ De focus van deze snelstudie ligt op het landelijk gebied. Denk aan de OV-gebied
 ### Inspiratie voor overheden, vervoerders & reizigers
 Deze snelstudie dient als inspiratie voor politici, bestuurders en ambtenaren van provincies, regio's en gemeenten, maar ook voor vervoerders, andere mobiliteitsaanbieders en reizigersoverleggen. Ook hebben we gekeken naar stappen van andere provincies op het vlak van publiek vervoer.
 
-## 2. Uitdaging: dalende reizigersaantallen in landelijk gebied
+## 1. Uitdaging: dalende reizigersaantallen in landelijk gebied
 
 De reizigersaantallen in het OV zijn nog niet op het niveau van vóór corona, blijkt uit [onderzoek van kennisinstituut KiM](https://www.kimnet.nl/actueel/nieuws/2023/11/14/groei-wegverkeer-verwacht-ov-in-2028-waarschijnlijk-niet-op-niveau-2019). Mensen werken vaker thuis, gaan vaker met de fiets (e-bike) of hebben het OV verruild voor een auto. Het is lastig om hen weer in het OV te krijgen. Het is dus van belang bestaande reizigers in het OV te houden, privéautogebruik waar nodig te ontmoedigen én het OV voldoende aantrekkelijk te maken voor nieuwe reizigers.
 
-<div class="uitklap">
-<details name="ov-2"><summary>Dikke &amp; dunne lijnen</summary>
+### Dikke & dunne lijnen
 <p>In het OV onderscheiden we 'dikke' lijnen (vooral in en tussen stedelijke gebieden) en 'dunne' vervoerstromen (vooral in landelijk gebied). Dikke lijnen overleven het wel: die trekken genoeg reizigers om de frequentie in stand te houden of zelfs uit te breiden. Dunne vervoerstromen hebben het zwaar: daar zijn soms te weinig reizigers om een buslijn te rechtvaardigen.</p>
-</details>
-<details name="ov-2"><summary>Twee soorten OV-reizigers</summary>
+### Twee soorten OV-reizigers
 <ol>
 <li><strong>Gedwongen OV-reizigers</strong>: mensen die geen auto of fiets bezitten of kunnen/mogen besturen.</li>
 <li><strong>Keuzereizigers</strong>: mensen die kunnen kiezen tussen eigen auto/fiets en openbaar vervoer.</li>
 </ol>
-</details>
-<details name="ov-2"><summary>Doelgroepen voor OV</summary>
+### Doelgroepen voor OV
 <p>De belangrijkste doelgroepen van het OV zijn scholieren, studenten, forensen en mensen die geen auto/fiets rijden of slecht ter been zijn. Daarnaast kan het OV mikken op bijvoorbeeld recreatieve reizigers (dagjesmensen/toeristen) en winkelend publiek.</p>
-</details>
-</div>
 
-## 3. Wat wil de reiziger?
+
+## 2. Wat wil de reiziger?
 
 De reiziger wil frequent, snel en betrouwbaar OV met actuele reisinformatie en enige uitstraling, blijkt uit diverse onderzoeken. Kenniscentrum CROW-KpVV hanteert daarnaast deze 10 geboden voor *hoogwaardig* OV:
-
-<div class="voorbeeld" markdown="1">
-
 1. eenvoudig & inzichtelijk
 2. samenhangend met ander OV
 3. dichtbij & frequent
@@ -62,17 +46,10 @@ De reiziger wil frequent, snel en betrouwbaar OV met actuele reisinformatie en e
 9. redelijk tarief
 10. passend in omgeving
 
-</div>
 
 ### Hoogwaardig openbaar vervoer: snel & frequent
 Openbaar vervoer (OV) is de verzamelterm voor bus en trein, met in grotere steden ook tram en metro. Hoogwaardig openbaar vervoer (HOV) gaat een stap verder: dat rijdt een zo rechtstreeks mogelijke route ('gestrekte' lijn), waardoor het een relatief hoge gemiddelde snelheid haalt en een serieus alternatief vormt voor de auto. Ook rijdt HOV frequent, van 's ochtends vroeg tot 's avonds laat en met comfortabele voertuigen. De afgelopen decennia heeft vooral de introductie van HOV geleid tot een gestage stijging van de waardering van het OV (OV-Klantenbarometer): grofweg van een 7 naar een 8.
 
-<div class="voorbeeld voorbeeld--geel" markdown="1">
-
-**OV** = bus, tram, metro & trein  
-**HOV** = snel, frequent & comfortabel OV
-
-</div>
 
 <div class="uitklap">
 <details name="ov-3"><summary>R-net: snel, frequent &amp; betrouwbaar</summary>
@@ -84,12 +61,11 @@ Openbaar vervoer (OV) is de verzamelterm voor bus en trein, met in grotere stede
 </details>
 </div>
 
-## 4. Alternatieven voor waar (H)OV niet komt
+## 3. Alternatieven voor waar (H)OV niet komt
 
 Wat te doen als er niet genoeg reizigers (meer) zijn om een buslijn te rechtvaardigen? Door dorpen kronkelende bussen hebben het moeilijk. Ze zijn traag en laagfrequent. Daarmee bereiken ze alleen 'gedwongen reizigers': mensen die zijn aangewezen op het OV. Voor 'keuzereizigers' – mensen die kunnen kiezen tussen openbaar en eigen vervoer – is zo'n trage bus onaantrekkelijk. En door de lage reizigersaantallen is de kostendekking dan laag en de subsidie van de provincie relatief hoog. Maar het uitkleden (minder ritten, lagere frequentie) of verdwijnen van zo'n buslijn vermindert weer de bereikbaarheid van voorzieningen (bieb, buurthuis, school, werk, winkels, ziekenhuis, zorg) en kan leiden tot vervoerarmoede.
 
-<div class="uitklap">
-<details name="ov-4"><summary>Vervoerarmoede</summary>
+### Vervoerarmoede
 <p>Vervoerarmoede of vervoerongelijkheid heeft een brede betekenis:</p>
 <ul>
 <li>mensen die te ver (lopen of fietsen) van een bushalte wonen</li>
@@ -97,8 +73,7 @@ Wat te doen als er niet genoeg reizigers (meer) zijn om een buslijn te rechtvaar
 <li>mensen die niet genoeg geld hebben voor fiets, OV of auto.</li>
 </ul>
 <p>Het bestrijden van vervoerarmoede begint met bewustzijn (bij overheden). Maatregelen tegen vervoerarmoede zijn over het algemeen lastig en duur, staan nog in de kinderschoenen en vergen een lange adem. Je kunt vervoerarmoede ook van de andere kant benaderen (maar dat is een aparte snelstudie waard): wegen aanleggen is investeren in mobiliteit van mensen die wél een auto kunnen betalen en rijden.</p>
-</details>
-<details name="ov-4"><summary>Toekomstbeeld OV 2040</summary>
+### Toekomstbeeld OV 2040
 <p>Het Toekomstbeeld OV 2040 van Rijk, OV-autoriteiten (provincies, MRDH en Vervoerregio Amsterdam), OV-bedrijven en ProRail noemt vier 'vertrekpunten' die raken aan deze snelstudie:</p>
 <ul>
 <li>van openbaar vervoer naar mobiliteitsketens</li>
@@ -107,20 +82,13 @@ Wat te doen als er niet genoeg reizigers (meer) zijn om een buslijn te rechtvaar
 <li>betere samenwerking en slimmere financiering voor betaalbare reis van deur tot deur.</li>
 </ul>
 <p>Rode draad van dit Toekomstbeeld: het onderscheid tussen openbaar vervoer (bus, tram, metro, trein) en individueel vervoer (fiets, auto, taxi) groeit de komende decennia toe naar een combinatie van grootschalig collectief vervoer in stedelijke gebieden en kleinschalig vraaggericht vervoer in dunbevolkte streken.</p>
-</details>
-</div>
+
 
 ### Van OV naar publiek vervoer?
 Bijna iedere provincie is, ook in het kader van het Toekomstbeeld OV 2040, op zoek naar aanvullingen op en alternatieven voor OV in gebieden met weinig vervoervraag. Ze noemen de mogelijke oplossing vaak [gedeelde mobiliteit](https://www.brabant.nl/onderwerpen/verkeer-en-vervoer/verkeers-en-vervoersbeleid/vernieuwing-ov) of publiek vervoer:
 
-<div class="voorbeeld voorbeeld--geel" markdown="1">
 
-**openbaar vervoer** = bus (inclusief buurtbus), tram, metro & trein  
-**publiek vervoer** = OV + flextaxi + deelvervoer + meerijden
-
-</div>
-
-Hieronder zoomen we in op de onderdelen buurtbus, flextaxi, deelvervoer en meerijden.
+In de bijlage zoomen we in op een aantal onderdelen die we hieronder al kort noemen.
 
 {% include klikblok.html img="img/img-ov/buurtbus.jpg" title="Buurtbus" url="#buurtbus" text="Klein busje met vrijwilliger dat rijdt volgens een dienstregeling" %}
 
