@@ -179,6 +179,27 @@
   /* beeld-rechts kan met een tabel niet omgekeerd worden; het beeld
      blijft dan links staan. Dat is op papier geen verlies. */
 
-  .row { display: block; }
-  .row > * { display: block; }
+  /* --- Kolommen naast elkaar (.row met .b25/.b33/.b50/.b66/.b75) ---
+     Ook flexbox, dus ook een tabel. Twee foto's naast elkaar (Lisse en
+     Vlaardingen op nabijheid) stapelden anders onder elkaar én werden
+     daardoor twee keer zo groot als bedoeld.
+     Let op: online is dit `flex-wrap: wrap`, dus een rij die te vol wordt
+     breekt af naar een tweede regel. Een tabel doet dat niet; die zet
+     alles op één rij. Bij drie of vier kolommen is dat precies goed, bij
+     meer wordt het krap. */
+  .row {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 0;
+  }
+  .row > * {
+    display: table-cell;
+    vertical-align: top;
+  }
+  .row > .b25 { width: 25%; }
+  .row > .b33 { width: 33.33%; }
+  .row > .b50 { width: 50%; }
+  .row > .b66 { width: 66.67%; }
+  .row > .b75 { width: 75%; }
 }
