@@ -16,7 +16,10 @@
   margin: 18mm 16mm 20mm;
 
   @bottom-left {
-    content: "Negen kansen voor bereikbaarheid";
+    /* De tekst zet kansen-bundel.py erin — dat is de titel van de pagina
+       die je bouwt, en die kan een stylesheet niet weten. Hier alleen de
+       opmaak, zodat die op één plek staat. */
+    content: "";
     font-family: Karbon, calibri, arial, sans-serif;
     font-size: 9pt;
     color: #5c5c5c;

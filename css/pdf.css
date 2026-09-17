@@ -172,6 +172,10 @@
   .item-list--smal .item-right,
   .leesmeer .item-right { width: 83%; }
 
+  /* Een lees-meer-balkje zet beeld én tekst in het midden (align-items:
+     center online). Bij een staande omslag scheelt dat zichtbaar. */
+  .leesmeer .item-right { vertical-align: middle; }
+
   /* beeld-rechts kan met een tabel niet omgekeerd worden; het beeld
      blijft dan links staan. Dat is op papier geen verlies. */
 
