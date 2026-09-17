@@ -1,0 +1,57 @@
+/* ===============================================================
+   pdf-a4.css — de pdf op A4
+   ===============================================================
+   Wordt alleen ingelijfd door `kansen-bundel.py --a4`, bovenop
+   `pdf.css`. Niet door de site geladen, en niet in de lange uitvoer:
+   hier staat een papierformaat, en dat botst met elke afdruktool die
+   zijn eigen formaat meebrengt. Zie de toelichting bovenin pdf.css.
+
+   De standaarduitvoer is het lange vel, niet dit. Een webpagina in
+   A4-plakken snijden vraagt om omslag, inhoudsopgave en huisstijl-
+   pagina's; zolang niet duidelijk is wie de publicatie-pdf maakt, is
+   dat werk niet aan de orde. Dit bestand houdt de mogelijkheid open.  */
+
+@page {
+  size: A4;
+  margin: 18mm 16mm 20mm;
+
+  @bottom-left {
+    content: "Negen kansen voor bereikbaarheid";
+    font-family: Karbon, calibri, arial, sans-serif;
+    font-size: 9pt;
+    color: #5c5c5c;
+  }
+  @bottom-right {
+    content: counter(page) " van " counter(pages);
+    font-family: Karbon, calibri, arial, sans-serif;
+    font-size: 9pt;
+    color: #5c5c5c;
+  }
+}
+
+/* De omslagpagina draagt de banner; daar geen voettekst. */
+@page :first {
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@media print {
+  .content { padding-top: 0; }
+
+  /* Tekstvlak is 178 mm breed; de banner op 4:1 is dan 44,5 mm hoog. */
+  .topImage { height: 44.5mm; }
+
+  /* Niets losscheuren wat bij elkaar hoort. */
+  h1, h2, h3, h4, .ondertitel { break-after: avoid; }
+  p, li { orphans: 3; widows: 3; }
+  figure, .fig, .hoofdboodschap, .voorbeeld, .uitspraak, blockquote,
+  .blokkenrij .blok, details { break-inside: avoid; }
+  .item-link, .item { break-inside: avoid; }
+
+  /* Iets smallere beeldkolom dan online (33%): de tekst krijgt zo meer
+     breedte, de kaartjes worden korter en er passen er twee op een
+     pagina in plaats van anderhalf. Alleen hier nodig — op één lang vel
+     bestaat het probleem niet en houden we de webverhouding aan. */
+  .item-left { width: 28%; }
+  .item-right { width: 72%; }
+}
