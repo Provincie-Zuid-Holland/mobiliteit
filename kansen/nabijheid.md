@@ -54,11 +54,11 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 
 ## Verder lezen
 
+{% include leesmeer.html kop="Lees meer in de folder" title="Een waardevolle reis (2026)" tekst="Ruben Mossel en Timothy Meijer kijken naar bereikbaarheid vanuit reiservaring in plaats van reistijd: hoe prettiger de reis, hoe groter de actieradius." url="/mobiliteit/snelstudie/pdf/een-waardevolle-reis.pdf" image="/mobiliteit/kansen/img/eerdere/waardevolle-reis.jpg" %}
+
 {% include leesmeer.html kop="Lees meer in de gids" title="Hoe houden gemeentes voorzieningen dichtbij?" url="https://natuurenmilieu.nl/onderwerpen/reizen-vervoer/bereikbaarheid/hoe-houden-gemeentes-voorzieningen-dichtbij/" image="/mobiliteit/snelstudie/img/img-voorzieningen/gids-natuur-en-milieu.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in de leidraad" title="Bouw in de buurt (College van Rijksadviseurs, 2022)" tekst="In plaats van grootschalige woningbouw in buitengebieden zouden overheden moeten inzetten op woningen voor starters en senioren dicht bij bestaande voorzieningen en OV-haltes." url="https://www.collegevanrijksadviseurs.nl/actueel/nieuws/2022/10/18/rijksadviseurs-roepen-op-bouw-in-de-buurt" image="/mobiliteit/kansen/img/eerdere/bouw-in-de-buurt.jpg" %}
-
-{% include leesmeer.html kop="Lees meer in de folder" title="Een waardevolle reis (2026)" tekst="Ruben Mossel en Timothy Meijer kijken naar bereikbaarheid vanuit reiservaring in plaats van reistijd: hoe prettiger de reis, hoe groter de actieradius." url="/mobiliteit/snelstudie/pdf/een-waardevolle-reis.pdf" image="/mobiliteit/kansen/img/eerdere/waardevolle-reis.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
 
