@@ -1,0 +1,209 @@
+/* ===============================================================
+   pdf.css — pagina-opmaak voor de pdf
+   ===============================================================
+   LET OP: deze stylesheet wordt NIET door de site geladen. Alleen
+   `kansen-bundel.py` lijft hem in, in het losse html-bestand waar
+   WeasyPrint de pdf van maakt.
+
+   Waarom apart, en niet onderaan style.css: hier staat een vast
+   papierformaat (A4) in. Elke tool die de site afdrukt leest de
+   site-stylesheets mee, en zo'n tool brengt zijn eigen papierformaat
+   mee. Toen deze regels nog in style.css stonden, botsten die twee:
+   Sejda (dat de pagina door headless Chrome op één vel van 48 bij 193
+   centimeter zet) kreeg op pagina 1 een A4-kolom van 504 pt en op de
+   rest vellen van 1282 pt breed — tien vellen, grotendeels wit, met
+   priegeltekst. Gerepareerd op 17-09-2026 door alles hierheen te
+   verhuizen.
+
+   Regel om te onthouden: afdrukregels die de layout repáreren mogen in
+   de site-stylesheet; een papierformaat hoort daar nooit.
+
+   Twee dingen om te weten over WeasyPrint, de bouwer van onze pdf:
+   - Hij kent geen flexbox en geen grid. Elk blok dat online op flex of
+     grid staat, krijgt hier een tabelvorm terug: beeld links, tekst
+     rechts, precies als op het scherm. Zonder dit schuiven de kaartjes
+     over elkaar heen.
+   - Hij kent ook geen mediaquery's met een breedte, dus de mobiele
+     schaal blijft buiten beeld: de pdf krijgt de desktoplayout.
+
+   De tekstmaten blijven staan zoals ze online zijn (20/30). Op A4 met
+   deze marges levert dat regels van ongeveer 65 tekens: goed leesbaar
+   en meteen groteletter-vriendelijk.
+
+   De uitklappers hebben hun eigen afdrukregels in style.css, bij
+   `details`. Die stonden er al en gelden ook voor Ctrl-P in de
+   browser, dus die zijn daar blijven staan.                        */
+
+@page {
+  size: A4;
+  margin: 18mm 16mm 20mm;
+
+  @bottom-left {
+    content: "Negen kansen voor bereikbaarheid";
+    font-family: Karbon, calibri, arial, sans-serif;
+    font-size: 9pt;
+    color: #5c5c5c;
+  }
+  @bottom-right {
+    content: counter(page) " van " counter(pages);
+    font-family: Karbon, calibri, arial, sans-serif;
+    font-size: 9pt;
+    color: #5c5c5c;
+  }
+}
+
+/* De omslagpagina draagt de banner; daar geen voettekst. */
+@page :first {
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@media print {
+  /* De gekleurde vlakken zijn hier betekenisdragend (hoofdboodschap,
+     voorbeeld, sporen), dus die moeten mee de printer op. */
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    background: #fff;
+  }
+
+  .content {
+    padding-top: 0;
+  }
+
+  /* Logo links, menu rechts, zonder flex. Twee tabelcellen in plaats van
+     twee zwevers: WeasyPrint rekent de hoogte van een zwevende regel niet
+     mee, waardoor het logo over de banner heen viel. */
+  .logobar {
+    display: table;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .logobar .logo-link {
+    display: table-cell;
+    vertical-align: middle;
+    width: 253px;
+  }
+  .topnav {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+    background: none;
+  }
+  .topnav a {
+    float: none;
+    display: inline-block;
+    padding: 0 0 0 16px;
+  }
+
+  /* De banner op ware verhouding: bijsnijden met object-fit kan
+     WeasyPrint niet, dus dan valt het beeld weg. */
+  .topImage {
+    aspect-ratio: auto;
+    overflow: visible;
+    margin-bottom: 20px;
+    break-after: avoid;
+  }
+  .topImage img { height: auto; }
+
+  /* Niets losscheuren wat bij elkaar hoort. */
+  h1, h2, h3, h4, .ondertitel { break-after: avoid; }
+  p, li { orphans: 3; widows: 3; }
+  figure, .fig, .hoofdboodschap, .voorbeeld, .uitspraak, blockquote,
+  .blokkenrij .blok, details { break-inside: avoid; }
+
+  /* Zwevend beeld naast de tekst werkt ook op papier; de breedtes uit
+     de schermlayout staan in een mediaquery die WeasyPrint overslaat. */
+  .fig--rechts { float: right; width: 38%; margin: 6px 0 20px 30px; }
+  .fig--links  { float: left;  width: 38%; margin: 6px 30px 20px 0; }
+  .fig--smal.fig--rechts, .fig--smal.fig--links { width: 26%; }
+
+  /* Beeld-naast-tekst-blok: flex eruit, tabel erin. */
+  .voorbeeld--media {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 0;
+  }
+  .voorbeeld--media > * {
+    display: table-cell;
+    vertical-align: top;
+    width: 66%;
+    padding-left: 30px;
+  }
+  .voorbeeld--media > .fig,
+  .voorbeeld--media > .video {
+    width: 34%;
+    padding-left: 0;
+  }
+  .voorbeeld--media.voorbeeld--half > * { width: 50%; }
+
+  /* Drie sporen naast elkaar: grid eruit, tabel erin. */
+  .blokkenrij {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 10px 0;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .blokkenrij .blok { display: table-cell; vertical-align: top; }
+
+  /* Een video is op papier niets; laat de plek niet leeg staan. */
+  .video { display: none; }
+
+  /* --- De kaartjes (.item, .item-list uit flex.css) ---
+     Zonder deze regels wordt .item-list één onbreekbaar blok en
+     schuiven de kaartjes over elkaar heen. Dus: de lijst wordt een
+     gewone stapel blokken en elk kaartje een tabel met beeld links en
+     tekst rechts. */
+  .item-list {
+    display: block;
+  }
+  .item-list > * {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .item-list > *:last-child { margin-bottom: 0; }
+
+  /* Een kaartje hoort op één pagina. */
+  .item-link, .item { break-inside: avoid; }
+
+  .item {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 0;
+    box-shadow: none;          /* schaduw drukt af als een vieze rand */
+  }
+  .item-left, .item-right {
+    display: table-cell;
+    vertical-align: middle;
+    min-width: 0;
+  }
+  /* Iets smallere beeldkolom dan online (33%): de tekst krijgt zo meer
+     breedte, de kaartjes worden korter en er passen er twee op een
+     pagina in plaats van anderhalf. */
+  .item-left {
+    width: 28%;
+    padding: 10px;
+  }
+  .item-right {
+    width: 72%;
+    vertical-align: top;
+  }
+  .item.beeld-50 .item-left,
+  .item.beeld-50 .item-right { width: 50%; }
+
+  /* Compacte variant (Eerdere snelstudies, Lees meer): beeld op 1/6. */
+  .item-list--smal .item-left,
+  .leesmeer .item-left { width: 17%; }
+  .item-list--smal .item-right,
+  .leesmeer .item-right { width: 83%; }
+
+  /* beeld-rechts kan met een tabel niet omgekeerd worden; het beeld
+     blijft dan links staan. Dat is op papier geen verlies. */
+
+  .row { display: block; }
+  .row > * { display: block; }
+}
