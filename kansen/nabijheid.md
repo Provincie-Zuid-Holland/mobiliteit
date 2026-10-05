@@ -58,6 +58,8 @@ Meer informatie [kenniszuidholland@pzh.nl](mailto:kenniszuidholland@pzh.nl) en [
 
 {% include leesmeer.html kop="Lees meer in de gids" title="Hoe houden gemeentes voorzieningen dichtbij?" url="https://natuurenmilieu.nl/onderwerpen/reizen-vervoer/bereikbaarheid/hoe-houden-gemeentes-voorzieningen-dichtbij/" image="/mobiliteit/snelstudie/img/img-voorzieningen/gids-natuur-en-milieu.jpg" %}
 
+{% include leesmeer.html kop="Lees meer in het artikel" title="Wat is ‘voldoende bereikbaar’ en hoe bepaal je dat? (CROW, 2026)" tekst="Marco van Burgsteden zoekt uit wanneer voorzieningen als basisscholen voldoende bereikbaar zijn en hoe je dat in kaart brengt. Een gemiddelde afstand zegt weinig." url="https://www.crow.nl/actueel/wat-is-voldoende-bereikbaar-en-hoe-bepaal-je-dat/" image="/mobiliteit/kansen/img/eerdere/crow-voldoende-bereikbaar.jpg" %}
+
 {% include leesmeer.html kop="Lees meer in de leidraad" title="Bouw in de buurt (College van Rijksadviseurs, 2022)" tekst="In plaats van grootschalige woningbouw in buitengebieden zouden overheden moeten inzetten op woningen voor starters en senioren dicht bij bestaande voorzieningen en OV-haltes." url="https://www.collegevanrijksadviseurs.nl/actueel/nieuws/2022/10/18/rijksadviseurs-roepen-op-bouw-in-de-buurt" image="/mobiliteit/kansen/img/eerdere/bouw-in-de-buurt.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in het artikel" title="De rol van de gebouwde omgeving bij eenzaamheid (Rooilijn, 2026)" tekst="Bas de Vries pleit ervoor buurten zo te ontwerpen dat nabijheid, herkenning en spontane ontmoeting vanzelf gaan, zonder contact af te dwingen." url="https://rooilijn.nl/artikelen/de-rol-van-de-gebouwde-omgeving-bij-eenzaamheid/" image="/mobiliteit/kansen/img/eerdere/rooilijn-eenzaamheid.jpg" %}
