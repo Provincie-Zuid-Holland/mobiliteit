@@ -20,9 +20,16 @@ Daarmee verschuift ook de rol van de wegbeheerder. Steeds meer processen worden 
 -   **Dynamisch strookgebruik**: rijstroken en maximumsnelheden die zich automatisch aanpassen aan drukte, luchtkwaliteit en geluid.
 -   **Autonome stadslogistiek**: zelfrijdende voertuigen die goederen op rustige tijdstippen van een hub aan de stadsrand naar de binnenstad brengen.
 
-Onze collega's in Noord-Holland maakten er een mooi filmpje over:
-
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/q6Hb0bggmdg" title="Smart mobility in Noord-Holland" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
+
+## Smart mobility in Noord-Holland
+
+Onze collega's in Noord-Holland maakten er een mooi filmpje over. Allerlei slimme technologieën zorgen ervoor dat er in Noord-Holland soepel gefietst, gereden en gevaren kan worden.
+
+</div>
+</div>
 
 Smart mobility, 'meer doen met data' en digitalisering liggen in elkaars verlengde. We zetten technologie in om mobiliteit beter te maken én om er beter zicht op te krijgen. Voorbeelden: sensoren die de drukte meten (op fietspaden en wegen) en op basis daarvan én de beschikbaarheid van openbaar vervoer, deelvervoer en parkeerplekken actuele, multimodale (fiets, OV, deelvervoer, P+R, auto) reisadviezen geven. Bij het doorrekenen van scenario's worden steeds vaker 'digital twins', zoals bij Living Lab Scheveningen, gebruikt: 3D-modellen die worden gevoed met realtime data van voetgangers, fietsers, OV, autoverkeer, infrastructuur en weer.
 
@@ -47,22 +54,21 @@ Sinds 2026 is er de app [Da's zo gefietst](https://www.zuid-holland.nl/onderwerp
 
 Al jaren hebben we zelfrijdend OV: de ParkShuttle van vervoerder Transdev tussen metrostation Kralingse Zoom en bedrijventerrein Rivium in Capelle aan den IJssel. Sinds 2025 rijdt daar de *Shuttle Rotterdam The Hague Airport* bij, een project van Dutch Automated Mobility (DAM) waar ook de RET aan meedoet: een zelfrijdende bus op de openbare weg tussen metrostation Meijersplein en Rotterdam The Hague Airport, met voor de zekerheid een 'safety driver' aan boord. De RDW gaf daarvoor een tijdelijke toelating; de proef loopt tot de zomer van 2027. Overheden en bedrijven in de regio willen een proeftuin zijn om autonoom vervoer verder te ontwikkelen. Zo werkt het Havenbedrijf aan een varend laboratorium voor autonoom vervoer. Het ontwikkelen van zelfrijdend vervoer is complex en vergt een lange adem. Ook over de grens gaat het hard: in Belgisch Limburg rijden sinds juli 2026 [zelfrijdende auto's van niveau 4 op de snelweg](https://www.vrt.be/vrtnws/nl/2026/09/10/limburgse-snelwegen-zijn-testterrein-voor-zelfrijdende-auto-s-va/), waarbij de bestuurder niet meer hoeft op te letten.
 
-Zo ziet een rit met de zelfrijdende bus eruit:
-
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/K9aBXu408A0" title="Shuttle Rotterdam The Hague Airport: de eerste zelfrijdende bus op de openbare weg in Nederland" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 [www.transdev.nl/nl/onze-routes/vervoersgebieden/parkshuttle-rivium](https://www.transdev.nl/nl/onze-routes/vervoersgebieden/parkshuttle-rivium)
 
 *Afbeelding: nu.nl*
 
-<div class="voorbeeld" markdown="1">
+<div class="voorbeeld voorbeeld--media voorbeeld--half">
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/K9aBXu408A0" title="Shuttle Rotterdam The Hague Airport: de eerste zelfrijdende bus op de openbare weg in Nederland" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div markdown="1">
 
 ### Kansen en uitdagingen van autonoom (deel)vervoer
 
 Autonoom vervoer, en zeker autonoom deelvervoer, biedt grote kansen. Het kan de verkeersveiligheid vergroten en is een antwoord op het chauffeurstekort. Zelfrijdende deelvoertuigen kunnen zorgen voor een naadloze aansluiting op het openbaar vervoer. Op termijn dalen de kosten, worden ritten op afroep betaalbaar en worden buitengebieden beter bereikbaar. Ook het goederenvervoer kan efficiënter, duurzamer en veerkrachtiger worden.
 
-Daar staan uitdagingen tegenover. Autonome voertuigen houden voor de veiligheid meer afstand, waardoor de capaciteit van de weg (tijdelijk) kan afnemen. Het aantal auto's kan groeien, omdat ook mensen zonder rijbewijs en jongeren zelfstandig gaan reizen. Een ander risico zijn 'zombiekilometers': lege voertuigen die rondrijden op zoek naar een parkeerplek of op weg terug naar huis. En de systemen moeten goed beveiligd zijn tegen hacking en de privacy van reizigers beschermen.
+Daar staan uitdagingen tegenover. Het aantal auto's kan groeien, omdat ook mensen zonder rijbewijs en jongeren zelfstandig gaan reizen. Een ander risico zijn 'zombiekilometers': lege voertuigen die rondrijden op zoek naar een parkeerplek of op weg terug naar huis. En de systemen moeten goed beveiligd zijn tegen hacking en de privacy van reizigers beschermen. Ook kan autonoom rijden veel extra dataverkeer en rekencapaciteit vergen, met bijbehorend veel energieverbruik.
 
+</div>
 </div>
 
 ## Ontwikkel drones
