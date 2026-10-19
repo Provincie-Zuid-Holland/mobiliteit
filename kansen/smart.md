@@ -59,8 +59,6 @@ Sinds 2026 is er de app [Da's zo gefietst](https://www.zuid-holland.nl/onderwerp
 
 Zelfrijdend vervoer lijkt in Nederland maar langzaam door te breken, terwijl het op andere plekken in de wereld hard gaat, zoals met [Waymo in San Francisco](https://waymo.com/rides/san-francisco/). Ook over de grens in België gaat het hard: in Belgisch Limburg rijden sinds juli 2026 [zelfrijdende auto's van niveau 4 op de snelweg](https://www.vrt.be/vrtnws/nl/2026/09/10/limburgse-snelwegen-zijn-testterrein-voor-zelfrijdende-auto-s-va/), waarbij de bestuurder niet meer hoeft op te letten. Interessant is hoe snel dit in Europa en Nederland gemeengoed gaat worden.
 
-We hebben wel al jaren kleine projecten, zoals de [ParkShuttle](https://www.transdev.nl/nl/onze-routes/vervoersgebieden/parkshuttle-rivium) in Capelle aan den IJssel. Overheden en bedrijven in de regio willen een proeftuin zijn om autonoom vervoer verder te ontwikkelen. Zo werkt het Havenbedrijf aan een varend laboratorium voor autonoom vervoer. Het ontwikkelen van zelfrijdend vervoer is complex en vergt een lange adem.
-
 Autonoom vervoer, en zeker autonoom deelvervoer, biedt grote kansen. Het kan de verkeersveiligheid vergroten en is een antwoord op het chauffeurstekort. Zelfrijdende deelvoertuigen kunnen zorgen voor een naadloze aansluiting op het openbaar vervoer. Op termijn dalen de kosten, worden ritten op afroep betaalbaar en worden buitengebieden beter bereikbaar. Ook het goederenvervoer kan efficiënter, duurzamer en veerkrachtiger worden.
 
 Daar staan uitdagingen tegenover. Het aantal auto's kan groeien, omdat ook mensen zonder rijbewijs en jongeren zelfstandig gaan reizen. Een ander risico zijn 'zombiekilometers': lege voertuigen die rondrijden op zoek naar een parkeerplek of op weg terug naar huis. En de systemen moeten goed beveiligd zijn tegen hacking en de privacy van reizigers beschermen. Ook kan autonoom rijden veel extra dataverkeer en rekencapaciteit vergen, met bijbehorend veel energieverbruik.
@@ -69,9 +67,9 @@ Daar staan uitdagingen tegenover. Het aantal auto's kan groeien, omdat ook mense
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/K9aBXu408A0" title="Shuttle Rotterdam The Hague Airport: de eerste zelfrijdende bus op de openbare weg in Nederland" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div markdown="1">
 
-## Shuttle Rotterdam The Hague Airport
+## Airport shuttle
 
-Sinds 2025 rijdt de *Shuttle Rotterdam The Hague Airport*, een project van Dutch Automated Mobility (DAM) waar ook de RET aan meedoet: een zelfrijdende bus op de openbare weg tussen metrostation Meijersplein en Rotterdam The Hague Airport, met voor de zekerheid een 'safety driver' aan boord. De RDW gaf daarvoor een tijdelijke toelating; de proef loopt tot de zomer van 2027.
+Sinds 2025 rijdt een zelfrijdende bus op de openbare weg tussen metrostation Meijersplein en Rotterdam The Hague Airport, met voor de zekerheid een 'safety driver' aan boord. Het is een project van Dutch Automated Mobility (DAM), waar ook de RET en de MRDH aan meedoen. Ze hopen komend jaar van de RDW toestemming te krijgen om zonder safety driver te rijden. Lees meer in [De Ingenieur](https://deingenieur.nl/artikelen/martha-de-zelfrijdende-bus-in-rotterdam).
 
 </div>
 </div>
