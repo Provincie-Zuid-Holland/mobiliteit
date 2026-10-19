@@ -84,17 +84,11 @@ Voor onze vaar- en wegbebording hebben we inmiddels zo'n strategie opgesteld. He
 </figure>
 <div markdown="1">
 
-## Meer hergebruiken en de Asfalt Recycle Trein
+## Asfalt Recycle Trein
 
 De [Asfalt Recycle Trein](https://www.asfaltrecycletrein.nl/) (ART) is een proces voor warme in-situ recycling van oud asfalt in nieuw asfalt. Het is de naam voor de 'trein' van materieel die achtereenvolgens het asfalt verwarmt, loswoelt, mengt en weer spreidt.
 
 De ART wordt ter plekke ingezet en realiseert zo het meest circulaire resultaat. De aanwezige deklaag wordt volledig hergebruikt en daarmee wordt er bespaard op primaire grondstoffen. Bovendien is er geen aan- en afvoer nodig, waardoor er een flinke CO₂-reductie gerealiseerd kan worden. Rijkswaterstaat en de provincie Gelderland [testen de ART sinds 2024](https://www.rijkswaterstaat.nl/nieuws/archief/2024/06/rijkswaterstaat-en-provincie-gelderland-starten-pilotprogramma-met-asphalt-recycling-train) op de N315 bij Ruurlo.
-
-We zetten ook in op hergebruik van asfalt. Asfaltgranulaat uit oud asfalt gaat terug in nieuw asfalt. In de onder- en tussenlagen is daar al veel ervaring mee; in de deklagen wordt het aandeel hergebruik steeds verder verhoogd. Ook hopen we de ART in te zetten op onze wegen (zie de [provinciale begroting 2026](https://www.zuid-holland.nl/publish/besluitenattachments/begroting-2026/begroting-2026-pdf.pdf#page=65)).
-
-Om het gebruik van nieuwe materialen te beperken, zet de provincie in op circulariteit. De focus ligt op de vijf materialen met de grootste impact: asfalt, staal, beton, bagger en bermmaaisel. Ook bij andere bouwstromen kan de provincie een rol spelen.
-
-Naast het asfalt wordt ook op andere fronten verduurzaamd. Op fietspaden experimenteren we met biobased markeringen. Onlangs is 330 meter stalen damwand vervangen door damwand van Europees hout; het hout rond de waterlijn is geïmpregneerd met azijn, zodat het bestand is tegen wisselende waterstanden. En we werken met tweedehands damwanden, waarbij ook de ankers worden hergebruikt.
 
 </div>
 </div>
