@@ -1,0 +1,103 @@
+@font-face { font-family: Karbon; src: url(../fonts/Karbon-Regular.woff2) format('woff2'); font-weight: 400; }
+@font-face { font-family: Karbon; src: url(../fonts/Karbon-Medium.woff2) format('woff2'); font-weight: 500; }
+
+:root {
+  --blauw: #281f6b;       /* PZH Blauw: koppen */
+  --tekst: #16113b;       /* PZH Donkerblauw */
+  --link: #00804d;        /* PZH Groen */
+  --link-hover: #004d2e;
+  --grijs: #5c5c5c;
+  --lijn: #bfbfbf;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; background: #fff; }
+body { font-family: Karbon, Calibri, Arial, sans-serif; color: var(--tekst); }
+#kaart { position: absolute; inset: 0; }
+
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* paneel rechtsboven; op een smal scherm onderaan over de volle breedte */
+#paneel {
+  position: absolute; top: 10px; right: 10px; z-index: 1000;
+  width: 250px; max-height: calc(100% - 20px); overflow: auto;
+  background: rgba(255, 255, 255, 0.95); border-radius: 4px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25); font-size: 14px;
+}
+#paneel-knop {
+  display: flex; align-items: center; gap: 8px; width: 100%;
+  padding: 10px 12px; border: 0; background: none; cursor: pointer;
+  font: 500 16px Karbon, Calibri, Arial, sans-serif; color: var(--blauw); text-align: left;
+}
+#paneel-knop span:not(.pijl) { flex: 1; }
+.pijl::after { content: '▾'; color: var(--grijs); }
+.dicht .pijl::after { content: '▸'; }
+.dicht #paneel-inhoud { display: none; }
+#paneel-inhoud { padding: 0 12px 10px; }
+
+
+.legenda { list-style: none; margin: 0 0 10px; padding: 0; }
+.legenda li { display: flex; align-items: center; gap: 8px; margin: 3px 0; }
+.legenda i { flex: none; width: 16px; height: 16px; border: 1px solid rgba(22, 17, 59, 0.35); opacity: 0.6; }
+.legenda i.lijn { height: 4px; border: 0; opacity: 0.9; }
+.legenda.vlak i { opacity: 0.3; border-color: rgba(0, 0, 0, 0.2); }  /* zelfde lichte tint als op de kaart, iets voller */
+
+#paneel h2 { margin: 0 0 4px; font-size: 13px; font-weight: 500; color: var(--grijs);
+  text-transform: uppercase; letter-spacing: 0.04em; }
+#lagen { list-style: none; margin: 0 0 10px; padding: 0; }
+#lagen > li > label { cursor: pointer; }
+#lagen .legenda { margin: 2px 0 6px 24px; font-size: 13px; }
+#lagen li:not(.aan) .legenda { display: none; }
+
+.zoek { display: block; font-size: 13px; color: var(--grijs); }
+.zoek select { display: block; width: 100%; margin-top: 3px; padding: 4px; font: inherit; color: var(--tekst); }
+.bron { margin: 10px 0 0; font-size: 12px; color: var(--grijs); }
+
+/* popups en tooltips */
+.leaflet-container { font-family: Karbon, Calibri, Arial, sans-serif; }
+.leaflet-popup-content { font-size: 14px; color: var(--tekst); }
+.leaflet-popup-content h3 { margin: 0 0 6px; color: var(--blauw); font-weight: 500; font-size: 17px; }
+.leaflet-popup-content h3 .regio { color: var(--grijs); font-weight: 400; font-size: 15px; }
+.leaflet-popup-content .links { list-style: none; margin: 0; padding: 0; line-height: 1.6; }
+.leaflet-tooltip.naam { font-family: inherit; font-size: 13px; }
+
+@media (max-width: 600px) {
+  #paneel { top: auto; bottom: 24px; left: 10px; right: 10px; width: auto; max-height: 50%; }
+}
+.leaflet-bar a.fullscreen { font-size: 16px; }
+.legenda.vlak-vol i { opacity: 0.7; border-color: rgba(0, 0, 0, 0.15); }
+.leaflet-popup-content .klein { margin: -4px 0 6px; font-size: 12px; color: var(--grijs); }
+.leaflet-popup-content .bron { margin: 6px 0 0; font-size: 12px; color: var(--grijs); }
+.legenda li.bron { display: block; margin-top: 4px; font-size: 12px; color: var(--grijs); }
+.leaflet-popup-content .tussenkop { margin: 8px 0 2px; font-weight: 500; }
+.leaflet-popup-content .details { margin: 0 0 6px; font-weight: 500; }
+#lagen .vak-thema { display: block; margin: 4px 0 4px 24px; font: inherit; font-size: 13px; max-width: calc(100% - 24px); }
+
+/* toegankelijkheid: knoppen, focus, vizier, zoeken */
+.leaflet-bar button.fullscreen { display: block; width: 30px; height: 30px; padding: 0; border: 0; border-radius: 4px;
+  background: #fff; color: #000; font-size: 16px; line-height: 30px; cursor: pointer; }
+.leaflet-bar button.fullscreen:hover { background: #f4f4f4; }
+.leaflet-bar button.fullscreen:focus-visible, #paneel :focus-visible, .leaflet-popup :focus-visible {
+  outline: 3px solid var(--blauw); outline-offset: 1px; }
+#kaart:focus-visible { outline: 3px solid var(--blauw); outline-offset: -3px; }
+#kaart:focus-visible::after {  /* vizier: Enter toont info over deze plek */
+  content: ''; position: absolute; left: 50%; top: 50%; z-index: 800; width: 24px; height: 24px;
+  margin: -12px 0 0 -12px; pointer-events: none; border: 2px solid var(--blauw); border-radius: 50%;
+  box-shadow: 0 0 0 2px #fff, inset 0 0 0 2px #fff; }
+.leaflet-popup-content:focus { outline: none; }
+.leaflet-popup-content:focus-visible { outline: 2px solid var(--blauw); outline-offset: 4px; }
+.leeg { color: #767676; }
+.leaflet-popup-content .adres { margin: 0 0 6px; font-size: 13px; color: var(--grijs); }
+#zoek { margin-top: 10px; }
+.zoek-regel { display: flex; gap: 4px; margin-top: 3px; }
+.zoek-regel input { flex: 1; min-width: 0; padding: 4px; font: inherit; color: var(--tekst); }
+.zoek-regel button, #zoek-uitkomst button { font: inherit; color: var(--tekst); cursor: pointer; }
+#zoek-uitkomst { list-style: none; margin: 4px 0 0; padding: 0; }
+#zoek-uitkomst button { display: block; width: 100%; min-height: 24px; margin: 2px 0; padding: 3px 6px; text-align: left;
+  background: #fff; border: 1px solid var(--lijn); border-radius: 3px; }
+details.bron summary { cursor: pointer; }
+details.bron p { margin: 4px 0 0; }
+details.bron ul { margin: 4px 0 0; padding-left: 16px; }
+details.bron li { margin: 2px 0; }

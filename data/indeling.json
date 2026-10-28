@@ -1,0 +1,65 @@
+{
+ "jaar": 2026,
+ "regios": [
+  {
+   "regio": "Holland Rijnland",
+   "kleur": "#ff6b02",
+   "concessie": "Zuid-Holland Noord",
+   "site": "https://hollandrijnland.nl/"
+  },
+  {
+   "regio": "Midden-Holland",
+   "kleur": "#76bc21",
+   "concessie": "Zuid-Holland Noord",
+   "site": "https://www.regiomiddenholland.nl/"
+  },
+  {
+   "regio": "MRDH",
+   "kleur": "#d11f3d",
+   "concessie": "MRDH",
+   "site": "https://mrdh.nl/"
+  },
+  {
+   "regio": "Drechtsteden",
+   "kleur": "#7badde",
+   "concessie": "Drechtsteden, Molenlanden en Gorinchem",
+   "site": ""
+  },
+  {
+   "regio": "Alblasserwaard",
+   "kleur": "#503d90",
+   "concessie": "Drechtsteden, Molenlanden en Gorinchem",
+   "site": ""
+  },
+  {
+   "regio": "Hoeksche Waard",
+   "kleur": "#aa0067",
+   "concessie": "Hoeksche Waard en Goeree-Overflakkee",
+   "site": ""
+  },
+  {
+   "regio": "Goeree-Overflakkee",
+   "kleur": "#efcc36",
+   "concessie": "Hoeksche Waard en Goeree-Overflakkee",
+   "site": ""
+  }
+ ],
+ "concessies": [
+  {
+   "concessie": "Zuid-Holland Noord",
+   "kleur": "#00804d"
+  },
+  {
+   "concessie": "MRDH",
+   "kleur": "#838383"
+  },
+  {
+   "concessie": "Drechtsteden, Molenlanden en Gorinchem",
+   "kleur": "#b24a00"
+  },
+  {
+   "concessie": "Hoeksche Waard en Goeree-Overflakkee",
+   "kleur": "#503d90"
+  }
+ ]
+}

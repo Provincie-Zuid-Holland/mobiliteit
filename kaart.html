@@ -1,123 +1,79 @@
-<!--URL parameter
-regio : gem , c/{else} = concessies
-ov /p:
-live  :
-haltes:
-par   :
-@     : coordinaten centrum of pointer
-zoom  : zoom factor
-i     : c=click 
-pointer: marker met tekst op scher,
+<!DOCTYPE html>
+<!--
+  Kaartviewer Zuid-Holland. URL-parameters (oude links blijven werken):
+    regio=gem   gemeenten gekleurd per regio (standaard)
+    regio=c     gemeenten gekleurd per OV-concessie
+    regio=0     gemeenten niet inkleuren
+    gem=GM0599  gemeente selecteren en inzoomen
+    Zoeken op adres: PDOK Locatieserver (js/zoek.js)
+    vak=stedelijkheid  tegelkaart nabijheidsklasse (oud: par=10); par=1…9 de scores uit de snelstudie (js/vakjes.js)
+    haltes=1    OV-haltes aan (js/haltes.js)
+    deelfiets=1 oranje deelfietsen, suggesties=1 suggesties (js/deelfietsen.js; oud: p=oranje, p=os)
+    ov=0 / ov=1 laag uit/aan (zie js/lagen.js; zonder parameter de standaard)
+    @=lat,lon,zoom
 -->
- <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <meta charset="UTF-8">
-  <title>Zuid-Holland</title>
-  <link rel=icon href="img/favicon.png">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-  <link rel="stylesheet" href="css/mapstyles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kaart Zuid-Holland</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/kaart.css?v=6fdfca4">
 </head>
 <body>
-<div id="map"></div>
-<script src="scr/parse.js"></script>
-<script src="scr/mapFunctions.js"></script>
-<script>
-  console.log("start js")
-  var Instellingen = {gemOpacity : 0.2 , gemFill : 0.07, popup : 9 } //globale vars voor kaarten; 
-  Instellingen.legenda ={ logo: true } // logo: true
+  <h1 class="vh">Kaart Zuid-Holland</h1>
+  <main id="kaart" aria-label="Kaart van Zuid-Holland" aria-describedby="bediening"></main>
 
+  <aside id="paneel" aria-label="Legenda en instellingen">
+    <button id="paneel-knop" type="button" aria-expanded="true" aria-controls="paneel-inhoud">
+      <img src="img/favicon.png" alt="" width="20" height="20">
+      <span id="titel">Zuid-Holland</span>
+      <span class="pijl" aria-hidden="true"></span>
+    </button>
+    <div id="paneel-inhoud">
+      <h2>Lagen</h2>
+      <ul id="lagen"></ul>
+      <label class="zoek">Ga naar gemeente
+        <select id="gemeente"><option value="">— kies —</option></select>
+      </label>
+      <form class="zoek" id="zoek" role="search">
+        <label for="zoek-tekst">Zoek adres of postcode</label>
+        <span class="zoek-regel"><input id="zoek-tekst" type="search" autocomplete="off" placeholder="bv. Zuid-Hollandplein 1">
+          <button type="submit">Zoek</button></span>
+        <ul id="zoek-uitkomst"></ul>
+      </form>
+      <details class="bron" id="toegankelijkheid">
+        <summary>Toegankelijkheid</summary>
+        <p>Kaarten die niet voor navigatie bedoeld zijn, vallen buiten de wettelijke eisen voor digitale
+          toegankelijkheid. Toch is er zo veel mogelijk rekening mee gehouden:</p>
+        <ul>
+          <li id="bediening">Alles werkt met het toetsenbord. Op de kaart: pijltjes schuiven, + en − zoomen,
+            Enter toont info over het midden (het vizier), Esc sluit die weer.</li>
+          <li>Een gemeente kiezen of een adres of postcode zoeken kan zonder de kaart.</li>
+          <li>Alle gegevens van een tegel van 500 × 500 m staan als tabel op een eigen pagina.</li>
+          <li>De info in de popups staat er als tekst, niet alleen als kleur; tekst heeft voldoende contrast.</li>
+          <li>Knoppen en keuzelijsten hebben Nederlandse namen; een schermlezer meldt wat er geladen is.</li>
+          <li>De kaart werkt ook op een smal scherm, zoals een telefoon.</li>
+        </ul>
+        <p>Nog niet in orde: de OV-haltes en de deelfietsplekken zijn alleen via de kaart te vinden,
+          en enkele kleuren in de legenda hebben te weinig contrast.</p>
+        <p>Werkt iets niet? Laat het weten via
+          <a href="mailto:kenniszuidholland@pzh.nl">kenniszuidholland@pzh.nl</a>.</p>
+      </details>
+    </div>
+  </aside>
+  <p id="status" class="vh" role="status"></p>
 
-  function loadScript(scriptje) {
-      const script = document.createElement('script');
-          script.src = `${scriptje}.js`; // Dynamische bestandsnaam
-          script.type = 'text/javascript';
-          document.body.appendChild(script);
-  }
-// *** Eerst URL parameters inlezen 
-  const urlParams = new URLSearchParams(window.location.search);  
-  if (urlParams.toString() === "") { Instellingen.kaart = "home";   } 
-    else {      // Voeg alle URL parameters toe aan Instellingen
-    for (const [key, value] of urlParams.entries()) {
-      let val = value;
-      // optioneel: typeherkenning
-      //if (val === "true") val = true;
-      //else if (val === "false") val = false;
-      //else if (!isNaN(val) && val.trim() !== "") val = Number(val);
-      Instellingen[key] = val;
-    }
-  }
-  console.log("Instellingen: ",Instellingen);
-  var mapOptions = { center: [51.95, 4.584], zoom: 10 }
-  if (urlParams.get('zoom') != null ){ mapOptions.zoom=urlParams.get('zoom')}
-  const urlC = urlParams.get('@')  //mapcenter aanpassen + plek pointer
-  if (urlC != null ){
-    console.log(urlC)
-    const myArray = urlC.split(",");
-    mapOptions['center'] =  [Number(myArray[0]), Number(myArray[1])]
-    if (myArray[2] !=null) {mapOptions['zoom'] =  Number(myArray[2])}
-    if (myArray[3] !=null) {Instellingen["pointer"]=myArray[3]}
-  }
-  var map = new L.map('map', mapOptions);  createMap(); 
-
-  if (Instellingen.kaart=='home') {Instellingen.regio='gem';Instellingen.ov='l'}
-
-
-  if (Instellingen.regio) {  loadScript('data/gemeentesZH'); loadScript('data/gemDat') }  //gemeentekaart loaden;
-  if (Instellingen.ov || urlParams.get('p') ){  loadScript('data/deelmdata');   }         //ov lijnen en deelmob loaden
-  if (urlParams.get('live')  ){   loadScript('scr/api');  }                                   //load api
-  if (urlParams.get('haltes')  ){ loadScript('data/haltesa');  }                              // haltes deelm potentie   
-  if (urlParams.get('par')  ){  loadScript('scr/vierkant'); loadScript('data/vkdata4');  }    //load vierkant
-
- 
-  // *** Hier gaat het verder als overlays geladen zijn 
-  function windowGeladen() {
-    console.log("window geladen, instellingen: ");
-    console.log(Instellingen)
-    if (Instellingen['regio'] ){ 
-      console.log("teken gemeentes!!!"); tekenGemeentes(); 
-      if (Instellingen.regio == 'gem' ) { Instellingen.legenda.html = regioLegenda; } else { Instellingen.legenda.html = concessieLegenda;Instellingen.legenda.titel = 'OV concessies';Instellingen.legenda.minWidth='300px' }
-    }
-
-    if (Instellingen['ov'] ||Instellingen['p']  ){ plotOVLijnen(ovLijnen); }
-    if (Instellingen.p == 'oranje' || Instellingen.p == 'os') {  mapOptions = { center: [51.95, 4.584], zoom: 10 };  console.log("start plot donkeys");  plotOVDonkeys(mapDonkeys); }
-    if (Instellingen.p == 'os' ) {console.log("start plot suggesties");  plotSuggesties(deelfietsSuggesties);}
-    if (Instellingen.haltes) {
-      console.log("start plot haltes");  
-      labels =["latlon", "haltenaam", "ov-niveau", "id-gtfs", "cbs-vrk500", "pc4", "woonplaats", "gemeente", "rank-1.5km", "rank-3km", "fiets-score", "fiets-rank-1.5km", "fiets-rank-3km", "nearby-fiets-rank1-1.5km", "nearby-fiets-rank1-3km", "ov-score", "ov-rank-1.5km", "ov-rank-3km", "nearby-ov-rank1-1.5km", "nearby-ov-rank1-3km"]
-      console.log("start plot haltes");  plotHaltesArray(haltes);;}
-
-    if (Instellingen.par ){ 
-      console.log("vierantstatistiek plotten")
-      kolom = parseInt(Instellingen.par) // bepaal kolom die kleur bepaald
-      plotVierkanten4(vkdata,kolom,0); //vulling doet
-      }
-
-    if (Instellingen['live']  ){ 
-      leg ='Aantal bij Hub<br>';
-      for (let i in verloopRoodGroen) {
-        strx  = verloopLeg[i];
-        leg += '<i style=" opacity: 0.8; background-color:' + verloopRoodGroen[i] + '; text-align: center"></i><span>'+strx +'</span><BR>' ;
-        }
-      Instellingen.legenda.titel = "Donkey beschikbaarheid"
-      //Instellingen.legend.minWidth = '300px'
-      //Instellingen.legend.html = leg
-      getInfo();
-       }
-    if (Instellingen["pointer"] !=null) {plaatsPointer();}
-    if (Instellingen["i"] =='c') {map.on('click', onMapClick);}
-    Instellingen.legenda.link='x'  // zet een link naar kaarten.html
-    if (Instellingen.haltes) {Instellingen.legenda.html='<br>ov-core en fiets-score van haltes<br> (groote en kleur stip)';Instellingen.legenda.titel=' Score van ov haltes'}
-    console.log("Start legenda plotten")
-    if (Instellingen.par ){ ontwerpLegenda(Instellingen.legenda,kolom)} else { maakLegenda(Instellingen.legenda);} 
-
-    }
-  window.onload = windowGeladen;
- 
-  </script>
- </body>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="js/basis.js?v=6fdfca4"></script>
+  <script src="js/lagen.js?v=6fdfca4"></script>
+  <script src="js/haltes.js?v=6fdfca4"></script>
+  <script src="js/deelfietsen.js?v=6fdfca4"></script>
+  <script src="js/rd.js?v=6fdfca4"></script>
+  <script src="js/vakjes.js?v=6fdfca4"></script>
+  <script src="js/gemeenten.js?v=6fdfca4"></script>
+  <script src="js/zoek.js?v=6fdfca4"></script>
+</body>
 </html>

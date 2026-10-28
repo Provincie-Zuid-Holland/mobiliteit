@@ -1,0 +1,41 @@
+/* Tegelpagina: kaartje links (30 %, blijft staan), gegevens rechts */
+body.tegelpagina { display: grid; grid-template-columns: 30% 1fr; height: 100vh; overflow: hidden; }
+.tegelpagina #kaart { position: relative; inset: auto; height: 100vh; }
+.tegelpagina #inhoud { overflow-y: auto; padding: 16px 28px 40px; }
+
+.tegelpagina h1 { margin: 4px 0 2px; color: var(--blauw); font-weight: 500; font-size: 26px; }
+.tegelpagina h2 { margin: 28px 0 4px; color: var(--blauw); font-weight: 500; font-size: 19px; }
+.tegelpagina .sub { color: var(--grijs); font-size: 14px; margin: 0 0 8px; font-weight: 400; }
+.tegelpagina .terug { margin: 0; font-size: 14px; }
+
+.buren { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 4px; }
+.buren a { padding: 3px 10px; border: 1px solid var(--lijn); border-radius: 3px; font-size: 13px;
+  text-decoration: none; color: var(--tekst); }
+.buren a:hover { border-color: var(--link); color: var(--link); }
+
+.vink { display: block; margin: 6px 0 10px; font-size: 14px; cursor: pointer; }
+
+.velden { border-collapse: collapse; font-size: 13px; width: 100%; max-width: 760px; }
+.velden th, .velden td { padding: 3px 10px 3px 0; border-bottom: 1px solid #eee; text-align: right; font-weight: 400; }
+.velden th[scope=row], .velden thead th:first-child { text-align: left; }
+.velden thead th { color: var(--grijs); border-bottom: 1px solid var(--lijn); font-weight: 500; }
+.velden td { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.velden code { font-size: 12.5px; color: var(--tekst); word-break: break-all; }
+.velden .leeg { color: #767676; }  /* nog net voldoende contrast (4,5:1) */
+.velden tr.geheel-leeg code { color: #767676; }
+#cbs.zonder-leeg tr.geheel-leeg { display: none; }
+
+@media (max-width: 700px) {
+  body.tegelpagina { display: block; height: auto; overflow: visible; }
+  .tegelpagina #kaart { height: 40vh; }
+  .tegelpagina #inhoud { padding: 12px 16px 32px; }
+}
+.velden.voorzieningen { max-width: 900px; }
+.velden.voorzieningen thead th { white-space: normal; vertical-align: bottom; font-size: 12px; line-height: 1.2; }
+@media (max-width: 1100px) { .velden.voorzieningen { display: block; overflow-x: auto; } }
+.velden.inwoners { max-width: 640px; }
+.velden tr.groep th { padding-top: 12px; text-align: left; font-weight: 500; color: var(--blauw); font-size: 13px; border-bottom: 1px solid var(--lijn); }
+.velden tr.in th[scope=row] { padding-left: 16px; }
+.velden tr.in2 th[scope=row] { padding-left: 32px; }
+.velden .jaar { color: var(--grijs); font-size: 11.5px; }
+.buren a:focus-visible, .tegelpagina a:focus-visible { outline: 3px solid var(--blauw); outline-offset: 1px; }

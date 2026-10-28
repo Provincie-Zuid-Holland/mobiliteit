@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+  Tegelpagina: alle gegevens van één vakje van 500 × 500 m.
+    code=E0940N4825   de tegel (CBS-code, zuidwesthoek in RD)
+-->
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Tegel – kaart Zuid-Holland</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/kaart.css?v=6fdfca4">
+  <link rel="stylesheet" href="css/tegel.css?v=6fdfca4">
+</head>
+<body class="tegelpagina">
+  <div id="kaart" role="region" aria-label="Kaartje met de tegel rood omlijnd. Klik op het kaartje om naar een andere tegel te gaan; met het toetsenbord via de knoppen noord, zuid, west en oost."></div>
+
+  <main id="inhoud">
+    <p class="terug"><a id="terug" href="kaart.html"><span aria-hidden="true">←</span> terug naar de kaart</a></p>
+    <h1 id="titel">Tegel</h1>
+    <p id="plek" class="sub"></p>
+    <nav class="buren" aria-label="Naar de buurtegel">
+      <a id="naar-n"><span aria-hidden="true">↑</span> noord</a>
+      <a id="naar-z"><span aria-hidden="true">↓</span> zuid</a>
+      <a id="naar-w"><span aria-hidden="true">←</span> west</a>
+      <a id="naar-o"><span aria-hidden="true">→</span> oost</a>
+    </nav>
+    <div id="gegevens"><p>Gegevens laden…</p></div>
+    <p id="status" class="vh" role="status"></p>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="js/basis.js?v=6fdfca4"></script>
+  <script src="js/rd.js?v=6fdfca4"></script>
+  <script src="js/vakjes.js?v=6fdfca4"></script>
+  <script src="js/tegel.js?v=6fdfca4"></script>
+</body>
+</html>
