@@ -2,6 +2,8 @@
 layout: pzh
 title: Sprekersinfo Festival "Bereikbaar"
 header_image: /mobiliteit/img/festival2027laag.png
+banner_ratio: auto
+header_alt: Festival Bereikbaar, dinsdag 9 februari 2027, provinciehuis Zuid-Holland
 menu: |
     <a href="/mobiliteit/festival.html">Festivalschema</a>
 ---
@@ -57,7 +59,6 @@ Onderaan deze pagina zie je de plattegronden van het provinciehuis
 Nog onduidelijkheden? Of wil je gewoon even ergens over overleggen? Neem gerust contact met ons op!
 Wij hebben er zin in!!
 
-Abigail: ac.place@pzh.nl; 06-50013266  en  <br> 
 Ronald: ra.haverman@pzh.nl; 06-50083920  
 
 <br>
