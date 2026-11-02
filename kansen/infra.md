@@ -106,18 +106,6 @@ We staan nog aan het begin van duurzame en/of circulaire infrastructuur. Overhed
 
 </div>
 
-<div class="voorbeeld voorbeeld--media">
-<figure class="fig">
-  <img src="/mobiliteit/kansen/img/circulair-zuid-holland.png" alt="Circulair Zuid-Holland" loading="lazy">
-</figure>
-<div markdown="1">
-
-## Aanpak duurzaam GWW & transitiepaden
-
-Om impact te maken moeten overheden, marktpartijen en kennisinstellingen de handen ineenslaan om de grond-, weg en waterbouw (GWW) te verduurzamen. Hierover zijn afspraken gemaakt in het landelijk manifest Duurzaam GWW. Onderdeel van dit manifest is dat we als sector werken volgens één uniforme aanpak: de Aanpak Duurzaam GWW. Deze Aanpak is een praktische werkwijze om duurzaamheid in GWW-projecten een plaats te geven en bevat ook transitiepaden.
-
-</div>
-</div>
 
 ## Verder lezen
 
