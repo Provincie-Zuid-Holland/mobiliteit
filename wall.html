@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex">
+<title>Testbeeld videowand</title>
+<!-- Testbeeld voor de videowand (9984 x 1728).
+     Bewust oud-JavaScript (ES5) en simpele CSS: de renderer in WATCHOUT kan een oude browser zijn. -->
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #847062;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#raster, #blok, #info, .hoek { position: absolute; }
+.lijn { position: absolute; background: rgba(255,255,255,0.35); }
+.label { position: absolute; color: rgba(255,255,255,0.8); padding: 2px 4px; }
+#blok { background: #ff6b02; top: 0; }
+#info {
+  left: 0; right: 0; top: 50%;
+  text-align: center;
+  text-shadow: 0 0 8px #000;
+}
+#klok { font-weight: bold; }
+.hoek { border: 0 solid #ffeb00; }
+.hoek span { position: absolute; color: #ffeb00; font-weight: bold; white-space: nowrap; }
+</style>
+</head>
+<body>
+<div id="raster"></div>
+<div id="blok"></div>
+<div id="info">
+  <div id="klok">--:--:--</div>
+  <div id="maat"></div>
+  <div id="extra"></div>
+</div>
+<div class="hoek" id="lb"><span>LINKSBOVEN</span></div>
+<div class="hoek" id="rb"><span>RECHTSBOVEN</span></div>
+<div class="hoek" id="lo"><span>LINKSONDER</span></div>
+<div class="hoek" id="ro"><span>RECHTSONDER</span></div>
+
+<script>
+var DOEL_B = 9984, DOEL_H = 1728, STAP = 500, DUUR = 8000;
+var start = new Date().getTime();
+var geladen = twee(new Date().getHours()) + ':' + twee(new Date().getMinutes()) + ':' + twee(new Date().getSeconds());
+var b, h;
+
+function twee(n) { return n < 10 ? '0' + n : '' + n; }
+function $(id) { return document.getElementById(id); }
+
+function maatVenster() {
+  b = window.innerWidth || document.documentElement.clientWidth;
+  h = window.innerHeight || document.documentElement.clientHeight;
+}
+
+function tekenRaster() {
+  var r = $('raster'), html = '', x, y, f = Math.max(14, Math.round(h * 0.025));
+  for (x = STAP; x < b; x += STAP) {
+    html += '<div class="lijn" style="left:' + x + 'px;top:0;width:2px;height:' + h + 'px"></div>';
+    html += '<div class="label" style="left:' + x + 'px;top:' + Math.round(h * 0.12) + 'px;font-size:' + f + 'px">' + x + '</div>';
+  }
+  for (y = STAP; y < h; y += STAP) {
+    html += '<div class="lijn" style="top:' + y + 'px;left:0;height:2px;width:' + b + 'px"></div>';
+    html += '<div class="label" style="top:' + y + 'px;left:' + Math.round(b * 0.02) + 'px;font-size:' + f + 'px">' + y + '</div>';
+  }
+  r.innerHTML = html;
+}
+
+function tekenHoeken() {
+  var d = Math.round(h * 0.12), dik = Math.max(4, Math.round(h * 0.008)), f = Math.round(h * 0.03) + 'px';
+  var hoeken = [['lb', 'left', 'top'], ['rb', 'right', 'top'], ['lo', 'left', 'bottom'], ['ro', 'right', 'bottom']];
+  for (var i = 0; i < hoeken.length; i++) {
+    var el = $(hoeken[i][0]), s = el.style, t = el.getElementsByTagName('span')[0].style;
+    s.width = d + 'px'; s.height = d + 'px';
+    s[hoeken[i][1]] = '0'; s[hoeken[i][2]] = '0';
+    s['border' + (hoeken[i][1] == 'left' ? 'Left' : 'Right') + 'Width'] = dik + 'px';
+    s['border' + (hoeken[i][2] == 'top' ? 'Top' : 'Bottom') + 'Width'] = dik + 'px';
+    t.fontSize = f;
+    t[hoeken[i][1]] = (dik * 3) + 'px';
+    t[hoeken[i][2]] = (dik * 3) + 'px';
+  }
+}
+
+function tekenInfo() {
+  var groot = Math.round(h * 0.09), klein = Math.round(h * 0.035);
+  var klopt = (b == DOEL_B && h == DOEL_H);
+  var oordeel = klopt ? 'KLOPT: volle resolutie van de wand'
+                      : 'WIJKT AF van ' + DOEL_B + ' × ' + DOEL_H + ' (wordt geschaald of bijgesneden)';
+  $('klok').style.fontSize = Math.round(h * 0.16) + 'px';
+  $('maat').style.fontSize = groot + 'px';
+  $('extra').style.fontSize = klein + 'px';
+  $('info').style.marginTop = -Math.round(h * 0.2) + 'px';
+  $('maat').innerHTML = 'venster ' + b + ' × ' + h + ' px';
+  $('extra').innerHTML = oordeel +
+    '<br>scherm ' + screen.width + ' × ' + screen.height +
+    ' · pixelratio ' + (window.devicePixelRatio || 1) +
+    ' · geladen om ' + geladen +
+    '<br><span style="font-size:' + Math.round(klein * 0.6) + 'px">' + navigator.userAgent + '</span>';
+
+  var blok = $('blok').style;
+  blok.width = Math.round(h * 0.25) + 'px';
+  blok.height = h + 'px';
+  blok.opacity = 0.85;
+}
+
+function opbouw() {
+  maatVenster();
+  tekenRaster();
+  tekenHoeken();
+  tekenInfo();
+}
+
+// Tijd-gebaseerd heen en weer, zodat het ook klopt als frames wegvallen
+var volgende = window.requestAnimationFrame || function (f) { return setTimeout(f, 16); };
+function beweeg() {
+  var nu = new Date().getTime(), t = ((nu - start) % (2 * DUUR)) / DUUR;
+  var p = t <= 1 ? t : 2 - t;
+  var bb = Math.round(h * 0.25);
+  $('blok').style.left = Math.round((b - bb) * p) + 'px';
+  var d = new Date();
+  $('klok').innerHTML = twee(d.getHours()) + ':' + twee(d.getMinutes()) + ':' + twee(d.getSeconds());
+  volgende(beweeg);
+}
+
+window.onresize = opbouw;
+window.onload = function () { opbouw(); beweeg(); };
+</script>
+</body>
+</html>
