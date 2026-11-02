@@ -109,6 +109,8 @@ We staan nog aan het begin van duurzame en/of circulaire infrastructuur. Overhed
 
 ## Verder lezen
 
+{% include leesmeer.html kop="Lees meer in het artikel" title="Top 25 duurzame aanbesteders: Zuid-Holland stijgt naar plek 3" tekst="De provincie deelt de derde plaats met Helmond (score 4,50), na plek 62 twee jaar geleden en plek 21 vorig jaar, dankzij sterkere duurzame gunningscriteria (Duurzaam Ondernemen, 2026)." url="https://www.duurzaam-ondernemen.nl/top-25-helmond-zuid-holland-en-universiteit-utrecht-stijgen-sterk/" image="/mobiliteit/kansen/img/eerdere/top25-duurzame-aanbesteders.jpg" %}
+
 {% include leesmeer.html kop="Lees meer in het artikel" title="Circulaire kunstwerken: dit is de richting die we opgaan" tekst="Rijkswaterstaat, ProRail, provincies, gemeenten en waterschappen kopen vanaf 2025 samen bruggen en viaducten circulair en klimaatneutraal in (Binnenlands Bestuur, 2024)." url="https://www.binnenlandsbestuur.nl/ruimte-en-milieu/duurzame-infra-en-seb/circulaire-kunstwerken-dit-is-de-richting-die-we-opgaan" image="/mobiliteit/kansen/img/eerdere/circulaire-kunstwerken.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in de begroting" title="Begroting 2026 provincie Zuid-Holland" tekst="Hoe de provincie de CO₂-uitstoot verlaagt en circulair gaat werken: Warm Mix Asfalt, de Asphalt Recycling Train en de vijf materialen met de grootste impact (pdf, blz. 65)." url="https://www.zuid-holland.nl/publish/besluitenattachments/begroting-2026/begroting-2026-pdf.pdf#page=65" image="/mobiliteit/kansen/img/eerdere/begroting-2026.jpg" %}
