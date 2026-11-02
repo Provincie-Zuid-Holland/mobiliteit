@@ -1,11 +1,9 @@
 ---
 layout: pzh
 title: Sprekersinfo Festival "Bereikbaar"
-header_image: /mobiliteit/img/festival2026laag.png
+header_image: /mobiliteit/img/festival2027laag.png
 menu: |
-    <a href="snelstudie/index.html">Snelstudies</a>
-    <a href="\mobiliteit\festival.html">Festivalschema</a>
-    <a href="https://festivalbereikbaarzuid-holland.pzh-events.nl/" target="_blank">Festival aanmelden</a>
+    <a href="/mobiliteit/festival.html">Festivalschema</a>
 ---
 # Informatie voor sprekers op het Festival Bereikbaar
 
@@ -34,10 +32,10 @@ Bij het [Festival programma](festival.html) zie je hoe de middag is opgebouwd. E
 
 
 ## Praktisch
-- Dinsdag 24 maart 2026. Inloop om 13 uur. Start programma 13:30
+- Dinsdag 9 februari 2027. Inloop om 13 uur. Start programma 13:30
 - Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag). Als je onder het provinciehuis wilt parkeren neem dan even contact met ons op.
 - circa 16:30 sluiten we af met een feestelijke borrel tot 18 uur.
-- Toegang is gratis, wel even [aanmelden](https://festivalbereikbaarzuid-holland.pzh-events.nl/).
+- Toegang is gratis, wel even aanmelden. De aanmeldlink volgt.
 - Sprekers kunnen zich net als ‘reguliere’ bezoekers melden bij de registratiebalie.
 
 ## De zalen 
@@ -63,6 +61,6 @@ Abigail: ac.place@pzh.nl; 06-50013266  en  <br>
 Ronald: ra.haverman@pzh.nl; 06-50083920  
 
 <br>
-![](img\VergaderzalenC0.png)
+![Plattegrond begane grond](img/VergaderzalenC0.png)
 <br>
-![](img\VergaderzalenC1.png)
+![Plattegrond eerste verdieping](img/VergaderzalenC1.png)

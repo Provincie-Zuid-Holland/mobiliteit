@@ -3,40 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Festival Bereikbaar Disdagmiddag 9 februari 2027</title>
-  <script src="data/sessies2026.js"></script> <!-- JSON-data wordt ingeladen -->
+  <title>Festival Bereikbaar dinsdagmiddag 9 februari 2027</title>
+  <link rel="icon" href="img/favicon.png">
+  <script src="data/sessies2027.js"></script> <!-- sessies; lege lijst = "volgen nog" -->
   <script src="scr/parse.js"></script>
-  <script>
-    // Controleer of het scherm smaller is dan 768px (mobiel) en redirect naar mobile versie
-    if (window.innerWidth < 768) {
-      window.location.href = 'festivalmobile.html';
-    }
-  </script>
 
   <style>
-        body {    color: #281f6b;
-      font-family: Sans-serif;}
+    /* Karbon, het PZH-lettertype (zelfde bestanden als css/style.css) */
+    @font-face {
+      font-family: 'Karbon';
+      font-weight: 400;
+      font-display: swap;
+      src: url('fonts/Karbon-Regular.woff2') format('woff2'),
+           url('fonts/karbon-regular-webfont.woff') format('woff');
+    }
+    @font-face {
+      font-family: 'Karbon';
+      font-weight: 500;
+      font-display: swap;
+      src: url('fonts/Karbon-Medium.woff2') format('woff2'),
+           url('fonts/karbon-medium-webfont.woff') format('woff');
+    }
 
-    H1 {
-  font-family: "Karbon", Sans-serif;
-  font-size: 48px;
-  font-weight: 500;
-  line-height: 1em;
-}
-    table {
-      width: 100%;
-      border-collapse: collapse;
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      color: #16113b;
+      font-family: "Karbon", Arial, sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px 24px;
     }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: left;
+    img { max-width: 100%; height: auto; }
+    a { color: #00804d; }
+    a:hover { color: #004d2e; }
+    h1, h2 { color: #281f6b; font-weight: 500; line-height: 1.15; }
+    h1 { font-size: 48px; margin: 24px 0 15px; }
+    h2 { font-size: 32px; margin-top: 40px; }
+    .banner { display: block; width: 100%; margin-top: 12px; }
+
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; }
+    th { background-color: #f4f4f4; font-weight: 500; }
+    td.tijd { white-space: nowrap; width: 5em; }
+    #sessionsTable tr { cursor: pointer; }
+    #sessionsTable tr:hover { background-color: #f1f1f1; }
+    .session-meta { display: none; }
+
+    /* Gele blokken: "sessies volgen" en de pop-up per sessie */
+    .geel {
+      background: #f1db7e;
+      border-radius: 10px;
+      padding: 16px 20px;
     }
-    th {
-      background-color: #f4f4f4;
-    }
-    tr:hover {
-      background-color: #f1f1f1;
+    .geel a { color: #004d2e; }
+
+    #overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 999;
     }
     .popup {
       display: none;
@@ -44,332 +73,246 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      padding: 20px;
-      border: 2px solid #333;
-      background: #c6a410;
-      z-index: 1000;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
       width: 90%;
-      border-radius: 10px;
+      max-height: 90vh;
+      overflow-y: auto;
+      padding: 16px 20px 20px;
+      border: 2px solid #281f6b;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+      z-index: 1000;
     }
-    .popup h2 {
-      margin-top: 0;
-    }
+    .popup h2 { margin: 0 110px 6px 0; font-size: 28px; }
     .popup .close {
-      display: block;
-      margin-top: 10px;
-      text-align: right;
-      color: #007bff;
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      background: #fff;
+      color: #281f6b;
+      border: 0;
+      border-radius: 6px;
+      padding: 4px 9px;
+      font: inherit;
+      font-weight: 500;
       cursor: pointer;
     }
-    #overlay {
+    #popupContent { display: flex; gap: 20px; }
+    .popup-left { flex: 1; }
+    .popup-right { flex: 1; display: flex; align-items: center; justify-content: center; }
+
+    /* Plattegronden */
+    .floor { display: none; }
+    .floor.active { display: block; }
+    .floor img { cursor: zoom-in; }
+    .floor-buttons { margin-bottom: 10px; }
+    .floor-buttons button {
+      margin-right: 10px;
+      padding: 8px 12px;
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font: inherit;
+      cursor: pointer;
+    }
+    .floor-buttons button.active { background: #281f6b; color: #fff; }
+    .fullscreen-overlay {
       display: none;
       position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.5);
-      z-index: 999;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.95);
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
     }
-    .dark-mode {
-  background-color: black;
-  color: white;
-}
-
-.dark-mode table {
-  border: 1px solid white;
-}
-
-.dark-mode th, 
-.dark-mode td {
-  border: 1px solid white;
-  color: white;
-}
-
-.dark-mode th {
-  background-color: #222;
-}
-
-.dark-mode tr:hover {
-  background-color: #333;
-}
-
-.dark-popup {
-  background: #c6a410 !important; /* Geelachtige achtergrond */
-  color: black !important; /* Zwarte tekst voor contrast */
-  width: 90vw !important;
-  height: 90vh !important;
-  position: fixed !important;
-  top: 5% !important;
-  left: 5% !important;
-  padding: 20px !important;
-  border-radius: 10px !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  text-align: center !important;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5) !important; /* Mooie schaduw */
-  border: 2px solid black !important;
-}
-
-#popupContent {
-    display: flex;
-    gap: 20px;
-}
-
-.popup-left {
-    flex: 1;
-}
-
-.popup-right {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#immage {
-    max-width: 100%;
-    height: auto;
-}
-/* Smartphone / smalle schermen */
-@media (max-width: 600px) {
-    #popupContent {
-        flex-direction: column;
+    .fullscreen-overlay.active { display: flex; }
+    .fullscreen-overlay img { max-height: 100%; object-fit: contain; border-radius: 6px; }
+    .fullscreen-overlay .close-fullscreen {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      padding: 8px 12px;
+      border: 0;
+      border-radius: 6px;
+      font: inherit;
+      cursor: pointer;
     }
-}
 
-/* Plattegronden stijlen */
-.floor {
-    display: none;
-}
-.floor.active {
-    display: block;
-}
-.floor img {
-    max-width: 100%;
-    height: auto;
-}
-.floor-buttons {
-    margin-bottom: 10px;
-}
-.floor-buttons button {
-    margin-right: 10px;
-    padding: 8px 12px;
-    background: #f4f4f4;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    cursor: pointer;
-}
-.floor-buttons button.active {
-    background: #c6a410;
-    color: white;
-}
+    /* Mobiel: sessies als kaartjes, pop-up schermvullend */
+    @media (max-width: 700px) {
+      body { padding: 10px 16px; font-size: 17px; }
+      h1 { font-size: 32px; }
+      h2 { font-size: 24px; }
+      .popup h2 { font-size: 22px; }
+      #popupContent { flex-direction: column; }
+      .popup { width: 95vw; max-height: 95vh; }
 
+      #sessionsList thead { display: none; }
+      #sessionsList, #sessionsList tbody, #sessionsList tr, #sessionsList td { display: block; width: 100%; }
+      #sessionsList tr { border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px; overflow: hidden; }
+      #sessionsList td { border: none; padding: 6px 10px; }
+      #sessionsList td.extra { display: none; }
+      .session-title { font-weight: 500; }
+      .session-meta { display: block; color: #5c5c5c; font-size: 0.9em; }
+    }
+
+    /* Donkere modus (?mode=dark) voor het grote scherm */
+    .dark-mode { background-color: black; color: white; }
+    .dark-mode h1, .dark-mode h2 { color: white; }
+    .dark-mode th, .dark-mode td { border-color: white; color: white; }
+    .dark-mode th { background-color: #222; }
+    .dark-mode #sessionsTable tr:hover { background-color: #333; }
+    .dark-mode .geel, .dark-mode .geel h2 { color: #16113b; }
   </style>
 </head>
 <body>
-    <div class="center">
-    <img src="img/PZHlogo253x84.png" alt="Provincie Zuid-Holland logo" width="253" height="84">
-    <div>
-    <div class="topImage" id="topI">
-  <img src="img/festival2026laag.png" alt="Zuid-Holland" width="100%" height="auto" >
-</div>
-   <H1>Festival Bereikbaar</H1>
-   <p>Met "Dichtbij in Zuid-Holland" verkennen we de kracht van <i>bereikbaarheid door nabijheid</i><i></i>. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport. Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland.</p>  <a href="festival-sprekers-info" target="_blank">(hier meer info voor sprekers)</a>.</p>
-</li>
-<br>
-  <table>
-   <thead>
-      <th>tijd</th>
-        <th>programma</th>
+  <img src="img/PZHlogo253x84.png" alt="Provincie Zuid-Holland" width="253" height="84">
+  <img class="banner" src="img/festival2027laag.png" alt="Festival Bereikbaar, dinsdag 9 februari 2027, provinciehuis Zuid-Holland">
 
-    </thead>
+  <h1>Festival Bereikbaar</h1>
+  <p><strong>Dinsdagmiddag 9 februari 2027, provinciehuis Zuid-Holland in Den Haag.</strong></p>
+  <p>Met "Dichtbij in Zuid-Holland" verkennen we de kracht van <i>bereikbaarheid door nabijheid</i>. De nabijheid van wonen, werken, leren en voorzieningen. Maar ook van groen, recreatie en sport. Met korte pitches en interactieve deelsessies ben je weer snel up-to-date met de belangrijkste ontwikkelingen en trends in Zuid-Holland.</p>
+  <p><a href="festival-sprekers-info">Informatie voor sprekers</a></p>
 
-  <tbody>
-    <tr>
-      <td>13:00</td>
-      <td>Ontvangst met koffie en thee</td>
-    </tr>  
-    <tr>
-      <td>13:30</td>
-      <td>Aftrap Irma Kenter (domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport Provincie Zuid-Holland)</td>
-    </tr> 
-     <tr>
-      <td>13:40</td>
-      <td>Key note: Jonge mensen zijn een grote groep in het OV, door Daan Zieren, directeur Rover</td>
-    </tr>      
-    <tr>
-      <td>13:40</td>
-      <td>Overzicht van deelsessies (deel 1)</td>
-    </tr>       
-    <tr>
-      <td>14:00</td>
-      <td>Provincie en regio's in gesprek over hinder van werkzaamheden en kansen die bereikbaarheid kan bieden voor de grote uitdagingen op gebied van ruimelijke ordening en woningbouw. Met Saskia Platenkamp (Drechtsteden), Raymond van Keerberghen (MRDH), Frans Jan Douglas (Holland Rijnland/gem. Leiden) en Broer Duursma (provincie)</td>
-    </tr>
-    <tr>
-      <td>14:15</td>
-      <td>overzicht rest van deelsessies</td>
-    </tr>
-         <tr>
-      <td>13:40</td>
-      <td>Key note 2</td>
-    </tr>      
-    <tr>
-        <tr>
-      <td>14:30</td>
-      <td>Parallelsessies; meer dan 25 in verschillende rondes verdeeld over tien zalen (zie hieronder)</td>
-    </tr>
-        <tr>
-      <td>16:30</td>
-      <td>Gedeputeerden Jeroen van Dijken (bereikbaarheid) & Arno Bonte (ruimtelijke ordening) blikken terug op de samenhang van ruimtelijke inrichting en bereikbaarheid. Gevolgd door Feestelijke netwerkborrel</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<p>Je kunt uit meer dan 25 deelsessies kiezen. Neem hieronder alvast een kijkje. Keuze stress? Geen zorgen: Je kiest op de middag gewoon zelf waar je heen wilt. Je hoeft je niet voor sessies aan te melden.</p>
-<br>
-
+  <h2>Programma</h2>
   <table>
     <thead>
-       <th>Tijd</th>
-        <th>Sessies - klik op een regel voor meer info</th>
-        <th>spreker</th>
-        <th>Zaal <a href="festival.html?sort=zaal">(sort)</a></th>
+      <tr><th>tijd</th><th>programma</th></tr>
     </thead>
-    <tbody id="sessionsTable">
-      <!-- Dynamische rijen worden hier toegevoegd -->
+    <tbody>
+      <tr><td class="tijd">13:00</td><td>Ontvangst met koffie en thee</td></tr>
+      <tr><td class="tijd">13:30</td><td>Aftrap Irma Kenter (domeindirecteur Bereikbaarheid, Wonen, Recreatie, Toerisme en Sport Provincie Zuid-Holland)</td></tr>
+      <tr><td class="tijd">13:40</td><td>Keynote: Jonge mensen zijn een grote groep in het OV, door Daan Zieren, directeur Rover</td></tr>
+      <tr><td class="tijd">13:40</td><td>Overzicht van deelsessies (deel 1)</td></tr>
+      <tr><td class="tijd">14:00</td><td>Provincie en regio's in gesprek over hinder van werkzaamheden en kansen die bereikbaarheid kan bieden voor de grote uitdagingen op gebied van ruimtelijke ordening en woningbouw. Met Saskia Platenkamp (Drechtsteden), Raymond van Keerberghen (MRDH), Frans Jan Douglas (Holland Rijnland/gem. Leiden) en Broer Duursma (provincie)</td></tr>
+      <tr><td class="tijd">14:15</td><td>Overzicht rest van deelsessies</td></tr>
+      <tr><td class="tijd">13:40</td><td>Keynote 2</td></tr>
+      <tr><td class="tijd">14:30</td><td>Parallelsessies in verschillende rondes verdeeld over tien zalen (zie hieronder)</td></tr>
+      <tr><td class="tijd">16:30</td><td>Gedeputeerden Jeroen van Dijken (bereikbaarheid) &amp; Arno Bonte (ruimtelijke ordening) blikken terug op de samenhang van ruimtelijke inrichting en bereikbaarheid. Gevolgd door een feestelijke netwerkborrel</td></tr>
     </tbody>
   </table>
-<br>
 
-<h2>Praktisch</h2>
-<ul>
-<li> Dinsdag 9 februari 2027. Inloop om 13 uur. Start programma 13:30</li>
-<li> Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag)</li>
-<li> Toegang is gratis, wel even aanmelden. 
-</li>
-</ul>
-<br>
+  <h2 id="sessies">Deelsessies</h2>
+  <!-- Zonder sessies in data/sessies2027.js -->
+  <div id="sessiesVolgen" class="geel" hidden>
+    <p><strong>De deelsessies volgen.</strong> Op deze pagina verschijnen ze zodra ze bekend zijn, later ook met tijden en zalen.</p>
+    <p>Wil je zelf een sessie geven? Lees de <a href="festival-sprekers-info">informatie voor sprekers</a> en neem contact met ons op.</p>
+  </div>
+  <!-- Met sessies -->
+  <div id="sessiesLijst" hidden>
+    <p>Je kunt uit <span id="aantal"></span> deelsessies kiezen. Keuzestress? Geen zorgen: je kiest op de middag gewoon zelf waar je heen wilt. Je hoeft je niet voor sessies aan te melden. Klik op een sessie voor meer info.</p>
+    <table id="sessionsList">
+      <thead>
+        <tr>
+          <th class="kolTijd">Tijd</th>
+          <th>Sessie</th>
+          <th>Spreker</th>
+          <th class="kolZaal">Zaal <a href="festival.html?sort=zaal#sessies">(sorteer)</a></th>
+        </tr>
+      </thead>
+      <tbody id="sessionsTable"></tbody>
+    </table>
+  </div>
 
-<h2>Plattegronden</h2>
-<div class="floor-buttons">
-  <button onclick="showFloor(0)" class="active">Begane grond</button>
-  <button onclick="showFloor(1)">Eerste verdieping</button>
-</div>
-<div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond"></div>
-<div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping"></div>
-<br>
+  <h2>Praktisch</h2>
+  <ul>
+    <li>Dinsdag 9 februari 2027. Inloop om 13 uur. Start programma 13:30</li>
+    <li>Op het provinciehuis Zuid-Holland (Zuid-Hollandplein 1, Den Haag)</li>
+    <li>Toegang is gratis, wel even aanmelden. De aanmeldlink volgt.</li>
+  </ul>
 
-  <!-- Pop-up -->
+  <h2 id="plattegronden">Plattegronden</h2>
+  <div class="floor-buttons">
+    <button onclick="showFloor(0)" class="active">Begane grond</button>
+    <button onclick="showFloor(1)">Eerste verdieping</button>
+  </div>
+  <div id="floor0" class="floor active"><img src="img/VergaderzalenC0.png" alt="Plattegrond begane grond" onclick="openFullscreen(this)"></div>
+  <div id="floor1" class="floor"><img src="img/VergaderzalenC1.png" alt="Plattegrond eerste verdieping" onclick="openFullscreen(this)"></div>
+
+  <!-- Pop-up per sessie -->
   <div id="overlay"></div>
-  <div class="popup" id="sessionPopup">
+  <div class="popup geel" id="sessionPopup" role="dialog" aria-modal="true" aria-labelledby="popupTitle">
+    <button class="close" onclick="closePopup()">Sluiten ✕</button>
     <h2 id="popupTitle"></h2>
     <div id="popupContent">
       <div class="popup-left">
-              <p id="popupTimeContainer"><strong>Tijd:</strong> <span id="popupTime"></span> <strong>Zaal:</strong>  <span id="popupRoom"></span></p>
-              <p id="popupRoomContainer"> </p>
-              <p id="popupSpeakerContainer"><strong>Spreker:</strong> <span id="popupSpeaker"></span></p>
-              <p id="popupDetails"></p>
-          </div>
+        <p id="popupTimeContainer"><strong>Tijd:</strong> <span id="popupTime"></span></p>
+        <p id="popupRoomContainer"><strong>Zaal:</strong> <span id="popupRoom"></span> (<a href="#plattegronden" onclick="closePopup()">plattegrond</a>)</p>
+        <p id="popupSpeakerContainer"><strong>Spreker:</strong> <span id="popupSpeaker"></span></p>
+        <p id="popupDetails"></p>
+      </div>
       <div class="popup-right">
         <p id="popupRechts"></p>
       </div>
-    </div>   
-    <span class="close" onclick="closePopup()">Sluiten</span>
+    </div>
+  </div>
+
+  <!-- Plattegrond schermvullend -->
+  <div id="mapFullscreen" class="fullscreen-overlay">
+    <button class="close-fullscreen" onclick="closeFullscreen()">Sluiten ✕</button>
+    <img id="mapFullscreenImg" src="" alt="Plattegrond schermvullend">
   </div>
 
   <script>
- if (getQueryParam('mode') === 'dark') {
-  document.body.classList.add('dark-mode');
-
-  document.addEventListener("DOMContentLoaded", function () {
-    const popup = document.getElementById("popup");
-    if (popup) {
-      popup.classList.add("dark-popup");
-    }
-  });
-
-  // Zorg dat de pop-up correct de class krijgt bij elke klik
-  document.addEventListener("click", function (event) {
-    const popup = document.getElementById("popup");
-    if (popup && popup.style.display === "block") {
-      popup.classList.add("dark-popup");
-    }
-  });
-}
-
-
-
     // Functie om de URL-parameter op te halen
     function getQueryParam(param) {
-      const urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get(param);
+      return new URLSearchParams(window.location.search).get(param);
+    }
+
+    if (getQueryParam('mode') === 'dark') {
+      document.body.classList.add('dark-mode');
     }
 
     function sortSessions(sessions) {
-  return sessions
-    .filter(session => session !== null) // Verwijder null-waardes vóór het sorteren
-    .sort((a, b) => {
-      if (!a || !b) return 0; // Extra check om fouten te voorkomen
+      const opZaal = getQueryParam('sort') === 'zaal';
+      return sessions
+        .filter(s => s)
+        .sort((a, b) => {
+          if (opZaal) {
+            const zaalA = a.zaal || "ZZZ"; // lege zaal naar onderen
+            const zaalB = b.zaal || "ZZZ";
+            if (zaalA !== zaalB) return zaalA.localeCompare(zaalB);
+          }
+          const tijdA = a.tijd || "99:99"; // lege tijd naar onderen
+          const tijdB = b.tijd || "99:99";
+          return tijdA.localeCompare(tijdB);
+        });
+    }
 
-      const sortParam = getQueryParam('sort');
-
-      if (sortParam === 'zaal') {
-        const zaalA = a.zaal || "ZZZ"; // Lege zaal naar onderen
-        const zaalB = b.zaal || "ZZZ";
-        if (zaalA !== zaalB) return zaalA.localeCompare(zaalB);
-
-        // Binnen dezelfde zaal, sorteer op tijd als string
-        const tijdA = a.tijd || "99:99"; 
-        const tijdB = b.tijd || "99:99";
-        return tijdA.localeCompare(tijdB);
-      }
-
-      // if (sortParam === 'tijd') 
-      else
-      {
-        const tijdA = a.tijd || "99:99"; // Laat lege tijden onderaan staan
-        const tijdB = b.tijd || "99:99";
-        return tijdA.localeCompare(tijdB);
-      }
-
-      return 0; // Geen sortering als geen geldige parameter is opgegeven
-    });
-}
-
-
-    // Functie om de tabel te genereren
+    // De pagina groeit mee met de data: zonder sessies een geel blok,
+    // tijd- en zaalkolom pas zodra minstens één sessie ze heeft.
     function generateTable() {
+      const sessions = sortSessions([...data.sessions]);
+      if (sessions.length === 0) {
+        document.getElementById('sessiesVolgen').hidden = false;
+        return;
+      }
+      document.getElementById('sessiesLijst').hidden = false;
+      document.getElementById('aantal').textContent = sessions.length;
+
+      const metTijd = sessions.some(s => s.tijd);
+      const metZaal = sessions.some(s => s.zaal);
+      document.querySelector('.kolTijd').hidden = !metTijd;
+      document.querySelector('.kolZaal').hidden = !metZaal;
+
       const tableBody = document.getElementById('sessionsTable');
-      const sortedSessions = sortSessions([...data.sessions]); // Kopie van array maken
-
-      sortedSessions.forEach((session) => {
-        if (session) {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-           <td>${session.tijd || ''}</td> 
-           <td>${session.title}</td>
-            <td>${session.spreker || ''}</td>
-
-           <td>${session.zaal || ''}</td>
-         `;
-
-          row.addEventListener('click', () => showPopup(session));
-          tableBody.appendChild(row);
-        }
+      sessions.forEach((session) => {
+        const meta = [session.tijd, session.zaal].filter(Boolean).join(' - ');
+        const row = document.createElement('tr');
+        row.innerHTML =
+          (metTijd ? `<td class="tijd extra">${session.tijd || ''}</td>` : '') +
+          `<td><div class="session-title">${session.title}</div><div class="session-meta">${meta}</div></td>` +
+          `<td class="spreker">${session.spreker || ''}</td>` +
+          (metZaal ? `<td class="extra">${session.zaal || ''}</td>` : '');
+        row.addEventListener('click', () => showPopup(session));
+        tableBody.appendChild(row);
       });
     }
 
     // Functie om de pop-up te tonen
     function showPopup(session) {
-      sessieHTML = parse(session.details)
-      if (session.rechts) { sessieHTMLrechts =   parse(session.rechts)} else {sessieHTMLrechts = ""}  
-
       document.getElementById('popupTitle').textContent = session.title;
-      document.getElementById('popupDetails').innerHTML = sessieHTML;
-      document.getElementById('popupRechts').innerHTML = sessieHTMLrechts;
+      document.getElementById('popupDetails').innerHTML = parse(session.details || '');
+      document.getElementById('popupRechts').innerHTML = session.rechts ? parse(session.rechts) : '';
 
       document.getElementById('popupTimeContainer').style.display = session.tijd ? 'block' : 'none';
       document.getElementById('popupTime').textContent = session.tijd || '';
@@ -384,38 +327,46 @@
       document.getElementById('overlay').style.display = 'block';
     }
 
-    // Functie om de pop-up te sluiten
     function closePopup() {
       document.getElementById('sessionPopup').style.display = 'none';
       document.getElementById('overlay').style.display = 'none';
     }
-
-    // Sluit pop-up bij klikken op de overlay
     document.getElementById('overlay').addEventListener('click', closePopup);
 
-    // Functie om verdieping te tonen
+    // Plattegronden
     function showFloor(floor) {
       document.querySelectorAll('.floor').forEach(f => f.classList.remove('active'));
       document.querySelectorAll('.floor-buttons button').forEach(b => b.classList.remove('active'));
       document.getElementById('floor' + floor).classList.add('active');
       document.querySelectorAll('.floor-buttons button')[floor].classList.add('active');
     }
-
-    // Wacht tot de JSON is ingeladen en genereer dan de tabel
-    window.onload = generateTable;
-    document.addEventListener("DOMContentLoaded", function () {
-  const sessionName = getQueryParam("s"); // Haal de sessienaam uit de URL
-
-  if (sessionName) {
-    console.log("Zoek de sessie in de JSON data")
-    // Zoek de sessie in de JSON data
-    const session = sessions.find(s => s && s.session === sessionName);
-
-    if (session) {
-      showPopup(session); // Open de pop-up als de sessie bestaat
+    function openFullscreen(img) {
+      document.getElementById('mapFullscreenImg').src = img.src;
+      document.getElementById('mapFullscreen').classList.add('active');
     }
-  }
-});
+    function closeFullscreen() {
+      document.getElementById('mapFullscreen').classList.remove('active');
+    }
+    document.getElementById('mapFullscreen').addEventListener('click', function (event) {
+      if (event.target.id === 'mapFullscreen') closeFullscreen();
+    });
+
+    // Esc sluit pop-up en plattegrond
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape') {
+        closePopup();
+        closeFullscreen();
+      }
+    });
+
+    generateTable();
+
+    // festival.html?s=3 opent meteen de pop-up van sessie 3
+    const sessionName = getQueryParam('s');
+    if (sessionName) {
+      const session = data.sessions.find(s => s && s.session === sessionName);
+      if (session) showPopup(session);
+    }
   </script>
 </body>
 </html>
