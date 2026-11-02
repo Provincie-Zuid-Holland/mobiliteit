@@ -7,7 +7,6 @@ header_alt: Festival Bereikbaar, dinsdag 9 februari 2027, provinciehuis Zuid-Hol
 menu: |
     <a href="/mobiliteit/festival.html">Festivalschema</a>
 ---
-# Informatie voor sprekers op het Festival Bereikbaar
 
 Wat fijn dat je een bijdrage wilt leveren aan het festival. Samen maken we er een inspirerende en leuke middag van! Op deze pagina geven we wat meer informatie voor sprekers. Voel je vrij ons te mailen, appen en bellen voor meer informatie of om even te overleggen!
 
