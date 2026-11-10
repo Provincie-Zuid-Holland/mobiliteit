@@ -109,7 +109,7 @@ We staan nog aan het begin van duurzame en/of circulaire infrastructuur. Overhed
 
 ## Verder lezen
 
-{% include leesmeer.html kop="Lees meer in het artikel" title="Top 25 duurzame aanbesteders: Zuid-Holland stijgt naar plek 3" tekst="De provincie deelt de derde plaats met Helmond (score 4,50), na plek 62 twee jaar geleden en plek 21 vorig jaar, dankzij sterkere duurzame gunningscriteria (Duurzaam Ondernemen, 2026)." url="https://www.duurzaam-ondernemen.nl/top-25-helmond-zuid-holland-en-universiteit-utrecht-stijgen-sterk/" image="/mobiliteit/kansen/img/eerdere/top25-duurzame-aanbesteders.jpg" %}
+{% include leesmeer.html kop="Lees meer in het artikel" title="Provincie Zuid-Holland sterkste stijger in Top 25 Duurzame Aanbesteders, naar derde plek" tekst="Na plek 62 twee jaar geleden en plek 21 vorig jaar deelt de provincie nu de derde plaats (score 4,50), dankzij sterkere duurzame gunningscriteria. Gedeputeerde Van Dijken nam de prijs in ontvangst van Bouwend Nederland (2026)." url="https://www.bouwendnederland.nl/nieuws/regio-randstad-zuid/provincie-zuid-holland-sterkste-stijger-in-top-25-duurzame-aanbesteders-naar-derde-plek" image="/mobiliteit/kansen/img/eerdere/top25-bouwend-nederland.jpg" %}
 
 {% include leesmeer.html kop="Lees meer in het artikel" title="Circulaire kunstwerken: dit is de richting die we opgaan" tekst="Rijkswaterstaat, ProRail, provincies, gemeenten en waterschappen kopen vanaf 2025 samen bruggen en viaducten circulair en klimaatneutraal in (Binnenlands Bestuur, 2024)." url="https://www.binnenlandsbestuur.nl/ruimte-en-milieu/duurzame-infra-en-seb/circulaire-kunstwerken-dit-is-de-richting-die-we-opgaan" image="/mobiliteit/kansen/img/eerdere/circulaire-kunstwerken.jpg" %}
 
