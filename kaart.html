@@ -8,8 +8,9 @@
     Zoeken op adres: PDOK Locatieserver (js/zoek.js)
     vak=stedelijkheid  tegelkaart nabijheidsklasse (oud: par=10); par=1…9 de scores uit de snelstudie (js/vakjes.js)
     haltes=1    OV-haltes aan (js/haltes.js)
-    kernen=1    kleine kernen (CBS-bevolkingskernen) aan; steden=1, buurtschappen=1 de andere groepen (js/kernen.js)
-    kernen=focus   vaste weergave voor het onderzoek naar kernen; wat erbij hoort staat in WEERGAVEN (js/basis.js)
+    kernen=1    kleine kernen (CBS-bevolkingskernen) aan; steden=1 de steden en grote kernen (js/kernen.js)
+    focus=kernen   vaste weergave voor het onderzoek naar kernen (oud: kernen=focus); wat erbij hoort staat in WEERGAVEN (js/basis.js)
+    focus=nabijheid  vaste weergave nabijheidsklasse met (voorgestelde) deelfietsplekken
     deelfiets=1 oranje deelfietsen, suggesties=1 suggesties (js/deelfietsen.js; oud: p=oranje, p=os)
     ov=0 / ov=1 laag uit/aan (zie js/lagen.js; zonder parameter de standaard)
     @=lat,lon,zoom
@@ -22,7 +23,7 @@
   <title>Kaart Zuid-Holland</title>
   <link rel="icon" href="img/favicon.png">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-  <link rel="stylesheet" href="css/kaart.css?v=6fe1381">
+  <link rel="stylesheet" href="css/kaart.css?v=969afae">
 </head>
 <body>
   <h1 class="vh">Kaart Zuid-Holland</h1>
@@ -69,14 +70,14 @@
   <p id="status" class="vh" role="status"></p>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="js/basis.js?v=6fe1381"></script>
-  <script src="js/lagen.js?v=6fe1381"></script>
-  <script src="js/haltes.js?v=6fe1381"></script>
-  <script src="js/deelfietsen.js?v=6fe1381"></script>
-  <script src="js/kernen.js?v=6fe1381"></script>
-  <script src="js/rd.js?v=6fe1381"></script>
-  <script src="js/vakjes.js?v=6fe1381"></script>
-  <script src="js/gemeenten.js?v=6fe1381"></script>
-  <script src="js/zoek.js?v=6fe1381"></script>
+  <script src="js/basis.js?v=969afae"></script>
+  <script src="js/lagen.js?v=969afae"></script>
+  <script src="js/haltes.js?v=969afae"></script>
+  <script src="js/deelfietsen.js?v=969afae"></script>
+  <script src="js/kernen.js?v=969afae"></script>
+  <script src="js/rd.js?v=969afae"></script>
+  <script src="js/vakjes.js?v=969afae"></script>
+  <script src="js/gemeenten.js?v=969afae"></script>
+  <script src="js/zoek.js?v=969afae"></script>
 </body>
 </html>

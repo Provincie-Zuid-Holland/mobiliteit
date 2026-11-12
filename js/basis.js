@@ -5,14 +5,17 @@ const START = { center: [51.95, 4.55], zoom: 10 };
 
 const url = new URLSearchParams(location.search);
 
-// Vaste weergaven: een korte link die we uitdelen en waarvan de inhoud later kan veranderen.
+// Vaste weergaven: een korte link (focus=…) die we uitdelen en waarvan de inhoud later kan veranderen.
 // Sleutel = parameter=waarde in de link, waarde = de instellingen die daar nu bij horen.
 // Wat verder nog in de link staat, gaat voor.
 const WEERGAVEN = {
-  'kernen=focus': 'kernen=1&ov=0',  // onderzoek naar kernen (2026)
+  'focus=kernen': 'kernen=1&ov=0',  // onderzoek naar kernen (2026)
+  'focus=nabijheid': 'vak=stedelijkheid&deelfiets=1&suggesties=1&ov=0',  // nabijheidsklasse met deelfietsen
 };
+const OUDE_WEERGAVEN = { 'kernen=focus': 'focus=kernen' };  // oude korte links → nieuwe naam
 for (const [sleutel, waarde] of [...url]) {
-  const weergave = WEERGAVEN[`${sleutel}=${waarde}`];
+  const naam = OUDE_WEERGAVEN[`${sleutel}=${waarde}`] || `${sleutel}=${waarde}`;
+  const weergave = WEERGAVEN[naam];
   if (!weergave) continue;
   url.delete(sleutel);
   for (const [k, v] of new URLSearchParams(weergave)) if (!url.has(k)) url.set(k, v);
@@ -113,7 +116,7 @@ function laad(pad) {
 }
 
 // URL bijwerken zonder te herladen, zodat de huidige weergave deelbaar is.
-// Alleen bij een echte wijziging: zo blijft een vaste weergave (kernen=focus) in de adresbalk staan
+// Alleen bij een echte wijziging: zo blijft een vaste weergave (focus=kernen) in de adresbalk staan
 // tot iemand zelf iets aan- of uitzet.
 function zetUrl(sleutel, waarde) {
   if ((url.get(sleutel) || null) === (waarde || null)) return;
