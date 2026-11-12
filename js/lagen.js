@@ -25,6 +25,7 @@ const LAGEN = [
 
 // Zet de lagen in het paneel en op de kaart
 function lagenPaneel(kaart) {
+  kaart.createPane('kernen').style.zIndex = 420;  // vlakken boven de gemeenten en tegels, onder de lijnen
   kaart.createPane('lijnen').style.zIndex = 450;
   kaart.createPane('haltes').style.zIndex = 460;  // stippen boven de lijnen
   const lijst = document.getElementById('lagen');

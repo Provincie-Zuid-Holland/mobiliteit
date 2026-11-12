@@ -5,6 +5,19 @@ const START = { center: [51.95, 4.55], zoom: 10 };
 
 const url = new URLSearchParams(location.search);
 
+// Vaste weergaven: een korte link die we uitdelen en waarvan de inhoud later kan veranderen.
+// Sleutel = parameter=waarde in de link, waarde = de instellingen die daar nu bij horen.
+// Wat verder nog in de link staat, gaat voor.
+const WEERGAVEN = {
+  'kernen=vitaal': 'kernen=1&ov=0',  // onderzoek vitale kernen (2026)
+};
+for (const [sleutel, waarde] of [...url]) {
+  const weergave = WEERGAVEN[`${sleutel}=${waarde}`];
+  if (!weergave) continue;
+  url.delete(sleutel);
+  for (const [k, v] of new URLSearchParams(weergave)) if (!url.has(k)) url.set(k, v);
+}
+
 function maakKaart() {
   const opties = { ...START, zoomSnap: 0.5 };
   const at = (url.get('@') || '').split(',').map(Number);
