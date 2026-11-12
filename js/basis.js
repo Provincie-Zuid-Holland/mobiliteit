@@ -9,7 +9,7 @@ const url = new URLSearchParams(location.search);
 // Sleutel = parameter=waarde in de link, waarde = de instellingen die daar nu bij horen.
 // Wat verder nog in de link staat, gaat voor.
 const WEERGAVEN = {
-  'kernen=vitaal': 'kernen=1&ov=0',  // onderzoek vitale kernen (2026)
+  'kernen=focus': 'kernen=1&ov=0',  // onderzoek naar kernen (2026)
 };
 for (const [sleutel, waarde] of [...url]) {
   const weergave = WEERGAVEN[`${sleutel}=${waarde}`];
@@ -112,8 +112,11 @@ function laad(pad) {
   });
 }
 
-// URL bijwerken zonder te herladen, zodat de huidige weergave deelbaar is
+// URL bijwerken zonder te herladen, zodat de huidige weergave deelbaar is.
+// Alleen bij een echte wijziging: zo blijft een vaste weergave (kernen=focus) in de adresbalk staan
+// tot iemand zelf iets aan- of uitzet.
 function zetUrl(sleutel, waarde) {
+  if ((url.get(sleutel) || null) === (waarde || null)) return;
   if (waarde) url.set(sleutel, waarde); else url.delete(sleutel);
   const q = url.toString();
   history.replaceState(null, '', q ? `?${q}` : location.pathname);
