@@ -11,6 +11,7 @@ const url = new URLSearchParams(location.search);
 const WEERGAVEN = {
   'focus=kernen': 'kernen=1&ov=0',  // onderzoek naar kernen (2026)
   'focus=nabijheid': 'vak=stedelijkheid&deelfiets=1&suggesties=1&ov=0',  // nabijheidsklasse met deelfietsen
+  'focus=nabijheidpergemeente': 'regio=n&ov=0',  // nabijheidsscore fiets per gemeente (Bereikbaarheid op Peil)
 };
 const OUDE_WEERGAVEN = { 'kernen=focus': 'focus=kernen' };  // oude korte links → nieuwe naam
 for (const [sleutel, waarde] of [...url]) {

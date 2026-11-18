@@ -68,11 +68,17 @@ a:hover { color: var(--link-hover); }
 }
 .leaflet-bar a.fullscreen { font-size: 16px; }
 .legenda.vlak-vol i { opacity: 0.7; border-color: rgba(0, 0, 0, 0.15); }
+.legenda.vlak-score i { opacity: 0.45; border-color: rgba(0, 0, 0, 0.2); }  /* iets voller dan de kaart (0,3), anders onleesbaar */
 .leaflet-popup-content .klein { margin: -4px 0 6px; font-size: 12px; color: var(--grijs); }
 .leaflet-popup-content .bron { margin: 6px 0 0; font-size: 12px; color: var(--grijs); }
 .legenda li.bron { display: block; margin-top: 4px; font-size: 12px; color: var(--grijs); }
 .leaflet-popup-content .tussenkop { margin: 8px 0 2px; font-weight: 500; }
 .leaflet-popup-content .details { margin: 0 0 6px; font-weight: 500; }
+.leaflet-popup-content table.score { border-collapse: collapse; margin: 0 0 6px; font-size: 13px; }
+.leaflet-popup-content table.score caption { text-align: left; font-size: 12px; color: var(--grijs); padding-bottom: 2px; }
+.leaflet-popup-content table.score th { text-align: left; font-weight: 400; padding: 1px 12px 1px 0; }
+.leaflet-popup-content table.score td { text-align: right; }
+.leaflet-popup-content .uitleg { margin: 0 0 6px; font-size: 12px; color: var(--grijs); }
 #lagen .vak-thema { display: block; margin: 4px 0 4px 24px; font: inherit; font-size: 13px; max-width: calc(100% - 24px); }
 
 /* toegankelijkheid: knoppen, focus, vizier, zoeken */

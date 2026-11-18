@@ -1,21 +1,29 @@
-// Gemeentekaart: gemeenten met grenzen (klik voor info), ingekleurd per regio óf per OV-concessie.
-// Staat geen van beide aan, dan zijn de gemeenten helemaal weg (geen grenzen, geen naam bij de muis).
-// URL: regio=gem (standaard), regio=c, regio=0 (geen gemeenten).
+// Gemeentekaart: gemeenten met grenzen (klik voor info), ingekleurd per regio, per OV-concessie óf naar nabijheidsscore.
+// Staat geen van drie aan, dan zijn de gemeenten helemaal weg (geen grenzen, geen naam bij de muis).
+// URL: regio=gem (standaard), regio=c, regio=n (nabijheidsscore), regio=0 (geen gemeenten).
 
 const kaart = maakKaart();
 paneelKnop();
 lagenPaneel(kaart);
 const metVakjes = vakjesPaneel(kaart);
 
-const KLEUREN = { gem: "Gemeenten en regio's", c: 'Gemeenten en OV-concessies' };
+const KLEUREN = { gem: "Gemeenten en regio's", c: 'Gemeenten en OV-concessies', n: 'Gemeenten met nabijheidsscore' };
+// Nabijheidsscore fiets (0–100), Bereikbaarheid op Peil; zelfde grenzen als in de Word-notitie
+const SCORE_KLASSEN = [
+  { vanaf: 90, kleur: '#9ecae1', naam: '90 of meer' },
+  { vanaf: 75, kleur: '#ffd966', naam: '75 tot 90' },
+  { vanaf: 0, kleur: '#f4a261', naam: 'minder dan 75' },
+];
+const SCORE_VULLING = 0.3;  // voller dan regio's (0,07) zodat de klassen te zien zijn, de kaart blijft leesbaar
 const VULLING = 0.07;  // zoals de oude kaart: net zichtbaar, de achtergrond blijft leesbaar
 // zonder regio-parameter: regio's aan, behalve bij een vakjeskaart (oude links als ?par=10)
-let kleurOp = { gem: 'gem', c: 'c', 0: null }[url.get('regio')] ?? (metVakjes ? null : 'gem');
-let indeling, laag, klikPunt, zetKleur, features = [];
+let kleurOp = { gem: 'gem', c: 'c', n: 'n', 0: null }[url.get('regio')] ?? (metVakjes ? null : 'gem');
+let indeling, nabijheid, laag, klikPunt, zetKleur, features = [];
 const lagen = {};  // GM-code → Leaflet-laag
 
-Promise.all([laad('data/gemeenten.geojson'), laad('data/indeling.json')]).then(([gemeenten, ind]) => {
+Promise.all([laad('data/gemeenten.geojson'), laad('data/indeling.json'), laad('data/nabijheid.json')]).then(([gemeenten, ind, nab]) => {
   indeling = ind;
+  nabijheid = nab;
   indeling.regio = Object.fromEntries(ind.regios.map(r => [r.regio, r]));
   indeling.concessie = Object.fromEntries(ind.concessies.map(c => [c.concessie, c]));
   features = gemeenten.features;
@@ -70,6 +78,11 @@ function infoOp(latlng, kop = '') {
 }
 
 function stijl(f) {
+  if (kleurOp === 'n') {
+    const s = nabijheid[f.properties.code];
+    const klasse = s && SCORE_KLASSEN.find(k => s.score >= k.vanaf);
+    return { color: '#000', weight: 1, opacity: 0.3, fillColor: klasse ? klasse.kleur : '#fff', fillOpacity: klasse ? SCORE_VULLING : 0 };
+  }
   const regio = indeling.regio[f.properties.regio] || {};
   const groep = kleurOp === 'c' ? indeling.concessie[regio.concessie] || {} : regio;
   return { color: '#000', weight: 1, opacity: 0.2, fillColor: groep.kleur || '#fff', fillOpacity: VULLING };
@@ -83,6 +96,7 @@ function popup(p) {
   const link = (href, tekst) => href ? `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(tekst)}</a>` : '';
   const slug = p.naam.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
   return `<h3>${esc(p.naam)} <span class="regio">(${esc(p.regio)})</span></h3>
+    ${kleurOp === 'n' ? scoreHtml(nabijheid[p.code]) : ''}
     <ul class="links">
       <li>${link(p.site, 'Website gemeente')}</li>
       <li>${link(`https://allecijfers.nl/verkiezingsuitslagen/gemeente-${slug}/`, 'Verkiezingsuitslag')}</li>
@@ -90,16 +104,28 @@ function popup(p) {
     </ul>`;
 }
 
-// Regio's en concessies als twee vinkjes bovenaan de lagen: hooguit één tegelijk, geen mag ook
+// Nabijheidsscore in de popup: het getal, en per onderdeel het aandeel inwoners binnen acceptabele fietsreistijd
+function scoreHtml(s) {
+  if (!s) return '<p>Geen nabijheidsscore.</p>';
+  const rij = (naam, v) => `<tr><th scope="row">${naam}</th><td>${v}%</td></tr>`;
+  return `<p><strong>Nabijheidsscore fiets: ${Math.round(s.score)} van 100</strong></p>
+    <table class="score"><caption>Inwoners met de voorziening binnen acceptabele fietsreistijd</caption>
+    ${rij('Basisschool', s.bo)}${rij('Middelbare school', s.vo)}${rij('Mbo, hbo, wo (gemiddeld)', s.vervolg)}
+    ${rij('Huisarts', s.huisarts)}${rij('Ziekenhuis met SEH', s.ziekenhuis)}${rij('Supermarkt', s.supermarkt)}</table>
+    <p class="uitleg">Score 90 = de gemiddelde inwoner heeft 90% van deze zes voorzieningen binnen een acceptabele fietsreistijd (KiM). Bron: Bereikbaarheid op Peil (IenW).</p>`;
+}
+
+// Regio's, concessies en nabijheidsscore als drie vinkjes bovenaan de lagen: hooguit één tegelijk, geen mag ook
 function kleurVinkjes() {
   const legenda = {
     gem: indeling.regios.map(r => ({ naam: r.regio, kleur: r.kleur, site: r.site })),
     c: indeling.concessies.map(c => ({ naam: c.concessie, kleur: c.kleur })),
+    n: SCORE_KLASSEN,
   };
   const items = Object.entries(KLEUREN).map(([waarde, naam]) => {
     const li = document.createElement('li');
     li.innerHTML = `<label><input type="checkbox" value="${waarde}"> ${naam}</label>
-      <ul class="legenda klein vlak">${legendaHtml(legenda[waarde])}</ul>`;
+      <ul class="legenda klein ${waarde === 'n' ? 'vlak-score' : 'vlak'}">${legendaHtml(legenda[waarde])}</ul>`;
     return li;
   });
   document.getElementById('lagen').prepend(...items);
