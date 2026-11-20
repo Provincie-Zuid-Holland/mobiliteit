@@ -122,6 +122,7 @@ var mapDonkeys = [
 { "titel":"Stolwijk Dorp", "latlon": [51.972424325, 4.7679993431]},
 { "titel":"Bio Science Park-Oost", "latlon": [52.16845709, 4.447622895]},
 { "titel":"Bio Science Park-West", "latlon": [52.16845709, 4.447622895]},
+ { "titel":"Lammenschans , Leiden", "latlon": [52.1470200953, 4.492661180828] },
 { "titel":"Valkenburg-Oost", "latlon": [52.173921056, 4.437756861]},
 { "titel":"Katwijk Duinvallei/N206", "latlon": [52.19252086424, 4.420188389156]},
 { "titel":"Katwijk, Gemeentehuis", "latlon": [52.200268753411, 4.413939047319]},
@@ -139,20 +140,21 @@ var mapDonkeys = [
 { "titel":"Leiden CS" , "latlon":[52.16658273, 4.4820674385]},
 { "titel":"Leimuiden busstation" , "latlon":[52.2246794766, 4.67657713914]},
 { "titel":"Woubrugge carpoolplein Herenweg" , "latlon":[52.16860075059, 4.667069218429]},
+ { "titel":"Bodegraven", "latlon": [52.0818418371, 4.74578999616]},
 { "titel":"Oude Wetering Meerkreuk" , "latlon":[52.2071447778, 4.6422120619]}
 ];
 
 
 
 var deelfietsSuggesties = [
-  { "titel":"Lammenschans , Leiden", "latlon": [52.1470200953, 4.492661180828] },
+ 
   { "titel":"Boskoop Snijdelwijk", "latlon": [52.06772783517, 4.64627375721]},
 
   { "titel":"Zoeterwoude, A4 P+R", "latlon": [52.1267069412, 4.49516044475]},
   { "titel":"Zoeterwoude, Dorp", "latlon": [52.1185295964, 4.49122021852]},
 //  { "titel":"Stompwijk", "latlon": [52.0929054820, 4.473831093431]},
   { "titel":"Nieuwerkerk a/d IJssel", "latlon": [51.9658532962, 4.61700452142]},
-  { "titel":"Bodegraven", "latlon": [52.0818418371, 4.74578999616]},
+ 
 
     { "titel":"Waterbus Alblasserdam", "latlon": [51.86246088, 4.6503087761]},
     { "titel":"Alblasserdam bushalte N915", "latlon": [51.855455566, 4.6678094428]},
